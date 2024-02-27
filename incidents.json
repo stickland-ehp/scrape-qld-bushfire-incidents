@@ -1,0 +1,76 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "QFESWarnings",
+	"crs" : {
+		"type" : "name",
+		"properties" : {
+			"name" : "EPSG:3857"
+		}
+	},
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 16883568.4621191993, -3358063.4271498402 ]
+			},
+			"properties" : {
+				"OBJECTID" : "22108",
+				"UniqueID" : "QF3-24-019785",
+				"WarningTitle" : "Information - SUNDOWN",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : "100",
+				"WarningArea" : "SUNDOWN",
+				"CurrentStatus" : "Going",
+				"Location" : "Path",
+				"Jurisdiction" : "3 South Western Region",
+				"Latitude" : -28.861764,
+				"Longitude" : 151.667676,
+				"VehiclesAssigned" : "0",
+				"VehiclesOnRoute" : "0",
+				"VehiclesOnScene" : "0",
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "SUNDOWN",
+				"ItemDateTimeUTM" : "20240219182700",
+				"ItemDateTimeLocal_ISO" : "2024-02-20T04:27:00+10:00",
+				"PublishDateLocal_ISO" : "2024-02-27T12:25:28+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-02-21T04:27:00+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 16876860.572242979, -3043875.7642155825 ]
+			},
+			"properties" : {
+				"OBJECTID" : "23845",
+				"UniqueID" : "QF4-24-022665",
+				"WarningTitle" : "Information - BALLOGIE",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : "100",
+				"WarningArea" : "BALLOGIE",
+				"CurrentStatus" : "Going",
+				"Location" : "Mclucas Rd",
+				"Jurisdiction" : "4 North Coast Region",
+				"Latitude" : -26.361115,
+				"Longitude" : 151.607418,
+				"VehiclesAssigned" : "0",
+				"VehiclesOnRoute" : "1",
+				"VehiclesOnScene" : "0",
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "BALLOGIE",
+				"ItemDateTimeUTM" : "20240226154728",
+				"ItemDateTimeLocal_ISO" : "2024-02-27T01:47:28+10:00",
+				"PublishDateLocal_ISO" : "2024-02-27T12:25:28+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-02-28T01:47:28+10:00"
+			}
+		}
+	]
+}
