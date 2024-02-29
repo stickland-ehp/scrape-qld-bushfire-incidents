@@ -1,18 +1,50 @@
 {
 	"type" : "FeatureCollection",
 	"name" : "QFESWarnings",
-	"crs" : {
-		"type" : "name",
-		"properties" : {
-			"name" : "EPSG:3857"
-		}
-	},
 	"features" : [
 		{
 			"type" : "Feature",
 			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 152.6697197145, -27.168809373, 0 ],
+						[ 152.666286487, -27.0863095209, 0 ],
+						[ 152.5289573854, -27.0832528025, 0 ],
+						[ 152.5371971315, -27.1706420115, 0 ],
+						[ 152.5371971315, -27.1710085766, 0 ],
+						[ 152.6697197145, -27.168809373, 0 ]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : "3747",
+				"UniqueID" : "IF39-3467021",
+				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Somerset Dam and Lake Somerset (near Esk) - fire as at 12:58pm Thursday, 29 February 2024",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
+				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Somerset Dam and Lake Somerset (near Esk) - fire as at 12:58pm Thursday, 29 February 2024 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Somerset Dam, Lake Somerset and surrounding areas\n\n\n \n\nSmoke is currently affecting Somerset Dam, Lake Somerset and surrounding areas. This is from a hazard reduction burn near Mount Byron. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFES Current Bushfires and Warnings website.\n\n- Follow QFES on Facebook and Twitter.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFES website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire and Emergency Services.\n\n",
+				"Header" : "Smoke is currently affecting Somerset Dam, Lake Somerset and surrounding areas. This is from a hazard reduction burn near Mount Byron. This fire is under control.",
+				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFES Current Bushfires and Warnings website.\n\n- Follow QFES on Facebook and Twitter.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFES website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire and Emergency Services.",
+				"WarningLevelSort" : "8",
+				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "Somerset Dam, Lake Somerset and surrounding areas",
+				"Latitude" : -27.132150285989,
+				"Longitude" : 152.60654832778,
+				"GroupedType" : "FIRE VEGETATION",
+				"ItemDateTimeUTM" : "20240229025700",
+				"ItemDateTimeLocal_ISO" : "2024-02-29T12:57:00+10:00",
+				"PublishDateLocal_ISO" : "2024-02-29T23:45:30+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-03-01T12:57:00+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16916842.4145147614, -3330605.9546587393 ]
+				"coordinates" : [ 151.966581, -28.645523 ]
 			},
 			"properties" : {
 				"OBJECTID" : "24136",
@@ -36,8 +68,72 @@
 				"Locality" : "STANTHORPE",
 				"ItemDateTimeUTM" : "20240227185954",
 				"ItemDateTimeLocal_ISO" : "2024-02-28T04:59:54+10:00",
-				"PublishDateLocal_ISO" : "2024-02-28T23:45:30+10:00",
+				"PublishDateLocal_ISO" : "2024-02-29T23:45:30+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-02-29T04:59:54+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 149.216592, -23.619394 ]
+			},
+			"properties" : {
+				"OBJECTID" : "24267",
+				"UniqueID" : "QF2-24-023335",
+				"WarningTitle" : "Information - DINGO",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : "100",
+				"WarningArea" : "DINGO",
+				"CurrentStatus" : "Going",
+				"Location" : "Charlevue Rd",
+				"Jurisdiction" : "2 Central Region",
+				"Latitude" : -23.619394,
+				"Longitude" : 149.216592,
+				"VehiclesAssigned" : "0",
+				"VehiclesOnRoute" : "0",
+				"VehiclesOnScene" : "0",
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "DINGO",
+				"ItemDateTimeUTM" : "20240228111921",
+				"ItemDateTimeLocal_ISO" : "2024-02-28T21:19:21+10:00",
+				"PublishDateLocal_ISO" : "2024-02-29T23:45:30+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-02-29T21:19:21+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 150.480774, -27.173738 ]
+			},
+			"properties" : {
+				"OBJECTID" : "24372",
+				"UniqueID" : "QF3-24-019042",
+				"WarningTitle" : "Information - TARA",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : "100",
+				"WarningArea" : "TARA",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "MALES RD",
+				"Jurisdiction" : "3 South Western Region",
+				"Latitude" : -27.173738,
+				"Longitude" : 150.480774,
+				"VehiclesAssigned" : "0",
+				"VehiclesOnRoute" : "0",
+				"VehiclesOnScene" : "0",
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "TARA",
+				"ItemDateTimeUTM" : "20240217125531.197",
+				"ItemDateTimeLocal_ISO" : "2024-02-17T22:55:31+10:00",
+				"PublishDateLocal_ISO" : "2024-02-29T23:45:30+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-02-18T22:55:31.197+10:00"
 			}
 		}
 	]
