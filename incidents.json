@@ -36,7 +36,7 @@
 				"Locality" : "DINGO",
 				"ItemDateTimeUTM" : "20240228111921",
 				"ItemDateTimeLocal_ISO" : "2024-02-28T21:19:21+10:00",
-				"PublishDateLocal_ISO" : "2024-03-05T09:25:29+10:00",
+				"PublishDateLocal_ISO" : "2024-03-05T20:05:23+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-02-29T21:19:21+10:00"
 			}
 		},
@@ -63,12 +63,12 @@
 				"Longitude" : 148.7076,
 				"VehiclesAssigned" : "0",
 				"VehiclesOnRoute" : "0",
-				"VehiclesOnScene" : "3",
+				"VehiclesOnScene" : "2",
 				"GroupedType" : "FIRE VEGETATION",
 				"Locality" : "BALLAROO",
 				"ItemDateTimeUTM" : "20240301213702",
 				"ItemDateTimeLocal_ISO" : "2024-03-02T07:37:02+10:00",
-				"PublishDateLocal_ISO" : "2024-03-05T09:25:29+10:00",
+				"PublishDateLocal_ISO" : "2024-03-05T20:05:23+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-03-03T07:37:02+10:00"
 			}
 		},
@@ -76,32 +76,32 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16189813.5956294965, -1972663.9709700432 ]
+				"coordinates" : [ 16291276.1907909904, -2629108.2794958255 ]
 			},
 			"properties" : {
-				"OBJECTID" : "25542",
-				"UniqueID" : "QF7-24-025526",
-				"WarningTitle" : "Information - WONDECLA",
+				"OBJECTID" : "25599",
+				"UniqueID" : "QF2-24-025598",
+				"WarningTitle" : "Information - ",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : "100",
-				"WarningArea" : "WONDECLA",
+				"WarningArea" : null,
 				"CurrentStatus" : "Going",
-				"Location" : "Longlands Gap Rd",
-				"Jurisdiction" : "7 Far Northern Region",
-				"Latitude" : -17.444796,
-				"Longitude" : 145.43557,
-				"VehiclesAssigned" : "1",
+				"Location" : "Unknown",
+				"Jurisdiction" : "2 Central Region",
+				"Latitude" : -22.975932,
+				"Longitude" : 146.347024,
+				"VehiclesAssigned" : "0",
 				"VehiclesOnRoute" : "0",
-				"VehiclesOnScene" : "0",
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "WONDECLA",
-				"ItemDateTimeUTM" : "20240304131325",
-				"ItemDateTimeLocal_ISO" : "2024-03-04T23:13:25+10:00",
-				"PublishDateLocal_ISO" : "2024-03-05T09:25:29+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-03-05T23:13:25+10:00"
+				"VehiclesOnScene" : "1",
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : null,
+				"ItemDateTimeUTM" : "20240304174530.803",
+				"ItemDateTimeLocal_ISO" : "2024-03-05T03:45:30+10:00",
+				"PublishDateLocal_ISO" : "2024-03-05T20:05:23+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-03-06T03:45:30.803+10:00"
 			}
 		}
 	]
