@@ -15,7 +15,7 @@
 				"coordinates" : [ 16610715.0393476579, -2707097.7206720267 ]
 			},
 			"properties" : {
-				"OBJECTID" : "24609",
+				"OBJECTID" : "25810",
 				"UniqueID" : "QF2-24-023335",
 				"WarningTitle" : "Information - DINGO",
 				"WarningLevel" : "Information",
@@ -36,40 +36,8 @@
 				"Locality" : "DINGO",
 				"ItemDateTimeUTM" : "20240228111921",
 				"ItemDateTimeLocal_ISO" : "2024-02-28T21:19:21+10:00",
-				"PublishDateLocal_ISO" : "2024-03-05T23:45:30+10:00",
+				"PublishDateLocal_ISO" : "2024-03-06T23:50:25+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-02-29T21:19:21+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 16554054.3090898097, -3150924.1186620658 ]
-			},
-			"properties" : {
-				"OBJECTID" : "25332",
-				"UniqueID" : "QF3-24-024556",
-				"WarningTitle" : "Information - BALLAROO",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : "100",
-				"WarningArea" : "BALLAROO",
-				"CurrentStatus" : "Going",
-				"Location" : "MARANOA RD",
-				"Jurisdiction" : "3 South Western Region",
-				"Latitude" : -27.219515,
-				"Longitude" : 148.7076,
-				"VehiclesAssigned" : "0",
-				"VehiclesOnRoute" : "0",
-				"VehiclesOnScene" : "2",
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "BALLAROO",
-				"ItemDateTimeUTM" : "20240301213702",
-				"ItemDateTimeLocal_ISO" : "2024-03-02T07:37:02+10:00",
-				"PublishDateLocal_ISO" : "2024-03-05T23:45:30+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-03-03T07:37:02+10:00"
 			}
 		},
 		{
@@ -79,7 +47,7 @@
 				"coordinates" : [ 16291276.1907909904, -2629108.2794958255 ]
 			},
 			"properties" : {
-				"OBJECTID" : "25599",
+				"OBJECTID" : "25815",
 				"UniqueID" : "QF2-24-025598",
 				"WarningTitle" : "Information - ",
 				"WarningLevel" : "Information",
@@ -100,8 +68,72 @@
 				"Locality" : null,
 				"ItemDateTimeUTM" : "20240304174530.803",
 				"ItemDateTimeLocal_ISO" : "2024-03-05T03:45:30+10:00",
-				"PublishDateLocal_ISO" : "2024-03-05T23:45:30+10:00",
+				"PublishDateLocal_ISO" : "2024-03-06T23:50:25+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-03-06T03:45:30.803+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 16798019.2108055837, -3133034.6689180005 ]
+			},
+			"properties" : {
+				"OBJECTID" : "25891",
+				"UniqueID" : "QF3-24-026011",
+				"WarningTitle" : "Information - KOGAN",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : "100",
+				"WarningArea" : "KOGAN",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Dalby Kogan Rd & Grahams Rd",
+				"Jurisdiction" : "3 South Western Region",
+				"Latitude" : -27.076516,
+				"Longitude" : 150.899174,
+				"VehiclesAssigned" : "0",
+				"VehiclesOnRoute" : "0",
+				"VehiclesOnScene" : "0",
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "KOGAN",
+				"ItemDateTimeUTM" : "20240305205007",
+				"ItemDateTimeLocal_ISO" : "2024-03-06T06:50:07+10:00",
+				"PublishDateLocal_ISO" : "2024-03-06T23:50:25+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-03-07T06:50:07+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 17030213.9688013196, -3160548.9367041588 ]
+			},
+			"properties" : {
+				"OBJECTID" : "25965",
+				"UniqueID" : "QF5N-24-026108",
+				"WarningTitle" : "Information - BRAY PARK",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : "100",
+				"WarningArea" : "BRAY PARK",
+				"CurrentStatus" : "Going",
+				"Location" : "Sovereign Ave",
+				"Jurisdiction" : "5N Brisbane Region (North)",
+				"Latitude" : -27.296375,
+				"Longitude" : 152.985015,
+				"VehiclesAssigned" : "1",
+				"VehiclesOnRoute" : "0",
+				"VehiclesOnScene" : "0",
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "BRAY PARK",
+				"ItemDateTimeUTM" : "20240306034332",
+				"ItemDateTimeLocal_ISO" : "2024-03-06T13:43:32+10:00",
+				"PublishDateLocal_ISO" : "2024-03-06T23:50:25+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-03-07T13:43:32+10:00"
 			}
 		}
 	]
