@@ -12,64 +12,32 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16887071.5751749687, -3127293.8355319668 ]
+				"coordinates" : [ 16460349.2352832276, -2321334.8750385242 ]
 			},
 			"properties" : {
-				"OBJECTID" : "28208",
-				"UniqueID" : "QF3-24-029298",
-				"WarningTitle" : "Information - MACLAGAN",
+				"OBJECTID" : "28735",
+				"UniqueID" : "QF1-24-030423",
+				"WarningTitle" : "Information - BOGIE",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : "100",
-				"WarningArea" : "MACLAGAN",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "North Maclagan Rd",
-				"Jurisdiction" : "3 South Western Region",
-				"Latitude" : -27.030588,
-				"Longitude" : 151.699145,
+				"WarningArea" : "BOGIE",
+				"CurrentStatus" : "Going",
+				"Location" : "Peter Delemothe Rd",
+				"Jurisdiction" : "1 Northern Region",
+				"Latitude" : -20.407222,
+				"Longitude" : 147.865833,
 				"VehiclesAssigned" : "0",
-				"VehiclesOnRoute" : "0",
+				"VehiclesOnRoute" : "1",
 				"VehiclesOnScene" : "0",
 				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "MACLAGAN",
-				"ItemDateTimeUTM" : "20240314231047",
-				"ItemDateTimeLocal_ISO" : "2024-03-15T09:10:47+10:00",
-				"PublishDateLocal_ISO" : "2024-03-17T23:45:29+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-03-16T09:10:47+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 16912951.9096310288, -3258782.2241240195 ]
-			},
-			"properties" : {
-				"OBJECTID" : "28449",
-				"UniqueID" : "QF3-24-029959",
-				"WarningTitle" : "Information - DEUCHAR",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : "100",
-				"WarningArea" : "DEUCHAR",
-				"CurrentStatus" : "Going",
-				"Location" : "Hendon Deuchar Rd",
-				"Jurisdiction" : "3 South Western Region",
-				"Latitude" : -28.077769,
-				"Longitude" : 151.931632,
-				"VehiclesAssigned" : "0",
-				"VehiclesOnRoute" : "0",
-				"VehiclesOnScene" : "0",
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "DEUCHAR",
-				"ItemDateTimeUTM" : "20240316180810",
-				"ItemDateTimeLocal_ISO" : "2024-03-17T04:08:10+10:00",
-				"PublishDateLocal_ISO" : "2024-03-17T23:45:29+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-03-18T04:08:10+10:00"
+				"Locality" : "BOGIE",
+				"ItemDateTimeUTM" : "20240317231810",
+				"ItemDateTimeLocal_ISO" : "2024-03-18T09:18:10+10:00",
+				"PublishDateLocal_ISO" : "2024-03-18T23:50:27+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-03-19T09:18:10+10:00"
 			}
 		}
 	]
