@@ -1,43 +1,158 @@
 {
 	"type" : "FeatureCollection",
 	"name" : "QFESWarnings",
-	"crs" : {
-		"type" : "name",
-		"properties" : {
-			"name" : "EPSG:3857"
-		}
-	},
 	"features" : [
 		{
 			"type" : "Feature",
 			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 16460349.2352832276, -2321334.8750385242 ]
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 151.2720762938, -23.8940140389, 0 ],
+						[ 151.2737607211, -23.8978885258, 0 ],
+						[ 151.2731920928, -23.9013510288, 0 ],
+						[ 151.2733315676, -23.9044898502, 0 ],
+						[ 151.2743186205, -23.9062014857, 0 ],
+						[ 151.274157688, -23.9077856116, 0 ],
+						[ 151.2742113322, -23.9078346531, 0 ],
+						[ 151.274222061, -23.9079229276, 0 ],
+						[ 151.2816464156, -23.9082171757, 0 ],
+						[ 151.2843178958, -23.9065569944, 0 ],
+						[ 151.2842642516, -23.904033674, 0 ],
+						[ 151.282011196, -23.8992616558, 0 ],
+						[ 151.280573532, -23.8968364012, 0 ],
+						[ 151.2787067145, -23.8957059436, 0 ],
+						[ 151.2770866603, -23.8937711432, 0 ],
+						[ 151.2764107436, -23.8914047295, 0 ],
+						[ 151.2720762938, -23.8940140389, 0 ]
+					]
+				]
 			},
 			"properties" : {
-				"OBJECTID" : "28735",
-				"UniqueID" : "QF1-24-030423",
-				"WarningTitle" : "Information - BOGIE",
+				"OBJECTID" : "3754",
+				"UniqueID" : "IF39-3472421",
+				"WarningTitle" : "STAY INFORMED - Glen Eden (Gladstone) - fire as at  1:35pm Tuesday, 19 March 2024",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "STAY INFORMED",
+				"WarningText" : "\nSTAY INFORMED - Glen Eden (Gladstone) - fire as at  1:35pm Tuesday, 19 March 2024 \n\n \n\n\nWarning level: ADVICE\n\n\n \n\n\nWarning area: Glen Eden\n\n\n \n\nA fire is burning near Glen Eden Drive. It is moving towards Glen Eden Drive. ‎\n\n \n\n‎\n\n\n \n\nWhat you should do:\n\n- Stay informed because conditions could change:\n\n- Check the QFES Current Bushfires and Warnings website regularly.\n\n- Follow QFES on Facebook and Twitter.\n\n- Listen to your local radio station.\n\n- Tell friends, family and neighbours in the area.\n\n- Decide what you will do if the bushfire gets closer.\n\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan. Make one on the QFES website.\n\n- Decide where you and the people you live with will go. This could be with family or a friend away from the fire.\n\n- Keep medications close by.\n\n- Avoid smoke – stay indoors, close windows and doors, and avoid driving through smoke.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n- If your life is in danger, call Triple Zero (000) immediately.\n\n\n\n \n\nImpacts:\n\n- No properties are at risk.\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- Some roads may be closed.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFES Current Bushfires and Warnings website.\n\n- Follow QFES on Facebook and Twitter.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFES website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued as the situation changes.\n\n \n\nThis warning is from Queensland Fire and Emergency Services.\n\n",
+				"Header" : "A fire is burning near Glen Eden Drive. It is moving towards Glen Eden Drive. ‎\r\n\r\n‎",
+				"Impacts" : "- No properties are at risk.\r\n\r\n- Smoke can make it hard for some people to breathe.\r\n\r\n- Smoke can make it hard to see when you are driving.\r\n\r\n- Some roads may be closed.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFES Current Bushfires and Warnings website.\n\n- Follow QFES on Facebook and Twitter.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFES website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued as the situation changes.\r\n\r\nThis warning is from Queensland Fire and Emergency Services.",
+				"WarningLevelSort" : "5",
+				"ShouldDo" : "- Stay informed because conditions could change:\r\n\r\n- Check the QFES Current Bushfires and Warnings website regularly.\r\n\r\n- Follow QFES on Facebook and Twitter.\r\n\r\n- Listen to your local radio station.\r\n\r\n- Tell friends, family and neighbours in the area.\r\n\r\n- Decide what you will do if the bushfire gets closer:\r\n\r\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan. Make one on the QFES website.\r\n\r\n- Decide where you and the people you live with will go. This could be with family or a friend away from the fire.\r\n\r\n- Keep medications close by.\r\n\r\n- Avoid smoke - stay indoors, close windows and doors, and avoid driving through smoke.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.\r\n\r\n- If your life is in danger, call Triple Zero (000) immediately.",
+				"WarningArea" : "Glen Eden",
+				"Master_Incident_Number" : "QF2-24-030617",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "GLEN EDEN DR & VICTORIA AVE",
+				"Jurisdiction" : "2 Central Region",
+				"Latitude" : -23.901233507829,
+				"Longitude" : 151.27825140952,
+				"VehiclesAssigned" : "0",
+				"VehiclesOnRoute" : "0",
+				"VehiclesOnScene" : "0",
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "GLEN EDEN",
+				"ItemDateTimeUTM" : "20240319033200",
+				"ItemDateTimeLocal_ISO" : "2024-03-19T13:32:00+10:00",
+				"PublishDateLocal_ISO" : "2024-03-19T23:45:32+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-03-20T13:32:00+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 149.398304, -22.819632 ]
+			},
+			"properties" : {
+				"OBJECTID" : "28860",
+				"UniqueID" : "QF2-24-030600",
+				"WarningTitle" : "Information - CLARKE CREEK",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : "100",
-				"WarningArea" : "BOGIE",
-				"CurrentStatus" : "Going",
-				"Location" : "Peter Delemothe Rd",
-				"Jurisdiction" : "1 Northern Region",
-				"Latitude" : -20.407222,
-				"Longitude" : 147.865833,
+				"WarningArea" : "CLARKE CREEK",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "MARLBOROUGH SARINA RD & MANLY ACCESS RD",
+				"Jurisdiction" : "2 Central Region",
+				"Latitude" : -22.819632,
+				"Longitude" : 149.398304,
 				"VehiclesAssigned" : "0",
-				"VehiclesOnRoute" : "1",
+				"VehiclesOnRoute" : "0",
 				"VehiclesOnScene" : "0",
 				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "BOGIE",
-				"ItemDateTimeUTM" : "20240317231810",
-				"ItemDateTimeLocal_ISO" : "2024-03-18T09:18:10+10:00",
-				"PublishDateLocal_ISO" : "2024-03-18T23:50:27+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-03-19T09:18:10+10:00"
+				"Locality" : "CLARKE CREEK",
+				"ItemDateTimeUTM" : "20240318150742",
+				"ItemDateTimeLocal_ISO" : "2024-03-19T01:07:42+10:00",
+				"PublishDateLocal_ISO" : "2024-03-19T23:45:32+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-03-20T01:07:42+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 151.2135, -28.452266 ]
+			},
+			"properties" : {
+				"OBJECTID" : "28867",
+				"UniqueID" : "QF3-24-030608",
+				"WarningTitle" : "Information - COOLMUNDA",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : "100",
+				"WarningArea" : "COOLMUNDA",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Tobacco Rd & Coolmunda Accs",
+				"Jurisdiction" : "3 South Western Region",
+				"Latitude" : -28.452266,
+				"Longitude" : 151.2135,
+				"VehiclesAssigned" : "0",
+				"VehiclesOnRoute" : "0",
+				"VehiclesOnScene" : "0",
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "COOLMUNDA",
+				"ItemDateTimeUTM" : "20240318153830",
+				"ItemDateTimeLocal_ISO" : "2024-03-19T01:38:30+10:00",
+				"PublishDateLocal_ISO" : "2024-03-19T23:45:32+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-03-20T01:38:30+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 149.47722, -23.521818 ]
+			},
+			"properties" : {
+				"OBJECTID" : "28998",
+				"UniqueID" : "QF2-24-030847",
+				"WarningTitle" : "Information - GOOWARRA",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : "100",
+				"WarningArea" : "GOOWARRA",
+				"CurrentStatus" : "Going",
+				"Location" : "SPRINGTON RD & MOURINDILLA RD",
+				"Jurisdiction" : "2 Central Region",
+				"Latitude" : -23.521818,
+				"Longitude" : 149.47722,
+				"VehiclesAssigned" : "0",
+				"VehiclesOnRoute" : "0",
+				"VehiclesOnScene" : "0",
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "GOOWARRA",
+				"ItemDateTimeUTM" : "20240319015337.777",
+				"ItemDateTimeLocal_ISO" : "2024-03-19T11:53:37+10:00",
+				"PublishDateLocal_ISO" : "2024-03-19T23:45:32+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-03-20T11:53:37.777+10:00"
 			}
 		}
 	]
