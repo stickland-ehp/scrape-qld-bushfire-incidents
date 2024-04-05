@@ -1,76 +1,43 @@
 {
 	"type" : "FeatureCollection",
 	"name" : "QFESWarnings",
+	"crs" : {
+		"type" : "name",
+		"properties" : {
+			"name" : "EPSG:3857"
+		}
+	},
 	"features" : [
 		{
 			"type" : "Feature",
 			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 150.6382656097, -23.3335869114, 0 ],
-						[ 150.6394672394, -23.300797503, 0 ],
-						[ 150.4663428446, -23.3681016291, 0 ],
-						[ 150.4780158182, -23.4062307342, 0 ],
-						[ 150.5897673746, -23.384173912, 0 ],
-						[ 150.6343993326, -23.3454080307, 0 ],
-						[ 150.6382656097, -23.3335869114, 0 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : "3758",
-				"UniqueID" : "IF39-3474021",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Mount Archer (Rockhampton) - fire as at  2:19pm Wednesday,  3 April 2024",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
-				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Mount Archer (Rockhampton) - fire as at  2:19pm Wednesday,  3 April 2024 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Mount Archer including Rockhampton\n\n\n \n\nSmoke is currently affecting Mount Archer including Rockhampton. This is from a hazard reduction burn near New Zealand Gully Road. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFES Current Bushfires and Warnings website.\n\n- Follow QFES on Facebook and Twitter.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFES website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire and Emergency Services.\n\n",
-				"Header" : "Smoke is currently affecting Mount Archer including Rockhampton. This is from a hazard reduction burn near New Zealand Gully Road. This fire is under control.",
-				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all warnings, visit the QFES Current Bushfires and Warnings website.\n\n- Follow QFES on Facebook and Twitter.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFES website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire and Emergency Services.",
-				"WarningLevelSort" : "8",
-				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "Mount Archer including Rockhampton",
-				"Latitude" : -23.361798241136,
-				"Longitude" : 150.55371848547,
-				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20240403041900",
-				"ItemDateTimeLocal_ISO" : "2024-04-03T14:19:00+10:00",
-				"PublishDateLocal_ISO" : "2024-04-03T23:45:29+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-04-04T14:19:00+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 151.012586, -27.970992 ]
+				"coordinates" : [ 17049285.2239640243, -3201266.6349745784 ]
 			},
 			"properties" : {
-				"OBJECTID" : "32891",
-				"UniqueID" : "QF3-24-036606",
-				"WarningTitle" : "Information - CYPRESS GARDENS",
+				"OBJECTID" : "33371",
+				"UniqueID" : "QF6-24-037287",
+				"WarningTitle" : "Information - DAISY HILL",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : "100",
-				"WarningArea" : "CYPRESS GARDENS",
+				"WarningArea" : "DAISY HILL",
 				"CurrentStatus" : "Going",
-				"Location" : "Koala Dr",
-				"Jurisdiction" : "3 South Western Region",
-				"Latitude" : -27.970992,
-				"Longitude" : 151.012586,
+				"Location" : "The Ring Road",
+				"Jurisdiction" : "6 South Eastern Region",
+				"Latitude" : -27.620941,
+				"Longitude" : 153.156335,
 				"VehiclesAssigned" : "0",
 				"VehiclesOnRoute" : "0",
 				"VehiclesOnScene" : "1",
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "CYPRESS GARDENS",
-				"ItemDateTimeUTM" : "20240403000033",
-				"ItemDateTimeLocal_ISO" : "2024-04-03T10:00:33+10:00",
-				"PublishDateLocal_ISO" : "2024-04-03T23:45:29+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-04-04T10:00:33+10:00"
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "DAISY HILL",
+				"ItemDateTimeUTM" : "20240405001651",
+				"ItemDateTimeLocal_ISO" : "2024-04-05T10:16:51+10:00",
+				"PublishDateLocal_ISO" : "2024-04-05T20:45:25+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-04-06T10:16:51+10:00"
 			}
 		}
 	]
