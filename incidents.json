@@ -12,32 +12,64 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16876504.5725114197, -3019532.5338081494 ]
+				"coordinates" : [ 15978098.6183134727, -2157540.2420744002 ]
 			},
 			"properties" : {
-				"OBJECTID" : "34090",
-				"UniqueID" : "QF4-24-038437",
-				"WarningTitle" : "Information - PROSTON",
+				"OBJECTID" : "34243",
+				"UniqueID" : "QF7-24-038661",
+				"WarningTitle" : "Information - GILBERTON",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : "100",
-				"WarningArea" : "PROSTON",
+				"WarningArea" : "GILBERTON",
 				"CurrentStatus" : "Going",
-				"Location" : "Beresford St",
-				"Jurisdiction" : "4 North Coast Region",
-				"Latitude" : -26.16501,
-				"Longitude" : 151.60422,
+				"Location" : "Rungulla Rd",
+				"Jurisdiction" : "7 Far Northern Region",
+				"Latitude" : -19.022119,
+				"Longitude" : 143.533702,
+				"VehiclesAssigned" : "0",
+				"VehiclesOnRoute" : "0",
+				"VehiclesOnScene" : "0",
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "GILBERTON",
+				"ItemDateTimeUTM" : "20240408145519",
+				"ItemDateTimeLocal_ISO" : "2024-04-09T00:55:19+10:00",
+				"PublishDateLocal_ISO" : "2024-04-09T23:45:26+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-04-10T00:55:19+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 16040388.6639012489, -2097686.4825334451 ]
+			},
+			"properties" : {
+				"OBJECTID" : "34246",
+				"UniqueID" : "QF7-24-038665",
+				"WarningTitle" : "Information - EINASLEIGH",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : "100",
+				"WarningArea" : "EINASLEIGH",
+				"CurrentStatus" : "Going",
+				"Location" : "Einasleigh Forsayth Rd",
+				"Jurisdiction" : "7 Far Northern Region",
+				"Latitude" : -18.513033,
+				"Longitude" : 144.093263,
 				"VehiclesAssigned" : "0",
 				"VehiclesOnRoute" : "0",
 				"VehiclesOnScene" : "1",
 				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "PROSTON",
-				"ItemDateTimeUTM" : "20240407221236",
-				"ItemDateTimeLocal_ISO" : "2024-04-08T08:12:36+10:00",
-				"PublishDateLocal_ISO" : "2024-04-08T21:35:25+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-04-09T08:12:36+10:00"
+				"Locality" : "EINASLEIGH",
+				"ItemDateTimeUTM" : "20240408145829",
+				"ItemDateTimeLocal_ISO" : "2024-04-09T00:58:29+10:00",
+				"PublishDateLocal_ISO" : "2024-04-09T23:45:27+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-04-10T00:58:29+10:00"
 			}
 		}
 	]
