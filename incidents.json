@@ -1,18 +1,51 @@
 {
 	"type" : "FeatureCollection",
 	"name" : "QFESWarnings",
-	"crs" : {
-		"type" : "name",
-		"properties" : {
-			"name" : "EPSG:3857"
-		}
-	},
 	"features" : [
 		{
 			"type" : "Feature",
 			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 153.00573349, -27.0238070483, 0 ],
+						[ 153.0064201355, -27.0277828723, 0 ],
+						[ 153.0640983582, -27.1127706311, 0 ],
+						[ 153.0879592895, -27.0937397445, 0 ],
+						[ 153.1090736389, -27.0740976686, 0 ],
+						[ 153.0987739563, -27.0294649093, 0 ],
+						[ 153.00573349, -27.0238070483, 0 ]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : "3760",
+				"UniqueID" : "IF39-3474721",
+				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Ningi (near Bribie Island) - fire as at  1:42pm Wednesday, 10 April 2024",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
+				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Ningi (near Bribie Island) - fire as at  1:42pm Wednesday, 10 April 2024 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Ningi, Toorbul and surrounding areas\n\n\n \n\nSmoke is currently affecting Ningi, Toorbul and surrounding areas. This is from a hazard reduction burn near Beerburrum East State Forest. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFES Current Bushfires and Warnings website.\n\n- Follow QFES on Facebook and Twitter.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFES website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire and Emergency Services.\n\n",
+				"Header" : "Smoke is currently affecting Ningi, Toorbul and surrounding areas. This is from a hazard reduction burn near Beerburrum East State Forest. This fire is under control.",
+				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFES Current Bushfires and Warnings website.\n\n- Follow QFES on Facebook and Twitter.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFES website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire and Emergency Services.",
+				"WarningLevelSort" : "8",
+				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "Ningi, Toorbul and surrounding areas",
+				"Latitude" : -27.056068324633,
+				"Longitude" : 153.05671691894,
+				"GroupedType" : "FIRE VEGETATION",
+				"ItemDateTimeUTM" : "20240410034100",
+				"ItemDateTimeLocal_ISO" : "2024-04-10T13:41:00+10:00",
+				"PublishDateLocal_ISO" : "2024-04-10T23:45:26+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-04-11T13:41:00+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 15978098.6183134727, -2157540.2420744002 ]
+				"coordinates" : [ 143.533702, -19.022119 ]
 			},
 			"properties" : {
 				"OBJECTID" : "34243",
@@ -36,7 +69,7 @@
 				"Locality" : "GILBERTON",
 				"ItemDateTimeUTM" : "20240408145519",
 				"ItemDateTimeLocal_ISO" : "2024-04-09T00:55:19+10:00",
-				"PublishDateLocal_ISO" : "2024-04-09T23:45:26+10:00",
+				"PublishDateLocal_ISO" : "2024-04-10T23:45:26+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-04-10T00:55:19+10:00"
 			}
 		},
@@ -44,7 +77,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16040388.6639012489, -2097686.4825334451 ]
+				"coordinates" : [ 144.093263, -18.513033 ]
 			},
 			"properties" : {
 				"OBJECTID" : "34246",
@@ -68,8 +101,72 @@
 				"Locality" : "EINASLEIGH",
 				"ItemDateTimeUTM" : "20240408145829",
 				"ItemDateTimeLocal_ISO" : "2024-04-09T00:58:29+10:00",
-				"PublishDateLocal_ISO" : "2024-04-09T23:45:27+10:00",
+				"PublishDateLocal_ISO" : "2024-04-10T23:45:26+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-04-10T00:58:29+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 145.873419, -16.925508 ]
+			},
+			"properties" : {
+				"OBJECTID" : "34491",
+				"UniqueID" : "QF7-24-039018",
+				"WarningTitle" : "Information - YARRABAH",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : "100",
+				"WarningArea" : "YARRABAH",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Back Beach Rd",
+				"Jurisdiction" : "7 Far Northern Region",
+				"Latitude" : -16.925508,
+				"Longitude" : 145.873419,
+				"VehiclesAssigned" : "0",
+				"VehiclesOnRoute" : "0",
+				"VehiclesOnScene" : "0",
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "YARRABAH",
+				"ItemDateTimeUTM" : "20240409141932",
+				"ItemDateTimeLocal_ISO" : "2024-04-10T00:19:32+10:00",
+				"PublishDateLocal_ISO" : "2024-04-10T23:45:26+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-04-11T00:19:32+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 153.079695, -27.262894 ]
+			},
+			"properties" : {
+				"OBJECTID" : "34633",
+				"UniqueID" : "QF5N-24-039245",
+				"WarningTitle" : "Information - GRIFFIN",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : "100",
+				"WarningArea" : "GRIFFIN",
+				"CurrentStatus" : "Going",
+				"Location" : "Houghton Hwy",
+				"Jurisdiction" : "5N Brisbane Region (North)",
+				"Latitude" : -27.262894,
+				"Longitude" : 153.079695,
+				"VehiclesAssigned" : "0",
+				"VehiclesOnRoute" : "0",
+				"VehiclesOnScene" : "1",
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "GRIFFIN",
+				"ItemDateTimeUTM" : "20240410032857",
+				"ItemDateTimeLocal_ISO" : "2024-04-10T13:28:57+10:00",
+				"PublishDateLocal_ISO" : "2024-04-10T23:45:26+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-04-11T13:28:57+10:00"
 			}
 		}
 	]
