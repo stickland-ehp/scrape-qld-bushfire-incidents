@@ -37,8 +37,45 @@
 				"GroupedType" : "FIRE VEGETATION",
 				"ItemDateTimeUTM" : "20240410034100",
 				"ItemDateTimeLocal_ISO" : "2024-04-10T13:41:00+10:00",
-				"PublishDateLocal_ISO" : "2024-04-10T23:45:26+10:00",
+				"PublishDateLocal_ISO" : "2024-04-11T13:45:25+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-04-11T13:41:00+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 150.3025817871, -28.1803756273, 0 ],
+						[ 151.0002136231, -28.167059207, 0 ],
+						[ 151.0084533691, -27.7145338878, 0 ],
+						[ 150.3465270996, -27.7048075251, 0 ],
+						[ 150.3025817871, -28.1803756273, 0 ]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : "3761",
+				"UniqueID" : "IF39-3475121",
+				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Boondandilla State Forest (near Millmerran) - fire as at 12:25pm Thursday, 11 April 2024",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
+				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Boondandilla State Forest (near Millmerran) - fire as at 12:25pm Thursday, 11 April 2024 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Millmerran, Moonie and surrounding areas\n\n\n \n\nSmoke is currently affecting Millmerran, Moonie and surrounding areas. This is from a hazard reduction burn in the Boondandilla State Forest. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFES Current Bushfires and Warnings website.\n\n- Follow QFES on Facebook and Twitter.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFES website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire and Emergency Services.\n\n",
+				"Header" : "Smoke is currently affecting Millmerran, Moonie and surrounding areas. This is from a hazard reduction burn in the Boondandilla State Forest. This fire is under control.",
+				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFES Current Bushfires and Warnings website.\n\n- Follow QFES on Facebook and Twitter.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFES website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire and Emergency Services.",
+				"WarningLevelSort" : "8",
+				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "Millmerran, Moonie and surrounding areas",
+				"Latitude" : -27.981668285702,
+				"Longitude" : 150.56350708008,
+				"GroupedType" : "FIRE VEGETATION",
+				"ItemDateTimeUTM" : "20240411022100",
+				"ItemDateTimeLocal_ISO" : "2024-04-11T12:21:00+10:00",
+				"PublishDateLocal_ISO" : "2024-04-11T13:45:25+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-04-12T12:21:00+10:00"
 			}
 		},
 		{
@@ -64,12 +101,12 @@
 				"Longitude" : 143.533702,
 				"VehiclesAssigned" : "0",
 				"VehiclesOnRoute" : "0",
-				"VehiclesOnScene" : "0",
+				"VehiclesOnScene" : "1",
 				"GroupedType" : "FIRE PERMITTED BURN",
 				"Locality" : "GILBERTON",
 				"ItemDateTimeUTM" : "20240408145519",
 				"ItemDateTimeLocal_ISO" : "2024-04-09T00:55:19+10:00",
-				"PublishDateLocal_ISO" : "2024-04-10T23:45:26+10:00",
+				"PublishDateLocal_ISO" : "2024-04-11T13:45:25+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-04-10T00:55:19+10:00"
 			}
 		},
@@ -101,7 +138,7 @@
 				"Locality" : "EINASLEIGH",
 				"ItemDateTimeUTM" : "20240408145829",
 				"ItemDateTimeLocal_ISO" : "2024-04-09T00:58:29+10:00",
-				"PublishDateLocal_ISO" : "2024-04-10T23:45:26+10:00",
+				"PublishDateLocal_ISO" : "2024-04-11T13:45:25+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-04-10T00:58:29+10:00"
 			}
 		},
@@ -133,7 +170,7 @@
 				"Locality" : "YARRABAH",
 				"ItemDateTimeUTM" : "20240409141932",
 				"ItemDateTimeLocal_ISO" : "2024-04-10T00:19:32+10:00",
-				"PublishDateLocal_ISO" : "2024-04-10T23:45:26+10:00",
+				"PublishDateLocal_ISO" : "2024-04-11T13:45:25+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-04-11T00:19:32+10:00"
 			}
 		},
@@ -141,32 +178,160 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 153.079695, -27.262894 ]
+				"coordinates" : [ 151.948841, -27.484338 ]
 			},
 			"properties" : {
-				"OBJECTID" : "34633",
-				"UniqueID" : "QF5N-24-039245",
-				"WarningTitle" : "Information - GRIFFIN",
+				"OBJECTID" : "34725",
+				"UniqueID" : "QF3-24-039399",
+				"WarningTitle" : "Information - HIGHFIELDS",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : "100",
-				"WarningArea" : "GRIFFIN",
+				"WarningArea" : "HIGHFIELDS",
 				"CurrentStatus" : "Going",
-				"Location" : "Houghton Hwy",
+				"Location" : "Recreation Reserve Rd",
+				"Jurisdiction" : "3 South Western Region",
+				"Latitude" : -27.484338,
+				"Longitude" : 151.948841,
+				"VehiclesAssigned" : "0",
+				"VehiclesOnRoute" : "0",
+				"VehiclesOnScene" : "3",
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "HIGHFIELDS",
+				"ItemDateTimeUTM" : "20240410142621.493",
+				"ItemDateTimeLocal_ISO" : "2024-04-11T00:26:21+10:00",
+				"PublishDateLocal_ISO" : "2024-04-11T13:45:25+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-04-12T00:26:21.493+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 152.234681, -24.853183 ]
+			},
+			"properties" : {
+				"OBJECTID" : "34732",
+				"UniqueID" : "QF4-24-039420",
+				"WarningTitle" : "Information - SHARON",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : "100",
+				"WarningArea" : "SHARON",
+				"CurrentStatus" : "Going",
+				"Location" : "Ten Mile Rd & Kenzlers Rd",
+				"Jurisdiction" : "4 North Coast Region",
+				"Latitude" : -24.853183,
+				"Longitude" : 152.234681,
+				"VehiclesAssigned" : "0",
+				"VehiclesOnRoute" : "0",
+				"VehiclesOnScene" : "0",
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "SHARON",
+				"ItemDateTimeUTM" : "20240410151853.49",
+				"ItemDateTimeLocal_ISO" : "2024-04-11T01:18:53+10:00",
+				"PublishDateLocal_ISO" : "2024-04-11T13:45:25+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-04-12T01:18:53.49+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 152.740685, -26.934515 ]
+			},
+			"properties" : {
+				"OBJECTID" : "34757",
+				"UniqueID" : "QF5N-24-039453",
+				"WarningTitle" : "Information - WOODFORD",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : "100",
+				"WarningArea" : "WOODFORD",
+				"CurrentStatus" : "Contained",
+				"Location" : "FREDIN RD",
 				"Jurisdiction" : "5N Brisbane Region (North)",
-				"Latitude" : -27.262894,
-				"Longitude" : 153.079695,
+				"Latitude" : -26.934515,
+				"Longitude" : 152.740685,
 				"VehiclesAssigned" : "0",
 				"VehiclesOnRoute" : "0",
 				"VehiclesOnScene" : "1",
 				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "GRIFFIN",
-				"ItemDateTimeUTM" : "20240410032857",
-				"ItemDateTimeLocal_ISO" : "2024-04-10T13:28:57+10:00",
-				"PublishDateLocal_ISO" : "2024-04-10T23:45:26+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-04-11T13:28:57+10:00"
+				"Locality" : "WOODFORD",
+				"ItemDateTimeUTM" : "20240410165625",
+				"ItemDateTimeLocal_ISO" : "2024-04-11T02:56:25+10:00",
+				"PublishDateLocal_ISO" : "2024-04-11T13:45:25+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-04-12T02:56:25+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 151.304401, -25.589072 ]
+			},
+			"properties" : {
+				"OBJECTID" : "34759",
+				"UniqueID" : "QF4-24-039457",
+				"WarningTitle" : "Information - MUNDUBBERA",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : "100",
+				"WarningArea" : "MUNDUBBERA",
+				"CurrentStatus" : "Going",
+				"Location" : "Frank Mccauley St",
+				"Jurisdiction" : "4 North Coast Region",
+				"Latitude" : -25.589072,
+				"Longitude" : 151.304401,
+				"VehiclesAssigned" : "0",
+				"VehiclesOnRoute" : "1",
+				"VehiclesOnScene" : "0",
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "MUNDUBBERA",
+				"ItemDateTimeUTM" : "20240410170245.07",
+				"ItemDateTimeLocal_ISO" : "2024-04-11T03:02:45+10:00",
+				"PublishDateLocal_ISO" : "2024-04-11T13:45:25+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-04-12T03:02:45.07+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 150.692211, -27.933276 ]
+			},
+			"properties" : {
+				"OBJECTID" : "34762",
+				"UniqueID" : "QF3-24-039333",
+				"WarningTitle" : "Information - BOONDANDILLA",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : "100",
+				"WarningArea" : "BOONDANDILLA",
+				"CurrentStatus" : "Going",
+				"Location" : "Boondandilla Rd",
+				"Jurisdiction" : "3 South Western Region",
+				"Latitude" : -27.933276,
+				"Longitude" : 150.692211,
+				"VehiclesAssigned" : "0",
+				"VehiclesOnRoute" : "0",
+				"VehiclesOnScene" : "2",
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "BOONDANDILLA",
+				"ItemDateTimeUTM" : "20240410113924",
+				"ItemDateTimeLocal_ISO" : "2024-04-10T21:39:24+10:00",
+				"PublishDateLocal_ISO" : "2024-04-11T13:45:25+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-04-11T21:39:24+10:00"
 			}
 		}
 	]
