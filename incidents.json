@@ -35,7 +35,7 @@
 				"GroupedType" : "FIRE VEGETATION",
 				"ItemDateTimeUTM" : "20240412024500",
 				"ItemDateTimeLocal_ISO" : "2024-04-12T12:45:00+10:00",
-				"PublishDateLocal_ISO" : "2024-04-13T23:45:27+10:00",
+				"PublishDateLocal_ISO" : "2024-04-15T01:05:29+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-04-13T12:45:00+10:00"
 			}
 		},
@@ -67,7 +67,7 @@
 				"Locality" : "BOONDANDILLA",
 				"ItemDateTimeUTM" : "20240410113924",
 				"ItemDateTimeLocal_ISO" : "2024-04-10T21:39:24+10:00",
-				"PublishDateLocal_ISO" : "2024-04-13T23:45:27+10:00",
+				"PublishDateLocal_ISO" : "2024-04-15T01:05:29+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-04-11T21:39:24+10:00"
 			}
 		},
@@ -75,32 +75,64 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 151.869528, -24.993396 ]
+				"coordinates" : [ 152.027043, -26.679796 ]
 			},
 			"properties" : {
-				"OBJECTID" : "35298",
-				"UniqueID" : "QF4-24-040395",
-				"WarningTitle" : "Information - MOOLBOOLAMAN",
+				"OBJECTID" : "35440",
+				"UniqueID" : "QF4-24-040642",
+				"WarningTitle" : "Information - NANANGO",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : "100",
-				"WarningArea" : "MOOLBOOLAMAN",
+				"WarningArea" : "NANANGO",
 				"CurrentStatus" : "Patrolled",
-				"Location" : "Gin Gin Mount Perry Rd",
+				"Location" : "Brights Rd",
 				"Jurisdiction" : "4 North Coast Region",
-				"Latitude" : -24.993396,
-				"Longitude" : 151.869528,
+				"Latitude" : -26.679796,
+				"Longitude" : 152.027043,
 				"VehiclesAssigned" : "0",
 				"VehiclesOnRoute" : "0",
 				"VehiclesOnScene" : "0",
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "MOOLBOOLAMAN",
-				"ItemDateTimeUTM" : "20240412191432",
-				"ItemDateTimeLocal_ISO" : "2024-04-13T05:14:32+10:00",
-				"PublishDateLocal_ISO" : "2024-04-13T23:45:27+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-04-14T05:14:32+10:00"
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "NANANGO",
+				"ItemDateTimeUTM" : "20240413125509.127",
+				"ItemDateTimeLocal_ISO" : "2024-04-13T22:55:09+10:00",
+				"PublishDateLocal_ISO" : "2024-04-15T01:05:29+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-04-14T22:55:09.127+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.233333, -14.183333 ]
+			},
+			"properties" : {
+				"OBJECTID" : "35500",
+				"UniqueID" : "QF7-24-040750",
+				"WarningTitle" : "Information - COOKTOWN",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : "100",
+				"WarningArea" : "COOKTOWN",
+				"CurrentStatus" : "Going",
+				"Location" : "Unknown",
+				"Jurisdiction" : "7 Far Northern Region",
+				"Latitude" : -14.183333,
+				"Longitude" : 144.233333,
+				"VehiclesAssigned" : "0",
+				"VehiclesOnRoute" : "0",
+				"VehiclesOnScene" : "0",
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "COOKTOWN",
+				"ItemDateTimeUTM" : "20240413185538",
+				"ItemDateTimeLocal_ISO" : "2024-04-14T04:55:38+10:00",
+				"PublishDateLocal_ISO" : "2024-04-15T01:05:29+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-04-15T04:55:38+10:00"
 			}
 		}
 	]
