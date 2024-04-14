@@ -22,5 +22,5 @@ jobs:
         git add -A
         count=$(jq '.features | length' incidents.json)
         summary=$(jq -r '.features[] | "\(.properties.GroupedType)"' incidents.json | sed 's/^/- /')
-        git commit -m "${count} GeoJSON features [incidents]<br/>${summary}" || exit 0
+        git commit -m "${count} GeoJSON features [incidents]\n${summary}" || exit 0
         git push
