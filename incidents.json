@@ -35,7 +35,7 @@
 				"GroupedType" : "FIRE VEGETATION",
 				"ItemDateTimeUTM" : "20240412024500",
 				"ItemDateTimeLocal_ISO" : "2024-04-12T12:45:00+10:00",
-				"PublishDateLocal_ISO" : "2024-04-15T01:05:29+10:00",
+				"PublishDateLocal_ISO" : "2024-04-15T09:20:28+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-04-13T12:45:00+10:00"
 			}
 		},
@@ -67,40 +67,8 @@
 				"Locality" : "BOONDANDILLA",
 				"ItemDateTimeUTM" : "20240410113924",
 				"ItemDateTimeLocal_ISO" : "2024-04-10T21:39:24+10:00",
-				"PublishDateLocal_ISO" : "2024-04-15T01:05:29+10:00",
+				"PublishDateLocal_ISO" : "2024-04-15T09:20:28+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-04-11T21:39:24+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 152.027043, -26.679796 ]
-			},
-			"properties" : {
-				"OBJECTID" : "35440",
-				"UniqueID" : "QF4-24-040642",
-				"WarningTitle" : "Information - NANANGO",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : "100",
-				"WarningArea" : "NANANGO",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "Brights Rd",
-				"Jurisdiction" : "4 North Coast Region",
-				"Latitude" : -26.679796,
-				"Longitude" : 152.027043,
-				"VehiclesAssigned" : "0",
-				"VehiclesOnRoute" : "0",
-				"VehiclesOnScene" : "0",
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "NANANGO",
-				"ItemDateTimeUTM" : "20240413125509.127",
-				"ItemDateTimeLocal_ISO" : "2024-04-13T22:55:09+10:00",
-				"PublishDateLocal_ISO" : "2024-04-15T01:05:29+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-04-14T22:55:09.127+10:00"
 			}
 		},
 		{
@@ -131,8 +99,40 @@
 				"Locality" : "COOKTOWN",
 				"ItemDateTimeUTM" : "20240413185538",
 				"ItemDateTimeLocal_ISO" : "2024-04-14T04:55:38+10:00",
-				"PublishDateLocal_ISO" : "2024-04-15T01:05:29+10:00",
+				"PublishDateLocal_ISO" : "2024-04-15T09:20:28+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-04-15T04:55:38+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 153.026025, -25.393164 ]
+			},
+			"properties" : {
+				"OBJECTID" : "35649",
+				"UniqueID" : "QF4-24-041021",
+				"WarningTitle" : "Information - KGARI",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : "100",
+				"WarningArea" : "KGARI",
+				"CurrentStatus" : "Going",
+				"Location" : "Esplanade",
+				"Jurisdiction" : "4 North Coast Region",
+				"Latitude" : -25.393164,
+				"Longitude" : 153.026025,
+				"VehiclesAssigned" : "0",
+				"VehiclesOnRoute" : "0",
+				"VehiclesOnScene" : "2",
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "KGARI",
+				"ItemDateTimeUTM" : "20240414124526",
+				"ItemDateTimeLocal_ISO" : "2024-04-14T22:45:26+10:00",
+				"PublishDateLocal_ISO" : "2024-04-15T09:20:28+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-04-15T22:45:26+10:00"
 			}
 		}
 	]
