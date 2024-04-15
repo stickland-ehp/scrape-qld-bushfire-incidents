@@ -1,81 +1,18 @@
 {
 	"type" : "FeatureCollection",
 	"name" : "QFESWarnings",
+	"crs" : {
+		"type" : "name",
+		"properties" : {
+			"name" : "EPSG:3857"
+		}
+	},
 	"features" : [
 		{
 			"type" : "Feature",
 			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 150.3030323982, -28.1773493137, 0 ],
-						[ 151.0020375252, -28.1688751801, 0 ],
-						[ 151.0061573982, -27.7127102609, 0 ],
-						[ 150.3483510017, -27.7066312842, 0 ],
-						[ 150.3030323982, -28.1773493137, 0 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : "3763",
-				"UniqueID" : "IF39-3475521",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Boondandilla State Forest (near Millmerran) - fire as at 12:46pm Friday, 12 April 2024",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
-				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Boondandilla State Forest (near Millmerran) - fire as at 12:46pm Friday, 12 April 2024 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Millmerran, Moonie and surrounding areas\n\n\n \n\nSmoke is currently affecting Millmerran, Moonie and surrounding areas. This is from a hazard reduction burn in the Boondandilla State Forest. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFES Current Bushfires and Warnings website.\n\n- Follow QFES on Facebook and Twitter.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFES website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire and Emergency Services.\n\n",
-				"Header" : "Smoke is currently affecting Millmerran, Moonie and surrounding areas. This is from a hazard reduction burn in the Boondandilla State Forest. This fire is under control.",
-				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all warnings, visit the QFES Current Bushfires and Warnings website.\n\n- Follow QFES on Facebook and Twitter.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFES website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire and Emergency Services.",
-				"WarningLevelSort" : "8",
-				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "Millmerran, Moonie and surrounding areas",
-				"Latitude" : -27.94831249925,
-				"Longitude" : 150.67244768142,
-				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20240412024500",
-				"ItemDateTimeLocal_ISO" : "2024-04-12T12:45:00+10:00",
-				"PublishDateLocal_ISO" : "2024-04-15T09:25:26+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-04-13T12:45:00+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 150.692211, -27.933276 ]
-			},
-			"properties" : {
-				"OBJECTID" : "34762",
-				"UniqueID" : "QF3-24-039333",
-				"WarningTitle" : "Information - BOONDANDILLA",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : "100",
-				"WarningArea" : "BOONDANDILLA",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "Boondandilla Rd",
-				"Jurisdiction" : "3 South Western Region",
-				"Latitude" : -27.933276,
-				"Longitude" : 150.692211,
-				"VehiclesAssigned" : "0",
-				"VehiclesOnRoute" : "0",
-				"VehiclesOnScene" : "0",
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "BOONDANDILLA",
-				"ItemDateTimeUTM" : "20240410113924",
-				"ItemDateTimeLocal_ISO" : "2024-04-10T21:39:24+10:00",
-				"PublishDateLocal_ISO" : "2024-04-15T09:25:26+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-04-11T21:39:24+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 144.233333, -14.183333 ]
+				"coordinates" : [ 16055981.1849766597, -1595258.2942163036 ]
 			},
 			"properties" : {
 				"OBJECTID" : "35500",
@@ -99,7 +36,7 @@
 				"Locality" : "COOKTOWN",
 				"ItemDateTimeUTM" : "20240413185538",
 				"ItemDateTimeLocal_ISO" : "2024-04-14T04:55:38+10:00",
-				"PublishDateLocal_ISO" : "2024-04-15T09:25:26+10:00",
+				"PublishDateLocal_ISO" : "2024-04-15T23:45:30+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-04-15T04:55:38+10:00"
 			}
 		},
@@ -107,32 +44,64 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 153.026025, -25.393164 ]
+				"coordinates" : [ 16517996.0335905235, -2588351.9974611863 ]
 			},
 			"properties" : {
-				"OBJECTID" : "35649",
-				"UniqueID" : "QF4-24-041021",
-				"WarningTitle" : "Information - KGARI",
+				"OBJECTID" : "35673",
+				"UniqueID" : "QF2-24-041090",
+				"WarningTitle" : "Information - DYSART",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : "100",
-				"WarningArea" : "KGARI",
-				"CurrentStatus" : "Going",
-				"Location" : "Esplanade",
-				"Jurisdiction" : "4 North Coast Region",
-				"Latitude" : -25.393164,
-				"Longitude" : 153.026025,
+				"WarningArea" : "DYSART",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "DYSART MIDDLEMOUNT RD",
+				"Jurisdiction" : "2 Central Region",
+				"Latitude" : -22.638438,
+				"Longitude" : 148.383683,
 				"VehiclesAssigned" : "0",
 				"VehiclesOnRoute" : "0",
-				"VehiclesOnScene" : "2",
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "KGARI",
-				"ItemDateTimeUTM" : "20240414124526",
-				"ItemDateTimeLocal_ISO" : "2024-04-14T22:45:26+10:00",
-				"PublishDateLocal_ISO" : "2024-04-15T09:25:26+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-04-15T22:45:26+10:00"
+				"VehiclesOnScene" : "0",
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "DYSART",
+				"ItemDateTimeUTM" : "20240414143731",
+				"ItemDateTimeLocal_ISO" : "2024-04-15T00:37:31+10:00",
+				"PublishDateLocal_ISO" : "2024-04-15T23:45:30+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-04-16T00:37:31+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 16491244.9580774829, -2719679.7756328313 ]
+			},
+			"properties" : {
+				"OBJECTID" : "35749",
+				"UniqueID" : "QF2-24-041231",
+				"WarningTitle" : "Information - GINDIE",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : "100",
+				"WarningArea" : "GINDIE",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "GREGORY HWY & GLENORINA RD",
+				"Jurisdiction" : "2 Central Region",
+				"Latitude" : -23.722911,
+				"Longitude" : 148.143374,
+				"VehiclesAssigned" : "0",
+				"VehiclesOnRoute" : "0",
+				"VehiclesOnScene" : "0",
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "GINDIE",
+				"ItemDateTimeUTM" : "20240414203126",
+				"ItemDateTimeLocal_ISO" : "2024-04-15T06:31:26+10:00",
+				"PublishDateLocal_ISO" : "2024-04-15T23:45:30+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-04-16T06:31:26+10:00"
 			}
 		}
 	]
