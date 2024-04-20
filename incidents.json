@@ -1,175 +1,43 @@
 {
 	"type" : "FeatureCollection",
 	"name" : "QFESWarnings",
+	"crs" : {
+		"type" : "name",
+		"properties" : {
+			"name" : "EPSG:3857"
+		}
+	},
 	"features" : [
 		{
 			"type" : "Feature",
 			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 152.8475102222, -26.355254608, 0 ],
-						[ 152.8487118518, -26.4012372429, 0 ],
-						[ 152.9304226672, -26.406772379, 0 ],
-						[ 152.9240711963, -26.3506399557, 0 ],
-						[ 152.8475102222, -26.355254608, 0 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : "3775",
-				"UniqueID" : "IF39-3478521",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Pomona - fire as at  8:48am Friday, 19 April 2024",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
-				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Pomona - fire as at  8:48am Friday, 19 April 2024 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Pomona and surrounding areas\n\n\n \n\nSmoke is currently affecting Pomona and surrounding areas. This is from a hazard reduction burn in the Yurol State Forest. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFES Current Bushfires and Warnings website.\n\n- Follow QFES on Facebook and Twitter.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFES website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire and Emergency Services.\n\n",
-				"Header" : "Smoke is currently affecting Pomona and surrounding areas. This is from a hazard reduction burn in the Yurol State Forest. This fire is under control.",
-				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all warnings, visit the QFES Current Bushfires and Warnings website.\n\n- Follow QFES on Facebook and Twitter.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFES website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire and Emergency Services.",
-				"WarningLevelSort" : "8",
-				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "Pomona and surrounding areas",
-				"Latitude" : -26.37801753081,
-				"Longitude" : 152.89307022449,
-				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20240418224300",
-				"ItemDateTimeLocal_ISO" : "2024-04-19T08:43:00+10:00",
-				"PublishDateLocal_ISO" : "2024-04-19T23:46:10+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-04-20T08:43:00+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 150.912760033, -28.4864964324, 0 ],
-						[ 151.3027746814, -28.4255240303, 0 ],
-						[ 151.26020266, -28.0741008137, 0 ],
-						[ 150.8537085193, -28.1280083329, 0 ],
-						[ 150.912760033, -28.4864964324, 0 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : "3776",
-				"UniqueID" : "IF39-3478921",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Bringalily (near Inglewood) - fire as at  3:45pm Friday, 19 April 2024",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
-				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Bringalily (near Inglewood) - fire as at  3:45pm Friday, 19 April 2024 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Bringalily, Inglewood and surrounding areas\n\n\n \n\nSmoke is currently affecting Bringalily, Inglewood and surrounding areas. This is from a hazard reduction burn in the Bringalily State Forest. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFES Current Bushfires and Warnings website.\n\n- Follow QFES on Facebook and Twitter.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFES website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire and Emergency Services.\n\n",
-				"Header" : "Smoke is currently affecting Bringalily, Inglewood and surrounding areas. This is from a hazard reduction burn in the Bringalily State Forest. This fire is under control.",
-				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all warnings, visit the QFES Current Bushfires and Warnings website.\n\n- Follow QFES on Facebook and Twitter.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFES website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire and Emergency Services.",
-				"WarningLevelSort" : "8",
-				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "Bringalily, Inglewood and surrounding areas",
-				"Latitude" : -28.262356099444,
-				"Longitude" : 151.09334780157,
-				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20240419054500",
-				"ItemDateTimeLocal_ISO" : "2024-04-19T15:45:00+10:00",
-				"PublishDateLocal_ISO" : "2024-04-19T23:46:10+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-04-20T15:45:00+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 146.453556, -28.132732 ]
+				"coordinates" : [ 15492409.4535926022, -1881611.3942393474 ]
 			},
 			"properties" : {
-				"OBJECTID" : "36241",
-				"UniqueID" : "QF3-24-042105",
-				"WarningTitle" : "Information - LINDEN",
+				"OBJECTID" : "37075",
+				"UniqueID" : "QF1-24-043456",
+				"WarningTitle" : "Information - WELLESLEY ISLANDS",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : "100",
-				"WarningArea" : "LINDEN",
+				"WarningArea" : "WELLESLEY ISLANDS",
 				"CurrentStatus" : "Going",
-				"Location" : "Unnamed Linden Rd",
-				"Jurisdiction" : "3 South Western Region",
-				"Latitude" : -28.132732,
-				"Longitude" : 146.453556,
-				"VehiclesAssigned" : "0",
+				"Location" : "CEMETERY RD",
+				"Jurisdiction" : "1 Northern Region",
+				"Latitude" : -16.662829,
+				"Longitude" : 139.170682,
+				"VehiclesAssigned" : "2",
 				"VehiclesOnRoute" : "0",
 				"VehiclesOnScene" : "0",
 				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "LINDEN",
-				"ItemDateTimeUTM" : "20240416201836",
-				"ItemDateTimeLocal_ISO" : "2024-04-17T06:18:36+10:00",
-				"PublishDateLocal_ISO" : "2024-04-19T23:46:10+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-04-18T06:18:36+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 151.936389, -28.833056 ]
-			},
-			"properties" : {
-				"OBJECTID" : "36669",
-				"UniqueID" : "QF3-24-042782",
-				"WarningTitle" : "Information - WYBERBA",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : "100",
-				"WarningArea" : "WYBERBA",
-				"CurrentStatus" : "Going",
-				"Location" : "Pyramids Rd",
-				"Jurisdiction" : "3 South Western Region",
-				"Latitude" : -28.833056,
-				"Longitude" : 151.936389,
-				"VehiclesAssigned" : "0",
-				"VehiclesOnRoute" : "0",
-				"VehiclesOnScene" : "0",
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "WYBERBA",
-				"ItemDateTimeUTM" : "20240418140239",
-				"ItemDateTimeLocal_ISO" : "2024-04-19T00:02:39+10:00",
-				"PublishDateLocal_ISO" : "2024-04-19T23:46:11+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-04-20T00:02:39+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 152.871868, -26.369588 ]
-			},
-			"properties" : {
-				"OBJECTID" : "36728",
-				"UniqueID" : "QF4-24-042864",
-				"WarningTitle" : "Information - POMONA",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : "100",
-				"WarningArea" : "POMONA",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "Yurol Forest Dr & Kidd Rd",
-				"Jurisdiction" : "4 North Coast Region",
-				"Latitude" : -26.369588,
-				"Longitude" : 152.871868,
-				"VehiclesAssigned" : "0",
-				"VehiclesOnRoute" : "0",
-				"VehiclesOnScene" : "0",
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "POMONA",
-				"ItemDateTimeUTM" : "20240418174352.807",
-				"ItemDateTimeLocal_ISO" : "2024-04-19T03:43:52+10:00",
-				"PublishDateLocal_ISO" : "2024-04-19T23:46:11+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-04-20T03:43:52.807+10:00"
+				"Locality" : "WELLESLEY ISLANDS",
+				"ItemDateTimeUTM" : "20240420010611",
+				"ItemDateTimeLocal_ISO" : "2024-04-20T11:06:11+10:00",
+				"PublishDateLocal_ISO" : "2024-04-20T22:51:08+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-04-21T11:06:11+10:00"
 			}
 		}
 	]
