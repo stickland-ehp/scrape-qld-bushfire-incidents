@@ -12,32 +12,64 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16903447.8967850655, -3190437.1367562856 ]
+				"coordinates" : [ 16473502.5236763805, -3059208.7950194567 ]
 			},
 			"properties" : {
-				"OBJECTID" : "37737",
-				"UniqueID" : "QF3-24-044367",
-				"WarningTitle" : "Information - WELLCAMP",
+				"OBJECTID" : "37851",
+				"UniqueID" : "QF3-24-044536",
+				"WarningTitle" : "Information - MITCHELL",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : "100",
-				"WarningArea" : "WELLCAMP",
-				"CurrentStatus" : "Contained",
-				"Location" : "Witmack Rd & Omara Rd",
+				"WarningArea" : "MITCHELL",
+				"CurrentStatus" : "Going",
+				"Location" : "Warrego Hwy & Forestvale Rd",
 				"Jurisdiction" : "3 South Western Region",
-				"Latitude" : -27.534711,
-				"Longitude" : 151.846256,
+				"Latitude" : -26.484465,
+				"Longitude" : 147.983991,
 				"VehiclesAssigned" : "0",
 				"VehiclesOnRoute" : "0",
 				"VehiclesOnScene" : "1",
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "MITCHELL",
+				"ItemDateTimeUTM" : "20240423144958",
+				"ItemDateTimeLocal_ISO" : "2024-04-24T00:49:58+10:00",
+				"PublishDateLocal_ISO" : "2024-04-24T23:46:05+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-04-25T00:49:58+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 15449221.2760275006, -2282128.4380546599 ]
+			},
+			"properties" : {
+				"OBJECTID" : "37863",
+				"UniqueID" : "QF1-24-044557",
+				"WarningTitle" : "Information - BARKLY",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : "100",
+				"WarningArea" : "BARKLY",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Barkly Hwy",
+				"Jurisdiction" : "1 Northern Region",
+				"Latitude" : -20.076777,
+				"Longitude" : 138.782716,
+				"VehiclesAssigned" : "0",
+				"VehiclesOnRoute" : "0",
+				"VehiclesOnScene" : "0",
 				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "WELLCAMP",
-				"ItemDateTimeUTM" : "20240423011226",
-				"ItemDateTimeLocal_ISO" : "2024-04-23T11:12:26+10:00",
-				"PublishDateLocal_ISO" : "2024-04-23T21:31:05+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-04-24T11:12:26+10:00"
+				"Locality" : "BARKLY",
+				"ItemDateTimeUTM" : "20240423154431",
+				"ItemDateTimeLocal_ISO" : "2024-04-24T01:44:31+10:00",
+				"PublishDateLocal_ISO" : "2024-04-24T23:46:05+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-04-25T01:44:31+10:00"
 			}
 		}
 	]
