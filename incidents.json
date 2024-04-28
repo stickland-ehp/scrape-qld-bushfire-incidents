@@ -12,32 +12,64 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16438205.5621746294, -2682014.6770064537 ]
+				"coordinates" : [ 16812444.7696590163, -3246102.4344347222 ]
 			},
 			"properties" : {
-				"OBJECTID" : "38545",
-				"UniqueID" : "QF2-24-045687",
-				"WarningTitle" : "Information - RUBYVALE",
+				"OBJECTID" : "38834",
+				"UniqueID" : "QF3-24-046153",
+				"WarningTitle" : "Information - CYPRESS GARDENS",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : "100",
-				"WarningArea" : "RUBYVALE",
+				"WarningArea" : "CYPRESS GARDENS",
 				"CurrentStatus" : "Going",
-				"Location" : "Goanna Flats Rd",
-				"Jurisdiction" : "2 Central Region",
-				"Latitude" : -23.412783,
-				"Longitude" : 147.666913,
+				"Location" : "Kimberley Dr",
+				"Jurisdiction" : "3 South Western Region",
+				"Latitude" : -27.977223,
+				"Longitude" : 151.028761,
+				"VehiclesAssigned" : "0",
+				"VehiclesOnRoute" : "0",
+				"VehiclesOnScene" : "1",
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "CYPRESS GARDENS",
+				"ItemDateTimeUTM" : "20240427173044.807",
+				"ItemDateTimeLocal_ISO" : "2024-04-28T03:30:44+10:00",
+				"PublishDateLocal_ISO" : "2024-04-28T23:46:06+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-04-29T03:30:44.807+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 16904385.6521755047, -3088181.9680700051 ]
+			},
+			"properties" : {
+				"OBJECTID" : "38864",
+				"UniqueID" : "QF4-24-046050",
+				"WarningTitle" : "Information - BROOKLANDS",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : "100",
+				"WarningArea" : "BROOKLANDS",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Boldery Rd",
+				"Jurisdiction" : "4 North Coast Region",
+				"Latitude" : -26.717185,
+				"Longitude" : 151.85468,
 				"VehiclesAssigned" : "0",
 				"VehiclesOnRoute" : "0",
 				"VehiclesOnScene" : "0",
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "RUBYVALE",
-				"ItemDateTimeUTM" : "20240426151731",
-				"ItemDateTimeLocal_ISO" : "2024-04-27T01:17:31+10:00",
-				"PublishDateLocal_ISO" : "2024-04-27T23:46:04+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-04-28T01:17:31+10:00"
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "BROOKLANDS",
+				"ItemDateTimeUTM" : "20240427112707.637",
+				"ItemDateTimeLocal_ISO" : "2024-04-27T21:27:07+10:00",
+				"PublishDateLocal_ISO" : "2024-04-28T23:46:06+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-04-28T21:27:07.637+10:00"
 			}
 		}
 	]
