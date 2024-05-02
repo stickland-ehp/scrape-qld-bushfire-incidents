@@ -12,64 +12,32 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16535952.20141395, -2705465.4827723191 ]
+				"coordinates" : [ 16335210.7655418571, -2192413.870161342 ]
 			},
 			"properties" : {
-				"OBJECTID" : "39480",
-				"UniqueID" : "QF2-24-047203",
-				"WarningTitle" : "Information - COMET",
+				"OBJECTID" : "39814",
+				"UniqueID" : "QF1-24-047779",
+				"WarningTitle" : "Information - DOUGLAS",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : "100",
-				"WarningArea" : "COMET",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "Comet Water Shed Rd",
-				"Jurisdiction" : "2 Central Region",
-				"Latitude" : -23.605959,
-				"Longitude" : 148.544986,
+				"WarningArea" : "DOUGLAS",
+				"CurrentStatus" : "Going",
+				"Location" : "RIVERSIDE BVD",
+				"Jurisdiction" : "1 Northern Region",
+				"Latitude" : -19.318022,
+				"Longitude" : 146.741695,
 				"VehiclesAssigned" : "0",
 				"VehiclesOnRoute" : "0",
-				"VehiclesOnScene" : "0",
+				"VehiclesOnScene" : "1",
 				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "COMET",
-				"ItemDateTimeUTM" : "20240430150509",
-				"ItemDateTimeLocal_ISO" : "2024-05-01T01:05:09+10:00",
-				"PublishDateLocal_ISO" : "2024-05-01T23:46:05+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-05-02T01:05:09+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 16623545.8351759817, -2710070.317957195 ]
-			},
-			"properties" : {
-				"OBJECTID" : "39604",
-				"UniqueID" : "QF2-24-047362",
-				"WarningTitle" : "Information - DINGO",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : "100",
-				"WarningArea" : "DINGO",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "Cairns St & Fitzroy Developmental Rd",
-				"Jurisdiction" : "2 Central Region",
-				"Latitude" : -23.643858,
-				"Longitude" : 149.331853,
-				"VehiclesAssigned" : "0",
-				"VehiclesOnRoute" : "0",
-				"VehiclesOnScene" : "0",
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "DINGO",
-				"ItemDateTimeUTM" : "20240430210323",
-				"ItemDateTimeLocal_ISO" : "2024-05-01T07:03:23+10:00",
-				"PublishDateLocal_ISO" : "2024-05-01T23:46:05+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-05-02T07:03:23+10:00"
+				"Locality" : "DOUGLAS",
+				"ItemDateTimeUTM" : "20240502024003",
+				"ItemDateTimeLocal_ISO" : "2024-05-02T12:40:03+10:00",
+				"PublishDateLocal_ISO" : "2024-05-02T22:56:05+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-05-03T12:40:03+10:00"
 			}
 		}
 	]
