@@ -30,21 +30,77 @@
 				"WarningLevelSort" : "7",
 				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFES website.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
 				"WarningArea" : "Emerald",
-				"Master_Incident_Number" : "QF2-24-048340",
-				"CurrentStatus" : "Going",
-				"Location" : "Canterbury Rd",
-				"Jurisdiction" : "2 Central Region",
 				"Latitude" : -23.567004427422,
 				"Longitude" : 148.14101700573,
+				"GroupedType" : "FIRE VEGETATION",
+				"ItemDateTimeUTM" : "20240504064100",
+				"ItemDateTimeLocal_ISO" : "2024-05-04T16:41:00+10:00",
+				"PublishDateLocal_ISO" : "2024-05-05T23:46:10+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-05-05T16:41:00+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 146.854683, -19.336885 ]
+			},
+			"properties" : {
+				"OBJECTID" : "40457",
+				"UniqueID" : "QF1-24-048824",
+				"WarningTitle" : "Information - STUART",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : "100",
+				"WarningArea" : "STUART",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "BRUCE HWY",
+				"Jurisdiction" : "1 Northern Region",
+				"Latitude" : -19.336885,
+				"Longitude" : 146.854683,
+				"VehiclesAssigned" : "0",
+				"VehiclesOnRoute" : "0",
+				"VehiclesOnScene" : "0",
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "STUART",
+				"ItemDateTimeUTM" : "20240504220831",
+				"ItemDateTimeLocal_ISO" : "2024-05-05T08:08:31+10:00",
+				"PublishDateLocal_ISO" : "2024-05-05T23:46:10+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-05-06T08:08:31+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 152.996143, -27.447131 ]
+			},
+			"properties" : {
+				"OBJECTID" : "40510",
+				"UniqueID" : "QF5N-24-048899",
+				"WarningTitle" : "Information - RED HILL",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : "100",
+				"WarningArea" : "RED HILL",
+				"CurrentStatus" : "Contained",
+				"Location" : "Fulcher Rd",
+				"Jurisdiction" : "5N Brisbane Region (North)",
+				"Latitude" : -27.447131,
+				"Longitude" : 152.996143,
 				"VehiclesAssigned" : "0",
 				"VehiclesOnRoute" : "0",
 				"VehiclesOnScene" : "1",
 				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "EMERALD",
-				"ItemDateTimeUTM" : "20240504064100",
-				"ItemDateTimeLocal_ISO" : "2024-05-04T16:41:00+10:00",
-				"PublishDateLocal_ISO" : "2024-05-04T23:46:10+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-05-05T16:41:00+10:00"
+				"Locality" : "RED HILL",
+				"ItemDateTimeUTM" : "20240505032910",
+				"ItemDateTimeLocal_ISO" : "2024-05-05T13:29:10+10:00",
+				"PublishDateLocal_ISO" : "2024-05-05T23:46:10+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-05-06T13:29:10+10:00"
 			}
 		}
 	]
