@@ -35,7 +35,7 @@
 				"GroupedType" : "FIRE VEGETATION",
 				"ItemDateTimeUTM" : "20240504064100",
 				"ItemDateTimeLocal_ISO" : "2024-05-04T16:41:00+10:00",
-				"PublishDateLocal_ISO" : "2024-05-05T23:46:10+10:00",
+				"PublishDateLocal_ISO" : "2024-05-06T23:38:38+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-05-05T16:41:00+10:00"
 			}
 		},
@@ -43,64 +43,96 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 146.854683, -19.336885 ]
+				"coordinates" : [ 146.606001, -19.155102 ]
 			},
 			"properties" : {
-				"OBJECTID" : "40457",
-				"UniqueID" : "QF1-24-048824",
-				"WarningTitle" : "Information - STUART",
+				"OBJECTID" : "40620",
+				"UniqueID" : "QF1-24-049084",
+				"WarningTitle" : "Information - SAUNDERS BEACH",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : "100",
-				"WarningArea" : "STUART",
+				"WarningArea" : "SAUNDERS BEACH",
 				"CurrentStatus" : "Patrolled",
-				"Location" : "BRUCE HWY",
+				"Location" : "Saunders Beach Rd",
 				"Jurisdiction" : "1 Northern Region",
-				"Latitude" : -19.336885,
-				"Longitude" : 146.854683,
+				"Latitude" : -19.155102,
+				"Longitude" : 146.606001,
 				"VehiclesAssigned" : "0",
 				"VehiclesOnRoute" : "0",
 				"VehiclesOnScene" : "0",
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "STUART",
-				"ItemDateTimeUTM" : "20240504220831",
-				"ItemDateTimeLocal_ISO" : "2024-05-05T08:08:31+10:00",
-				"PublishDateLocal_ISO" : "2024-05-05T23:46:10+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-05-06T08:08:31+10:00"
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "SAUNDERS BEACH",
+				"ItemDateTimeUTM" : "20240505183303",
+				"ItemDateTimeLocal_ISO" : "2024-05-06T04:33:03+10:00",
+				"PublishDateLocal_ISO" : "2024-05-06T23:38:38+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-05-07T04:33:03+10:00"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 152.996143, -27.447131 ]
+				"coordinates" : [ 152.771974, -26.703009 ]
 			},
 			"properties" : {
-				"OBJECTID" : "40510",
-				"UniqueID" : "QF5N-24-048899",
-				"WarningTitle" : "Information - RED HILL",
+				"OBJECTID" : "40661",
+				"UniqueID" : "QF4-24-049166",
+				"WarningTitle" : "Information - ELAMAN CREEK",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : "100",
-				"WarningArea" : "RED HILL",
-				"CurrentStatus" : "Contained",
-				"Location" : "Fulcher Rd",
-				"Jurisdiction" : "5N Brisbane Region (North)",
-				"Latitude" : -27.447131,
-				"Longitude" : 152.996143,
+				"WarningArea" : "ELAMAN CREEK",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "HUMPHRIES RD",
+				"Jurisdiction" : "4 North Coast Region",
+				"Latitude" : -26.703009,
+				"Longitude" : 152.771974,
+				"VehiclesAssigned" : "0",
+				"VehiclesOnRoute" : "0",
+				"VehiclesOnScene" : "0",
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "ELAMAN CREEK",
+				"ItemDateTimeUTM" : "20240505213454",
+				"ItemDateTimeLocal_ISO" : "2024-05-06T07:34:54+10:00",
+				"PublishDateLocal_ISO" : "2024-05-06T23:38:38+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-05-07T07:34:54+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 146.959447, -19.389855 ]
+			},
+			"properties" : {
+				"OBJECTID" : "40694",
+				"UniqueID" : "QF1-24-049212",
+				"WarningTitle" : "Information - ALLIGATOR CREEK",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : "100",
+				"WarningArea" : "ALLIGATOR CREEK",
+				"CurrentStatus" : "Going",
+				"Location" : "BRUCE HWY & WILLIAMS RD",
+				"Jurisdiction" : "1 Northern Region",
+				"Latitude" : -19.389855,
+				"Longitude" : 146.959447,
 				"VehiclesAssigned" : "0",
 				"VehiclesOnRoute" : "0",
 				"VehiclesOnScene" : "1",
 				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "RED HILL",
-				"ItemDateTimeUTM" : "20240505032910",
-				"ItemDateTimeLocal_ISO" : "2024-05-05T13:29:10+10:00",
-				"PublishDateLocal_ISO" : "2024-05-05T23:46:10+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-05-06T13:29:10+10:00"
+				"Locality" : "ALLIGATOR CREEK",
+				"ItemDateTimeUTM" : "20240506000637",
+				"ItemDateTimeLocal_ISO" : "2024-05-06T10:06:37+10:00",
+				"PublishDateLocal_ISO" : "2024-05-06T23:38:38+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-05-07T10:06:37+10:00"
 			}
 		}
 	]
