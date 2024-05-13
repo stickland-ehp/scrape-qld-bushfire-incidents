@@ -1,75 +1,106 @@
 {
 	"type" : "FeatureCollection",
 	"name" : "QFESWarnings",
-	"crs" : {
-		"type" : "name",
-		"properties" : {
-			"name" : "EPSG:3857"
-		}
-	},
 	"features" : [
 		{
 			"type" : "Feature",
 			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 16819018.6308683194, -3271028.7360318638 ]
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 150.429611206, -23.3365816945, 0 ],
+						[ 150.4419708252, -23.4471836521, 0 ],
+						[ 150.6002426147, -23.424503603, 0 ],
+						[ 150.5398178101, -23.2927565579, 0 ],
+						[ 150.429611206, -23.3365816945, 0 ]
+					]
+				]
 			},
 			"properties" : {
-				"OBJECTID" : "41029",
-				"UniqueID" : "QF3-24-049721",
-				"WarningTitle" : "Information - BYBERA",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : "100",
-				"WarningArea" : "BYBERA",
-				"CurrentStatus" : "Going",
-				"Location" : "Kooroongarra Andersons Rd",
-				"Jurisdiction" : "3 South Western Region",
-				"Latitude" : -28.17479,
-				"Longitude" : 151.087815,
-				"VehiclesAssigned" : "0",
-				"VehiclesOnRoute" : "0",
-				"VehiclesOnScene" : "0",
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "BYBERA",
-				"ItemDateTimeUTM" : "20240507133804",
-				"ItemDateTimeLocal_ISO" : "2024-05-07T23:38:04+10:00",
-				"PublishDateLocal_ISO" : "2024-05-12T23:46:05+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-05-08T23:38:04+10:00"
+				"OBJECTID" : "3785",
+				"UniqueID" : "IF39-3481421",
+				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Rockhampton - fire as at  4:06pm Monday, 13 May 2024",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
+				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Rockhampton - fire as at  4:06pm Monday, 13 May 2024 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Rockhampton and surrounding areas\n\n\n \n\nSmoke is currently affecting Rockhampton and surrounding areas. This is from a hazard reduction burn in the Mount Archer National Park. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFES Current Bushfires and Warnings website.\n\n- Follow QFES on Facebook and Twitter.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFES website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire and Emergency Services.\n\n",
+				"Header" : "Smoke is currently affecting Rockhampton and surrounding areas. This is from a hazard reduction burn in the Mount Archer National Park. This fire is under control.",
+				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFES Current Bushfires and Warnings website.\n\n- Follow QFES on Facebook and Twitter.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFES website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire and Emergency Services.",
+				"WarningLevelSort" : "8",
+				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "Rockhampton and surrounding areas",
+				"Latitude" : -23.377556149178,
+				"Longitude" : 150.49861907959,
+				"GroupedType" : "FIRE VEGETATION",
+				"ItemDateTimeUTM" : "20240513060400",
+				"ItemDateTimeLocal_ISO" : "2024-05-13T16:04:00+10:00",
+				"PublishDateLocal_ISO" : "2024-05-13T23:46:09+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-05-14T16:04:00+10:00"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16973827.6410882734, -2873172.2222193182 ]
+				"coordinates" : [ 147.754771, -19.709959 ]
 			},
 			"properties" : {
-				"OBJECTID" : "42002",
-				"UniqueID" : "QF4-24-051293",
-				"WarningTitle" : "Information - COONARR",
+				"OBJECTID" : "42253",
+				"UniqueID" : "QF1-24-051728",
+				"WarningTitle" : "Information - GUTHALUNGRA",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : "100",
-				"WarningArea" : "COONARR",
+				"WarningArea" : "GUTHALUNGRA",
+				"CurrentStatus" : "Going",
+				"Location" : "CAPE UPSTART ESP",
+				"Jurisdiction" : "1 Northern Region",
+				"Latitude" : -19.709959,
+				"Longitude" : 147.754771,
+				"VehiclesAssigned" : "0",
+				"VehiclesOnRoute" : "0",
+				"VehiclesOnScene" : "1",
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "GUTHALUNGRA",
+				"ItemDateTimeUTM" : "20240512170459.83",
+				"ItemDateTimeLocal_ISO" : "2024-05-13T03:04:59+10:00",
+				"PublishDateLocal_ISO" : "2024-05-13T23:46:09+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-05-14T03:04:59.83+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 151.913088, -24.915019 ]
+			},
+			"properties" : {
+				"OBJECTID" : "42260",
+				"UniqueID" : "QF4-24-051736",
+				"WarningTitle" : "Information - MONDURAN",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : "100",
+				"WarningArea" : "MONDURAN",
 				"CurrentStatus" : "Patrolled",
-				"Location" : "Markham Rd",
+				"Location" : "Bruce Hwy & Monduran Rd",
 				"Jurisdiction" : "4 North Coast Region",
-				"Latitude" : -24.979055,
-				"Longitude" : 152.478488,
+				"Latitude" : -24.915019,
+				"Longitude" : 151.913088,
 				"VehiclesAssigned" : "0",
 				"VehiclesOnRoute" : "0",
 				"VehiclesOnScene" : "0",
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "COONARR",
-				"ItemDateTimeUTM" : "20240511165810.37",
-				"ItemDateTimeLocal_ISO" : "2024-05-12T02:58:10+10:00",
-				"PublishDateLocal_ISO" : "2024-05-12T23:46:05+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-05-13T02:58:10.37+10:00"
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "MONDURAN",
+				"ItemDateTimeUTM" : "20240512172753",
+				"ItemDateTimeLocal_ISO" : "2024-05-13T03:27:53+10:00",
+				"PublishDateLocal_ISO" : "2024-05-13T23:46:09+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-05-14T03:27:53+10:00"
 			}
 		}
 	]
