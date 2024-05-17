@@ -1,126 +1,18 @@
 {
 	"type" : "FeatureCollection",
 	"name" : "QFESWarnings",
+	"crs" : {
+		"type" : "name",
+		"properties" : {
+			"name" : "EPSG:3857"
+		}
+	},
 	"features" : [
 		{
 			"type" : "Feature",
 			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 150.8449226407, -27.7776449595, 0 ],
-						[ 150.8524757413, -28.0264417732, 0 ],
-						[ 151.1518531827, -27.9846111524, 0 ],
-						[ 151.0818153409, -27.8092313306, 0 ],
-						[ 150.8449226407, -27.7776449595, 0 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : "3791",
-				"UniqueID" : "IF39-3482621",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Western Creek State Forest (near Millmerran) - fire as at  1:17pm Wednesday, 15 May 2024",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
-				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Western Creek State Forest (near Millmerran) - fire as at  1:17pm Wednesday, 15 May 2024 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Western Creek, The Pines, Millmerran and surrounding areas.\n\n\n \n\nSmoke is currently affecting Western Creek, The Pines, Millmerran and surrounding areas.. This is from a hazard reduction burn near Bulli Creek Road, Western Creek State Forest. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFES Current Bushfires and Warnings website.\n\n- Follow QFES on Facebook and Twitter.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFES website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire and Emergency Services.\n\n",
-				"Header" : "Smoke is currently affecting Western Creek, The Pines, Millmerran and surrounding areas.. This is from a hazard reduction burn near Bulli Creek Road, Western Creek State Forest. This fire is under control.",
-				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all warnings, visit the QFES Current Bushfires and Warnings website.\n\n- Follow QFES on Facebook and Twitter.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFES website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire and Emergency Services.",
-				"WarningLevelSort" : "8",
-				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "Western Creek, The Pines, Millmerran and surrounding areas.",
-				"Latitude" : -27.877232319868,
-				"Longitude" : 150.97332535063,
-				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20240515031100",
-				"ItemDateTimeLocal_ISO" : "2024-05-15T13:11:00+10:00",
-				"PublishDateLocal_ISO" : "2024-05-16T23:46:09+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-05-16T13:11:00+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 151.2035524336, -23.900825444, 0 ],
-						[ 151.2781107196, -23.89726807, 0 ],
-						[ 151.2780534712, -23.8972157485, 0 ],
-						[ 151.2996255982, -23.872677611, 0 ],
-						[ 151.2862073866, -23.83096781, 0 ],
-						[ 151.1979734389, -23.8330876406, 0 ],
-						[ 151.2035524336, -23.900825444, 0 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : "3792",
-				"UniqueID" : "IF39-3483021",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Gladstone - fire as at  2:07pm Wednesday, 15 May 2024",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
-				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Gladstone - fire as at  2:07pm Wednesday, 15 May 2024 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: South Gladstone, Sun Valley, Kin Kora and surrounding areas\n\n\n \n\nSmoke is currently affecting South Gladstone, Sun Valley, Kin Kora and surrounding areas. This is from a hazard reduction burn near Philip Street. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFES Current Bushfires and Warnings website.\n\n- Follow QFES on Facebook and Twitter.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFES website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire and Emergency Services.\n\n",
-				"Header" : "Smoke is currently affecting South Gladstone, Sun Valley, Kin Kora and surrounding areas. This is from a hazard reduction burn near Philip Street. This fire is under control.",
-				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all warnings, visit the QFES Current Bushfires and Warnings website.\n\n- Follow QFES on Facebook and Twitter.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFES website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire and Emergency Services.",
-				"WarningLevelSort" : "8",
-				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "South Gladstone, Sun Valley, Kin Kora and surrounding areas",
-				"Latitude" : -23.866607761022,
-				"Longitude" : 151.2490426985,
-				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20240515040700",
-				"ItemDateTimeLocal_ISO" : "2024-05-15T14:07:00+10:00",
-				"PublishDateLocal_ISO" : "2024-05-16T23:46:09+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-05-16T14:07:00+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 152.9425406456, -25.9243930289, 0 ],
-						[ 152.9404807091, -25.9654529178, 0 ],
-						[ 152.9926657677, -26.0475297063, 0 ],
-						[ 153.1378912926, -25.9932296798, 0 ],
-						[ 153.0918860435, -25.8703450624, 0 ],
-						[ 152.9425406456, -25.9243930289, 0 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : "3794",
-				"UniqueID" : "IF39-3483621",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Cooloola Recreation Area (near Rainbow Beach) - fire as at  1:17pm Thursday, 16 May 2024",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
-				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Cooloola Recreation Area (near Rainbow Beach) - fire as at  1:17pm Thursday, 16 May 2024 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Cooloola Cove, Rainbow Beach, Tin Can Bay and surrounding areas\n\n\n \n\nSmoke is currently affecting Cooloola Cove, Rainbow Beach, Tin Can Bay and surrounding areas. This is from a hazard reduction burn near Rainbow Beach Road and Cooloola Way. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFES Current Bushfires and Warnings website.\n\n- Follow QFES on Facebook and Twitter.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFES website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire and Emergency Services.\n\n",
-				"Header" : "Smoke is currently affecting Cooloola Cove, Rainbow Beach, Tin Can Bay and surrounding areas. This is from a hazard reduction burn near Rainbow Beach Road and Cooloola Way. This fire is under control.",
-				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all warnings, visit the QFES Current Bushfires and Warnings website.\n\n- Follow QFES on Facebook and Twitter.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFES website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire and Emergency Services.",
-				"WarningLevelSort" : "8",
-				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "Cooloola Cove, Rainbow Beach, Tin Can Bay and surrounding areas",
-				"Latitude" : -25.963292228035,
-				"Longitude" : 153.02734136581,
-				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20240516031700",
-				"ItemDateTimeLocal_ISO" : "2024-05-16T13:17:00+10:00",
-				"PublishDateLocal_ISO" : "2024-05-16T23:46:09+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-05-17T13:17:00+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 150.921121, -27.861238 ]
+				"coordinates" : [ 16800462.3396700285, -3231490.3135735248 ]
 			},
 			"properties" : {
 				"OBJECTID" : "42662",
@@ -144,72 +36,8 @@
 				"Locality" : "WESTERN CREEK",
 				"ItemDateTimeUTM" : "20240514111541",
 				"ItemDateTimeLocal_ISO" : "2024-05-14T21:15:41+10:00",
-				"PublishDateLocal_ISO" : "2024-05-16T23:46:09+10:00",
+				"PublishDateLocal_ISO" : "2024-05-17T23:46:06+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-05-15T21:15:41+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 148.196694, -20.062925 ]
-			},
-			"properties" : {
-				"OBJECTID" : "42967",
-				"UniqueID" : "QF1-24-052963",
-				"WarningTitle" : "Information - BOWEN",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : "100",
-				"WarningArea" : "BOWEN",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "Bootooloo Rd",
-				"Jurisdiction" : "1 Northern Region",
-				"Latitude" : -20.062925,
-				"Longitude" : 148.196694,
-				"VehiclesAssigned" : "0",
-				"VehiclesOnRoute" : "0",
-				"VehiclesOnScene" : "0",
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "BOWEN",
-				"ItemDateTimeUTM" : "20240515141753",
-				"ItemDateTimeLocal_ISO" : "2024-05-16T00:17:53+10:00",
-				"PublishDateLocal_ISO" : "2024-05-16T23:46:09+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-05-17T00:17:53+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 143.182232, -13.911254 ]
-			},
-			"properties" : {
-				"OBJECTID" : "43013",
-				"UniqueID" : "QF7-24-053035",
-				"WarningTitle" : "Information - COEN",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : "100",
-				"WarningArea" : "COEN",
-				"CurrentStatus" : "Going",
-				"Location" : "Peninsula Developmental Rd",
-				"Jurisdiction" : "7 Far Northern Region",
-				"Latitude" : -13.911254,
-				"Longitude" : 143.182232,
-				"VehiclesAssigned" : "0",
-				"VehiclesOnRoute" : "0",
-				"VehiclesOnScene" : "2",
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "COEN",
-				"ItemDateTimeUTM" : "20240515175752",
-				"ItemDateTimeLocal_ISO" : "2024-05-16T03:57:52+10:00",
-				"PublishDateLocal_ISO" : "2024-05-16T23:46:10+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-05-17T03:57:52+10:00"
 			}
 		}
 	]
