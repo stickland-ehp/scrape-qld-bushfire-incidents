@@ -1,51 +1,18 @@
 {
 	"type" : "FeatureCollection",
 	"name" : "QFESWarnings",
+	"crs" : {
+		"type" : "name",
+		"properties" : {
+			"name" : "EPSG:3857"
+		}
+	},
 	"features" : [
 		{
 			"type" : "Feature",
 			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 153.0134436103, -26.2541213922, 0 ],
-						[ 152.9406591865, -26.2448838481, 0 ],
-						[ 152.8958555671, -26.3030681087, 0 ],
-						[ 152.903580329, -26.3583007367, 0 ],
-						[ 152.9880377265, -26.3686058572, 0 ],
-						[ 153.041081092, -26.3359954659, 0 ],
-						[ 153.0134436103, -26.2541213922, 0 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : "3801",
-				"UniqueID" : "IF39-3485521",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Cootharaba and Boreen Point (near Tewantin) - fire as at 11:47am Thursday, 23 May 2024",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
-				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Cootharaba and Boreen Point (near Tewantin) - fire as at 11:47am Thursday, 23 May 2024 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Cootharaba, Boreen Point and surrounding areas\n\n\n \n\nSmoke is currently affecting Cootharaba, Boreen Point and surrounding areas. This is from a hazard reduction burn near Mckinnon Drive. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFES Current Bushfires and Warnings website.\n\n- Follow QFES on Facebook and Twitter.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFES website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire and Emergency Services.\n\n",
-				"Header" : "Smoke is currently affecting Cootharaba, Boreen Point and surrounding areas. This is from a hazard reduction burn near Mckinnon Drive. This fire is under control.",
-				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all warnings, visit the QFES Current Bushfires and Warnings website.\n\n- Follow QFES on Facebook and Twitter.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFES website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire and Emergency Services.",
-				"WarningLevelSort" : "8",
-				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "Cootharaba, Boreen Point and surrounding areas",
-				"Latitude" : -26.313532021806,
-				"Longitude" : 152.96263184272,
-				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20240523014600",
-				"ItemDateTimeLocal_ISO" : "2024-05-23T11:46:00+10:00",
-				"PublishDateLocal_ISO" : "2024-05-23T23:46:08+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-05-24T11:46:00+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 145.284709, -17.14769 ]
+				"coordinates" : [ 16173019.8259289283, -1938023.8207912785 ]
 			},
 			"properties" : {
 				"OBJECTID" : "43786",
@@ -69,7 +36,7 @@
 				"Locality" : "MUTCHILBA",
 				"ItemDateTimeUTM" : "20240518194017",
 				"ItemDateTimeLocal_ISO" : "2024-05-19T05:40:17+10:00",
-				"PublishDateLocal_ISO" : "2024-05-23T23:46:08+10:00",
+				"PublishDateLocal_ISO" : "2024-05-24T23:46:04+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-05-20T05:40:17+10:00"
 			}
 		},
@@ -77,7 +44,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 144.504716, -14.171083 ]
+				"coordinates" : [ 16086191.4023466129, -1593851.7924225752 ]
 			},
 			"properties" : {
 				"OBJECTID" : "44647",
@@ -101,7 +68,7 @@
 				"Locality" : "CAPE MELVILLE",
 				"ItemDateTimeUTM" : "20240519155424",
 				"ItemDateTimeLocal_ISO" : "2024-05-20T01:54:24+10:00",
-				"PublishDateLocal_ISO" : "2024-05-23T23:46:08+10:00",
+				"PublishDateLocal_ISO" : "2024-05-24T23:46:04+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-05-21T01:54:24+10:00"
 			}
 		},
@@ -109,39 +76,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 150.078483, -26.485707 ]
-			},
-			"properties" : {
-				"OBJECTID" : "44659",
-				"UniqueID" : "QF3-24-055820",
-				"WarningTitle" : "Information - KOWGURAN",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : "100",
-				"WarningArea" : "KOWGURAN",
-				"CurrentStatus" : "Going",
-				"Location" : "Eastern Boundary Rd",
-				"Jurisdiction" : "3 South Western Region",
-				"Latitude" : -26.485707,
-				"Longitude" : 150.078483,
-				"VehiclesAssigned" : "0",
-				"VehiclesOnRoute" : "0",
-				"VehiclesOnScene" : "0",
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "KOWGURAN",
-				"ItemDateTimeUTM" : "20240522105938",
-				"ItemDateTimeLocal_ISO" : "2024-05-22T20:59:38+10:00",
-				"PublishDateLocal_ISO" : "2024-05-23T23:46:08+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-05-23T20:59:38+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 144.32358, -18.144962 ]
+				"coordinates" : [ 16066027.4350622799, -2054523.0878105382 ]
 			},
 			"properties" : {
 				"OBJECTID" : "44671",
@@ -165,7 +100,7 @@
 				"Locality" : "MOUNT SURPRISE",
 				"ItemDateTimeUTM" : "20240522124321",
 				"ItemDateTimeLocal_ISO" : "2024-05-22T22:43:21+10:00",
-				"PublishDateLocal_ISO" : "2024-05-23T23:46:08+10:00",
+				"PublishDateLocal_ISO" : "2024-05-24T23:46:04+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-05-23T22:43:21+10:00"
 			}
 		},
@@ -173,7 +108,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 152.971466, -26.312361 ]
+				"coordinates" : [ 17028705.7010205612, -3037819.9087342434 ]
 			},
 			"properties" : {
 				"OBJECTID" : "44759",
@@ -197,8 +132,40 @@
 				"Locality" : "RINGTAIL CREEK",
 				"ItemDateTimeUTM" : "20240522193004.277",
 				"ItemDateTimeLocal_ISO" : "2024-05-23T05:30:04+10:00",
-				"PublishDateLocal_ISO" : "2024-05-23T23:46:08+10:00",
+				"PublishDateLocal_ISO" : "2024-05-24T23:46:04+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-05-24T05:30:04.277+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 16706925.6922530178, -2865125.3780049393 ]
+			},
+			"properties" : {
+				"OBJECTID" : "45031",
+				"UniqueID" : "QF2-24-056452",
+				"WarningTitle" : "Information - LONESOME CREEK",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : "100",
+				"WarningArea" : "LONESOME CREEK",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Leichhardt Hwy",
+				"Jurisdiction" : "2 Central Region",
+				"Latitude" : -24.913513,
+				"Longitude" : 150.080867,
+				"VehiclesAssigned" : "0",
+				"VehiclesOnRoute" : "0",
+				"VehiclesOnScene" : "0",
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "LONESOME CREEK",
+				"ItemDateTimeUTM" : "20240523202902.117",
+				"ItemDateTimeLocal_ISO" : "2024-05-24T06:29:02+10:00",
+				"PublishDateLocal_ISO" : "2024-05-24T23:46:05+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-05-25T06:29:02.117+10:00"
 			}
 		}
 	]
