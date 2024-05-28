@@ -1,50 +1,62 @@
 {
 	"type" : "FeatureCollection",
 	"name" : "QFESWarnings",
-	"crs" : {
-		"type" : "name",
-		"properties" : {
-			"name" : "EPSG:3857"
-		}
-	},
 	"features" : [
 		{
 			"type" : "Feature",
 			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 16086191.4023466129, -1593851.7924225752 ]
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 151.0149905637, -23.7696819882, 0 ],
+						[ 150.9490725949, -23.8570001653, 0 ],
+						[ 151.0311267331, -23.9357872846, 0 ],
+						[ 151.10803103, -23.9666904338, 0 ],
+						[ 151.2024447873, -24.0035496808, 0 ],
+						[ 151.2336871579, -23.9963224428, 0 ],
+						[ 151.2649295285, -23.9109949223, 0 ],
+						[ 151.251024957, -23.9093467196, 0 ],
+						[ 151.2442443326, -23.8980078211, 0 ],
+						[ 151.2436006024, -23.8924167822, 0 ],
+						[ 151.2402102902, -23.8896508512, 0 ],
+						[ 151.2343738034, -23.8883952075, 0 ],
+						[ 151.2271640256, -23.8901217106, 0 ],
+						[ 151.2163493589, -23.8887091198, 0 ],
+						[ 151.209139581, -23.8851774626, 0 ],
+						[ 151.2024447873, -23.8783496226, 0 ],
+						[ 151.1389300779, -23.8271678264, 0 ],
+						[ 151.0149905637, -23.7696819882, 0 ]
+					]
+				]
 			},
 			"properties" : {
-				"OBJECTID" : "44647",
-				"UniqueID" : "QF7-24-054666",
-				"WarningTitle" : "Information - CAPE MELVILLE",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : "100",
-				"WarningArea" : "CAPE MELVILLE",
-				"CurrentStatus" : "Going",
-				"Location" : "Unknown",
-				"Jurisdiction" : "7 Far Northern Region",
-				"Latitude" : -14.171083,
-				"Longitude" : 144.504716,
-				"VehiclesAssigned" : "0",
-				"VehiclesOnRoute" : "0",
-				"VehiclesOnScene" : "0",
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "CAPE MELVILLE",
-				"ItemDateTimeUTM" : "20240519155424",
-				"ItemDateTimeLocal_ISO" : "2024-05-20T01:54:24+10:00",
-				"PublishDateLocal_ISO" : "2024-05-27T23:46:05+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-05-21T01:54:24+10:00"
+				"OBJECTID" : "3806",
+				"UniqueID" : "IF39-3486621",
+				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Calliope, Mount Larcom and Kirkwood (near Gladstone) - fire as at  3:24pm Tuesday, 28 May 2024",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
+				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Calliope, Mount Larcom and Kirkwood (near Gladstone) - fire as at  3:24pm Tuesday, 28 May 2024 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Calliope, Mount Larcom, Kirkwood and surrounding areas\n\n\n \n\nSmoke is currently affecting Calliope, Mount Larcom, Kirkwood and surrounding areas. This is from a hazard reduction burn at Beecher State Forest. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFES Current Bushfires and Warnings website.\n\n- Follow QFES on Facebook and Twitter.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFES website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire and Emergency Services.\n\n",
+				"Header" : "Smoke is currently affecting Calliope, Mount Larcom, Kirkwood and surrounding areas. This is from a hazard reduction burn at Beecher State Forest. This fire is under control.",
+				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFES Current Bushfires and Warnings website.\n\n- Follow QFES on Facebook and Twitter.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFES website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire and Emergency Services.",
+				"WarningLevelSort" : "8",
+				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "Calliope, Mount Larcom, Kirkwood and surrounding areas",
+				"Latitude" : -23.910994922316,
+				"Longitude" : 151.13000368625,
+				"GroupedType" : "FIRE VEGETATION",
+				"ItemDateTimeUTM" : "20240528052400",
+				"ItemDateTimeLocal_ISO" : "2024-05-28T15:24:00+10:00",
+				"PublishDateLocal_ISO" : "2024-05-28T23:46:09+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-05-29T15:24:00+10:00"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16066027.4350622799, -2054523.0878105382 ]
+				"coordinates" : [ 144.32358, -18.144962 ]
 			},
 			"properties" : {
 				"OBJECTID" : "44671",
@@ -68,7 +80,7 @@
 				"Locality" : "MOUNT SURPRISE",
 				"ItemDateTimeUTM" : "20240522124321",
 				"ItemDateTimeLocal_ISO" : "2024-05-22T22:43:21+10:00",
-				"PublishDateLocal_ISO" : "2024-05-27T23:46:05+10:00",
+				"PublishDateLocal_ISO" : "2024-05-28T23:46:10+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-05-23T22:43:21+10:00"
 			}
 		},
@@ -76,39 +88,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 15983908.7164964452, -1686029.6840101297 ]
-			},
-			"properties" : {
-				"OBJECTID" : "45680",
-				"UniqueID" : "QF7-24-057548",
-				"WarningTitle" : "Information - YARRADEN",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : "100",
-				"WarningArea" : "YARRADEN",
-				"CurrentStatus" : "Going",
-				"Location" : "Dixie Rd",
-				"Jurisdiction" : "7 Far Northern Region",
-				"Latitude" : -14.972488,
-				"Longitude" : 143.585895,
-				"VehiclesAssigned" : "0",
-				"VehiclesOnRoute" : "0",
-				"VehiclesOnScene" : "0",
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "YARRADEN",
-				"ItemDateTimeUTM" : "20240526113934",
-				"ItemDateTimeLocal_ISO" : "2024-05-26T21:39:34+10:00",
-				"PublishDateLocal_ISO" : "2024-05-27T23:46:05+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-05-27T21:39:34+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 16094328.8571236003, -2059759.0809976405 ]
+				"coordinates" : [ 144.577816, -18.189653 ]
 			},
 			"properties" : {
 				"OBJECTID" : "45681",
@@ -132,7 +112,7 @@
 				"Locality" : "MOUNT SURPRISE",
 				"ItemDateTimeUTM" : "20240526114758",
 				"ItemDateTimeLocal_ISO" : "2024-05-26T21:47:58+10:00",
-				"PublishDateLocal_ISO" : "2024-05-27T23:46:05+10:00",
+				"PublishDateLocal_ISO" : "2024-05-28T23:46:10+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-05-27T21:47:58+10:00"
 			}
 		},
@@ -140,11 +120,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16087736.5168788247, -1938939.8645131649 ]
+				"coordinates" : [ 144.484729, -17.201162 ]
 			},
 			"properties" : {
-				"OBJECTID" : "45707",
-				"UniqueID" : "QF7-24-057594",
+				"OBJECTID" : "45974",
+				"UniqueID" : "QF7-24-058074",
 				"WarningTitle" : "Information - CHILLAGOE",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
@@ -152,52 +132,84 @@
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : "100",
 				"WarningArea" : "CHILLAGOE",
-				"CurrentStatus" : "Going",
-				"Location" : "Frew St",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Bolwarra Rd",
 				"Jurisdiction" : "7 Far Northern Region",
-				"Latitude" : -17.155553,
-				"Longitude" : 144.518596,
+				"Latitude" : -17.201162,
+				"Longitude" : 144.484729,
 				"VehiclesAssigned" : "0",
 				"VehiclesOnRoute" : "0",
 				"VehiclesOnScene" : "0",
 				"GroupedType" : "FIRE PERMITTED BURN",
 				"Locality" : "CHILLAGOE",
-				"ItemDateTimeUTM" : "20240526130856",
-				"ItemDateTimeLocal_ISO" : "2024-05-26T23:08:56+10:00",
-				"PublishDateLocal_ISO" : "2024-05-27T23:46:05+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-05-27T23:08:56+10:00"
+				"ItemDateTimeUTM" : "20240527114036",
+				"ItemDateTimeLocal_ISO" : "2024-05-27T21:40:36+10:00",
+				"PublishDateLocal_ISO" : "2024-05-28T23:46:10+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-05-28T21:40:36+10:00"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16398029.4673914108, -2553484.1722387034 ]
+				"coordinates" : [ 152.805931, -26.479606 ]
 			},
 			"properties" : {
-				"OBJECTID" : "45779",
-				"UniqueID" : "QF2-24-057674",
-				"WarningTitle" : "Information - KILCUMMIN",
+				"OBJECTID" : "46049",
+				"UniqueID" : "QF4-24-058195",
+				"WarningTitle" : "Information - BELLI PARK",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : "100",
-				"WarningArea" : "KILCUMMIN",
+				"WarningArea" : "BELLI PARK",
 				"CurrentStatus" : "Going",
-				"Location" : "Gregory Developmental Rd",
-				"Jurisdiction" : "2 Central Region",
-				"Latitude" : -22.349045,
-				"Longitude" : 147.306005,
+				"Location" : "Wellington Rd",
+				"Jurisdiction" : "4 North Coast Region",
+				"Latitude" : -26.479606,
+				"Longitude" : 152.805931,
 				"VehiclesAssigned" : "0",
 				"VehiclesOnRoute" : "0",
-				"VehiclesOnScene" : "2",
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "KILCUMMIN",
-				"ItemDateTimeUTM" : "20240526151429",
-				"ItemDateTimeLocal_ISO" : "2024-05-27T01:14:29+10:00",
-				"PublishDateLocal_ISO" : "2024-05-27T23:46:05+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-05-28T01:14:29+10:00"
+				"VehiclesOnScene" : "0",
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "BELLI PARK",
+				"ItemDateTimeUTM" : "20240527164546.043",
+				"ItemDateTimeLocal_ISO" : "2024-05-28T02:45:46+10:00",
+				"PublishDateLocal_ISO" : "2024-05-28T23:46:10+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-05-29T02:45:46.043+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 143.118497, -13.753288 ]
+			},
+			"properties" : {
+				"OBJECTID" : "46081",
+				"UniqueID" : "QF7-24-058271",
+				"WarningTitle" : "Information - COEN",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : "100",
+				"WarningArea" : "COEN",
+				"CurrentStatus" : "Going",
+				"Location" : "Rokeby Rd",
+				"Jurisdiction" : "7 Far Northern Region",
+				"Latitude" : -13.753288,
+				"Longitude" : 143.118497,
+				"VehiclesAssigned" : "0",
+				"VehiclesOnRoute" : "0",
+				"VehiclesOnScene" : "0",
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "COEN",
+				"ItemDateTimeUTM" : "20240527200050",
+				"ItemDateTimeLocal_ISO" : "2024-05-28T06:00:50+10:00",
+				"PublishDateLocal_ISO" : "2024-05-28T23:46:10+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-05-29T06:00:50+10:00"
 			}
 		}
 	]
