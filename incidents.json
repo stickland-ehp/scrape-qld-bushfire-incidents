@@ -48,7 +48,7 @@
 				"GroupedType" : "FIRE VEGETATION",
 				"ItemDateTimeUTM" : "20240528052400",
 				"ItemDateTimeLocal_ISO" : "2024-05-28T15:24:00+10:00",
-				"PublishDateLocal_ISO" : "2024-05-28T23:46:09+10:00",
+				"PublishDateLocal_ISO" : "2024-05-29T23:46:08+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-05-29T15:24:00+10:00"
 			}
 		},
@@ -80,7 +80,7 @@
 				"Locality" : "MOUNT SURPRISE",
 				"ItemDateTimeUTM" : "20240522124321",
 				"ItemDateTimeLocal_ISO" : "2024-05-22T22:43:21+10:00",
-				"PublishDateLocal_ISO" : "2024-05-28T23:46:10+10:00",
+				"PublishDateLocal_ISO" : "2024-05-29T23:46:08+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-05-23T22:43:21+10:00"
 			}
 		},
@@ -100,7 +100,7 @@
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : "100",
 				"WarningArea" : "MOUNT SURPRISE",
-				"CurrentStatus" : "Going",
+				"CurrentStatus" : "Patrolled",
 				"Location" : "Undara Rd",
 				"Jurisdiction" : "7 Far Northern Region",
 				"Latitude" : -18.189653,
@@ -112,40 +112,8 @@
 				"Locality" : "MOUNT SURPRISE",
 				"ItemDateTimeUTM" : "20240526114758",
 				"ItemDateTimeLocal_ISO" : "2024-05-26T21:47:58+10:00",
-				"PublishDateLocal_ISO" : "2024-05-28T23:46:10+10:00",
+				"PublishDateLocal_ISO" : "2024-05-29T23:46:08+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-05-27T21:47:58+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 144.484729, -17.201162 ]
-			},
-			"properties" : {
-				"OBJECTID" : "45974",
-				"UniqueID" : "QF7-24-058074",
-				"WarningTitle" : "Information - CHILLAGOE",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : "100",
-				"WarningArea" : "CHILLAGOE",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "Bolwarra Rd",
-				"Jurisdiction" : "7 Far Northern Region",
-				"Latitude" : -17.201162,
-				"Longitude" : 144.484729,
-				"VehiclesAssigned" : "0",
-				"VehiclesOnRoute" : "0",
-				"VehiclesOnScene" : "0",
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "CHILLAGOE",
-				"ItemDateTimeUTM" : "20240527114036",
-				"ItemDateTimeLocal_ISO" : "2024-05-27T21:40:36+10:00",
-				"PublishDateLocal_ISO" : "2024-05-28T23:46:10+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-05-28T21:40:36+10:00"
 			}
 		},
 		{
@@ -176,7 +144,7 @@
 				"Locality" : "BELLI PARK",
 				"ItemDateTimeUTM" : "20240527164546.043",
 				"ItemDateTimeLocal_ISO" : "2024-05-28T02:45:46+10:00",
-				"PublishDateLocal_ISO" : "2024-05-28T23:46:10+10:00",
+				"PublishDateLocal_ISO" : "2024-05-29T23:46:08+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-05-29T02:45:46.043+10:00"
 			}
 		},
@@ -208,8 +176,72 @@
 				"Locality" : "COEN",
 				"ItemDateTimeUTM" : "20240527200050",
 				"ItemDateTimeLocal_ISO" : "2024-05-28T06:00:50+10:00",
-				"PublishDateLocal_ISO" : "2024-05-28T23:46:10+10:00",
+				"PublishDateLocal_ISO" : "2024-05-29T23:46:08+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-05-29T06:00:50+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 145.469891, -14.662483 ]
+			},
+			"properties" : {
+				"OBJECTID" : "46243",
+				"UniqueID" : "QF7-24-058509",
+				"WarningTitle" : "Information - LIZARD ISLAND",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : "100",
+				"WarningArea" : "LIZARD ISLAND",
+				"CurrentStatus" : "Going",
+				"Location" : "Unknown",
+				"Jurisdiction" : "7 Far Northern Region",
+				"Latitude" : -14.662483,
+				"Longitude" : 145.469891,
+				"VehiclesAssigned" : "0",
+				"VehiclesOnRoute" : "0",
+				"VehiclesOnScene" : "0",
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "LIZARD ISLAND",
+				"ItemDateTimeUTM" : "20240528125203",
+				"ItemDateTimeLocal_ISO" : "2024-05-28T22:52:03+10:00",
+				"PublishDateLocal_ISO" : "2024-05-29T23:46:08+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-05-29T22:52:03+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 152.48454, -25.354097 ]
+			},
+			"properties" : {
+				"OBJECTID" : "46328",
+				"UniqueID" : "QF4-24-058647",
+				"WarningTitle" : "Information - DUCKINWILLA",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : "100",
+				"WarningArea" : "DUCKINWILLA",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Duckinwilla Rd",
+				"Jurisdiction" : "4 North Coast Region",
+				"Latitude" : -25.354097,
+				"Longitude" : 152.48454,
+				"VehiclesAssigned" : "0",
+				"VehiclesOnRoute" : "0",
+				"VehiclesOnScene" : "0",
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "DUCKINWILLA",
+				"ItemDateTimeUTM" : "20240528193502",
+				"ItemDateTimeLocal_ISO" : "2024-05-29T05:35:02+10:00",
+				"PublishDateLocal_ISO" : "2024-05-29T23:46:08+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-05-30T05:35:02+10:00"
 			}
 		}
 	]
