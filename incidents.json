@@ -1,50 +1,57 @@
 {
 	"type" : "FeatureCollection",
 	"name" : "QFESWarnings",
-	"crs" : {
-		"type" : "name",
-		"properties" : {
-			"name" : "EPSG:3857"
-		}
-	},
 	"features" : [
 		{
 			"type" : "Feature",
 			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 16094328.8571236003, -2059759.0809976405 ]
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 148.8688990824, -23.5708561208, 0 ],
+						[ 148.8734004158, -23.6037183658, 0 ],
+						[ 149.1089961003, -23.6051865514, 0 ],
+						[ 149.1035029363, -23.5670799491, 0 ],
+						[ 148.8688990824, -23.5708561208, 0 ]
+					]
+				]
 			},
 			"properties" : {
-				"OBJECTID" : "45681",
-				"UniqueID" : "QF7-24-057551",
-				"WarningTitle" : "Information - MOUNT SURPRISE",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : "100",
-				"WarningArea" : "MOUNT SURPRISE",
+				"OBJECTID" : "3811",
+				"UniqueID" : "IF39-3488821",
+				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Bluff (near Blackwater) - fire as at  5:09pm Monday,  3 June 2024",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
+				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Bluff (near Blackwater) - fire as at  5:09pm Monday,  3 June 2024 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: between Bluff and Blackwater\n\n\n \n\nSmoke is currently affecting between Bluff and Blackwater. This is from a hazard reduction burn along the Capricorn Highway. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFES Current Bushfires and Warnings website.\n\n- Follow QFES on Facebook and Twitter.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFES website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire and Emergency Services.\n\n",
+				"Header" : "Smoke is currently affecting between Bluff and Blackwater. This is from a hazard reduction burn along the Capricorn Highway. This fire is under control.",
+				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFES Current Bushfires and Warnings website.\n\n- Follow QFES on Facebook and Twitter.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFES website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire and Emergency Services.",
+				"WarningLevelSort" : "8",
+				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "between Bluff and Blackwater",
+				"Master_Incident_Number" : "QF2-24-060519",
 				"CurrentStatus" : "Patrolled",
-				"Location" : "Undara Rd",
-				"Jurisdiction" : "7 Far Northern Region",
-				"Latitude" : -18.189653,
-				"Longitude" : 144.577816,
+				"Location" : "CAPRICORN HWY",
+				"Jurisdiction" : "2 Central Region",
+				"Latitude" : -23.588476928208,
+				"Longitude" : 148.99363965504,
 				"VehiclesAssigned" : "0",
 				"VehiclesOnRoute" : "0",
 				"VehiclesOnScene" : "0",
 				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "MOUNT SURPRISE",
-				"ItemDateTimeUTM" : "20240526114758",
-				"ItemDateTimeLocal_ISO" : "2024-05-26T21:47:58+10:00",
-				"PublishDateLocal_ISO" : "2024-06-02T23:46:03+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-05-27T21:47:58+10:00"
+				"Locality" : "BLUFF",
+				"ItemDateTimeUTM" : "20240603070800",
+				"ItemDateTimeLocal_ISO" : "2024-06-03T17:08:00+10:00",
+				"PublishDateLocal_ISO" : "2024-06-03T23:46:06+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-06-04T17:08:00+10:00"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 15931878.2091386504, -1545927.0212683289 ]
+				"coordinates" : [ 143.118497, -13.753288 ]
 			},
 			"properties" : {
 				"OBJECTID" : "46081",
@@ -68,7 +75,7 @@
 				"Locality" : "COEN",
 				"ItemDateTimeUTM" : "20240527200050",
 				"ItemDateTimeLocal_ISO" : "2024-05-28T06:00:50+10:00",
-				"PublishDateLocal_ISO" : "2024-06-02T23:46:03+10:00",
+				"PublishDateLocal_ISO" : "2024-06-03T23:46:06+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-05-29T06:00:50+10:00"
 			}
 		},
@@ -76,7 +83,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16974501.3466465585, -2919300.5308842426 ]
+				"coordinates" : [ 152.48454, -25.354097 ]
 			},
 			"properties" : {
 				"OBJECTID" : "46328",
@@ -100,7 +107,7 @@
 				"Locality" : "DUCKINWILLA",
 				"ItemDateTimeUTM" : "20240528193502",
 				"ItemDateTimeLocal_ISO" : "2024-05-29T05:35:02+10:00",
-				"PublishDateLocal_ISO" : "2024-06-02T23:46:03+10:00",
+				"PublishDateLocal_ISO" : "2024-06-03T23:46:06+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-05-30T05:35:02+10:00"
 			}
 		},
@@ -108,7 +115,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16084611.8900917452, -1938461.5084682845 ]
+				"coordinates" : [ 144.490527, -17.151447 ]
 			},
 			"properties" : {
 				"OBJECTID" : "46715",
@@ -132,7 +139,7 @@
 				"Locality" : "CHILLAGOE",
 				"ItemDateTimeUTM" : "20240530123025",
 				"ItemDateTimeLocal_ISO" : "2024-05-30T22:30:25+10:00",
-				"PublishDateLocal_ISO" : "2024-06-02T23:46:03+10:00",
+				"PublishDateLocal_ISO" : "2024-06-03T23:46:06+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-05-31T22:30:25+10:00"
 			}
 		},
@@ -140,7 +147,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16160317.7154319622, -1857836.8751771373 ]
+				"coordinates" : [ 145.170604, -16.458118 ]
 			},
 			"properties" : {
 				"OBJECTID" : "47231",
@@ -164,7 +171,7 @@
 				"Locality" : "MOUNT CARBINE",
 				"ItemDateTimeUTM" : "20240530174102",
 				"ItemDateTimeLocal_ISO" : "2024-05-31T03:41:02+10:00",
-				"PublishDateLocal_ISO" : "2024-06-02T23:46:03+10:00",
+				"PublishDateLocal_ISO" : "2024-06-03T23:46:06+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-06-01T03:41:02+10:00"
 			}
 		},
@@ -172,39 +179,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16507498.2716502454, -2285626.696677539 ]
-			},
-			"properties" : {
-				"OBJECTID" : "47235",
-				"UniqueID" : "QF1-24-060054",
-				"WarningTitle" : "Information - BOWEN",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : "100",
-				"WarningArea" : "BOWEN",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "Pitcairn Ave",
-				"Jurisdiction" : "1 Northern Region",
-				"Latitude" : -20.10629,
-				"Longitude" : 148.28938,
-				"VehiclesAssigned" : "0",
-				"VehiclesOnRoute" : "0",
-				"VehiclesOnScene" : "0",
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "BOWEN",
-				"ItemDateTimeUTM" : "20240601122618.02",
-				"ItemDateTimeLocal_ISO" : "2024-06-01T22:26:18+10:00",
-				"PublishDateLocal_ISO" : "2024-06-02T23:46:03+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-06-02T22:26:18.02+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 16093315.6271183994, -1947122.0223729718 ]
+				"coordinates" : [ 144.568714, -17.225771 ]
 			},
 			"properties" : {
 				"OBJECTID" : "47284",
@@ -216,7 +191,7 @@
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : "100",
 				"WarningArea" : "CHILLAGOE",
-				"CurrentStatus" : "Going",
+				"CurrentStatus" : "Patrolled",
 				"Location" : "Burke Developmental Rd",
 				"Jurisdiction" : "7 Far Northern Region",
 				"Latitude" : -17.225771,
@@ -228,7 +203,7 @@
 				"Locality" : "CHILLAGOE",
 				"ItemDateTimeUTM" : "20240601173733",
 				"ItemDateTimeLocal_ISO" : "2024-06-02T03:37:33+10:00",
-				"PublishDateLocal_ISO" : "2024-06-02T23:46:03+10:00",
+				"PublishDateLocal_ISO" : "2024-06-03T23:46:06+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-06-03T03:37:33+10:00"
 			}
 		}
