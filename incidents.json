@@ -1,100 +1,18 @@
 {
 	"type" : "FeatureCollection",
 	"name" : "QFESWarnings",
+	"crs" : {
+		"type" : "name",
+		"properties" : {
+			"name" : "EPSG:3857"
+		}
+	},
 	"features" : [
 		{
 			"type" : "Feature",
 			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 152.9550088145, -27.8791243372, 0 ],
-						[ 152.9852784443, -27.8825636731, 0 ],
-						[ 152.9852212169, -27.8825383812, 0 ],
-						[ 153.0078805186, -27.8559059842, 0 ],
-						[ 152.9958642222, -27.8430806441, 0 ],
-						[ 152.9603303172, -27.8408796936, 0 ],
-						[ 152.9550088145, -27.8791243372, 0 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : "3987",
-				"UniqueID" : "IF39-3530521",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Cedar Grove (Logan) - fire as at  6:08pm Thursday, 27 June 2024",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
-				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Cedar Grove (Logan) - fire as at  6:08pm Thursday, 27 June 2024 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Cedar Grove and surrounding areas\n\n\n \n\nSmoke is currently affecting Cedar Grove and surrounding areas. This is from a hazard reduction burn near Cedar Grove Road. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFES Current Bushfires and Warnings website.\n\n- Follow QFES on Facebook and Twitter.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFES website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire and Emergency Services.\n\n",
-				"Header" : "Smoke is currently affecting Cedar Grove and surrounding areas. This is from a hazard reduction burn near Cedar Grove Road. This fire is under control.",
-				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all warnings, visit the QFES Current Bushfires and Warnings website.\n\n- Follow QFES on Facebook and Twitter.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFES website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire and Emergency Services.",
-				"WarningLevelSort" : "8",
-				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "Cedar Grove and surrounding areas",
-				"Latitude" : -27.863645987953,
-				"Longitude" : 152.98024303694,
-				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20240627080400",
-				"ItemDateTimeLocal_ISO" : "2024-06-27T18:04:00+10:00",
-				"PublishDateLocal_ISO" : "2024-06-30T23:46:06+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-06-28T18:04:00+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 152.8349491954, -26.7811694701, 0 ],
-						[ 152.845248878, -26.8102828435, 0 ],
-						[ 152.8629299998, -26.8617492471, 0 ],
-						[ 152.970046699, -26.8871674654, 0 ],
-						[ 153.0222317576, -26.8848708733, 0 ],
-						[ 153.0454060435, -26.7299731239, 0 ],
-						[ 152.970046699, -26.7154070774, 0 ],
-						[ 152.8327175975, -26.7239936041, 0 ],
-						[ 152.8349491954, -26.7811694701, 0 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : "3994",
-				"UniqueID" : "IF39-3532921",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Landsborough (Sunshine Coast) - fire as at 10:44am Sunday, 30 June 2024",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
-				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Landsborough (Sunshine Coast) - fire as at 10:44am Sunday, 30 June 2024 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Landsborough, Maleny, Beerwah, Eudlo and surrounding areas\n\n\n \n\nSmoke is currently affecting Landsborough, Maleny, Beerwah, Eudlo and surrounding areas. This is from a hazard reduction burn in Dularcha National Park. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFES Current Bushfires and Warnings website.\n\n- Follow QFES on Facebook and Twitter.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFES website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire and Emergency Services.\n\n",
-				"Header" : "Smoke is currently affecting Landsborough, Maleny, Beerwah, Eudlo and surrounding areas. This is from a hazard reduction burn in Dularcha National Park. This fire is under control.",
-				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all warnings, visit the QFES Current Bushfires and Warnings website.\n\n- Follow QFES on Facebook and Twitter.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFES website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire and Emergency Services.",
-				"WarningLevelSort" : "8",
-				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "Landsborough, Maleny, Beerwah, Eudlo and surrounding areas",
-				"Master_Incident_Number" : "QF4-24-070904",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "CUNNINGHAM AVE & BEECH RD",
-				"Jurisdiction" : "4 North Coast Region",
-				"Latitude" : -26.794960946687,
-				"Longitude" : 152.94036805629,
-				"VehiclesAssigned" : "0",
-				"VehiclesOnRoute" : "0",
-				"VehiclesOnScene" : "0",
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "LANDSBOROUGH",
-				"ItemDateTimeUTM" : "20240630004300",
-				"ItemDateTimeLocal_ISO" : "2024-06-30T10:43:00+10:00",
-				"PublishDateLocal_ISO" : "2024-06-30T23:46:06+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-07-01T10:43:00+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 143.118972, -13.765528 ]
+				"coordinates" : [ 15931931.0858967789, -1547329.8281474896 ]
 			},
 			"properties" : {
 				"OBJECTID" : "52375",
@@ -118,7 +36,7 @@
 				"Locality" : "COEN",
 				"ItemDateTimeUTM" : "20240617123616",
 				"ItemDateTimeLocal_ISO" : "2024-06-17T22:36:16+10:00",
-				"PublishDateLocal_ISO" : "2024-06-30T23:46:06+10:00",
+				"PublishDateLocal_ISO" : "2024-07-01T23:46:05+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-06-18T22:36:16+10:00"
 			}
 		},
@@ -126,7 +44,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 143.118972, -13.765528 ]
+				"coordinates" : [ 15931931.0858967789, -1547329.8281474896 ]
 			},
 			"properties" : {
 				"OBJECTID" : "52489",
@@ -150,7 +68,7 @@
 				"Locality" : "COEN",
 				"ItemDateTimeUTM" : "20240617123720",
 				"ItemDateTimeLocal_ISO" : "2024-06-17T22:37:20+10:00",
-				"PublishDateLocal_ISO" : "2024-06-30T23:46:06+10:00",
+				"PublishDateLocal_ISO" : "2024-07-01T23:46:05+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-06-18T22:37:20+10:00"
 			}
 		},
@@ -158,7 +76,39 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 143.323448, -15.108533 ]
+				"coordinates" : [ 17027915.5552749112, -3097946.3241423378 ]
+			},
+			"properties" : {
+				"OBJECTID" : "53216",
+				"UniqueID" : "QF4-24-070904",
+				"WarningTitle" : "Information - LANDSBOROUGH",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : "100",
+				"WarningArea" : "LANDSBOROUGH",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "CUNNINGHAM AVE & BEECH RD",
+				"Jurisdiction" : "4 North Coast Region",
+				"Latitude" : -26.795508,
+				"Longitude" : 152.964368,
+				"VehiclesAssigned" : "0",
+				"VehiclesOnRoute" : "0",
+				"VehiclesOnScene" : "0",
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "LANDSBOROUGH",
+				"ItemDateTimeUTM" : "20240623161139.94",
+				"ItemDateTimeLocal_ISO" : "2024-06-24T02:11:39+10:00",
+				"PublishDateLocal_ISO" : "2024-07-01T23:46:05+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-06-25T02:11:39.94+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 15954693.2500962242, -1701711.361890272 ]
 			},
 			"properties" : {
 				"OBJECTID" : "53689",
@@ -182,40 +132,8 @@
 				"Locality" : "DIXIE",
 				"ItemDateTimeUTM" : "20240609133932",
 				"ItemDateTimeLocal_ISO" : "2024-06-09T23:39:32+10:00",
-				"PublishDateLocal_ISO" : "2024-06-30T23:46:06+10:00",
+				"PublishDateLocal_ISO" : "2024-07-01T23:46:05+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-06-10T23:39:32+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 151.797661, -26.849137 ]
-			},
-			"properties" : {
-				"OBJECTID" : "54789",
-				"UniqueID" : "QF4-24-073655",
-				"WarningTitle" : "Information - MAIDENWELL",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : "100",
-				"WarningArea" : "MAIDENWELL",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "Kingaroy Cooyar Rd",
-				"Jurisdiction" : "4 North Coast Region",
-				"Latitude" : -26.849137,
-				"Longitude" : 151.797661,
-				"VehiclesAssigned" : "0",
-				"VehiclesOnRoute" : "0",
-				"VehiclesOnScene" : "0",
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "MAIDENWELL",
-				"ItemDateTimeUTM" : "20240629123203.717",
-				"ItemDateTimeLocal_ISO" : "2024-06-29T22:32:03+10:00",
-				"PublishDateLocal_ISO" : "2024-06-30T23:46:06+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-06-30T22:32:03.717+10:00"
 			}
 		}
 	]
