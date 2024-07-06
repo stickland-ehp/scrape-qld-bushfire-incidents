@@ -1,18 +1,60 @@
 {
 	"type" : "FeatureCollection",
 	"name" : "QFESWarnings",
-	"crs" : {
-		"type" : "name",
-		"properties" : {
-			"name" : "EPSG:3857"
-		}
-	},
 	"features" : [
 		{
 			"type" : "Feature",
 			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 146.7124242126, -19.2422141709, 0 ],
+						[ 146.6987771331, -19.2289507992, 0 ],
+						[ 146.6898507415, -19.2273839763, 0 ],
+						[ 146.6767949425, -19.2510360194, 0 ],
+						[ 146.6896790802, -19.275840521, 0 ],
+						[ 146.7394608795, -19.2763266345, 0 ],
+						[ 146.7408341705, -19.2422952065, 0 ],
+						[ 146.7124242126, -19.2422141709, 0 ]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : "3998",
+				"UniqueID" : "IF39-3535021",
+				"WarningTitle" : "AVOID SMOKE - Mount Louisa (Townsville) - fire as at  5:07pm Saturday,  6 July 2024",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "AVOID SMOKE",
+				"WarningText" : "\nAVOID SMOKE - Mount Louisa (Townsville) - fire as at  5:07pm Saturday,  6 July 2024 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Mount Louisa, Cosgrove, Burdell and surrounding areas\n\n\n \n\nSmoke is currently affecting Mount Louisa, Cosgrove, Burdell and surrounding areas. This is from a fire burning between Cosgrove Drive, Woolcock Street and Weston Street.\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFES website.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- No properties are at risk.\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- Some roads may be closed.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFES Current Bushfires and Warnings website.\n\n- Follow QFES on Facebook and Twitter.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFES website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if the situation changes.\n\n \n\nThis warning is from Queensland Fire and Emergency Services.\n\n",
+				"Header" : "Smoke is currently affecting Mount Louisa, Cosgrove, Burdell and surrounding areas. This is from a fire burning between Cosgrove Drive, Woolcock Street and Weston Street.",
+				"Impacts" : "- No properties are at risk.\r\n\r\n- Smoke can make it hard for some people to breathe.\r\n\r\n- Smoke can make it hard to see when you are driving.\r\n\r\n- Some roads may be closed.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFES Current Bushfires and Warnings website.\n\n- Follow QFES on Facebook and Twitter.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFES website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from Queensland Fire and Emergency Services.",
+				"WarningLevelSort" : "7",
+				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFES website.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "Mount Louisa, Cosgrove, Burdell and surrounding areas",
+				"Master_Incident_Number" : "QF1-24-075890",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Weston St & Woolcock St",
+				"Jurisdiction" : "1 Northern Region",
+				"Latitude" : -19.257808290178,
+				"Longitude" : 146.70965616241,
+				"VehiclesAssigned" : "0",
+				"VehiclesOnRoute" : "0",
+				"VehiclesOnScene" : "0",
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "MOUNT LOUISA",
+				"ItemDateTimeUTM" : "20240706070600",
+				"ItemDateTimeLocal_ISO" : "2024-07-06T17:06:00+10:00",
+				"PublishDateLocal_ISO" : "2024-07-06T23:46:06+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-07-07T17:06:00+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 15878426.597161388, -1397376.2847698743 ]
+				"coordinates" : [ 142.638333, -12.453611 ]
 			},
 			"properties" : {
 				"OBJECTID" : "55564",
@@ -36,7 +78,7 @@
 				"Locality" : "WENLOCK",
 				"ItemDateTimeUTM" : "20240625171037",
 				"ItemDateTimeLocal_ISO" : "2024-06-26T03:10:37+10:00",
-				"PublishDateLocal_ISO" : "2024-07-05T23:46:06+10:00",
+				"PublishDateLocal_ISO" : "2024-07-06T23:46:06+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-06-27T03:10:37+10:00"
 			}
 		},
@@ -44,7 +86,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 15771051.0446074307, -1674800.2627164656 ]
+				"coordinates" : [ 141.673762, -14.875015 ]
 			},
 			"properties" : {
 				"OBJECTID" : "55772",
@@ -68,7 +110,7 @@
 				"Locality" : "PORMPURAAW",
 				"ItemDateTimeUTM" : "20240703140224",
 				"ItemDateTimeLocal_ISO" : "2024-07-04T00:02:24+10:00",
-				"PublishDateLocal_ISO" : "2024-07-05T23:46:06+10:00",
+				"PublishDateLocal_ISO" : "2024-07-06T23:46:06+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-07-05T00:02:24+10:00"
 			}
 		},
@@ -76,7 +118,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16042706.7809775285, -1669048.6397543345 ]
+				"coordinates" : [ 144.114087, -14.825073 ]
 			},
 			"properties" : {
 				"OBJECTID" : "55996",
@@ -88,19 +130,19 @@
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : "100",
 				"WarningArea" : "LAKEFIELD",
-				"CurrentStatus" : "Going",
+				"CurrentStatus" : "Patrolled",
 				"Location" : "Lakefield Rd",
 				"Jurisdiction" : "7 Far Northern Region",
 				"Latitude" : -14.825073,
 				"Longitude" : 144.114087,
 				"VehiclesAssigned" : "0",
 				"VehiclesOnRoute" : "0",
-				"VehiclesOnScene" : "1",
+				"VehiclesOnScene" : "0",
 				"GroupedType" : "FIRE PERMITTED BURN",
 				"Locality" : "LAKEFIELD",
 				"ItemDateTimeUTM" : "20240704150434",
 				"ItemDateTimeLocal_ISO" : "2024-07-05T01:04:34+10:00",
-				"PublishDateLocal_ISO" : "2024-07-05T23:46:06+10:00",
+				"PublishDateLocal_ISO" : "2024-07-06T23:46:06+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-07-06T01:04:34+10:00"
 			}
 		},
@@ -108,32 +150,96 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16340029.7862983048, -2184555.2529874207 ]
+				"coordinates" : [ 142.667297, -13.663156 ]
 			},
 			"properties" : {
-				"OBJECTID" : "56070",
-				"UniqueID" : "QF1-24-075521",
-				"WarningTitle" : "Information - ROWES BAY",
+				"OBJECTID" : "56300",
+				"UniqueID" : "QF7-24-075429",
+				"WarningTitle" : "Information - COEN",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : "100",
-				"WarningArea" : "ROWES BAY",
-				"CurrentStatus" : "Contained",
-				"Location" : "John Melton Black Dr",
-				"Jurisdiction" : "1 Northern Region",
-				"Latitude" : -19.251388,
-				"Longitude" : 146.784985,
+				"WarningArea" : "COEN",
+				"CurrentStatus" : "Going",
+				"Location" : "Rokeby Rd",
+				"Jurisdiction" : "7 Far Northern Region",
+				"Latitude" : -13.663156,
+				"Longitude" : 142.667297,
+				"VehiclesAssigned" : "0",
+				"VehiclesOnRoute" : "0",
+				"VehiclesOnScene" : "0",
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "COEN",
+				"ItemDateTimeUTM" : "20240704130523",
+				"ItemDateTimeLocal_ISO" : "2024-07-04T23:05:23+10:00",
+				"PublishDateLocal_ISO" : "2024-07-06T23:46:06+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-07-05T23:05:23+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 141.85642, -12.660425 ]
+			},
+			"properties" : {
+				"OBJECTID" : "56351",
+				"UniqueID" : "QF7-24-075938",
+				"WarningTitle" : "Information - MISSION RIVER",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : "100",
+				"WarningArea" : "MISSION RIVER",
+				"CurrentStatus" : "Going",
+				"Location" : "John Evans Dr",
+				"Jurisdiction" : "7 Far Northern Region",
+				"Latitude" : -12.660425,
+				"Longitude" : 141.85642,
+				"VehiclesAssigned" : "0",
+				"VehiclesOnRoute" : "0",
+				"VehiclesOnScene" : "3",
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "MISSION RIVER",
+				"ItemDateTimeUTM" : "20240705203146.39",
+				"ItemDateTimeLocal_ISO" : "2024-07-06T06:31:46+10:00",
+				"PublishDateLocal_ISO" : "2024-07-06T23:46:06+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-07-07T06:31:46.39+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 150.459242, -23.432027 ]
+			},
+			"properties" : {
+				"OBJECTID" : "56366",
+				"UniqueID" : "QF2-24-076023",
+				"WarningTitle" : "Information - GRACEMERE",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : "100",
+				"WarningArea" : "GRACEMERE",
+				"CurrentStatus" : "Going",
+				"Location" : "PLATEN ST & ARTHUR ST",
+				"Jurisdiction" : "2 Central Region",
+				"Latitude" : -23.432027,
+				"Longitude" : 150.459242,
 				"VehiclesAssigned" : "0",
 				"VehiclesOnRoute" : "0",
 				"VehiclesOnScene" : "0",
 				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "ROWES BAY",
-				"ItemDateTimeUTM" : "20240704184957",
-				"ItemDateTimeLocal_ISO" : "2024-07-05T04:49:57+10:00",
-				"PublishDateLocal_ISO" : "2024-07-05T23:46:06+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-07-06T04:49:57+10:00"
+				"Locality" : "GRACEMERE",
+				"ItemDateTimeUTM" : "20240706002442",
+				"ItemDateTimeLocal_ISO" : "2024-07-06T10:24:42+10:00",
+				"PublishDateLocal_ISO" : "2024-07-06T23:46:06+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-07-07T10:24:42+10:00"
 			}
 		}
 	]
