@@ -36,7 +36,7 @@
 				"Locality" : "WENLOCK",
 				"ItemDateTimeUTM" : "20240625171037",
 				"ItemDateTimeLocal_ISO" : "2024-06-26T03:10:37+10:00",
-				"PublishDateLocal_ISO" : "2024-07-07T23:46:03+10:00",
+				"PublishDateLocal_ISO" : "2024-07-08T23:46:04+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-06-27T03:10:37+10:00"
 			}
 		},
@@ -68,7 +68,7 @@
 				"Locality" : "PORMPURAAW",
 				"ItemDateTimeUTM" : "20240703140224",
 				"ItemDateTimeLocal_ISO" : "2024-07-04T00:02:24+10:00",
-				"PublishDateLocal_ISO" : "2024-07-07T23:46:03+10:00",
+				"PublishDateLocal_ISO" : "2024-07-08T23:46:04+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-07-05T00:02:24+10:00"
 			}
 		},
@@ -100,7 +100,7 @@
 				"Locality" : "LAKEFIELD",
 				"ItemDateTimeUTM" : "20240704150434",
 				"ItemDateTimeLocal_ISO" : "2024-07-05T01:04:34+10:00",
-				"PublishDateLocal_ISO" : "2024-07-07T23:46:03+10:00",
+				"PublishDateLocal_ISO" : "2024-07-08T23:46:04+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-07-06T01:04:34+10:00"
 			}
 		},
@@ -108,32 +108,96 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 15881650.854892727, -1535599.3904788131 ]
+				"coordinates" : [ 16748539.2556208484, -3134789.5871647187 ]
 			},
 			"properties" : {
-				"OBJECTID" : "56300",
-				"UniqueID" : "QF7-24-075429",
-				"WarningTitle" : "Information - COEN",
+				"OBJECTID" : "56614",
+				"UniqueID" : "QF3-24-076453",
+				"WarningTitle" : "Information - TARA",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : "100",
-				"WarningArea" : "COEN",
+				"WarningArea" : "TARA",
 				"CurrentStatus" : "Going",
-				"Location" : "Rokeby Rd",
+				"Location" : "Golden Glow Rd",
+				"Jurisdiction" : "3 South Western Region",
+				"Latitude" : -27.090552,
+				"Longitude" : 150.454688,
+				"VehiclesAssigned" : "0",
+				"VehiclesOnRoute" : "0",
+				"VehiclesOnScene" : "1",
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "TARA",
+				"ItemDateTimeUTM" : "20240707120742",
+				"ItemDateTimeLocal_ISO" : "2024-07-07T22:07:42+10:00",
+				"PublishDateLocal_ISO" : "2024-07-08T23:46:04+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-07-08T22:07:42+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 16889910.3335096911, -3016098.0819524447 ]
+			},
+			"properties" : {
+				"OBJECTID" : "56683",
+				"UniqueID" : "QF4-24-076560",
+				"WarningTitle" : "Information - MARSHLANDS",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : "100",
+				"WarningArea" : "MARSHLANDS",
+				"CurrentStatus" : "Going",
+				"Location" : "Paddys Rd",
+				"Jurisdiction" : "4 North Coast Region",
+				"Latitude" : -26.137316,
+				"Longitude" : 151.724646,
+				"VehiclesAssigned" : "0",
+				"VehiclesOnRoute" : "0",
+				"VehiclesOnScene" : "1",
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "MARSHLANDS",
+				"ItemDateTimeUTM" : "20240707173858.95",
+				"ItemDateTimeLocal_ISO" : "2024-07-08T03:38:58+10:00",
+				"PublishDateLocal_ISO" : "2024-07-08T23:46:04+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-07-09T03:38:58.95+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 15794793.8222012743, -1422783.3362015015 ]
+			},
+			"properties" : {
+				"OBJECTID" : "56745",
+				"UniqueID" : "QF7-24-076656",
+				"WarningTitle" : "Information - MISSION RIVER",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : "100",
+				"WarningArea" : "MISSION RIVER",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Thungganh Cl",
 				"Jurisdiction" : "7 Far Northern Region",
-				"Latitude" : -13.663156,
-				"Longitude" : 142.667297,
+				"Latitude" : -12.67638,
+				"Longitude" : 141.887047,
 				"VehiclesAssigned" : "0",
 				"VehiclesOnRoute" : "0",
 				"VehiclesOnScene" : "0",
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "COEN",
-				"ItemDateTimeUTM" : "20240704130523",
-				"ItemDateTimeLocal_ISO" : "2024-07-04T23:05:23+10:00",
-				"PublishDateLocal_ISO" : "2024-07-07T23:46:03+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-07-05T23:05:23+10:00"
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "MISSION RIVER",
+				"ItemDateTimeUTM" : "20240707221017",
+				"ItemDateTimeLocal_ISO" : "2024-07-08T08:10:17+10:00",
+				"PublishDateLocal_ISO" : "2024-07-08T23:46:04+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-07-09T08:10:17+10:00"
 			}
 		},
 		{
@@ -143,8 +207,8 @@
 				"coordinates" : [ 15791384.4401567504, -1420962.9167670864 ]
 			},
 			"properties" : {
-				"OBJECTID" : "56569",
-				"UniqueID" : "QF7-24-076125",
+				"OBJECTID" : "56774",
+				"UniqueID" : "QF7-24-076426",
 				"WarningTitle" : "Information - MISSION RIVER",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
@@ -152,20 +216,20 @@
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : "100",
 				"WarningArea" : "MISSION RIVER",
-				"CurrentStatus" : "Going",
-				"Location" : "JOHN EVANS DR",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "KERR POINT DR & FLORENCE HIBBERD DR",
 				"Jurisdiction" : "7 Far Northern Region",
 				"Latitude" : -12.660425,
 				"Longitude" : 141.85642,
 				"VehiclesAssigned" : "0",
 				"VehiclesOnRoute" : "0",
-				"VehiclesOnScene" : "3",
+				"VehiclesOnScene" : "2",
 				"GroupedType" : "FIRE PERMITTED BURN",
 				"Locality" : "MISSION RIVER",
-				"ItemDateTimeUTM" : "20240706093243.387",
-				"ItemDateTimeLocal_ISO" : "2024-07-06T19:32:43+10:00",
-				"PublishDateLocal_ISO" : "2024-07-07T23:46:03+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-07-07T19:32:43.387+10:00"
+				"ItemDateTimeUTM" : "20240707092017.113",
+				"ItemDateTimeLocal_ISO" : "2024-07-07T19:20:17+10:00",
+				"PublishDateLocal_ISO" : "2024-07-08T23:46:04+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-07-08T19:20:17.113+10:00"
 			}
 		}
 	]
