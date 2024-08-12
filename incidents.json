@@ -1,136 +1,18 @@
 {
 	"type" : "FeatureCollection",
 	"name" : "QFESWarnings",
+	"crs" : {
+		"type" : "name",
+		"properties" : {
+			"name" : "EPSG:3857"
+		}
+	},
 	"features" : [
 		{
 			"type" : "Feature",
 			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 146.9196978435, -19.3648870755, 0 ],
-						[ 146.8759241924, -19.3444801223, 0 ],
-						[ 146.8290606365, -19.3597045991, 0 ],
-						[ 146.8132677898, -19.3922542955, 0 ],
-						[ 146.8221941814, -19.4337012015, 0 ],
-						[ 146.8894854412, -19.4131409711, 0 ],
-						[ 146.9196978435, -19.3648870755, 0 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : "4171",
-				"UniqueID" : "IF39-3591821",
-				"WarningTitle" : "AVOID SMOKE - Julago (near Townsville) - fire as at  4:28pm Saturday, 10 August 2024",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "AVOID SMOKE",
-				"WarningText" : "\nAVOID SMOKE - Julago (near Townsville) - fire as at  4:28pm Saturday, 10 August 2024 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Julago, Roseneath, Oak Valley and surrounding areas\n\n\n \n\nSmoke is currently affecting Julago, Roseneath, Oak Valley and surrounding areas. This is from a fire burning near Splendour Circuit, Julago.\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- No properties are at risk.\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- Some roads may be closed.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if the situation changes.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
-				"Header" : "Smoke is currently affecting Julago, Roseneath, Oak Valley and surrounding areas. This is from a fire burning near Splendour Circuit, Julago.",
-				"Impacts" : "- No properties are at risk.\r\n\r\n- Smoke can make it hard for some people to breathe.\r\n\r\n- Smoke can make it hard to see when you are driving.\r\n\r\n- Some roads may be closed.",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from Queensland Fire Department.",
-				"WarningLevelSort" : "7",
-				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "Julago, Roseneath, Oak Valley and surrounding areas",
-				"Latitude" : -19.387396544774,
-				"Longitude" : 146.86287792774,
-				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20240810062700",
-				"ItemDateTimeLocal_ISO" : "2024-08-10T16:27:00+10:00",
-				"PublishDateLocal_ISO" : "2024-08-11T23:46:04+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-08-11T16:27:00+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 152.6693077082, -25.8718262201, 0 ],
-						[ 152.6933403009, -26.0089035918, 0 ],
-						[ 152.8097267145, -26.0153830272, 0 ],
-						[ 152.9357261652, -25.9479485598, 0 ],
-						[ 152.8770179743, -25.8582332946, 0 ],
-						[ 152.7633781427, -25.8486555221, 0 ],
-						[ 152.6693077082, -25.8718262201, 0 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : "4165",
-				"UniqueID" : "IF39-3590421",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Toolara Forest (near Tin Can Bay) - fire as at  5:14pm Thursday,  8 August 2024",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
-				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Toolara Forest (near Tin Can Bay) - fire as at  5:14pm Thursday,  8 August 2024 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Toolara Forest and surrounding areas\n\n\n \n\nSmoke is currently affecting Toolara Forest and surrounding areas. This is from a hazard reduction burn near Tin Can Bay Road. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
-				"Header" : "Smoke is currently affecting Toolara Forest and surrounding areas. This is from a hazard reduction burn near Tin Can Bay Road. This fire is under control.",
-				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire Department.",
-				"WarningLevelSort" : "8",
-				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "Toolara Forest and surrounding areas",
-				"Latitude" : -25.940187207096,
-				"Longitude" : 152.79463828946,
-				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20240808071400",
-				"ItemDateTimeLocal_ISO" : "2024-08-08T17:14:00+10:00",
-				"PublishDateLocal_ISO" : "2024-08-11T23:46:04+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-08-09T17:14:00+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 152.127016653, -27.4414052907, 0 ],
-						[ 152.1108804836, -27.4313499647, 0 ],
-						[ 152.0916544094, -27.4331782739, 0 ],
-						[ 152.0638452663, -27.4414052907, 0 ],
-						[ 152.0504556789, -27.4444521783, 0 ],
-						[ 152.0301996364, -27.4511550347, 0 ],
-						[ 152.0216165676, -27.4590760673, 0 ],
-						[ 152.0229898586, -27.4773532012, 0 ],
-						[ 152.019556631, -27.4925818303, 0 ],
-						[ 152.0803247585, -27.5032406176, 0 ],
-						[ 152.0950876369, -27.49928176, 0 ],
-						[ 152.1249567165, -27.4843586321, 0 ],
-						[ 152.1349130764, -27.4630363701, 0 ],
-						[ 152.127016653, -27.4414052907, 0 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : "4169",
-				"UniqueID" : "IF39-3591221",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - White Mountain (near Helidon) - fire as at  2:17pm Friday,  9 August 2024",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
-				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - White Mountain (near Helidon) - fire as at  2:17pm Friday,  9 August 2024 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: White Mountain and surrounding areas\n\n\n \n\nSmoke is currently affecting White Mountain and surrounding areas. This is from a hazard reduction burn at White Mountain. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
-				"Header" : "Smoke is currently affecting White Mountain and surrounding areas. This is from a hazard reduction burn at White Mountain. This fire is under control.",
-				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire Department.",
-				"WarningLevelSort" : "8",
-				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "White Mountain and surrounding areas",
-				"Latitude" : -27.456334235772,
-				"Longitude" : 152.11397038837,
-				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20240809041700",
-				"ItemDateTimeLocal_ISO" : "2024-08-09T14:17:00+10:00",
-				"PublishDateLocal_ISO" : "2024-08-11T23:46:04+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-08-10T14:17:00+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 153.074669, -26.720155 ]
+				"coordinates" : [ 17040194.2064289004, -3088552.1087557245 ]
 			},
 			"properties" : {
 				"OBJECTID" : "65749",
@@ -154,7 +36,7 @@
 				"Locality" : "SIPPY DOWNS",
 				"ItemDateTimeUTM" : "20240806103514.41",
 				"ItemDateTimeLocal_ISO" : "2024-08-06T20:35:14+10:00",
-				"PublishDateLocal_ISO" : "2024-08-11T23:46:04+10:00",
+				"PublishDateLocal_ISO" : "2024-08-12T23:46:05+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-08-07T20:35:14.41+10:00"
 			}
 		},
@@ -162,7 +44,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 145.551675, -16.979546 ]
+				"coordinates" : [ 16202738.3451080453, -1918444.204506038 ]
 			},
 			"properties" : {
 				"OBJECTID" : "66240",
@@ -186,7 +68,7 @@
 				"Locality" : "MAREEBA",
 				"ItemDateTimeUTM" : "20240808112545",
 				"ItemDateTimeLocal_ISO" : "2024-08-08T21:25:45+10:00",
-				"PublishDateLocal_ISO" : "2024-08-11T23:46:04+10:00",
+				"PublishDateLocal_ISO" : "2024-08-12T23:46:05+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-08-09T21:25:45+10:00"
 			}
 		},
@@ -194,7 +76,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 142.411019, -9.221121 ]
+				"coordinates" : [ 15853122.1184312087, -1030950.6517046245 ]
 			},
 			"properties" : {
 				"OBJECTID" : "66288",
@@ -218,7 +100,7 @@
 				"Locality" : "POSSESSION ISLAND",
 				"ItemDateTimeUTM" : "20240808145713",
 				"ItemDateTimeLocal_ISO" : "2024-08-09T00:57:13+10:00",
-				"PublishDateLocal_ISO" : "2024-08-11T23:46:04+10:00",
+				"PublishDateLocal_ISO" : "2024-08-12T23:46:05+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-08-10T00:57:13+10:00"
 			}
 		},
@@ -226,39 +108,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 146.775207, -19.251691 ]
-			},
-			"properties" : {
-				"OBJECTID" : "66441",
-				"UniqueID" : "QF1-24-092807",
-				"WarningTitle" : "Information - GARBUTT",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : "100",
-				"WarningArea" : "GARBUTT",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "Mustang Ct & Wirraway Dr",
-				"Jurisdiction" : "1 Northern Region",
-				"Latitude" : -19.251691,
-				"Longitude" : 146.775207,
-				"VehiclesAssigned" : "0",
-				"VehiclesOnRoute" : "0",
-				"VehiclesOnScene" : "0",
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "GARBUTT",
-				"ItemDateTimeUTM" : "20240809010335",
-				"ItemDateTimeLocal_ISO" : "2024-08-09T11:03:35+10:00",
-				"PublishDateLocal_ISO" : "2024-08-11T23:46:04+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-08-10T11:03:35+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 138.873138, -20.16244 ]
+				"coordinates" : [ 15459287.0070240106, -2292284.1360924132 ]
 			},
 			"properties" : {
 				"OBJECTID" : "66899",
@@ -282,7 +132,7 @@
 				"Locality" : "GUNPOWDER",
 				"ItemDateTimeUTM" : "20240810134547",
 				"ItemDateTimeLocal_ISO" : "2024-08-10T23:45:47+10:00",
-				"PublishDateLocal_ISO" : "2024-08-11T23:46:05+10:00",
+				"PublishDateLocal_ISO" : "2024-08-12T23:46:05+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-08-11T23:45:47+10:00"
 			}
 		},
@@ -290,7 +140,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 152.123714, -26.821717 ]
+				"coordinates" : [ 16934334.3800615817, -3101215.2469666898 ]
 			},
 			"properties" : {
 				"OBJECTID" : "66926",
@@ -314,7 +164,7 @@
 				"Locality" : "TAROMEO",
 				"ItemDateTimeUTM" : "20240810163208",
 				"ItemDateTimeLocal_ISO" : "2024-08-11T02:32:08+10:00",
-				"PublishDateLocal_ISO" : "2024-08-11T23:46:05+10:00",
+				"PublishDateLocal_ISO" : "2024-08-12T23:46:05+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-08-12T02:32:08+10:00"
 			}
 		},
@@ -322,64 +172,64 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 151.772126, -26.178895 ]
+				"coordinates" : [ 15942080.1951918881, -1566372.3106372177 ]
 			},
 			"properties" : {
-				"OBJECTID" : "66955",
-				"UniqueID" : "QF4-24-093773",
-				"WarningTitle" : "Information - MONDURE",
+				"OBJECTID" : "67106",
+				"UniqueID" : "QF7-24-094028",
+				"WarningTitle" : "Information - COEN",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : "100",
-				"WarningArea" : "MONDURE",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "Mcconnel Way",
-				"Jurisdiction" : "4 North Coast Region",
-				"Latitude" : -26.178895,
-				"Longitude" : 151.772126,
+				"WarningArea" : "COEN",
+				"CurrentStatus" : "Going",
+				"Location" : "MOUNT CROLL RD",
+				"Jurisdiction" : "7 Far Northern Region",
+				"Latitude" : -13.931617,
+				"Longitude" : 143.210143,
 				"VehiclesAssigned" : "0",
 				"VehiclesOnRoute" : "0",
 				"VehiclesOnScene" : "0",
 				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "MONDURE",
-				"ItemDateTimeUTM" : "20240810175521",
-				"ItemDateTimeLocal_ISO" : "2024-08-11T03:55:21+10:00",
-				"PublishDateLocal_ISO" : "2024-08-11T23:46:05+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-08-12T03:55:21+10:00"
+				"Locality" : "COEN",
+				"ItemDateTimeUTM" : "20240811102431",
+				"ItemDateTimeLocal_ISO" : "2024-08-11T20:24:31+10:00",
+				"PublishDateLocal_ISO" : "2024-08-12T23:46:05+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-08-12T20:24:31+10:00"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 151.772126, -26.178895 ]
+				"coordinates" : [ 15960932.9301941693, -1418282.9827764048 ]
 			},
 			"properties" : {
-				"OBJECTID" : "66956",
-				"UniqueID" : "QF4-24-093774",
-				"WarningTitle" : "Information - MONDURE",
+				"OBJECTID" : "67108",
+				"UniqueID" : "QF7-24-094029",
+				"WarningTitle" : "Information - IRON RANGE",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : "100",
-				"WarningArea" : "MONDURE",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "MCCONNEL WAY & MARJORIE LANE",
-				"Jurisdiction" : "4 North Coast Region",
-				"Latitude" : -26.178895,
-				"Longitude" : 151.772126,
+				"WarningArea" : "IRON RANGE",
+				"CurrentStatus" : "Going",
+				"Location" : "PORTLAND RD",
+				"Jurisdiction" : "7 Far Northern Region",
+				"Latitude" : -12.636935,
+				"Longitude" : 143.3795,
 				"VehiclesAssigned" : "0",
 				"VehiclesOnRoute" : "0",
 				"VehiclesOnScene" : "0",
 				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "MONDURE",
-				"ItemDateTimeUTM" : "20240810175703",
-				"ItemDateTimeLocal_ISO" : "2024-08-11T03:57:03+10:00",
-				"PublishDateLocal_ISO" : "2024-08-11T23:46:05+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-08-12T03:57:03+10:00"
+				"Locality" : "IRON RANGE",
+				"ItemDateTimeUTM" : "20240811102550",
+				"ItemDateTimeLocal_ISO" : "2024-08-11T20:25:50+10:00",
+				"PublishDateLocal_ISO" : "2024-08-12T23:46:05+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-08-12T20:25:50+10:00"
 			}
 		}
 	]
