@@ -37,7 +37,7 @@
 				"GroupedType" : "FIRE VEGETATION",
 				"ItemDateTimeUTM" : "20241128072700",
 				"ItemDateTimeLocal_ISO" : "2024-11-28T17:27:00+10:00",
-				"PublishDateLocal_ISO" : "2024-11-29T23:45:36+10:00",
+				"PublishDateLocal_ISO" : "2024-11-30T23:45:36+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-11-29T17:27:00+10:00"
 			}
 		},
@@ -86,7 +86,7 @@
 				"Locality" : "ELPHINSTONE",
 				"ItemDateTimeUTM" : "20241129070600",
 				"ItemDateTimeLocal_ISO" : "2024-11-29T17:06:00+10:00",
-				"PublishDateLocal_ISO" : "2024-11-29T23:45:36+10:00",
+				"PublishDateLocal_ISO" : "2024-11-30T23:45:36+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-11-30T17:06:00+10:00"
 			}
 		},
@@ -119,20 +119,12 @@
 				"WarningLevelSort" : 7,
 				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
 				"WarningArea" : "Isis Junction and surrounding areas",
-				"Master_Incident_Number" : "QF4-24-151638",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "Buxton Rd",
-				"Jurisdiction" : "4 North Coast Region",
 				"Latitude" : -25.218504674913,
 				"Longitude" : 152.4272793575,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
 				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "BUXTON",
 				"ItemDateTimeUTM" : "20241129071100",
 				"ItemDateTimeLocal_ISO" : "2024-11-29T17:11:00+10:00",
-				"PublishDateLocal_ISO" : "2024-11-29T23:45:36+10:00",
+				"PublishDateLocal_ISO" : "2024-11-30T23:45:36+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-11-30T17:11:00+10:00"
 			}
 		},
@@ -164,7 +156,7 @@
 				"Locality" : "BOYNEDALE",
 				"ItemDateTimeUTM" : "20241114125953",
 				"ItemDateTimeLocal_ISO" : "2024-11-14T22:59:53+10:00",
-				"PublishDateLocal_ISO" : "2024-11-29T23:45:36+10:00",
+				"PublishDateLocal_ISO" : "2024-11-30T23:45:36+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-11-15T22:59:53+10:00"
 			}
 		},
@@ -196,40 +188,8 @@
 				"Locality" : "MOUNT MULGRAVE",
 				"ItemDateTimeUTM" : "20241123001849",
 				"ItemDateTimeLocal_ISO" : "2024-11-23T10:18:49+10:00",
-				"PublishDateLocal_ISO" : "2024-11-29T23:45:36+10:00",
+				"PublishDateLocal_ISO" : "2024-11-30T23:45:36+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-11-24T10:18:49+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 145.470979, -19.442019 ]
-			},
-			"properties" : {
-				"OBJECTID" : 14182,
-				"UniqueID" : "QF1-24-150335",
-				"WarningTitle" : "Information - BASALT",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "BASALT",
-				"CurrentStatus" : "Going",
-				"Location" : "Unknown",
-				"Jurisdiction" : "1 Northern Region",
-				"Latitude" : -19.442019,
-				"Longitude" : 145.470979,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 1,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "BASALT",
-				"ItemDateTimeUTM" : "20241125234737",
-				"ItemDateTimeLocal_ISO" : "2024-11-26T09:47:37+10:00",
-				"PublishDateLocal_ISO" : "2024-11-29T23:45:36+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-11-27T09:47:37+10:00"
 			}
 		},
 		{
@@ -260,7 +220,7 @@
 				"Locality" : "MOUNT SURPRISE",
 				"ItemDateTimeUTM" : "20241126235425",
 				"ItemDateTimeLocal_ISO" : "2024-11-27T09:54:25+10:00",
-				"PublishDateLocal_ISO" : "2024-11-29T23:45:36+10:00",
+				"PublishDateLocal_ISO" : "2024-11-30T23:45:36+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-11-28T09:54:25+10:00"
 			}
 		},
@@ -292,40 +252,8 @@
 				"Locality" : "CANNON CREEK",
 				"ItemDateTimeUTM" : "20241127001731",
 				"ItemDateTimeLocal_ISO" : "2024-11-27T10:17:31+10:00",
-				"PublishDateLocal_ISO" : "2024-11-29T23:45:36+10:00",
+				"PublishDateLocal_ISO" : "2024-11-30T23:45:36+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-11-28T10:17:31+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 145.533639, -19.67945 ]
-			},
-			"properties" : {
-				"OBJECTID" : 14568,
-				"UniqueID" : "QF1-24-151007",
-				"WarningTitle" : "Information - BASALT",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "BASALT",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "Niall Rd & Allensleigh Rd",
-				"Jurisdiction" : "1 Northern Region",
-				"Latitude" : -19.67945,
-				"Longitude" : 145.533639,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "BASALT",
-				"ItemDateTimeUTM" : "20241127144848",
-				"ItemDateTimeLocal_ISO" : "2024-11-28T00:48:48+10:00",
-				"PublishDateLocal_ISO" : "2024-11-29T23:45:36+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-11-29T00:48:48+10:00"
 			}
 		},
 		{
@@ -356,7 +284,7 @@
 				"Locality" : "MAREEBA",
 				"ItemDateTimeUTM" : "20241127145521",
 				"ItemDateTimeLocal_ISO" : "2024-11-28T00:55:21+10:00",
-				"PublishDateLocal_ISO" : "2024-11-29T23:45:36+10:00",
+				"PublishDateLocal_ISO" : "2024-11-30T23:45:36+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-11-29T00:55:21+10:00"
 			}
 		},
@@ -388,7 +316,7 @@
 				"Locality" : "OGMORE",
 				"ItemDateTimeUTM" : "20241127175158.437",
 				"ItemDateTimeLocal_ISO" : "2024-11-28T03:51:58+10:00",
-				"PublishDateLocal_ISO" : "2024-11-29T23:45:36+10:00",
+				"PublishDateLocal_ISO" : "2024-11-30T23:45:36+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-11-29T03:51:58.437+10:00"
 			}
 		},
@@ -420,7 +348,7 @@
 				"Locality" : "BIGGENDEN",
 				"ItemDateTimeUTM" : "20241127184037",
 				"ItemDateTimeLocal_ISO" : "2024-11-28T04:40:37+10:00",
-				"PublishDateLocal_ISO" : "2024-11-29T23:45:36+10:00",
+				"PublishDateLocal_ISO" : "2024-11-30T23:45:36+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-11-29T04:40:37+10:00"
 			}
 		},
@@ -452,7 +380,7 @@
 				"Locality" : "HAMILTON CREEK",
 				"ItemDateTimeUTM" : "20241127185535",
 				"ItemDateTimeLocal_ISO" : "2024-11-28T04:55:35+10:00",
-				"PublishDateLocal_ISO" : "2024-11-29T23:45:36+10:00",
+				"PublishDateLocal_ISO" : "2024-11-30T23:45:36+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-11-29T04:55:35+10:00"
 			}
 		},
@@ -484,40 +412,8 @@
 				"Locality" : "LAKEFIELD",
 				"ItemDateTimeUTM" : "20241128134657",
 				"ItemDateTimeLocal_ISO" : "2024-11-28T23:46:57+10:00",
-				"PublishDateLocal_ISO" : "2024-11-29T23:45:36+10:00",
+				"PublishDateLocal_ISO" : "2024-11-30T23:45:36+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-11-29T23:46:57+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 146.719254, -19.364595 ]
-			},
-			"properties" : {
-				"OBJECTID" : 15031,
-				"UniqueID" : "QF1-24-151807",
-				"WarningTitle" : "Information - GUMLOW",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "GUMLOW",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "Allambie Lane",
-				"Jurisdiction" : "1 Northern Region",
-				"Latitude" : -19.364595,
-				"Longitude" : 146.719254,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "GUMLOW",
-				"ItemDateTimeUTM" : "20241128234215",
-				"ItemDateTimeLocal_ISO" : "2024-11-29T09:42:15+10:00",
-				"PublishDateLocal_ISO" : "2024-11-29T23:45:36+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-11-30T09:42:15+10:00"
 			}
 		},
 		{
@@ -548,8 +444,40 @@
 				"Locality" : "IRON RANGE",
 				"ItemDateTimeUTM" : "20241129023123",
 				"ItemDateTimeLocal_ISO" : "2024-11-29T12:31:23+10:00",
-				"PublishDateLocal_ISO" : "2024-11-29T23:45:36+10:00",
+				"PublishDateLocal_ISO" : "2024-11-30T23:45:36+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-11-30T12:31:23+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 152.611977, -25.192502 ]
+			},
+			"properties" : {
+				"OBJECTID" : 15364,
+				"UniqueID" : "QF4-24-152308",
+				"WarningTitle" : "Information - BURRUM HEADS",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "BURRUM HEADS",
+				"CurrentStatus" : "Going",
+				"Location" : "Burrum Heads Rd & Ivor Dr",
+				"Jurisdiction" : "4 North Coast Region",
+				"Latitude" : -25.192502,
+				"Longitude" : 152.611977,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 1,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "BURRUM HEADS",
+				"ItemDateTimeUTM" : "20241130030055",
+				"ItemDateTimeLocal_ISO" : "2024-11-30T13:00:55+10:00",
+				"PublishDateLocal_ISO" : "2024-11-30T23:45:36+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-12-01T13:00:55+10:00"
 			}
 		}
 	]
