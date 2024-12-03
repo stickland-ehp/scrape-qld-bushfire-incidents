@@ -1,18 +1,49 @@
 {
 	"type" : "FeatureCollection",
 	"name" : "QFDWarnings",
-	"crs" : {
-		"type" : "name",
-		"properties" : {
-			"name" : "EPSG:3857"
-		}
-	},
 	"features" : [
 		{
 			"type" : "Feature",
 			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 152.364212502, -24.8585569745, 0 ],
+						[ 152.3690190206, -24.8741316596, 0 ],
+						[ 152.3923220525, -24.864787084, 0 ],
+						[ 152.3853697667, -24.8512361947, 0 ],
+						[ 152.364212502, -24.8585569745, 0 ]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 5318,
+				"UniqueID" : "IF39-4069621",
+				"WarningTitle" : "AVOID SMOKE - Bundaberg East and Kepnock - fire as at 10:37am Tuesday,  3 December 2024",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "AVOID SMOKE",
+				"WarningText" : "\nAVOID SMOKE - Bundaberg East and Kepnock - fire as at 10:37am Tuesday,  3 December 2024 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Bundaberg East, Kepnock and surrounding areas\n\n\n \n\nSmoke is currently affecting Bundaberg East, Kepnock and surrounding areas. This is from a fire burning near Steptoe Street.\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- No properties are at risk.\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- Some roads may be closed.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if the situation changes.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"Header" : "Smoke is currently affecting Bundaberg East, Kepnock and surrounding areas. This is from a fire burning near Steptoe Street.",
+				"Impacts" : "- No properties are at risk.\r\n\r\n- Smoke can make it hard for some people to breathe.\r\n\r\n- Smoke can make it hard to see when you are driving.\r\n\r\n- Some roads may be closed.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from Queensland Fire Department.",
+				"WarningLevelSort" : 7,
+				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "Bundaberg East, Kepnock and surrounding areas",
+				"Latitude" : -24.863151710618,
+				"Longitude" : 152.37764500475,
+				"GroupedType" : "FIRE VEGETATION",
+				"ItemDateTimeUTM" : "20241203003700",
+				"ItemDateTimeLocal_ISO" : "2024-12-03T10:37:00+10:00",
+				"PublishDateLocal_ISO" : "2024-12-03T23:45:48+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-12-04T10:37:00+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16840724.2617806457, -2776223.6891974593 ]
+				"coordinates" : [ 151.2828, -24.1871 ]
 			},
 			"properties" : {
 				"OBJECTID" : 11153,
@@ -36,7 +67,7 @@
 				"Locality" : "BOYNEDALE",
 				"ItemDateTimeUTM" : "20241114125953",
 				"ItemDateTimeLocal_ISO" : "2024-11-14T22:59:53+10:00",
-				"PublishDateLocal_ISO" : "2024-12-02T23:45:35+10:00",
+				"PublishDateLocal_ISO" : "2024-12-03T23:45:48+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-11-15T22:59:53+10:00"
 			}
 		},
@@ -44,39 +75,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16924534.5913285762, -2939219.5515961065 ]
-			},
-			"properties" : {
-				"OBJECTID" : 14630,
-				"UniqueID" : "QF4-24-151131",
-				"WarningTitle" : "Information - BIGGENDEN",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "BIGGENDEN",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "ISIS HWY",
-				"Jurisdiction" : "4 North Coast Region",
-				"Latitude" : -25.515689,
-				"Longitude" : 152.035681,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "BIGGENDEN",
-				"ItemDateTimeUTM" : "20241127184037",
-				"ItemDateTimeLocal_ISO" : "2024-11-28T04:40:37+10:00",
-				"PublishDateLocal_ISO" : "2024-12-02T23:45:35+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-11-29T04:40:37+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 16077673.9028280601, -1725744.2731018839 ]
+				"coordinates" : [ 144.428202, -15.316859 ]
 			},
 			"properties" : {
 				"OBJECTID" : 14870,
@@ -100,40 +99,8 @@
 				"Locality" : "LAKEFIELD",
 				"ItemDateTimeUTM" : "20241128134657",
 				"ItemDateTimeLocal_ISO" : "2024-11-28T23:46:57+10:00",
-				"PublishDateLocal_ISO" : "2024-12-02T23:45:35+10:00",
+				"PublishDateLocal_ISO" : "2024-12-03T23:45:48+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-11-29T23:46:57+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 16011230.4157192931, -2396802.3029856761 ]
-			},
-			"properties" : {
-				"OBJECTID" : 15681,
-				"UniqueID" : "QF1-24-152722",
-				"WarningTitle" : "Information - MARATHON",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "MARATHON",
-				"CurrentStatus" : "Going",
-				"Location" : "UNNAMED MARATHON RD",
-				"Jurisdiction" : "1 Northern Region",
-				"Latitude" : -21.041287,
-				"Longitude" : 143.83133,
-				"VehiclesAssigned" : 1,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "MARATHON",
-				"ItemDateTimeUTM" : "20241201010114",
-				"ItemDateTimeLocal_ISO" : "2024-12-01T11:01:14+10:00",
-				"PublishDateLocal_ISO" : "2024-12-02T23:45:35+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-12-02T11:01:14+10:00"
 			}
 		}
 	]
