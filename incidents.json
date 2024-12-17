@@ -31,12 +31,12 @@
 				"Longitude" : 144.428202,
 				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
+				"VehiclesOnScene" : 1,
 				"GroupedType" : "FIRE PERMITTED BURN",
 				"Locality" : "LAKEFIELD",
 				"ItemDateTimeUTM" : "20241128134657",
 				"ItemDateTimeLocal_ISO" : "2024-11-28T23:46:57+10:00",
-				"PublishDateLocal_ISO" : "2024-12-16T23:45:39+10:00",
+				"PublishDateLocal_ISO" : "2024-12-17T23:45:35+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-11-29T23:46:57+10:00"
 			}
 		},
@@ -68,7 +68,7 @@
 				"Locality" : "INJINOO",
 				"ItemDateTimeUTM" : "20241203154211",
 				"ItemDateTimeLocal_ISO" : "2024-12-04T01:42:11+10:00",
-				"PublishDateLocal_ISO" : "2024-12-16T23:45:40+10:00",
+				"PublishDateLocal_ISO" : "2024-12-17T23:45:35+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-12-05T01:42:11+10:00"
 			}
 		},
@@ -100,7 +100,7 @@
 				"Locality" : "LOCKHART",
 				"ItemDateTimeUTM" : "20241210102926",
 				"ItemDateTimeLocal_ISO" : "2024-12-10T20:29:26+10:00",
-				"PublishDateLocal_ISO" : "2024-12-16T23:45:40+10:00",
+				"PublishDateLocal_ISO" : "2024-12-17T23:45:35+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-12-11T20:29:26+10:00"
 			}
 		},
@@ -132,7 +132,7 @@
 				"Locality" : "COEN",
 				"ItemDateTimeUTM" : "20241215115054",
 				"ItemDateTimeLocal_ISO" : "2024-12-15T21:50:54+10:00",
-				"PublishDateLocal_ISO" : "2024-12-16T23:45:40+10:00",
+				"PublishDateLocal_ISO" : "2024-12-17T23:45:35+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-12-16T21:50:54+10:00"
 			}
 		},
@@ -164,8 +164,72 @@
 				"Locality" : "COEN",
 				"ItemDateTimeUTM" : "20241215115409",
 				"ItemDateTimeLocal_ISO" : "2024-12-15T21:54:09+10:00",
-				"PublishDateLocal_ISO" : "2024-12-16T23:45:40+10:00",
+				"PublishDateLocal_ISO" : "2024-12-17T23:45:35+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-12-16T21:54:09+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 16458626.7888021804, -2342464.40866797 ]
+			},
+			"properties" : {
+				"OBJECTID" : 1367,
+				"UniqueID" : "QF1-24-159647",
+				"WarningTitle" : "Information - COLLINSVILLE",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "COLLINSVILLE",
+				"CurrentStatus" : "Going",
+				"Location" : "Bowen Developmental Rd",
+				"Jurisdiction" : "1 Northern Region",
+				"Latitude" : -20.585016,
+				"Longitude" : 147.85036,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 1,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "COLLINSVILLE",
+				"ItemDateTimeUTM" : "20241216191953",
+				"ItemDateTimeLocal_ISO" : "2024-12-17T05:19:53+10:00",
+				"PublishDateLocal_ISO" : "2024-12-17T23:45:35+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-12-18T05:19:53+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 15934307.9796641935, -2355795.2874157764 ]
+			},
+			"properties" : {
+				"OBJECTID" : 1416,
+				"UniqueID" : "QF1-24-159712",
+				"WarningTitle" : "Information - RICHMOND",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "RICHMOND",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "RICHMOND WOOLGAR RD",
+				"Jurisdiction" : "1 Northern Region",
+				"Latitude" : -20.697082,
+				"Longitude" : 143.140324,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "RICHMOND",
+				"ItemDateTimeUTM" : "20241216211957",
+				"ItemDateTimeLocal_ISO" : "2024-12-17T07:19:57+10:00",
+				"PublishDateLocal_ISO" : "2024-12-17T23:45:35+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-12-18T07:19:57+10:00"
 			}
 		}
 	]
