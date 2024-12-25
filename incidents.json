@@ -1,18 +1,69 @@
 {
 	"type" : "FeatureCollection",
 	"name" : "QFDWarnings",
-	"crs" : {
-		"type" : "name",
-		"properties" : {
-			"name" : "EPSG:3857"
-		}
-	},
 	"features" : [
 		{
 			"type" : "Feature",
 			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 152.7200079145, -25.561467964, 0 ],
+						[ 152.7267027081, -25.553935429, 0 ],
+						[ 152.7343416394, -25.5371765674, 0 ],
+						[ 152.7399206342, -25.5210377141, 0 ],
+						[ 152.7545118512, -25.4757988854, 0 ],
+						[ 152.7491903485, -25.4592170283, 0 ],
+						[ 152.6595831098, -25.4443369153, 0 ],
+						[ 152.6252508344, -25.45022718, 0 ],
+						[ 152.61598112, -25.5184092458, 0 ],
+						[ 152.6439619245, -25.5111280069, 0 ],
+						[ 152.649487275, -25.5113647045, 0 ],
+						[ 152.6634240331, -25.5188826205, 0 ],
+						[ 152.6751613797, -25.5332980115, 0 ],
+						[ 152.6807832898, -25.5398223875, 0 ],
+						[ 152.6896238507, -25.5460562444, 0 ],
+						[ 152.699751872, -25.5501606014, 0 ],
+						[ 152.7200079145, -25.561467964, 0 ]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 5343,
+				"UniqueID" : "IF39-4083821",
+				"WarningTitle" : "AVOID SMOKE - Maryborough - fire as at  5:44pm Wednesday, 25 December 2024",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "AVOID SMOKE",
+				"WarningText" : "\nAVOID SMOKE - Maryborough - fire as at  5:44pm Wednesday, 25 December 2024 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Maryborough and surrounding areas\n\n\n \n\nSmoke is currently affecting Maryborough and surrounding areas. This is from a fire burning near Searle Street, Maryborough.\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- No properties are at risk.\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- Some roads may be closed.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if the situation changes.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"Header" : "Smoke is currently affecting Maryborough and surrounding areas. This is from a fire burning near Searle Street, Maryborough.",
+				"Impacts" : "- No properties are at risk.\r\n\r\n- Smoke can make it hard for some people to breathe.\r\n\r\n- Smoke can make it hard to see when you are driving.\r\n\r\n- Some roads may be closed.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from Queensland Fire Department.",
+				"WarningLevelSort" : 7,
+				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "Maryborough and surrounding areas",
+				"Master_Incident_Number" : "QF4-24-162882",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Searle St",
+				"Jurisdiction" : "4 North Coast Region",
+				"Latitude" : -25.529562627657,
+				"Longitude" : 152.69013883486,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "MARYBOROUGH",
+				"ItemDateTimeUTM" : "20241225074000",
+				"ItemDateTimeLocal_ISO" : "2024-12-25T17:40:00+10:00",
+				"PublishDateLocal_ISO" : "2024-12-25T23:45:38+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-12-26T17:40:00+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16748164.3315758556, -2915318.9904104373 ]
+				"coordinates" : [ 150.45132, -25.321771 ]
 			},
 			"properties" : {
 				"OBJECTID" : 3035,
@@ -36,7 +87,7 @@
 				"Locality" : "EIDSVOLD WEST",
 				"ItemDateTimeUTM" : "20241222195031",
 				"ItemDateTimeLocal_ISO" : "2024-12-23T05:50:31+10:00",
-				"PublishDateLocal_ISO" : "2024-12-24T23:45:35+10:00",
+				"PublishDateLocal_ISO" : "2024-12-25T23:45:38+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-12-24T05:50:31+10:00"
 			}
 		},
@@ -44,39 +95,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16732265.681900762, -2793053.2608449715 ]
-			},
-			"properties" : {
-				"OBJECTID" : 3256,
-				"UniqueID" : "QF2-24-162471",
-				"WarningTitle" : "Information - ORANGE CREEK",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "ORANGE CREEK",
-				"CurrentStatus" : "Going",
-				"Location" : "Davis Rd",
-				"Jurisdiction" : "2 Central Region",
-				"Latitude" : -24.324936,
-				"Longitude" : 150.3085,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 1,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "ORANGE CREEK",
-				"ItemDateTimeUTM" : "20241223172241",
-				"ItemDateTimeLocal_ISO" : "2024-12-24T03:22:41+10:00",
-				"PublishDateLocal_ISO" : "2024-12-24T23:45:36+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-12-25T03:22:41+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 16517334.0165787768, -2702454.6340131755 ]
+				"coordinates" : [ 148.377736, -23.581173 ]
 			},
 			"properties" : {
 				"OBJECTID" : 3273,
@@ -100,7 +119,7 @@
 				"Locality" : "COMET",
 				"ItemDateTimeUTM" : "20241223191552",
 				"ItemDateTimeLocal_ISO" : "2024-12-24T05:15:52+10:00",
-				"PublishDateLocal_ISO" : "2024-12-24T23:45:36+10:00",
+				"PublishDateLocal_ISO" : "2024-12-25T23:45:39+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-12-25T05:15:52+10:00"
 			}
 		},
@@ -108,7 +127,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16723551.4808419775, -2629412.6166644334 ]
+				"coordinates" : [ 150.230219, -22.978449 ]
 			},
 			"properties" : {
 				"OBJECTID" : 3283,
@@ -132,7 +151,7 @@
 				"Locality" : "KUNWARARA",
 				"ItemDateTimeUTM" : "20241223201253",
 				"ItemDateTimeLocal_ISO" : "2024-12-24T06:12:53+10:00",
-				"PublishDateLocal_ISO" : "2024-12-24T23:45:36+10:00",
+				"PublishDateLocal_ISO" : "2024-12-25T23:45:39+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-12-25T06:12:53+10:00"
 			}
 		}
