@@ -30,21 +30,106 @@
 				"WarningLevelSort" : 7,
 				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
 				"WarningArea" : "Howard and surrounding areas",
-				"Master_Incident_Number" : "QF4-24-163591",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "SLAUGHTER HOUSE RD",
-				"Jurisdiction" : "4 North Coast Region",
 				"Latitude" : -25.322256335222,
 				"Longitude" : 152.56416642469,
+				"GroupedType" : "FIRE VEGETATION",
+				"ItemDateTimeUTM" : "20241227070300",
+				"ItemDateTimeLocal_ISO" : "2024-12-27T17:03:00+10:00",
+				"PublishDateLocal_ISO" : "2024-12-28T23:45:37+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-12-28T17:03:00+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "MultiPolygon",
+				"coordinates" : [
+					[
+						[
+							[ 150.3747444077, -23.6528993925, 0 ],
+							[ 150.4018993245, -23.6591765178, 0 ],
+							[ 150.412960042, -23.620727393, 0 ],
+							[ 150.3786277666, -23.6137282809, 0 ],
+							[ 150.3747444077, -23.6528993925, 0 ]
+						]
+					],
+					[
+						[
+							[ 150.3747425135, -23.6529184957, 0 ],
+							[ 150.3747444077, -23.6528993925, 0 ],
+							[ 150.3746909962, -23.6528870456, 0 ],
+							[ 150.3747425135, -23.6529184957, 0 ]
+						]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 5348,
+				"UniqueID" : "IF39-4091621",
+				"WarningTitle" : "AVOID SMOKE - Mount Morgan - fire as at  5:23pm Saturday, 28 December 2024",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "AVOID SMOKE",
+				"WarningText" : "\nAVOID SMOKE - Mount Morgan - fire as at  5:23pm Saturday, 28 December 2024 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Mount Morgan and surrounding areas\n\n\n \n\nSmoke is currently affecting Mount Morgan and surrounding areas. This is from a fire burning near William Street, Baree.\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- No properties are at risk.\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- Some roads may be closed.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if the situation changes.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"Header" : "Smoke is currently affecting Mount Morgan and surrounding areas. This is from a fire burning near William Street, Baree.",
+				"Impacts" : "- No properties are at risk.\r\n\r\n- Smoke can make it hard for some people to breathe.\r\n\r\n- Smoke can make it hard to see when you are driving.\r\n\r\n- Some roads may be closed.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from Queensland Fire Department.",
+				"WarningLevelSort" : 7,
+				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "Mount Morgan and surrounding areas",
+				"Master_Incident_Number" : "QF2-24-163758",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "BURNETT HWY",
+				"Jurisdiction" : "2 Central Region",
+				"Latitude" : -23.635432176601,
+				"Longitude" : 150.38945387466,
 				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
 				"VehiclesOnScene" : 0,
 				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "HOWARD",
-				"ItemDateTimeUTM" : "20241227070300",
-				"ItemDateTimeLocal_ISO" : "2024-12-27T17:03:00+10:00",
-				"PublishDateLocal_ISO" : "2024-12-27T23:45:37+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-12-28T17:03:00+10:00"
+				"Locality" : "BAREE",
+				"ItemDateTimeUTM" : "20241228072100",
+				"ItemDateTimeLocal_ISO" : "2024-12-28T17:21:00+10:00",
+				"PublishDateLocal_ISO" : "2024-12-28T23:45:37+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-12-29T17:21:00+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 151.1958591587, -25.4985671627, 0 ],
+						[ 151.2555973179, -25.5577399905, 0 ],
+						[ 151.2559406406, -25.5574302611, 0 ],
+						[ 151.359967435, -25.4784231599, 0 ],
+						[ 151.2645237095, -25.4412253653, 0 ],
+						[ 151.1958591587, -25.4985671627, 0 ]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 5347,
+				"UniqueID" : "IF39-4091221",
+				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - O'Bil Bil (near Mundubbera) - fire as at  1:02pm Saturday, 28 December 2024",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
+				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - O'Bil Bil (near Mundubbera) - fire as at  1:02pm Saturday, 28 December 2024 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: O'Bil Bil and surrounding areas\n\n\n \n\nSmoke is currently affecting O'Bil Bil and surrounding areas. This is from a hazard reduction burn near the Burnett Highway, O'Bil Bil. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"Header" : "Smoke is currently affecting O'Bil Bil and surrounding areas. This is from a hazard reduction burn near the Burnett Highway, O'Bil Bil. This fire is under control.",
+				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire Department.",
+				"WarningLevelSort" : 8,
+				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "O'Bil Bil and surrounding areas",
+				"Latitude" : -25.492059469446,
+				"Longitude" : 151.27207681004,
+				"GroupedType" : "FIRE VEGETATION",
+				"ItemDateTimeUTM" : "20241228025800",
+				"ItemDateTimeLocal_ISO" : "2024-12-28T12:58:00+10:00",
+				"PublishDateLocal_ISO" : "2024-12-28T23:45:37+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-12-29T12:58:00+10:00"
 			}
 		},
 		{
@@ -75,7 +160,7 @@
 				"Locality" : "EIDSVOLD WEST",
 				"ItemDateTimeUTM" : "20241222195031",
 				"ItemDateTimeLocal_ISO" : "2024-12-23T05:50:31+10:00",
-				"PublishDateLocal_ISO" : "2024-12-27T23:45:37+10:00",
+				"PublishDateLocal_ISO" : "2024-12-28T23:45:37+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-12-24T05:50:31+10:00"
 			}
 		},
@@ -107,7 +192,7 @@
 				"Locality" : "KUNWARARA",
 				"ItemDateTimeUTM" : "20241223201253",
 				"ItemDateTimeLocal_ISO" : "2024-12-24T06:12:53+10:00",
-				"PublishDateLocal_ISO" : "2024-12-27T23:45:37+10:00",
+				"PublishDateLocal_ISO" : "2024-12-28T23:45:37+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-12-25T06:12:53+10:00"
 			}
 		},
@@ -139,40 +224,8 @@
 				"Locality" : "LONGREACH",
 				"ItemDateTimeUTM" : "20241226124307",
 				"ItemDateTimeLocal_ISO" : "2024-12-26T22:43:07+10:00",
-				"PublishDateLocal_ISO" : "2024-12-27T23:45:37+10:00",
+				"PublishDateLocal_ISO" : "2024-12-28T23:45:37+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-12-27T22:43:07+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 152.291738, -24.828984 ]
-			},
-			"properties" : {
-				"OBJECTID" : 3945,
-				"UniqueID" : "QF4-24-163615",
-				"WarningTitle" : "Information - OAKWOOD",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "OAKWOOD",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "Rosedale Rd & Booloongie Rd",
-				"Jurisdiction" : "4 North Coast Region",
-				"Latitude" : -24.828984,
-				"Longitude" : 152.291738,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "OAKWOOD",
-				"ItemDateTimeUTM" : "20241226200625",
-				"ItemDateTimeLocal_ISO" : "2024-12-27T06:06:25+10:00",
-				"PublishDateLocal_ISO" : "2024-12-27T23:45:37+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-12-28T06:06:25+10:00"
 			}
 		},
 		{
@@ -203,7 +256,7 @@
 				"Locality" : "MOUNT ALMA",
 				"ItemDateTimeUTM" : "20241226223650",
 				"ItemDateTimeLocal_ISO" : "2024-12-27T08:36:50+10:00",
-				"PublishDateLocal_ISO" : "2024-12-27T23:45:37+10:00",
+				"PublishDateLocal_ISO" : "2024-12-28T23:45:37+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-12-28T08:36:50+10:00"
 			}
 		},
@@ -211,32 +264,64 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 150.390415, -23.625918 ]
+				"coordinates" : [ 146.637292, -23.291294 ]
 			},
 			"properties" : {
-				"OBJECTID" : 4033,
-				"UniqueID" : "QF2-24-163758",
-				"WarningTitle" : "Information - BAREE",
+				"OBJECTID" : 4158,
+				"UniqueID" : "QF2-24-163968",
+				"WarningTitle" : "Information - ALPHA",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : 100,
-				"WarningArea" : "BAREE",
+				"WarningArea" : "ALPHA",
 				"CurrentStatus" : "Going",
-				"Location" : "BURNETT HWY",
+				"Location" : "Clermont Rd & Malden Rd",
 				"Jurisdiction" : "2 Central Region",
-				"Latitude" : -23.625918,
-				"Longitude" : 150.390415,
+				"Latitude" : -23.291294,
+				"Longitude" : 146.637292,
 				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
 				"VehiclesOnScene" : 1,
 				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "BAREE",
-				"ItemDateTimeUTM" : "20241227024052",
-				"ItemDateTimeLocal_ISO" : "2024-12-27T12:40:52+10:00",
-				"PublishDateLocal_ISO" : "2024-12-27T23:45:37+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-12-28T12:40:52+10:00"
+				"Locality" : "ALPHA",
+				"ItemDateTimeUTM" : "20241227164716",
+				"ItemDateTimeLocal_ISO" : "2024-12-28T02:47:16+10:00",
+				"PublishDateLocal_ISO" : "2024-12-28T23:45:37+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-12-29T02:47:16+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 147.186132, -24.755744 ]
+			},
+			"properties" : {
+				"OBJECTID" : 4246,
+				"UniqueID" : "QF2-24-164177",
+				"WarningTitle" : "Information - MANTUAN DOWNS",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "MANTUAN DOWNS",
+				"CurrentStatus" : "Going",
+				"Location" : "Salvator Rosa Rd",
+				"Jurisdiction" : "2 Central Region",
+				"Latitude" : -24.755744,
+				"Longitude" : 147.186132,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "MANTUAN DOWNS",
+				"ItemDateTimeUTM" : "20241227224041",
+				"ItemDateTimeLocal_ISO" : "2024-12-28T08:40:41+10:00",
+				"PublishDateLocal_ISO" : "2024-12-28T23:45:37+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-12-29T08:40:41+10:00"
 			}
 		}
 	]
