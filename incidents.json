@@ -45,7 +45,7 @@
 				"GroupedType" : "FIRE VEGETATION",
 				"ItemDateTimeUTM" : "20241228072100",
 				"ItemDateTimeLocal_ISO" : "2024-12-28T17:21:00+10:00",
-				"PublishDateLocal_ISO" : "2024-12-29T23:45:37+10:00",
+				"PublishDateLocal_ISO" : "2024-12-30T23:45:36+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-12-29T17:21:00+10:00"
 			}
 		},
@@ -77,7 +77,7 @@
 				"Locality" : "EIDSVOLD WEST",
 				"ItemDateTimeUTM" : "20241222195031",
 				"ItemDateTimeLocal_ISO" : "2024-12-23T05:50:31+10:00",
-				"PublishDateLocal_ISO" : "2024-12-29T23:45:37+10:00",
+				"PublishDateLocal_ISO" : "2024-12-30T23:45:36+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-12-24T05:50:31+10:00"
 			}
 		},
@@ -109,7 +109,7 @@
 				"Locality" : "KUNWARARA",
 				"ItemDateTimeUTM" : "20241223201253",
 				"ItemDateTimeLocal_ISO" : "2024-12-24T06:12:53+10:00",
-				"PublishDateLocal_ISO" : "2024-12-29T23:45:37+10:00",
+				"PublishDateLocal_ISO" : "2024-12-30T23:45:36+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-12-25T06:12:53+10:00"
 			}
 		},
@@ -141,7 +141,7 @@
 				"Locality" : "JERICHO",
 				"ItemDateTimeUTM" : "20241226124307",
 				"ItemDateTimeLocal_ISO" : "2024-12-26T22:43:07+10:00",
-				"PublishDateLocal_ISO" : "2024-12-29T23:45:37+10:00",
+				"PublishDateLocal_ISO" : "2024-12-30T23:45:36+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-12-27T22:43:07+10:00"
 			}
 		},
@@ -173,7 +173,7 @@
 				"Locality" : "MANTUAN DOWNS",
 				"ItemDateTimeUTM" : "20241227224041",
 				"ItemDateTimeLocal_ISO" : "2024-12-28T08:40:41+10:00",
-				"PublishDateLocal_ISO" : "2024-12-29T23:45:37+10:00",
+				"PublishDateLocal_ISO" : "2024-12-30T23:45:36+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-12-29T08:40:41+10:00"
 			}
 		},
@@ -205,7 +205,7 @@
 				"Locality" : "JERICHO",
 				"ItemDateTimeUTM" : "20241228162939",
 				"ItemDateTimeLocal_ISO" : "2024-12-29T02:29:39+10:00",
-				"PublishDateLocal_ISO" : "2024-12-29T23:45:37+10:00",
+				"PublishDateLocal_ISO" : "2024-12-30T23:45:36+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-12-30T02:29:39+10:00"
 			}
 		},
@@ -237,7 +237,7 @@
 				"Locality" : "COMET",
 				"ItemDateTimeUTM" : "20241228222748",
 				"ItemDateTimeLocal_ISO" : "2024-12-29T08:27:48+10:00",
-				"PublishDateLocal_ISO" : "2024-12-29T23:45:37+10:00",
+				"PublishDateLocal_ISO" : "2024-12-30T23:45:36+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-12-30T08:27:48+10:00"
 			}
 		},
@@ -245,32 +245,128 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 151.773419, -25.566632 ]
+				"coordinates" : [ 146.3629, -22.1524 ]
 			},
 			"properties" : {
-				"OBJECTID" : 4559,
-				"UniqueID" : "QF4-24-164677",
-				"WarningTitle" : "Information - GINOONDAN",
+				"OBJECTID" : 4627,
+				"UniqueID" : "QF2-24-164778",
+				"WarningTitle" : "Information - BELYANDO",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : 100,
-				"WarningArea" : "GINOONDAN",
+				"WarningArea" : "BELYANDO",
 				"CurrentStatus" : "Going",
-				"Location" : "Gayndah Mount Perry Rd",
-				"Jurisdiction" : "4 North Coast Region",
-				"Latitude" : -25.566632,
-				"Longitude" : 151.773419,
+				"Location" : "Unknown",
+				"Jurisdiction" : "2 Central Region",
+				"Latitude" : -22.1524,
+				"Longitude" : 146.3629,
 				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 1,
+				"VehiclesOnScene" : 0,
 				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "GINOONDAN",
-				"ItemDateTimeUTM" : "20241229013656",
-				"ItemDateTimeLocal_ISO" : "2024-12-29T11:36:56+10:00",
-				"PublishDateLocal_ISO" : "2024-12-29T23:45:37+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2024-12-30T11:36:56+10:00"
+				"Locality" : "BELYANDO",
+				"ItemDateTimeUTM" : "20241229130033",
+				"ItemDateTimeLocal_ISO" : "2024-12-29T23:00:33+10:00",
+				"PublishDateLocal_ISO" : "2024-12-30T23:45:36+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-12-30T23:00:33+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 146.369796, -24.669567 ]
+			},
+			"properties" : {
+				"OBJECTID" : 4666,
+				"UniqueID" : "QF2-24-164837",
+				"WarningTitle" : "Information - WINDEYER",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "WINDEYER",
+				"CurrentStatus" : "Going",
+				"Location" : "Dawson Developmental Rd",
+				"Jurisdiction" : "2 Central Region",
+				"Latitude" : -24.669567,
+				"Longitude" : 146.369796,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "WINDEYER",
+				"ItemDateTimeUTM" : "20241229155009",
+				"ItemDateTimeLocal_ISO" : "2024-12-30T01:50:09+10:00",
+				"PublishDateLocal_ISO" : "2024-12-30T23:45:36+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-12-31T01:50:09+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 149.195546, -26.000826 ]
+			},
+			"properties" : {
+				"OBJECTID" : 4673,
+				"UniqueID" : "QF3-24-164846",
+				"WarningTitle" : "Information - WAIKOLA",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "WAIKOLA",
+				"CurrentStatus" : "Going",
+				"Location" : "Nugget Hills Rd",
+				"Jurisdiction" : "3 South Western Region",
+				"Latitude" : -26.000826,
+				"Longitude" : 149.195546,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "WAIKOLA",
+				"ItemDateTimeUTM" : "20241229161939",
+				"ItemDateTimeLocal_ISO" : "2024-12-30T02:19:39+10:00",
+				"PublishDateLocal_ISO" : "2024-12-30T23:45:36+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-12-31T02:19:39+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 145.555861, -16.917383 ]
+			},
+			"properties" : {
+				"OBJECTID" : 4724,
+				"UniqueID" : "QF7-24-164925",
+				"WarningTitle" : "Information - KOAH",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "KOAH",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "KENNEDY HWY",
+				"Jurisdiction" : "7 Far Northern Region",
+				"Latitude" : -16.917383,
+				"Longitude" : 145.555861,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "KOAH",
+				"ItemDateTimeUTM" : "20241229191858",
+				"ItemDateTimeLocal_ISO" : "2024-12-30T05:18:58+10:00",
+				"PublishDateLocal_ISO" : "2024-12-30T23:45:36+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2024-12-31T05:18:58+10:00"
 			}
 		}
 	]
