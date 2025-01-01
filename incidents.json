@@ -45,7 +45,7 @@
 				"GroupedType" : "FIRE VEGETATION",
 				"ItemDateTimeUTM" : "20241228072100",
 				"ItemDateTimeLocal_ISO" : "2024-12-28T17:21:00+10:00",
-				"PublishDateLocal_ISO" : "2024-12-31T23:45:36+10:00",
+				"PublishDateLocal_ISO" : "2025-01-01T23:45:35+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-12-29T17:21:00+10:00"
 			}
 		},
@@ -77,7 +77,7 @@
 				"Locality" : "KUNWARARA",
 				"ItemDateTimeUTM" : "20241223201253",
 				"ItemDateTimeLocal_ISO" : "2024-12-24T06:12:53+10:00",
-				"PublishDateLocal_ISO" : "2024-12-31T23:45:36+10:00",
+				"PublishDateLocal_ISO" : "2025-01-01T23:45:35+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-12-25T06:12:53+10:00"
 			}
 		},
@@ -109,7 +109,7 @@
 				"Locality" : "MANTUAN DOWNS",
 				"ItemDateTimeUTM" : "20241227224041",
 				"ItemDateTimeLocal_ISO" : "2024-12-28T08:40:41+10:00",
-				"PublishDateLocal_ISO" : "2024-12-31T23:45:36+10:00",
+				"PublishDateLocal_ISO" : "2025-01-01T23:45:35+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-12-29T08:40:41+10:00"
 			}
 		},
@@ -141,7 +141,7 @@
 				"Locality" : "JERICHO",
 				"ItemDateTimeUTM" : "20241228162939",
 				"ItemDateTimeLocal_ISO" : "2024-12-29T02:29:39+10:00",
-				"PublishDateLocal_ISO" : "2024-12-31T23:45:36+10:00",
+				"PublishDateLocal_ISO" : "2025-01-01T23:45:35+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-12-30T02:29:39+10:00"
 			}
 		},
@@ -173,7 +173,7 @@
 				"Locality" : "BELYANDO",
 				"ItemDateTimeUTM" : "20241229130033",
 				"ItemDateTimeLocal_ISO" : "2024-12-29T23:00:33+10:00",
-				"PublishDateLocal_ISO" : "2024-12-31T23:45:36+10:00",
+				"PublishDateLocal_ISO" : "2025-01-01T23:45:35+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-12-30T23:00:33+10:00"
 			}
 		},
@@ -205,7 +205,7 @@
 				"Locality" : "WINDEYER",
 				"ItemDateTimeUTM" : "20241229155009",
 				"ItemDateTimeLocal_ISO" : "2024-12-30T01:50:09+10:00",
-				"PublishDateLocal_ISO" : "2024-12-31T23:45:36+10:00",
+				"PublishDateLocal_ISO" : "2025-01-01T23:45:35+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2024-12-31T01:50:09+10:00"
 			}
 		},
@@ -237,7 +237,7 @@
 				"Locality" : "TORRENS CREEK",
 				"ItemDateTimeUTM" : "20241231005349",
 				"ItemDateTimeLocal_ISO" : "2024-12-31T10:53:49+10:00",
-				"PublishDateLocal_ISO" : "2024-12-31T23:45:36+10:00",
+				"PublishDateLocal_ISO" : "2025-01-01T23:45:35+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-01-01T10:53:49+10:00"
 			}
 		},
@@ -245,32 +245,96 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 145.506525, -24.438982 ]
+				"coordinates" : [ 145.755391, -23.741469 ]
 			},
 			"properties" : {
-				"OBJECTID" : 5075,
-				"UniqueID" : "QF2-24-165482",
-				"WarningTitle" : "Information - BLACKALL",
+				"OBJECTID" : 5196,
+				"UniqueID" : "QF2-25-000175",
+				"WarningTitle" : "Information - BARCALDINE",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : 100,
-				"WarningArea" : "BLACKALL",
+				"WarningArea" : "BARCALDINE",
 				"CurrentStatus" : "Going",
-				"Location" : "Landsborough Hwy",
+				"Location" : "Lochnagar Parkgate Rd",
 				"Jurisdiction" : "2 Central Region",
-				"Latitude" : -24.438982,
-				"Longitude" : 145.506525,
+				"Latitude" : -23.741469,
+				"Longitude" : 145.755391,
 				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
 				"VehiclesOnScene" : 0,
 				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "BLACKALL",
-				"ItemDateTimeUTM" : "20241231005423",
-				"ItemDateTimeLocal_ISO" : "2024-12-31T10:54:23+10:00",
-				"PublishDateLocal_ISO" : "2024-12-31T23:45:36+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-01-01T10:54:23+10:00"
+				"Locality" : "BARCALDINE",
+				"ItemDateTimeUTM" : "20241231133427",
+				"ItemDateTimeLocal_ISO" : "2024-12-31T23:34:27+10:00",
+				"PublishDateLocal_ISO" : "2025-01-01T23:45:35+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-01-01T23:34:27+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 150.664089, -23.345374 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5227,
+				"UniqueID" : "QF2-25-000227",
+				"WarningTitle" : "Information - NANKIN",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "NANKIN",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Emu Park Rd & Sleipner Rd",
+				"Jurisdiction" : "2 Central Region",
+				"Latitude" : -23.345374,
+				"Longitude" : 150.664089,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "NANKIN",
+				"ItemDateTimeUTM" : "20241231163340",
+				"ItemDateTimeLocal_ISO" : "2025-01-01T02:33:40+10:00",
+				"PublishDateLocal_ISO" : "2025-01-01T23:45:35+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-01-02T02:33:40+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.805276, -22.228995 ]
+			},
+			"properties" : {
+				"OBJECTID" : 5294,
+				"UniqueID" : "QF2-25-000345",
+				"WarningTitle" : "Information - MUTTABURRA",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "MUTTABURRA",
+				"CurrentStatus" : "Going",
+				"Location" : "Potosi Rd",
+				"Jurisdiction" : "2 Central Region",
+				"Latitude" : -22.228995,
+				"Longitude" : 144.805276,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 2,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "MUTTABURRA",
+				"ItemDateTimeUTM" : "20241231223223",
+				"ItemDateTimeLocal_ISO" : "2025-01-01T08:32:23+10:00",
+				"PublishDateLocal_ISO" : "2025-01-01T23:45:35+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-01-02T08:32:23+10:00"
 			}
 		}
 	]
