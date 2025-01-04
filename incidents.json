@@ -36,7 +36,7 @@
 				"Locality" : "TORRENS CREEK",
 				"ItemDateTimeUTM" : "20241231005349",
 				"ItemDateTimeLocal_ISO" : "2024-12-31T10:53:49+10:00",
-				"PublishDateLocal_ISO" : "2025-01-03T23:45:36+10:00",
+				"PublishDateLocal_ISO" : "2025-01-04T23:45:36+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-01-01T10:53:49+10:00"
 			}
 		},
@@ -68,7 +68,7 @@
 				"Locality" : "BARCALDINE",
 				"ItemDateTimeUTM" : "20241231133427",
 				"ItemDateTimeLocal_ISO" : "2024-12-31T23:34:27+10:00",
-				"PublishDateLocal_ISO" : "2025-01-03T23:45:36+10:00",
+				"PublishDateLocal_ISO" : "2025-01-04T23:45:36+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-01-01T23:34:27+10:00"
 			}
 		},
@@ -100,40 +100,8 @@
 				"Locality" : "MUNGALLALA SOUTH",
 				"ItemDateTimeUTM" : "20250102022128",
 				"ItemDateTimeLocal_ISO" : "2025-01-02T12:21:28+10:00",
-				"PublishDateLocal_ISO" : "2025-01-03T23:45:36+10:00",
+				"PublishDateLocal_ISO" : "2025-01-04T23:45:36+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-01-03T12:21:28+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 16197419.7224769257, -2684394.7794206669 ]
-			},
-			"properties" : {
-				"OBJECTID" : 5625,
-				"UniqueID" : "QF2-25-000848",
-				"WarningTitle" : "Information - BARCALDINE",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "BARCALDINE",
-				"CurrentStatus" : "Going",
-				"Location" : "Hanley Rd",
-				"Jurisdiction" : "2 Central Region",
-				"Latitude" : -23.432402,
-				"Longitude" : 145.503897,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 1,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "BARCALDINE",
-				"ItemDateTimeUTM" : "20250102123552",
-				"ItemDateTimeLocal_ISO" : "2025-01-02T22:35:52+10:00",
-				"PublishDateLocal_ISO" : "2025-01-03T23:45:36+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-01-03T22:35:52+10:00"
 			}
 		},
 		{
@@ -164,7 +132,7 @@
 				"Locality" : "BARCALDINE",
 				"ItemDateTimeUTM" : "20250102124417",
 				"ItemDateTimeLocal_ISO" : "2025-01-02T22:44:17+10:00",
-				"PublishDateLocal_ISO" : "2025-01-03T23:45:36+10:00",
+				"PublishDateLocal_ISO" : "2025-01-04T23:45:36+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-01-03T22:44:17+10:00"
 			}
 		},
@@ -184,19 +152,19 @@
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : 100,
 				"WarningArea" : "BARCALDINE",
-				"CurrentStatus" : "Going",
+				"CurrentStatus" : "Patrolled",
 				"Location" : "REMONA GRAVEL PITS RD",
 				"Jurisdiction" : "2 Central Region",
 				"Latitude" : -23.79588,
 				"Longitude" : 145.148038,
 				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 2,
+				"VehiclesOnScene" : 0,
 				"GroupedType" : "FIRE VEGETATION",
 				"Locality" : "BARCALDINE",
 				"ItemDateTimeUTM" : "20250102132123",
 				"ItemDateTimeLocal_ISO" : "2025-01-02T23:21:23+10:00",
-				"PublishDateLocal_ISO" : "2025-01-03T23:45:36+10:00",
+				"PublishDateLocal_ISO" : "2025-01-04T23:45:36+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-01-03T23:21:23+10:00"
 			}
 		},
@@ -217,7 +185,7 @@
 				"WarningLevelSort" : 100,
 				"WarningArea" : "STOKES",
 				"CurrentStatus" : "Going",
-				"Location" : "Burke Developmental Rd",
+				"Location" : "BURKE DEVELOPMENTAL RD",
 				"Jurisdiction" : "1 Northern Region",
 				"Latitude" : -19.081878,
 				"Longitude" : 140.400141,
@@ -228,40 +196,8 @@
 				"Locality" : "STOKES",
 				"ItemDateTimeUTM" : "20250102185023",
 				"ItemDateTimeLocal_ISO" : "2025-01-03T04:50:23+10:00",
-				"PublishDateLocal_ISO" : "2025-01-03T23:45:36+10:00",
+				"PublishDateLocal_ISO" : "2025-01-04T23:45:36+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-01-04T04:50:23+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 16460067.4856520314, -3280691.7988662249 ]
-			},
-			"properties" : {
-				"OBJECTID" : 5721,
-				"UniqueID" : "QF3-25-001009",
-				"WarningTitle" : "Information - DIRRANBANDI",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "DIRRANBANDI",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "Honeymah Lane",
-				"Jurisdiction" : "3 South Western Region",
-				"Latitude" : -28.251282,
-				"Longitude" : 147.863302,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "DIRRANBANDI",
-				"ItemDateTimeUTM" : "20250102204251",
-				"ItemDateTimeLocal_ISO" : "2025-01-03T06:42:51+10:00",
-				"PublishDateLocal_ISO" : "2025-01-03T23:45:36+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-01-04T06:42:51+10:00"
 			}
 		},
 		{
@@ -292,7 +228,7 @@
 				"Locality" : "MOUNT ISA",
 				"ItemDateTimeUTM" : "20250102213433",
 				"ItemDateTimeLocal_ISO" : "2025-01-03T07:34:33+10:00",
-				"PublishDateLocal_ISO" : "2025-01-03T23:45:36+10:00",
+				"PublishDateLocal_ISO" : "2025-01-04T23:45:36+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-01-04T07:34:33+10:00"
 			}
 		},
@@ -324,7 +260,7 @@
 				"Locality" : "GUNPOWDER",
 				"ItemDateTimeUTM" : "20250103003452",
 				"ItemDateTimeLocal_ISO" : "2025-01-03T10:34:52+10:00",
-				"PublishDateLocal_ISO" : "2025-01-03T23:45:36+10:00",
+				"PublishDateLocal_ISO" : "2025-01-04T23:45:36+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-01-04T10:34:52+10:00"
 			}
 		}
