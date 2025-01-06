@@ -35,40 +35,91 @@
 				"GroupedType" : "FIRE VEGETATION",
 				"ItemDateTimeUTM" : "20250105003800",
 				"ItemDateTimeLocal_ISO" : "2025-01-05T10:38:00+10:00",
-				"PublishDateLocal_ISO" : "2025-01-05T23:45:38+10:00",
+				"PublishDateLocal_ISO" : "2025-01-06T23:45:37+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-01-06T10:38:00+10:00"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 147.409849, -26.912276 ]
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 152.4239644523, -27.7948518725, 0 ],
+						[ 152.4121198172, -27.8501132431, 0 ],
+						[ 152.4420747275, -27.8570189361, 0 ],
+						[ 152.4746474738, -27.8631653917, 0 ],
+						[ 152.4864921088, -27.8013814664, 0 ],
+						[ 152.4239644523, -27.7948518725, 0 ]
+					]
+				]
 			},
 			"properties" : {
-				"OBJECTID" : 5566,
-				"UniqueID" : "QF3-25-000774",
-				"WarningTitle" : "Information - MUNGALLALA SOUTH",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "MUNGALLALA SOUTH",
+				"OBJECTID" : 5355,
+				"UniqueID" : "IF39-4095621",
+				"WarningTitle" : "AVOID SMOKE - Mount Mort - fire as at  5:45pm Monday,  6 January 2025",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "AVOID SMOKE",
+				"WarningText" : "\nAVOID SMOKE - Mount Mort - fire as at  5:45pm Monday,  6 January 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Mount Mort\n\n\n \n\nSmoke is currently affecting Mount Mort. This is from a fire burning near Lunds Road.\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- No properties are at risk.\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- Some roads may be closed.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if the situation changes.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"Header" : "Smoke is currently affecting Mount Mort. This is from a fire burning near Lunds Road.",
+				"Impacts" : "- No properties are at risk.\r\n\r\n- Smoke can make it hard for some people to breathe.\r\n\r\n- Smoke can make it hard to see when you are driving.\r\n\r\n- Some roads may be closed.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from Queensland Fire Department.",
+				"WarningLevelSort" : 7,
+				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "Mount Mort",
+				"Master_Incident_Number" : "QF6-25-002063",
 				"CurrentStatus" : "Patrolled",
-				"Location" : "West Leinster Rd & Tomoo Rd",
-				"Jurisdiction" : "3 South Western Region",
-				"Latitude" : -26.912276,
-				"Longitude" : 147.409849,
+				"Location" : "Lunds Rd",
+				"Jurisdiction" : "6 South Eastern Region",
+				"Latitude" : -27.831746513141,
+				"Longitude" : 152.44752497625,
 				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
 				"VehiclesOnScene" : 0,
 				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "MUNGALLALA SOUTH",
-				"ItemDateTimeUTM" : "20250102022128",
-				"ItemDateTimeLocal_ISO" : "2025-01-02T12:21:28+10:00",
-				"PublishDateLocal_ISO" : "2025-01-05T23:45:38+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-01-03T12:21:28+10:00"
+				"Locality" : "MOUNT MORT",
+				"ItemDateTimeUTM" : "20250106074300",
+				"ItemDateTimeLocal_ISO" : "2025-01-06T17:43:00+10:00",
+				"PublishDateLocal_ISO" : "2025-01-06T23:45:37+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-01-07T17:43:00+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 152.6116856792, -27.2967730765, 0 ],
+						[ 152.6315983989, -27.4144758318, 0 ],
+						[ 152.8108128764, -27.4120376665, 0 ],
+						[ 152.776480601, -27.3120265975, 0 ],
+						[ 152.6116856792, -27.2967730765, 0 ]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 5354,
+				"UniqueID" : "IF39-4095421",
+				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Dundas, Mount Glorious and Mount Nebo - fire as at  2:30pm Monday,  6 January 2025",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
+				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Dundas, Mount Glorious and Mount Nebo - fire as at  2:30pm Monday,  6 January 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Dundas, Mount Glorious, Mount Nebo, Split Yard Creek, Wivenhoe Pocket and surrounding areas\n\n\n \n\nSmoke is currently affecting Dundas, Mount Glorious, Mount Nebo, Split Yard Creek, Wivenhoe Pocket and surrounding areas. This is from a hazard reduction burn in the D'Aguilar National Park near England Creek. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"Header" : "Smoke is currently affecting Dundas, Mount Glorious, Mount Nebo, Split Yard Creek, Wivenhoe Pocket and surrounding areas. This is from a hazard reduction burn in the D'Aguilar National Park near England Creek. This fire is under control.",
+				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire Department.",
+				"WarningLevelSort" : 8,
+				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "Dundas, Mount Glorious, Mount Nebo, Split Yard Creek, Wivenhoe Pocket and surrounding areas",
+				"Latitude" : -27.368751281744,
+				"Longitude" : 152.72910206098,
+				"GroupedType" : "FIRE VEGETATION",
+				"ItemDateTimeUTM" : "20250106043000",
+				"ItemDateTimeLocal_ISO" : "2025-01-06T14:30:00+10:00",
+				"PublishDateLocal_ISO" : "2025-01-06T23:45:37+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-01-07T14:30:00+10:00"
 			}
 		},
 		{
@@ -99,7 +150,7 @@
 				"Locality" : "BARCALDINE",
 				"ItemDateTimeUTM" : "20250102124417",
 				"ItemDateTimeLocal_ISO" : "2025-01-02T22:44:17+10:00",
-				"PublishDateLocal_ISO" : "2025-01-05T23:45:38+10:00",
+				"PublishDateLocal_ISO" : "2025-01-06T23:45:37+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-01-03T22:44:17+10:00"
 			}
 		},
@@ -131,7 +182,7 @@
 				"Locality" : "THREE RIVERS",
 				"ItemDateTimeUTM" : "20250102185023",
 				"ItemDateTimeLocal_ISO" : "2025-01-03T04:50:23+10:00",
-				"PublishDateLocal_ISO" : "2025-01-05T23:45:38+10:00",
+				"PublishDateLocal_ISO" : "2025-01-06T23:45:37+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-01-04T04:50:23+10:00"
 			}
 		},
@@ -163,8 +214,72 @@
 				"Locality" : "MOUNT ISA",
 				"ItemDateTimeUTM" : "20250102213433",
 				"ItemDateTimeLocal_ISO" : "2025-01-03T07:34:33+10:00",
-				"PublishDateLocal_ISO" : "2025-01-05T23:45:38+10:00",
+				"PublishDateLocal_ISO" : "2025-01-06T23:45:37+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-01-04T07:34:33+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 150.961378, -24.041436 ]
+			},
+			"properties" : {
+				"OBJECTID" : 6389,
+				"UniqueID" : "QF2-25-002013",
+				"WarningTitle" : "Information - MOUNT ALMA",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "MOUNT ALMA",
+				"CurrentStatus" : "Going",
+				"Location" : "Dawson Hwy",
+				"Jurisdiction" : "2 Central Region",
+				"Latitude" : -24.041436,
+				"Longitude" : 150.961378,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "MOUNT ALMA",
+				"ItemDateTimeUTM" : "20250105163752",
+				"ItemDateTimeLocal_ISO" : "2025-01-06T02:37:52+10:00",
+				"PublishDateLocal_ISO" : "2025-01-06T23:45:37+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-01-07T02:37:52+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 145.448435, -24.86008 ]
+			},
+			"properties" : {
+				"OBJECTID" : 6413,
+				"UniqueID" : "QF2-25-002198",
+				"WarningTitle" : "Information - BLACKALL",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "BLACKALL",
+				"CurrentStatus" : "Going",
+				"Location" : "Ravensbourne Creek & Coolatai Rd",
+				"Jurisdiction" : "2 Central Region",
+				"Latitude" : -24.86008,
+				"Longitude" : 145.448435,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "BLACKALL",
+				"ItemDateTimeUTM" : "20250106013743",
+				"ItemDateTimeLocal_ISO" : "2025-01-06T11:37:43+10:00",
+				"PublishDateLocal_ISO" : "2025-01-06T23:45:37+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-01-07T11:37:43+10:00"
 			}
 		}
 	]
