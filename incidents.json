@@ -35,7 +35,7 @@
 				"GroupedType" : "FIRE VEGETATION",
 				"ItemDateTimeUTM" : "20250122013500",
 				"ItemDateTimeLocal_ISO" : "2025-01-22T11:35:00+10:00",
-				"PublishDateLocal_ISO" : "2025-01-22T16:25:41+10:00",
+				"PublishDateLocal_ISO" : "2025-01-22T23:45:39+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-01-23T11:35:00+10:00"
 			}
 		},
@@ -67,7 +67,7 @@
 				"Locality" : null,
 				"ItemDateTimeUTM" : "20250114131634",
 				"ItemDateTimeLocal_ISO" : "2025-01-14T23:16:34+10:00",
-				"PublishDateLocal_ISO" : "2025-01-22T16:25:41+10:00",
+				"PublishDateLocal_ISO" : "2025-01-22T23:45:39+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-01-15T23:16:34+10:00"
 			}
 		},
@@ -99,7 +99,7 @@
 				"Locality" : "CLONCURRY",
 				"ItemDateTimeUTM" : "20250114223049",
 				"ItemDateTimeLocal_ISO" : "2025-01-15T08:30:49+10:00",
-				"PublishDateLocal_ISO" : "2025-01-22T16:25:41+10:00",
+				"PublishDateLocal_ISO" : "2025-01-22T23:45:39+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-01-16T08:30:49+10:00"
 			}
 		},
@@ -131,7 +131,7 @@
 				"Locality" : null,
 				"ItemDateTimeUTM" : "20250115194949",
 				"ItemDateTimeLocal_ISO" : "2025-01-16T05:49:49+10:00",
-				"PublishDateLocal_ISO" : "2025-01-22T16:25:42+10:00",
+				"PublishDateLocal_ISO" : "2025-01-22T23:45:39+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-01-17T05:49:49+10:00"
 			}
 		},
@@ -163,7 +163,7 @@
 				"Locality" : "CARNARVON PARK",
 				"ItemDateTimeUTM" : "20250115224051",
 				"ItemDateTimeLocal_ISO" : "2025-01-16T08:40:51+10:00",
-				"PublishDateLocal_ISO" : "2025-01-22T16:25:42+10:00",
+				"PublishDateLocal_ISO" : "2025-01-22T23:45:39+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-01-17T08:40:51+10:00"
 			}
 		},
@@ -195,7 +195,7 @@
 				"Locality" : null,
 				"ItemDateTimeUTM" : "20250116131641",
 				"ItemDateTimeLocal_ISO" : "2025-01-16T23:16:41+10:00",
-				"PublishDateLocal_ISO" : "2025-01-22T16:25:42+10:00",
+				"PublishDateLocal_ISO" : "2025-01-22T23:45:39+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-01-17T23:16:41+10:00"
 			}
 		},
@@ -222,12 +222,12 @@
 				"Longitude" : 141.341,
 				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 2,
+				"VehiclesOnScene" : 1,
 				"GroupedType" : "FIRE VEGETATION",
 				"Locality" : null,
 				"ItemDateTimeUTM" : "20250116132433",
 				"ItemDateTimeLocal_ISO" : "2025-01-16T23:24:33+10:00",
-				"PublishDateLocal_ISO" : "2025-01-22T16:25:42+10:00",
+				"PublishDateLocal_ISO" : "2025-01-22T23:45:39+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-01-17T23:24:33+10:00"
 			}
 		},
@@ -254,45 +254,13 @@
 				"Longitude" : 146.23924,
 				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 4,
+				"VehiclesOnScene" : 1,
 				"GroupedType" : "FIRE VEGETATION",
 				"Locality" : null,
 				"ItemDateTimeUTM" : "20250117161943",
 				"ItemDateTimeLocal_ISO" : "2025-01-18T02:19:43+10:00",
-				"PublishDateLocal_ISO" : "2025-01-22T16:25:42+10:00",
+				"PublishDateLocal_ISO" : "2025-01-22T23:45:39+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-01-19T02:19:43+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 151.066603, -28.01812 ]
-			},
-			"properties" : {
-				"OBJECTID" : 10335,
-				"UniqueID" : "QF3-25-007544",
-				"WarningTitle" : "Information - MILLMERRAN WOODS",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "MILLMERRAN WOODS",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "Millmerran Woods Dr",
-				"Jurisdiction" : "3 South Western Region",
-				"Latitude" : -28.01812,
-				"Longitude" : 151.066603,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "MILLMERRAN WOODS",
-				"ItemDateTimeUTM" : "20250118161100",
-				"ItemDateTimeLocal_ISO" : "2025-01-19T02:11:00+10:00",
-				"PublishDateLocal_ISO" : "2025-01-22T16:25:42+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-01-20T02:11:00+10:00"
 			}
 		},
 		{
@@ -323,7 +291,7 @@
 				"Locality" : "CLONCURRY",
 				"ItemDateTimeUTM" : "20250120171834",
 				"ItemDateTimeLocal_ISO" : "2025-01-21T03:18:34+10:00",
-				"PublishDateLocal_ISO" : "2025-01-22T16:25:42+10:00",
+				"PublishDateLocal_ISO" : "2025-01-22T23:45:39+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-01-22T03:18:34+10:00"
 			}
 		},
@@ -355,7 +323,7 @@
 				"Locality" : "GUNPOWDER",
 				"ItemDateTimeUTM" : "20250120193739",
 				"ItemDateTimeLocal_ISO" : "2025-01-21T05:37:39+10:00",
-				"PublishDateLocal_ISO" : "2025-01-22T16:25:42+10:00",
+				"PublishDateLocal_ISO" : "2025-01-22T23:45:39+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-01-22T05:37:39+10:00"
 			}
 		},
@@ -387,40 +355,8 @@
 				"Locality" : "OMAN AMA",
 				"ItemDateTimeUTM" : "20250121163340",
 				"ItemDateTimeLocal_ISO" : "2025-01-22T02:33:40+10:00",
-				"PublishDateLocal_ISO" : "2025-01-22T16:25:42+10:00",
+				"PublishDateLocal_ISO" : "2025-01-22T23:45:39+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-01-23T02:33:40+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 152.588525, -25.533809 ]
-			},
-			"properties" : {
-				"OBJECTID" : 10629,
-				"UniqueID" : "QF4-25-008755",
-				"WarningTitle" : "Information - YENGARIE",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "YENGARIE",
-				"CurrentStatus" : "Going",
-				"Location" : "Watson Rd",
-				"Jurisdiction" : "4 North Coast Region",
-				"Latitude" : -25.533809,
-				"Longitude" : 152.588525,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 2,
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "YENGARIE",
-				"ItemDateTimeUTM" : "20250121172847",
-				"ItemDateTimeLocal_ISO" : "2025-01-22T03:28:47+10:00",
-				"PublishDateLocal_ISO" : "2025-01-22T16:25:42+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-01-23T03:28:47+10:00"
 			}
 		},
 		{
@@ -451,7 +387,7 @@
 				"Locality" : "BOONDANDILLA",
 				"ItemDateTimeUTM" : "20250121190354",
 				"ItemDateTimeLocal_ISO" : "2025-01-22T05:03:54+10:00",
-				"PublishDateLocal_ISO" : "2025-01-22T16:25:42+10:00",
+				"PublishDateLocal_ISO" : "2025-01-22T23:45:39+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-01-23T05:03:54+10:00"
 			}
 		},
@@ -459,32 +395,96 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 153.107538, -27.669482 ]
+				"coordinates" : [ 152.665758, -25.486949 ]
 			},
 			"properties" : {
-				"OBJECTID" : 10683,
-				"UniqueID" : "QF6-25-008836",
-				"WarningTitle" : "Information - MARSDEN",
+				"OBJECTID" : 10703,
+				"UniqueID" : "QF4-25-008864",
+				"WarningTitle" : "Information - MARYBOROUGH WEST",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : 100,
-				"WarningArea" : "MARSDEN",
+				"WarningArea" : "MARYBOROUGH WEST",
 				"CurrentStatus" : "Going",
-				"Location" : "Woodburn St & Princess St",
-				"Jurisdiction" : "6 South Eastern Region",
-				"Latitude" : -27.669482,
-				"Longitude" : 153.107538,
+				"Location" : "ENTERPRISE CCT",
+				"Jurisdiction" : "4 North Coast Region",
+				"Latitude" : -25.486949,
+				"Longitude" : 152.665758,
 				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 1,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 1,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "MARYBOROUGH WEST",
+				"ItemDateTimeUTM" : "20250121212056",
+				"ItemDateTimeLocal_ISO" : "2025-01-22T07:20:56+10:00",
+				"PublishDateLocal_ISO" : "2025-01-22T23:45:39+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-01-23T07:20:56+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 143.488598, -20.852544 ]
+			},
+			"properties" : {
+				"OBJECTID" : 10764,
+				"UniqueID" : "QF1-25-008965",
+				"WarningTitle" : "Information - MARATHON",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "MARATHON",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "FLINDERS HWY",
+				"Jurisdiction" : "1 Northern Region",
+				"Latitude" : -20.852544,
+				"Longitude" : 143.488598,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
 				"VehiclesOnScene" : 0,
 				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "MARSDEN",
-				"ItemDateTimeUTM" : "20250121201143",
-				"ItemDateTimeLocal_ISO" : "2025-01-22T06:11:43+10:00",
-				"PublishDateLocal_ISO" : "2025-01-22T16:25:42+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-01-23T06:11:43+10:00"
+				"Locality" : "MARATHON",
+				"ItemDateTimeUTM" : "20250122001646",
+				"ItemDateTimeLocal_ISO" : "2025-01-22T10:16:46+10:00",
+				"PublishDateLocal_ISO" : "2025-01-22T23:45:39+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-01-23T10:16:46+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 151.066603, -28.01812 ]
+			},
+			"properties" : {
+				"OBJECTID" : 10772,
+				"UniqueID" : "QF3-25-007544",
+				"WarningTitle" : "Information - MILLMERRAN WOODS",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "MILLMERRAN WOODS",
+				"CurrentStatus" : "Going",
+				"Location" : "Millmerran Woods Dr",
+				"Jurisdiction" : "3 South Western Region",
+				"Latitude" : -28.01812,
+				"Longitude" : 151.066603,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "MILLMERRAN WOODS",
+				"ItemDateTimeUTM" : "20250118161100",
+				"ItemDateTimeLocal_ISO" : "2025-01-19T02:11:00+10:00",
+				"PublishDateLocal_ISO" : "2025-01-22T23:45:39+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-01-20T02:11:00+10:00"
 			}
 		}
 	]
