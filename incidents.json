@@ -5,106 +5,34 @@
 		{
 			"type" : "Feature",
 			"geometry" : {
-				"type" : "Polygon",
+				"type" : "MultiPolygon",
 				"coordinates" : [
 					[
-						[ 148.7960118055, -28.650072278, 0 ],
-						[ 148.9340275526, -28.6458541641, 0 ],
-						[ 148.9024418592, -28.4848367585, 0 ],
-						[ 148.7788456678, -28.4975099706, 0 ],
-						[ 148.7960118055, -28.650072278, 0 ]
+						[
+							[ 152.8932106272, -27.3958020535, 0 ],
+							[ 152.8932863885, -27.3959987383, 0 ],
+							[ 152.8949342706, -27.3959987383, 0 ],
+							[ 152.8932106272, -27.3958020535, 0 ]
+						]
+					],
+					[
+						[
+							[ 152.8932106272, -27.3958020535, 0 ],
+							[ 152.7847963982, -27.1139887273, 0 ],
+							[ 152.6103884393, -27.0773116662, 0 ],
+							[ 152.5636965447, -27.3581948152, 0 ],
+							[ 152.8932106272, -27.3958020535, 0 ]
+						]
 					]
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 5407,
-				"UniqueID" : "IF39-4113321",
-				"WarningTitle" : "AVOID SMOKE - Thallon (near St George) - fire as at  3:50pm Monday, 27 January 2025",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "AVOID SMOKE",
-				"WarningText" : "\nAVOID SMOKE - Thallon (near St George) - fire as at  3:50pm Monday, 27 January 2025 \n\n \n\nWarning level: ADVICE\n\n\nWarning area: Thallon and surrounding areas\n\n\n \n\nSmoke is currently affecting Thallon and surrounding areas. This is from a fire burning at Carnarvon Highway, Thallon. This fire is under control.\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- No properties are at risk.\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- Some roads may be closed.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if the situation changes.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
-				"Header" : "Smoke is currently affecting Thallon and surrounding areas. This is from a fire burning at Carnarvon Highway, Thallon. This fire is under control.",
-				"Impacts" : "- No properties are at risk.\r\n\r\n- Smoke can make it hard for some people to breathe.\r\n\r\n- Smoke can make it hard to see when you are driving.\r\n\r\n- Some roads may be closed.",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from Queensland Fire Department.",
-				"WarningLevelSort" : 7,
-				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "Thallon and surrounding areas",
-				"Latitude" : -28.589797415608,
-				"Longitude" : 148.85369002818,
-				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20250127055000",
-				"ItemDateTimeLocal_ISO" : "2025-01-27T15:50:00+10:00",
-				"PublishDateLocal_ISO" : "2025-01-29T23:45:35+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-01-28T15:50:00+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 151.9526472688, -27.5598544048, 0 ],
-						[ 151.9450083375, -27.6090744374, 0 ],
-						[ 152.0068064332, -27.6148546294, 0 ],
-						[ 152.0093813538, -27.5686806415, 0 ],
-						[ 151.9526472688, -27.5598544048, 0 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : 5414,
-				"UniqueID" : "IF39-4116221",
-				"WarningTitle" : "AVOID SMOKE - Rangeville (Toowoomba) - fire as at  2:54pm Wednesday, 29 January 2025",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "AVOID SMOKE",
-				"WarningText" : "\nAVOID SMOKE - Rangeville (Toowoomba) - fire as at  2:54pm Wednesday, 29 January 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Rangeville and surrounding areas\n\n\n \n\nSmoke is currently affecting Rangeville and surrounding areas. This is from a fire burning near the intersection of Tabletop Drive and Stevenson Street.\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- No properties are at risk.\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- Some roads may be closed.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if the situation changes.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
-				"Header" : "Smoke is currently affecting Rangeville and surrounding areas. This is from a fire burning near the intersection of Tabletop Drive and Stevenson Street.",
-				"Impacts" : "- No properties are at risk.\r\n\r\n- Smoke can make it hard for some people to breathe.\r\n\r\n- Smoke can make it hard to see when you are driving.\r\n\r\n- Some roads may be closed.",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from Queensland Fire Department.",
-				"WarningLevelSort" : 7,
-				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "Rangeville and surrounding areas",
-				"Master_Incident_Number" : "QF3-25-011880",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "TABLE TOP DR & STEVENSON ST",
-				"Jurisdiction" : "3 South Western Region",
-				"Latitude" : -27.595421325872,
-				"Longitude" : 151.9848203659,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "RANGEVILLE",
-				"ItemDateTimeUTM" : "20250129045200",
-				"ItemDateTimeLocal_ISO" : "2025-01-29T14:52:00+10:00",
-				"PublishDateLocal_ISO" : "2025-01-29T23:45:35+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-01-30T14:52:00+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 152.6101482139, -27.0763640237, 0 ],
-						[ 152.5648296104, -27.3584692525, 0 ],
-						[ 152.8882396446, -27.389871729, 0 ],
-						[ 152.7845561729, -27.1145693583, 0 ],
-						[ 152.6101482139, -27.0763640237, 0 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : 5412,
-				"UniqueID" : "IF39-4114821",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Mount Glorious and Mount Mee - fire as at 10:58am Wednesday, 29 January 2025",
+				"OBJECTID" : 5416,
+				"UniqueID" : "IF39-4116621",
+				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Mount Glorious and Mount Mee - fire as at 10:18am Thursday, 30 January 2025",
 				"WarningLevel" : "Advice",
 				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
-				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Mount Glorious and Mount Mee - fire as at 10:58am Wednesday, 29 January 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Mount Glorious, Mount Mee and surrounding areas\n\n\n \n\nSmoke is currently affecting Mount Glorious, Mount Mee and surrounding areas. This is from a hazard reduction burn in the D'Aguilar National Park. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Mount Glorious and Mount Mee - fire as at 10:18am Thursday, 30 January 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Mount Glorious, Mount Mee and surrounding areas\n\n\n \n\nSmoke is currently affecting Mount Glorious, Mount Mee and surrounding areas. This is from a hazard reduction burn in the D'Aguilar National Park. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
 				"Header" : "Smoke is currently affecting Mount Glorious, Mount Mee and surrounding areas. This is from a hazard reduction burn in the D'Aguilar National Park. This fire is under control.",
 				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
 				"LeaveSafely" : null,
@@ -112,13 +40,126 @@
 				"WarningLevelSort" : 8,
 				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
 				"WarningArea" : "Mount Glorious, Mount Mee and surrounding areas",
-				"Latitude" : -27.255357806458,
-				"Longitude" : 152.71314504009,
+				"Latitude" : -27.25935591411,
+				"Longitude" : 152.70102564629,
 				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20250129005700",
-				"ItemDateTimeLocal_ISO" : "2025-01-29T10:57:00+10:00",
-				"PublishDateLocal_ISO" : "2025-01-29T23:45:35+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-01-30T10:57:00+10:00"
+				"ItemDateTimeUTM" : "20250130001800",
+				"ItemDateTimeLocal_ISO" : "2025-01-30T10:18:00+10:00",
+				"PublishDateLocal_ISO" : "2025-01-30T23:45:37+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-01-31T10:18:00+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 152.9177628745, -26.3299439789, 0 ],
+						[ 152.9332123985, -26.4136093689, 0 ],
+						[ 153.0101166953, -26.3733222019, 0 ],
+						[ 152.9699479331, -26.3062482971, 0 ],
+						[ 152.9177628745, -26.3299439789, 0 ]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 5417,
+				"UniqueID" : "IF39-4116821",
+				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Tewantin National Park (Cooroibah) - fire as at 10:54am Thursday, 30 January 2025",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
+				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Tewantin National Park (Cooroibah) - fire as at 10:54am Thursday, 30 January 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Lake MacDonald, Cooroibah and surrounding areas\n\n\n \n\nSmoke is currently affecting Lake MacDonald, Cooroibah and surrounding areas. This is from a hazard reduction burn between McKinnon Drive and Old Tewantin Road. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"Header" : "Smoke is currently affecting Lake MacDonald, Cooroibah and surrounding areas. This is from a hazard reduction burn between McKinnon Drive and Old Tewantin Road. This fire is under control.",
+				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire Department.",
+				"WarningLevelSort" : 8,
+				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "Lake MacDonald, Cooroibah and surrounding areas",
+				"Latitude" : -26.356711187641,
+				"Longitude" : 152.95587170022,
+				"GroupedType" : "FIRE VEGETATION",
+				"ItemDateTimeUTM" : "20250130005200",
+				"ItemDateTimeLocal_ISO" : "2025-01-30T10:52:00+10:00",
+				"PublishDateLocal_ISO" : "2025-01-30T23:45:37+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-01-31T10:52:00+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 152.8462484777, -26.6432252162, 0 ],
+						[ 152.9052141607, -26.6204380368, 0 ],
+						[ 152.8882196844, -26.5887432634, 0 ],
+						[ 152.8348329962, -26.606932379, 0 ],
+						[ 152.8462484777, -26.6432252162, 0 ]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 5418,
+				"UniqueID" : "IF39-4117021",
+				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Mapleton National Park - fire as at 10:59am Thursday, 30 January 2025",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
+				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Mapleton National Park - fire as at 10:59am Thursday, 30 January 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Mapleton, Kureelpa and surrounding areas\n\n\n \n\nSmoke is currently affecting Mapleton, Kureelpa and surrounding areas. This is from a hazard reduction burn near Mapleton Forest Drive, Mapleton National Park. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"Header" : "Smoke is currently affecting Mapleton, Kureelpa and surrounding areas. This is from a hazard reduction burn near Mapleton Forest Drive, Mapleton National Park. This fire is under control.",
+				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire Department.",
+				"WarningLevelSort" : 8,
+				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "Mapleton, Kureelpa and surrounding areas",
+				"Latitude" : -26.617215240648,
+				"Longitude" : 152.86884877089,
+				"GroupedType" : "FIRE VEGETATION",
+				"ItemDateTimeUTM" : "20250130005900",
+				"ItemDateTimeLocal_ISO" : "2025-01-30T10:59:00+10:00",
+				"PublishDateLocal_ISO" : "2025-01-30T23:45:37+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-01-31T10:59:00+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 152.7765098361, -26.9509387541, 0 ],
+						[ 152.7829471587, -26.9661073681, 0 ],
+						[ 152.8014694254, -26.9944945802, 0 ],
+						[ 152.8014007357, -26.9943722149, 0 ],
+						[ 152.8558173922, -26.9776219508, 0 ],
+						[ 152.8592506198, -26.935635907, 0 ],
+						[ 152.7765098361, -26.9509387541, 0 ]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 5419,
+				"UniqueID" : "IF39-4117421",
+				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Beerburrum West State Forest - fire as at 11:24am Thursday, 30 January 2025",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
+				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Beerburrum West State Forest - fire as at 11:24am Thursday, 30 January 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Woodford, D'Aguilar and surrounding areas\n\n\n \n\nSmoke is currently affecting Woodford, D'Aguilar and surrounding areas. This is from a hazard reduction burn between Beerburrum Woodford Road and Raaen Road. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"Header" : "Smoke is currently affecting Woodford, D'Aguilar and surrounding areas. This is from a hazard reduction burn between Beerburrum Woodford Road and Raaen Road. This fire is under control.",
+				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire Department.",
+				"WarningLevelSort" : 8,
+				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "Woodford, D'Aguilar and surrounding areas",
+				"Latitude" : -26.967203411968,
+				"Longitude" : 152.82150233117,
+				"GroupedType" : "FIRE VEGETATION",
+				"ItemDateTimeUTM" : "20250130012400",
+				"ItemDateTimeLocal_ISO" : "2025-01-30T11:24:00+10:00",
+				"PublishDateLocal_ISO" : "2025-01-30T23:45:37+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-01-31T11:24:00+10:00"
 			}
 		},
 		{
@@ -149,40 +190,8 @@
 				"Locality" : null,
 				"ItemDateTimeUTM" : "20250116132433",
 				"ItemDateTimeLocal_ISO" : "2025-01-16T23:24:33+10:00",
-				"PublishDateLocal_ISO" : "2025-01-29T23:45:35+10:00",
+				"PublishDateLocal_ISO" : "2025-01-30T23:45:37+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-01-17T23:24:33+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 139.531114, -20.900223 ]
-			},
-			"properties" : {
-				"OBJECTID" : 11118,
-				"UniqueID" : "QF1-25-009507",
-				"WarningTitle" : "Information - WAVERLEY",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "WAVERLEY",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "Unknown",
-				"Jurisdiction" : "1 Northern Region",
-				"Latitude" : -20.900223,
-				"Longitude" : 139.531114,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "WAVERLEY",
-				"ItemDateTimeUTM" : "20250123090525",
-				"ItemDateTimeLocal_ISO" : "2025-01-23T19:05:25+10:00",
-				"PublishDateLocal_ISO" : "2025-01-29T23:45:35+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-01-24T19:05:25+10:00"
 			}
 		},
 		{
@@ -213,40 +222,8 @@
 				"Locality" : "CLONCURRY",
 				"ItemDateTimeUTM" : "20250114223049",
 				"ItemDateTimeLocal_ISO" : "2025-01-15T08:30:49+10:00",
-				"PublishDateLocal_ISO" : "2025-01-29T23:45:35+10:00",
+				"PublishDateLocal_ISO" : "2025-01-30T23:45:37+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-01-16T08:30:49+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 150.211238, -25.700381 ]
-			},
-			"properties" : {
-				"OBJECTID" : 11180,
-				"UniqueID" : "QF2-25-009591",
-				"WarningTitle" : "Information - COCKATOO",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "COCKATOO",
-				"CurrentStatus" : "Going",
-				"Location" : "RED RANGE RD",
-				"Jurisdiction" : "2 Central Region",
-				"Latitude" : -25.700381,
-				"Longitude" : 150.211238,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 1,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "COCKATOO",
-				"ItemDateTimeUTM" : "20250123143629",
-				"ItemDateTimeLocal_ISO" : "2025-01-24T00:36:29+10:00",
-				"PublishDateLocal_ISO" : "2025-01-29T23:45:35+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-01-25T00:36:29+10:00"
 			}
 		},
 		{
@@ -277,7 +254,7 @@
 				"Locality" : "SOUTHWOOD",
 				"ItemDateTimeUTM" : "20250123190856",
 				"ItemDateTimeLocal_ISO" : "2025-01-24T05:08:56+10:00",
-				"PublishDateLocal_ISO" : "2025-01-29T23:45:35+10:00",
+				"PublishDateLocal_ISO" : "2025-01-30T23:45:37+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-01-25T05:08:56+10:00"
 			}
 		},
@@ -309,7 +286,7 @@
 				"Locality" : "TAROOM",
 				"ItemDateTimeUTM" : "20250124211430",
 				"ItemDateTimeLocal_ISO" : "2025-01-25T07:14:30+10:00",
-				"PublishDateLocal_ISO" : "2025-01-29T23:45:35+10:00",
+				"PublishDateLocal_ISO" : "2025-01-30T23:45:37+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-01-26T07:14:30+10:00"
 			}
 		},
@@ -341,7 +318,7 @@
 				"Locality" : "GHINGHINDA",
 				"ItemDateTimeUTM" : "20250124234308",
 				"ItemDateTimeLocal_ISO" : "2025-01-25T09:43:08+10:00",
-				"PublishDateLocal_ISO" : "2025-01-29T23:45:35+10:00",
+				"PublishDateLocal_ISO" : "2025-01-30T23:45:37+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-01-26T09:43:08+10:00"
 			}
 		},
@@ -373,7 +350,7 @@
 				"Locality" : "BINDEBANGO",
 				"ItemDateTimeUTM" : "20250126150740",
 				"ItemDateTimeLocal_ISO" : "2025-01-27T01:07:40+10:00",
-				"PublishDateLocal_ISO" : "2025-01-29T23:45:35+10:00",
+				"PublishDateLocal_ISO" : "2025-01-30T23:45:37+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-01-28T01:07:40+10:00"
 			}
 		},
@@ -405,7 +382,7 @@
 				"Locality" : "BOLLON",
 				"ItemDateTimeUTM" : "20250126154420",
 				"ItemDateTimeLocal_ISO" : "2025-01-27T01:44:20+10:00",
-				"PublishDateLocal_ISO" : "2025-01-29T23:45:35+10:00",
+				"PublishDateLocal_ISO" : "2025-01-30T23:45:38+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-01-28T01:44:20+10:00"
 			}
 		},
@@ -413,96 +390,32 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 147.399596, -28.555653 ]
+				"coordinates" : [ 151.994761, -27.585974 ]
 			},
 			"properties" : {
-				"OBJECTID" : 12134,
-				"UniqueID" : "QF3-25-011115",
-				"WarningTitle" : "Information - BOLLON",
+				"OBJECTID" : 12584,
+				"UniqueID" : "QF3-25-011880",
+				"WarningTitle" : "Information - RANGEVILLE",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : 100,
-				"WarningArea" : "BOLLON",
+				"WarningArea" : "RANGEVILLE",
 				"CurrentStatus" : "Patrolled",
-				"Location" : "Woolerina Rd",
+				"Location" : "TABLE TOP DR & STEVENSON ST",
 				"Jurisdiction" : "3 South Western Region",
-				"Latitude" : -28.555653,
-				"Longitude" : 147.399596,
+				"Latitude" : -27.585974,
+				"Longitude" : 151.994761,
 				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
 				"VehiclesOnScene" : 0,
 				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "BOLLON",
-				"ItemDateTimeUTM" : "20250126201219",
-				"ItemDateTimeLocal_ISO" : "2025-01-27T06:12:19+10:00",
-				"PublishDateLocal_ISO" : "2025-01-29T23:45:35+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-01-28T06:12:19+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 151.475115, -28.406673 ]
-			},
-			"properties" : {
-				"OBJECTID" : 12396,
-				"UniqueID" : "QF3-25-011557",
-				"WarningTitle" : "Information - CEMENT MILLS",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "CEMENT MILLS",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "Spring Creek Rd & Cement Mills Rd",
-				"Jurisdiction" : "3 South Western Region",
-				"Latitude" : -28.406673,
-				"Longitude" : 151.475115,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "CEMENT MILLS",
-				"ItemDateTimeUTM" : "20250127211550",
-				"ItemDateTimeLocal_ISO" : "2025-01-28T07:15:50+10:00",
-				"PublishDateLocal_ISO" : "2025-01-29T23:45:35+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-01-29T07:15:50+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 152.728391, -27.295882 ]
-			},
-			"properties" : {
-				"OBJECTID" : 12577,
-				"UniqueID" : "QF5N-25-011483",
-				"WarningTitle" : "Information - DUNDAS",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "DUNDAS",
-				"CurrentStatus" : "Going",
-				"Location" : "Laceys Creek Rd & Northbrook Pkwy",
-				"Jurisdiction" : "5N Brisbane Region (North)",
-				"Latitude" : -27.295882,
-				"Longitude" : 152.728391,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 1,
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "DUNDAS",
-				"ItemDateTimeUTM" : "20250127184025",
-				"ItemDateTimeLocal_ISO" : "2025-01-28T04:40:25+10:00",
-				"PublishDateLocal_ISO" : "2025-01-29T23:45:35+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-01-29T04:40:25+10:00"
+				"Locality" : "RANGEVILLE",
+				"ItemDateTimeUTM" : "20250128164303",
+				"ItemDateTimeLocal_ISO" : "2025-01-29T02:43:03+10:00",
+				"PublishDateLocal_ISO" : "2025-01-30T23:45:38+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-01-30T02:43:03+10:00"
 			}
 		},
 		{
@@ -533,8 +446,200 @@
 				"Locality" : "WEALWANDANGIE",
 				"ItemDateTimeUTM" : "20250128175822",
 				"ItemDateTimeLocal_ISO" : "2025-01-29T03:58:22+10:00",
-				"PublishDateLocal_ISO" : "2025-01-29T23:45:35+10:00",
+				"PublishDateLocal_ISO" : "2025-01-30T23:45:38+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-01-30T03:58:22+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 152.976105, -26.374402 ]
+			},
+			"properties" : {
+				"OBJECTID" : 12837,
+				"UniqueID" : "QF4-25-011930",
+				"WarningTitle" : "Information - COOROIBAH",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "COOROIBAH",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Old Tewantin Rd & Mckinnon Dr",
+				"Jurisdiction" : "4 North Coast Region",
+				"Latitude" : -26.374402,
+				"Longitude" : 152.976105,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "COOROIBAH",
+				"ItemDateTimeUTM" : "20250128181906",
+				"ItemDateTimeLocal_ISO" : "2025-01-29T04:19:06+10:00",
+				"PublishDateLocal_ISO" : "2025-01-30T23:45:38+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-01-30T04:19:06+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 147.526701, -27.956081 ]
+			},
+			"properties" : {
+				"OBJECTID" : 12888,
+				"UniqueID" : "QF3-25-012438",
+				"WarningTitle" : "Information - BOLLON",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "BOLLON",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Cardiff Rd",
+				"Jurisdiction" : "3 South Western Region",
+				"Latitude" : -27.956081,
+				"Longitude" : 147.526701,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "BOLLON",
+				"ItemDateTimeUTM" : "20250129183821",
+				"ItemDateTimeLocal_ISO" : "2025-01-30T04:38:21+10:00",
+				"PublishDateLocal_ISO" : "2025-01-30T23:45:38+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-01-31T04:38:21+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 146.000267, -26.933799 ]
+			},
+			"properties" : {
+				"OBJECTID" : 12944,
+				"UniqueID" : "QF3-25-012552",
+				"WarningTitle" : "Information - BAKERS BEND",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "BAKERS BEND",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "GUESTLING RD & HYTHE RD",
+				"Jurisdiction" : "3 South Western Region",
+				"Latitude" : -26.933799,
+				"Longitude" : 146.000267,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "BAKERS BEND",
+				"ItemDateTimeUTM" : "20250129225756",
+				"ItemDateTimeLocal_ISO" : "2025-01-30T08:57:56+10:00",
+				"PublishDateLocal_ISO" : "2025-01-30T23:45:38+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-01-31T08:57:56+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 147.329713, -27.811594 ]
+			},
+			"properties" : {
+				"OBJECTID" : 12960,
+				"UniqueID" : "QF3-25-012577",
+				"WarningTitle" : "Information - BOLLON",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "BOLLON",
+				"CurrentStatus" : "Going",
+				"Location" : "Unknown",
+				"Jurisdiction" : "3 South Western Region",
+				"Latitude" : -27.811594,
+				"Longitude" : 147.329713,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 1,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "BOLLON",
+				"ItemDateTimeUTM" : "20250129235716",
+				"ItemDateTimeLocal_ISO" : "2025-01-30T09:57:16+10:00",
+				"PublishDateLocal_ISO" : "2025-01-30T23:45:38+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-01-31T09:57:16+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 148.268173, -28.934056 ]
+			},
+			"properties" : {
+				"OBJECTID" : 12976,
+				"UniqueID" : "QF3-25-012595",
+				"WarningTitle" : "Information - DIRRANBANDI",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "DIRRANBANDI",
+				"CurrentStatus" : "Going",
+				"Location" : "Narine Rd",
+				"Jurisdiction" : "3 South Western Region",
+				"Latitude" : -28.934056,
+				"Longitude" : 148.268173,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 2,
+				"VehiclesOnScene" : 1,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "DIRRANBANDI",
+				"ItemDateTimeUTM" : "20250130005939",
+				"ItemDateTimeLocal_ISO" : "2025-01-30T10:59:39+10:00",
+				"PublishDateLocal_ISO" : "2025-01-30T23:45:38+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-01-31T10:59:39+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 153.290765, -27.768852 ]
+			},
+			"properties" : {
+				"OBJECTID" : 12997,
+				"UniqueID" : "QF6-25-012622",
+				"WarningTitle" : "Information - NORWELL",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "NORWELL",
+				"CurrentStatus" : "Going",
+				"Location" : "NORWELL RD & EGGERSDORF RD",
+				"Jurisdiction" : "6 South Eastern Region",
+				"Latitude" : -27.768852,
+				"Longitude" : 153.290765,
+				"VehiclesAssigned" : 1,
+				"VehiclesOnRoute" : 3,
+				"VehiclesOnScene" : 3,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "NORWELL",
+				"ItemDateTimeUTM" : "20250130023652",
+				"ItemDateTimeLocal_ISO" : "2025-01-30T12:36:52+10:00",
+				"PublishDateLocal_ISO" : "2025-01-30T23:45:38+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-01-31T12:36:52+10:00"
 			}
 		}
 	]
