@@ -1,175 +1,43 @@
 {
 	"type" : "FeatureCollection",
 	"name" : "QFDWarnings",
+	"crs" : {
+		"type" : "name",
+		"properties" : {
+			"name" : "EPSG:3857"
+		}
+	},
 	"features" : [
 		{
 			"type" : "Feature",
 			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 152.610579379, -27.0743311274, 0 ],
-						[ 152.5625141935, -27.3576611997, 0 ],
-						[ 152.8975972013, -27.3991230813, 0 ],
-						[ 152.784987338, -27.1110091645, 0 ],
-						[ 152.610579379, -27.0743311274, 0 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : 5423,
-				"UniqueID" : "IF39-4119821",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Mount Glorious and Mount Mee - fire as at 10:33am Friday, 31 January 2025",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
-				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Mount Glorious and Mount Mee - fire as at 10:33am Friday, 31 January 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Mount Glorious, Mount Mee and surrounding areas\n\n\n \n\nSmoke is currently affecting Mount Glorious, Mount Mee and surrounding areas. This is from a hazard reduction burn in the D'Aguilar National Park. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
-				"Header" : "Smoke is currently affecting Mount Glorious, Mount Mee and surrounding areas. This is from a hazard reduction burn in the D'Aguilar National Park. This fire is under control.",
-				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire Department.",
-				"WarningLevelSort" : 8,
-				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "Mount Glorious, Mount Mee and surrounding areas",
-				"Latitude" : -27.249055134881,
-				"Longitude" : 152.69709671299,
-				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20250131003000",
-				"ItemDateTimeLocal_ISO" : "2025-01-31T10:30:00+10:00",
-				"PublishDateLocal_ISO" : "2025-02-04T23:45:37+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-02-01T10:30:00+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 152.9224862708, -26.8698835963, 0 ],
-						[ 152.9127015723, -26.9894132566, 0 ],
-						[ 153.0388726844, -27.0060852936, 0 ],
-						[ 153.045052494, -26.8879512558, 0 ],
-						[ 152.9224862708, -26.8698835963, 0 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : 5428,
-				"UniqueID" : "IF39-4160221",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Glass House Mountains and Beerburrum - fire as at 10:21am Tuesday,  4 February 2025",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
-				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Glass House Mountains and Beerburrum - fire as at 10:21am Tuesday,  4 February 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Glass House Mountains and Beerburrum\n\n\n \n\nSmoke is currently affecting Glass House Mountains and Beerburrum. This is from a hazard reduction burn near Red Road, Beerburrum. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
-				"Header" : "Smoke is currently affecting Glass House Mountains and Beerburrum. This is from a hazard reduction burn near Red Road, Beerburrum. This fire is under control.",
-				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire Department.",
-				"WarningLevelSort" : 8,
-				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "Glass House Mountains and Beerburrum",
-				"Latitude" : -26.940912650893,
-				"Longitude" : 152.97432800665,
-				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20250204002000",
-				"ItemDateTimeLocal_ISO" : "2025-02-04T10:20:00+10:00",
-				"PublishDateLocal_ISO" : "2025-02-04T23:45:37+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-02-05T10:20:00+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 149.75, -25.13 ]
+				"coordinates" : [ 16815795.2636929117, -3252337.5655315164 ]
 			},
 			"properties" : {
-				"OBJECTID" : 11681,
-				"UniqueID" : "QF2-25-010411",
-				"WarningTitle" : "Information - GHINGHINDA",
+				"OBJECTID" : 15044,
+				"UniqueID" : "QF3-25-015484",
+				"WarningTitle" : "Information - MILLMERRAN WOODS",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : 100,
-				"WarningArea" : "GHINGHINDA",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "Unknown",
-				"Jurisdiction" : "2 Central Region",
-				"Latitude" : -25.13,
-				"Longitude" : 149.75,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "GHINGHINDA",
-				"ItemDateTimeUTM" : "20250124234308",
-				"ItemDateTimeLocal_ISO" : "2025-01-25T09:43:08+10:00",
-				"PublishDateLocal_ISO" : "2025-02-04T23:45:37+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-01-26T09:43:08+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 152.976105, -26.374402 ]
-			},
-			"properties" : {
-				"OBJECTID" : 12837,
-				"UniqueID" : "QF4-25-011930",
-				"WarningTitle" : "Information - COOROIBAH",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "COOROIBAH",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "Old Tewantin Rd & Mckinnon Dr",
-				"Jurisdiction" : "4 North Coast Region",
-				"Latitude" : -26.374402,
-				"Longitude" : 152.976105,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "COOROIBAH",
-				"ItemDateTimeUTM" : "20250128181906",
-				"ItemDateTimeLocal_ISO" : "2025-01-29T04:19:06+10:00",
-				"PublishDateLocal_ISO" : "2025-02-04T23:45:37+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-01-30T04:19:06+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 148.413005, -27.598827 ]
-			},
-			"properties" : {
-				"OBJECTID" : 13048,
-				"UniqueID" : "QF3-25-012710",
-				"WarningTitle" : "Information - WYCOMBE",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "WYCOMBE",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "Dilqui Rd",
+				"WarningArea" : "MILLMERRAN WOODS",
+				"CurrentStatus" : "Going",
+				"Location" : "Cabbage Gum Rd",
 				"Jurisdiction" : "3 South Western Region",
-				"Latitude" : -27.598827,
-				"Longitude" : 148.413005,
-				"VehiclesAssigned" : 0,
+				"Latitude" : -28.026677,
+				"Longitude" : 151.058859,
+				"VehiclesAssigned" : 1,
 				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
+				"VehiclesOnScene" : 1,
 				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "WYCOMBE",
-				"ItemDateTimeUTM" : "20250130083524",
-				"ItemDateTimeLocal_ISO" : "2025-01-30T18:35:24+10:00",
-				"PublishDateLocal_ISO" : "2025-02-04T23:45:37+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-01-31T18:35:24+10:00"
+				"Locality" : "MILLMERRAN WOODS",
+				"ItemDateTimeUTM" : "20250205013134",
+				"ItemDateTimeLocal_ISO" : "2025-02-05T11:31:34+10:00",
+				"PublishDateLocal_ISO" : "2025-02-05T22:45:34+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-02-06T11:31:34+10:00"
 			}
 		}
 	]
