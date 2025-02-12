@@ -1,18 +1,53 @@
 {
 	"type" : "FeatureCollection",
 	"name" : "QFDWarnings",
-	"crs" : {
-		"type" : "name",
-		"properties" : {
-			"name" : "EPSG:3857"
-		}
-	},
 	"features" : [
 		{
 			"type" : "Feature",
 			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 152.9834173119, -26.9610008227, 0 ],
+						[ 152.992481041, -26.942393953, 0 ],
+						[ 152.9923437035, -26.9423327373, 0 ],
+						[ 152.99440364, -26.9163146758, 0 ],
+						[ 152.9591100337, -26.9157636439, 0 ],
+						[ 152.9573590908, -26.9247773087, 0 ],
+						[ 152.9568441014, -26.9374642298, 0 ],
+						[ 152.9634359444, -26.9589811351, 0 ],
+						[ 152.9834173119, -26.9610008227, 0 ]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 5433,
+				"UniqueID" : "IF39-4236221",
+				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Glass House Mountains - fire as at  2:30pm Wednesday, 12 February 2025",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
+				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Glass House Mountains - fire as at  2:30pm Wednesday, 12 February 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Glass House Mountains, Beerburrum and surrounding areas\n\n\n \n\nSmoke is currently affecting Glass House Mountains, Beerburrum and surrounding areas. This is from a hazard reduction burn near Johnston Road, Glass House Mountains. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"Header" : "Smoke is currently affecting Glass House Mountains, Beerburrum and surrounding areas. This is from a hazard reduction burn near Johnston Road, Glass House Mountains. This fire is under control.",
+				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire Department.",
+				"WarningLevelSort" : 8,
+				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "Glass House Mountains, Beerburrum and surrounding areas",
+				"Latitude" : -26.942087893174,
+				"Longitude" : 152.97586421132,
+				"GroupedType" : "FIRE VEGETATION",
+				"ItemDateTimeUTM" : "20250212042600",
+				"ItemDateTimeLocal_ISO" : "2025-02-12T14:26:00+10:00",
+				"PublishDateLocal_ISO" : "2025-02-12T23:45:42+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-02-13T14:26:00+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16866751.9832425155, -2882223.322190166 ]
+				"coordinates" : [ 151.516611, -25.052735 ]
 			},
 			"properties" : {
 				"OBJECTID" : 16610,
@@ -36,8 +71,104 @@
 				"Locality" : "YARROL",
 				"ItemDateTimeUTM" : "20250210112556",
 				"ItemDateTimeLocal_ISO" : "2025-02-10T21:25:56+10:00",
-				"PublishDateLocal_ISO" : "2025-02-11T23:45:37+10:00",
+				"PublishDateLocal_ISO" : "2025-02-12T23:45:42+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-02-11T21:25:56+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 148.200562, -28.248235 ]
+			},
+			"properties" : {
+				"OBJECTID" : 17026,
+				"UniqueID" : "QF3-25-018547",
+				"WarningTitle" : "Information - DIRRANBANDI",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "DIRRANBANDI",
+				"CurrentStatus" : "Going",
+				"Location" : "Goodooga Rd & Openbah Rd",
+				"Jurisdiction" : "3 South Western Region",
+				"Latitude" : -28.248235,
+				"Longitude" : 148.200562,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "DIRRANBANDI",
+				"ItemDateTimeUTM" : "20250211190456",
+				"ItemDateTimeLocal_ISO" : "2025-02-12T05:04:56+10:00",
+				"PublishDateLocal_ISO" : "2025-02-12T23:45:42+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-02-13T05:04:56+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 147.12254, -21.476591 ]
+			},
+			"properties" : {
+				"OBJECTID" : 17160,
+				"UniqueID" : "QF2-25-018741",
+				"WarningTitle" : "Information - MOUNT COOLON",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "MOUNT COOLON",
+				"CurrentStatus" : "Going",
+				"Location" : "BOWEN DEVELOPMENTAL RD",
+				"Jurisdiction" : "2 Central Region",
+				"Latitude" : -21.476591,
+				"Longitude" : 147.12254,
+				"VehiclesAssigned" : 1,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "MOUNT COOLON",
+				"ItemDateTimeUTM" : "20250212032406",
+				"ItemDateTimeLocal_ISO" : "2025-02-12T13:24:06+10:00",
+				"PublishDateLocal_ISO" : "2025-02-12T23:45:42+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-02-13T13:24:06+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 148.712527, -26.208094 ]
+			},
+			"properties" : {
+				"OBJECTID" : 17161,
+				"UniqueID" : "QF3-25-018642",
+				"WarningTitle" : "Information - EUMAMURRIN",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "EUMAMURRIN",
+				"CurrentStatus" : "Going",
+				"Location" : "EDDIES LANE & CARNARVON HWY",
+				"Jurisdiction" : "3 South Western Region",
+				"Latitude" : -26.208094,
+				"Longitude" : 148.712527,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "EUMAMURRIN",
+				"ItemDateTimeUTM" : "20250211214253",
+				"ItemDateTimeLocal_ISO" : "2025-02-12T07:42:53+10:00",
+				"PublishDateLocal_ISO" : "2025-02-12T23:45:42+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-02-13T07:42:53+10:00"
 			}
 		}
 	]
