@@ -1,43 +1,87 @@
 {
 	"type" : "FeatureCollection",
 	"name" : "QFDWarnings",
-	"crs" : {
-		"type" : "name",
-		"properties" : {
-			"name" : "EPSG:3857"
-		}
-	},
 	"features" : [
 		{
 			"type" : "Feature",
 			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 17071245.8878297582, -3215499.4830237888 ]
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 153.1939015631, -27.0494532837, 0 ],
+						[ 153.1775937322, -27.0563328566, 0 ],
+						[ 153.1936955778, -27.0976319972, 0 ],
+						[ 153.1971288053, -27.0959509824, 0 ],
+						[ 153.1988454191, -27.0935058248, 0 ],
+						[ 153.2067418424, -27.0890738405, 0 ],
+						[ 153.2082867948, -27.0788337582, 0 ],
+						[ 153.2017979864, -27.0599406496, 0 ],
+						[ 153.2018666551, -27.0600017966, 0 ],
+						[ 153.1939015631, -27.0494532837, 0 ]
+					]
+				]
 			},
 			"properties" : {
-				"OBJECTID" : 17738,
-				"UniqueID" : "QF6-25-019608",
-				"WarningTitle" : "Information - STEIGLITZ",
+				"OBJECTID" : 5437,
+				"UniqueID" : "IF39-4267621",
+				"WarningTitle" : "AVOID SMOKE - Woorim (Bribie Island) - fire as at 10:30pm Saturday, 15 February 2025",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "AVOID SMOKE",
+				"WarningText" : "\nAVOID SMOKE - Woorim (Bribie Island) - fire as at 10:30pm Saturday, 15 February 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Woorim\n\n\n \n\nSmoke is currently affecting Woorim. This is from a fire burning near North Street.\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- No properties are at risk.\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- Some roads may be closed.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if the situation changes.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"Header" : "Smoke is currently affecting Woorim. This is from a fire burning near North Street.",
+				"Impacts" : "- No properties are at risk.\r\n\r\n- Smoke can make it hard for some people to breathe.\r\n\r\n- Smoke can make it hard to see when you are driving.\r\n\r\n- Some roads may be closed.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from Queensland Fire Department.",
+				"WarningLevelSort" : 7,
+				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "Woorim",
+				"Master_Incident_Number" : "QF5N-25-020027",
+				"CurrentStatus" : "Going",
+				"Location" : "North St",
+				"Jurisdiction" : "5N Brisbane Region (North)",
+				"Latitude" : -27.073132532594,
+				"Longitude" : 153.1947856443,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 3,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "WOORIM",
+				"ItemDateTimeUTM" : "20250215122500",
+				"ItemDateTimeLocal_ISO" : "2025-02-15T22:25:00+10:00",
+				"PublishDateLocal_ISO" : "2025-02-15T23:45:40+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-02-16T22:25:00+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 152.650446, -25.959007 ]
+			},
+			"properties" : {
+				"OBJECTID" : 17938,
+				"UniqueID" : "QF4-25-019918",
+				"WarningTitle" : "Information - GLENWOOD",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : 100,
-				"WarningArea" : "STEIGLITZ",
-				"CurrentStatus" : "Going",
-				"Location" : "CABBAGE TREE POINT RD",
-				"Jurisdiction" : "6 South Eastern Region",
-				"Latitude" : -27.734167,
-				"Longitude" : 153.353611,
+				"WarningArea" : "GLENWOOD",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "ARBORTWENTY TWO RD",
+				"Jurisdiction" : "4 North Coast Region",
+				"Latitude" : -25.959007,
+				"Longitude" : 152.650446,
 				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 1,
-				"VehiclesOnScene" : 3,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "STEIGLITZ",
-				"ItemDateTimeUTM" : "20250214022415",
-				"ItemDateTimeLocal_ISO" : "2025-02-14T12:24:15+10:00",
-				"PublishDateLocal_ISO" : "2025-02-14T23:25:35+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-02-15T12:24:15+10:00"
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "GLENWOOD",
+				"ItemDateTimeUTM" : "20250214195111",
+				"ItemDateTimeLocal_ISO" : "2025-02-15T05:51:11+10:00",
+				"PublishDateLocal_ISO" : "2025-02-15T23:45:40+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-02-16T05:51:11+10:00"
 			}
 		}
 	]
