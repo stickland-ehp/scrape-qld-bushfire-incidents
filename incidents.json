@@ -43,45 +43,101 @@
 				"Longitude" : 153.1947856443,
 				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 3,
+				"VehiclesOnScene" : 1,
 				"GroupedType" : "FIRE VEGETATION",
 				"Locality" : "WOORIM",
 				"ItemDateTimeUTM" : "20250215122500",
 				"ItemDateTimeLocal_ISO" : "2025-02-15T22:25:00+10:00",
-				"PublishDateLocal_ISO" : "2025-02-15T23:45:40+10:00",
+				"PublishDateLocal_ISO" : "2025-02-16T23:45:38+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-02-16T22:25:00+10:00"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 152.650446, -25.959007 ]
+				"type" : "MultiPolygon",
+				"coordinates" : [
+					[
+						[
+							[ 151.6931817576, -28.0881706674, 0 ],
+							[ 151.6712018581, -28.0875163208, 0 ],
+							[ 151.6535207363, -28.0887278717, 0 ],
+							[ 151.6554090114, -28.1211317843, 0 ],
+							[ 151.6938611599, -28.1211317843, 0 ],
+							[ 151.6931817576, -28.0881706674, 0 ]
+						]
+					],
+					[
+						[
+							[ 151.6935864849, -28.0881827162, 0 ],
+							[ 151.6931745144, -28.0878192098, 0 ],
+							[ 151.6931817576, -28.0881706674, 0 ],
+							[ 151.6935864849, -28.0881827162, 0 ]
+						]
+					]
+				]
 			},
 			"properties" : {
-				"OBJECTID" : 17938,
-				"UniqueID" : "QF4-25-019918",
-				"WarningTitle" : "Information - GLENWOOD",
+				"OBJECTID" : 5439,
+				"UniqueID" : "IF39-4270821",
+				"WarningTitle" : "AVOID SMOKE - Thanes Creek (near Leyburn) - fire as at  6:37pm Sunday, 16 February 2025",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "AVOID SMOKE",
+				"WarningText" : "\nAVOID SMOKE - Thanes Creek (near Leyburn) - fire as at  6:37pm Sunday, 16 February 2025 \n\n \n\nWarning level: ADVICE\n\n\nWarning area: Thanes Creek\n\n\n \n\nSmoke is currently affecting Thanes Creek. This is from a fire burning near Leyburn Foresty Road. This fire is under control.\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- No properties are at risk.\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- Some roads may be closed.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if the situation changes.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"Header" : "Smoke is currently affecting Thanes Creek. This is from a fire burning near Leyburn Foresty Road. This fire is under control.",
+				"Impacts" : "- No properties are at risk.\r\n\r\n- Smoke can make it hard for some people to breathe.\r\n\r\n- Smoke can make it hard to see when you are driving.\r\n\r\n- Some roads may be closed.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from Queensland Fire Department.",
+				"WarningLevelSort" : 7,
+				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "Thanes Creek",
+				"Master_Incident_Number" : "QF3-25-020286",
+				"CurrentStatus" : "Going",
+				"Location" : "Leyburn Forestry Rd",
+				"Jurisdiction" : "3 South Western Region",
+				"Latitude" : -28.107735425216,
+				"Longitude" : 151.67312310891,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "THANES CREEK",
+				"ItemDateTimeUTM" : "20250216082600",
+				"ItemDateTimeLocal_ISO" : "2025-02-16T18:26:00+10:00",
+				"PublishDateLocal_ISO" : "2025-02-16T23:45:39+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-02-17T18:26:00+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 151.745292, -24.520076 ]
+			},
+			"properties" : {
+				"OBJECTID" : 18313,
+				"UniqueID" : "QF2-25-020488",
+				"WarningTitle" : "Information - LOWMEAD",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : 100,
-				"WarningArea" : "GLENWOOD",
+				"WarningArea" : "LOWMEAD",
 				"CurrentStatus" : "Patrolled",
-				"Location" : "ARBORTWENTY TWO RD",
-				"Jurisdiction" : "4 North Coast Region",
-				"Latitude" : -25.959007,
-				"Longitude" : 152.650446,
+				"Location" : "GORGE RD",
+				"Jurisdiction" : "2 Central Region",
+				"Latitude" : -24.520076,
+				"Longitude" : 151.745292,
 				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
 				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "GLENWOOD",
-				"ItemDateTimeUTM" : "20250214195111",
-				"ItemDateTimeLocal_ISO" : "2025-02-15T05:51:11+10:00",
-				"PublishDateLocal_ISO" : "2025-02-15T23:45:40+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-02-16T05:51:11+10:00"
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "LOWMEAD",
+				"ItemDateTimeUTM" : "20250215233149",
+				"ItemDateTimeLocal_ISO" : "2025-02-16T09:31:49+10:00",
+				"PublishDateLocal_ISO" : "2025-02-16T23:45:39+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-02-17T09:31:49+10:00"
 			}
 		}
 	]
