@@ -1,221 +1,107 @@
 {
 	"type" : "FeatureCollection",
 	"name" : "QFDWarnings",
+	"crs" : {
+		"type" : "name",
+		"properties" : {
+			"name" : "EPSG:3857"
+		}
+	},
 	"features" : [
 		{
 			"type" : "Feature",
 			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 150.4823243357, -26.6476394059, 0 ],
-						[ 150.4761445262, -26.6856831546, 0 ],
-						[ 150.5590569712, -26.7109874889, 0 ],
-						[ 150.5815446116, -26.6557707889, 0 ],
-						[ 150.4823243357, -26.6476394059, 0 ]
-					]
-				]
+				"type" : "Point",
+				"coordinates" : [ 16762095.4092511814, -3080864.262054964 ]
 			},
 			"properties" : {
-				"OBJECTID" : 5452,
-				"UniqueID" : "IF39-4281421",
-				"WarningTitle" : "AVOID SMOKE - Baking Board (near Chinchilla) - fire as at 10:42am Thursday, 20 February 2025",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "AVOID SMOKE",
-				"WarningText" : "\nAVOID SMOKE - Baking Board (near Chinchilla) - fire as at 10:42am Thursday, 20 February 2025 \n\n \n\nWarning level: ADVICE\n\n\nWarning area: Baking Board and surrounding areas\n\n\n \n\nSmoke is currently affecting Baking Board and surrounding areas. This is from a fire burning near Engine Road and Grahams Road. This fire is under control.\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- No properties are at risk.\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- Some roads may be closed.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if the situation changes.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
-				"Header" : "Smoke is currently affecting Baking Board and surrounding areas. This is from a fire burning near Engine Road and Grahams Road. This fire is under control.",
-				"Impacts" : "- No properties are at risk.\r\n\r\n- Smoke can make it hard for some people to breathe.\r\n\r\n- Smoke can make it hard to see when you are driving.\r\n\r\n- Some roads may be closed.",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from Queensland Fire Department.",
-				"WarningLevelSort" : 7,
-				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "Baking Board and surrounding areas",
-				"Master_Incident_Number" : "QF3-25-021332",
+				"OBJECTID" : 18841,
+				"UniqueID" : "QF3-25-021332",
+				"WarningTitle" : "Information - BAKING BOARD",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "BAKING BOARD",
 				"CurrentStatus" : "Patrolled",
 				"Location" : "ENGINE RD",
 				"Jurisdiction" : "3 South Western Region",
-				"Latitude" : -26.674486110705,
-				"Longitude" : 150.51991817729,
+				"Latitude" : -26.658452,
+				"Longitude" : 150.576465,
 				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
 				"VehiclesOnScene" : 0,
 				"GroupedType" : "FIRE VEGETATION",
 				"Locality" : "BAKING BOARD",
-				"ItemDateTimeUTM" : "20250220004200",
-				"ItemDateTimeLocal_ISO" : "2025-02-20T10:42:00+10:00",
-				"PublishDateLocal_ISO" : "2025-02-20T23:45:37+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-02-21T10:42:00+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 147.7898154917, -24.725229439, 0 ],
-						[ 147.9003654184, -24.828096786, 0 ],
-						[ 148.1001792612, -24.6029249172, 0 ],
-						[ 147.9546104136, -24.5211138248, 0 ],
-						[ 147.8509269419, -24.6210285477, 0 ],
-						[ 147.7898154917, -24.725229439, 0 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : 5449,
-				"UniqueID" : "IF39-4278421",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Carnarvon National Park - fire as at 11:03am Wednesday, 19 February 2025",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
-				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Carnarvon National Park - fire as at 11:03am Wednesday, 19 February 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Carnarvon National Park\n\n\n \n\nSmoke is currently affecting Carnarvon National Park. This is from a hazard reduction burn near the Buckland Tableland section. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
-				"Header" : "Smoke is currently affecting Carnarvon National Park. This is from a hazard reduction burn near the Buckland Tableland section. This fire is under control.",
-				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire Department.",
-				"WarningLevelSort" : 8,
-				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "Carnarvon National Park",
-				"Latitude" : -24.669708061769,
-				"Longitude" : 147.93195111179,
-				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20250219010200",
-				"ItemDateTimeLocal_ISO" : "2025-02-19T11:02:00+10:00",
-				"PublishDateLocal_ISO" : "2025-02-20T23:45:37+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-02-20T11:02:00+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 152.8896756782, -27.4305156806, 0 ],
-						[ 152.8860707893, -27.4635731769, 0 ],
-						[ 152.9358525886, -27.4670763861, 0 ],
-						[ 152.9392858161, -27.4347817206, 0 ],
-						[ 152.8896756782, -27.4305156806, 0 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : 5450,
-				"UniqueID" : "IF39-4280521",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - D’Aguilar National Park - fire as at  8:05am Thursday, 20 February 2025",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
-				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - D’Aguilar National Park - fire as at  8:05am Thursday, 20 February 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: The Gap, Brookfield and surrounding areas\n\n\n \n\nSmoke is currently affecting The Gap, Brookfield and surrounding areas. This is from a hazard reduction burn near the Enoggera Reservoir. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
-				"Header" : "Smoke is currently affecting The Gap, Brookfield and surrounding areas. This is from a hazard reduction burn near the Enoggera Reservoir. This fire is under control.",
-				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire Department.",
-				"WarningLevelSort" : 8,
-				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "The Gap, Brookfield and surrounding areas",
-				"Latitude" : -27.450625568258,
-				"Longitude" : 152.91096168891,
-				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20250219220300",
-				"ItemDateTimeLocal_ISO" : "2025-02-20T08:03:00+10:00",
-				"PublishDateLocal_ISO" : "2025-02-20T23:45:37+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-02-21T08:03:00+10:00"
+				"ItemDateTimeUTM" : "20250217213649",
+				"ItemDateTimeLocal_ISO" : "2025-02-18T07:36:49+10:00",
+				"PublishDateLocal_ISO" : "2025-02-21T23:45:35+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-02-19T07:36:49+10:00"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 149.684831, -26.253059 ]
+				"coordinates" : [ 16699964.4392157495, -3025779.1161655579 ]
 			},
 			"properties" : {
-				"OBJECTID" : 19306,
-				"UniqueID" : "QF3-25-022090",
-				"WarningTitle" : "Information - WOLEEBEE",
+				"OBJECTID" : 19556,
+				"UniqueID" : "QF3-25-022464",
+				"WarningTitle" : "Information - GULUGUBA",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : 100,
-				"WarningArea" : "WOLEEBEE",
+				"WarningArea" : "GULUGUBA",
 				"CurrentStatus" : "Patrolled",
-				"Location" : "Gadsbys Rd",
+				"Location" : "BURUNGA LANE & LEICHHARDT HWY",
 				"Jurisdiction" : "3 South Western Region",
-				"Latitude" : -26.253059,
-				"Longitude" : 149.684831,
+				"Latitude" : -26.215363,
+				"Longitude" : 150.018333,
 				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
 				"VehiclesOnScene" : 0,
 				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "WOLEEBEE",
-				"ItemDateTimeUTM" : "20250219195725",
-				"ItemDateTimeLocal_ISO" : "2025-02-20T05:57:25+10:00",
-				"PublishDateLocal_ISO" : "2025-02-20T23:45:37+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-02-21T05:57:25+10:00"
+				"Locality" : "GULUGUBA",
+				"ItemDateTimeUTM" : "20250220182733",
+				"ItemDateTimeLocal_ISO" : "2025-02-21T04:27:33+10:00",
+				"PublishDateLocal_ISO" : "2025-02-21T23:45:35+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-02-22T04:27:33+10:00"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 152.907168, -26.43102 ]
+				"coordinates" : [ 16756059.4438213892, -3086083.6896986314 ]
 			},
 			"properties" : {
-				"OBJECTID" : 19336,
-				"UniqueID" : "QF4-25-022139",
-				"WarningTitle" : "Information - COOROY",
+				"OBJECTID" : 19574,
+				"UniqueID" : "QF3-25-022493",
+				"WarningTitle" : "Information - CAMEBY",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : 100,
-				"WarningArea" : "COOROY",
+				"WarningArea" : "CAMEBY",
 				"CurrentStatus" : "Patrolled",
-				"Location" : "Roberts Dr",
-				"Jurisdiction" : "4 North Coast Region",
-				"Latitude" : -26.43102,
-				"Longitude" : 152.907168,
+				"Location" : "Warrego Hwy",
+				"Jurisdiction" : "3 South Western Region",
+				"Latitude" : -26.700347,
+				"Longitude" : 150.522243,
 				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
 				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "COOROY",
-				"ItemDateTimeUTM" : "20250219214945",
-				"ItemDateTimeLocal_ISO" : "2025-02-20T07:49:45+10:00",
-				"PublishDateLocal_ISO" : "2025-02-20T23:45:37+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-02-21T07:49:45+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 152.540592, -27.460044 ]
-			},
-			"properties" : {
-				"OBJECTID" : 19361,
-				"UniqueID" : "QF6-25-022176",
-				"WarningTitle" : "Information - RIFLE RANGE",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "RIFLE RANGE",
-				"CurrentStatus" : "Going",
-				"Location" : "Wyatts Rd",
-				"Jurisdiction" : "6 South Eastern Region",
-				"Latitude" : -27.460044,
-				"Longitude" : 152.540592,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 1,
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "RIFLE RANGE",
-				"ItemDateTimeUTM" : "20250219234704",
-				"ItemDateTimeLocal_ISO" : "2025-02-20T09:47:04+10:00",
-				"PublishDateLocal_ISO" : "2025-02-20T23:45:37+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-02-21T09:47:04+10:00"
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "CAMEBY",
+				"ItemDateTimeUTM" : "20250220193109",
+				"ItemDateTimeLocal_ISO" : "2025-02-21T05:31:09+10:00",
+				"PublishDateLocal_ISO" : "2025-02-21T23:45:35+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-02-22T05:31:09+10:00"
 			}
 		}
 	]
