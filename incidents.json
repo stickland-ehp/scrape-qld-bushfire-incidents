@@ -8,22 +8,115 @@
 				"type" : "Polygon",
 				"coordinates" : [
 					[
-						[ 152.7281265433, -27.3156755949, 0 ],
-						[ 152.7700119193, -27.4294578819, 0 ],
-						[ 152.7700119193, -27.4290921692, 0 ],
-						[ 152.8434829887, -27.4193404759, 0 ],
-						[ 152.7947311576, -27.3040834912, 0 ],
-						[ 152.7281265433, -27.3156755949, 0 ]
+						[ 152.9173278809, -26.0080412691, 0 ],
+						[ 153.0738830566, -26.0185316814, 0 ],
+						[ 153.0429840088, -25.8029821438, 0 ],
+						[ 152.8589630127, -25.8326512736, 0 ],
+						[ 152.9173278809, -26.0080412691, 0 ]
 					]
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 5463,
-				"UniqueID" : "IF39-4286721",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Mount Glorious and Mount Nebo - fire as at  8:57am Wednesday, 26 February 2025",
+				"OBJECTID" : 5474,
+				"UniqueID" : "IF39-4290121",
+				"WarningTitle" : "AVOID SMOKE - Cooloola Cove - fire as at  3:13pm Thursday, 27 February 2025",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "AVOID SMOKE",
+				"WarningText" : "\nAVOID SMOKE - Cooloola Cove - fire as at  3:13pm Thursday, 27 February 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Cooloola Cove and surrounding areas\n\n\n \n\nSmoke is currently affecting Cooloola Cove and surrounding areas. This is from a fire burning near Bayside Road, Cooloola Cove.\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- No properties are at risk.\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- Some roads may be closed.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if the situation changes.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"Header" : "Smoke is currently affecting Cooloola Cove and surrounding areas. This is from a fire burning near Bayside Road, Cooloola Cove.",
+				"Impacts" : "- No properties are at risk.\r\n\r\n- Smoke can make it hard for some people to breathe.\r\n\r\n- Smoke can make it hard to see when you are driving.\r\n\r\n- Some roads may be closed.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from Queensland Fire Department.",
+				"WarningLevelSort" : 7,
+				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "Cooloola Cove and surrounding areas",
+				"Latitude" : -25.912967808399,
+				"Longitude" : 152.97981262207,
+				"GroupedType" : "FIRE VEGETATION",
+				"ItemDateTimeUTM" : "20250227051200",
+				"ItemDateTimeLocal_ISO" : "2025-02-27T15:12:00+10:00",
+				"PublishDateLocal_ISO" : "2025-02-27T23:45:37+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-02-28T15:12:00+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "MultiPolygon",
+				"coordinates" : [
+					[
+						[
+							[ 153.1507599874, -27.6829154948, 0 ],
+							[ 153.1506089181, -27.6829383843, 0 ],
+							[ 153.1507691801, -27.6829384029, 0 ],
+							[ 153.1507599874, -27.6829154948, 0 ]
+						]
+					],
+					[
+						[
+							[ 153.1507599874, -27.6829154948, 0 ],
+							[ 153.2409028024, -27.6692564795, 0 ],
+							[ 153.1890610665, -27.5956488691, 0 ],
+							[ 153.124173066, -27.6166412076, 0 ],
+							[ 153.1507599874, -27.6829154948, 0 ]
+						]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 5471,
+				"UniqueID" : "IF39-4289121",
+				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Shailer Park - fire as at 11:02am Thursday, 27 February 2025",
 				"WarningLevel" : "Advice",
 				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
-				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Mount Glorious and Mount Nebo - fire as at  8:57am Wednesday, 26 February 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Mount Glorious, Mount Nebo and surrounding areas\n\n\n \n\nSmoke is currently affecting Mount Glorious, Mount Nebo and surrounding areas. This is from a hazard reduction burn near Mount Glorious and Mount Nebo. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Shailer Park - fire as at 11:02am Thursday, 27 February 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Shailer Park and surrounding areas\n\n\n \n\nSmoke is currently affecting Shailer Park and surrounding areas. This is from a hazard reduction burn in the Daisy Hill Conservation Park. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"Header" : "Smoke is currently affecting Shailer Park and surrounding areas. This is from a hazard reduction burn in the Daisy Hill Conservation Park. This fire is under control.",
+				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire Department.",
+				"WarningLevelSort" : 8,
+				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "Shailer Park and surrounding areas",
+				"Latitude" : -27.640975114471,
+				"Longitude" : 153.17464151086,
+				"GroupedType" : "FIRE VEGETATION",
+				"ItemDateTimeUTM" : "20250227004300",
+				"ItemDateTimeLocal_ISO" : "2025-02-27T10:43:00+10:00",
+				"PublishDateLocal_ISO" : "2025-02-27T23:45:38+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-02-28T10:43:00+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "MultiPolygon",
+				"coordinates" : [
+					[
+						[
+							[ 152.7673668785, -27.4325844104, 0 ],
+							[ 152.7673511261, -27.4325863328, 0 ],
+							[ 152.7674427403, -27.4327894837, 0 ],
+							[ 152.7673668785, -27.4325844104, 0 ]
+						]
+					],
+					[
+						[
+							[ 152.7673668785, -27.4325844104, 0 ],
+							[ 152.849748587, -27.4225302035, 0 ],
+							[ 152.7968768829, -27.2965988396, 0 ],
+							[ 152.7234058136, -27.3136826692, 0 ],
+							[ 152.7673668785, -27.4325844104, 0 ]
+						]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 5472,
+				"UniqueID" : "IF39-4289321",
+				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Mount Glorious and Mount Nebo - fire as at 11:03am Thursday, 27 February 2025",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
+				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Mount Glorious and Mount Nebo - fire as at 11:03am Thursday, 27 February 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Mount Glorious, Mount Nebo and surrounding areas\n\n\n \n\nSmoke is currently affecting Mount Glorious, Mount Nebo and surrounding areas. This is from a hazard reduction burn near Mount Glorious and Mount Nebo. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
 				"Header" : "Smoke is currently affecting Mount Glorious, Mount Nebo and surrounding areas. This is from a hazard reduction burn near Mount Glorious and Mount Nebo. This fire is under control.",
 				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
 				"LeaveSafely" : null,
@@ -31,90 +124,13 @@
 				"WarningLevelSort" : 8,
 				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
 				"WarningArea" : "Mount Glorious, Mount Nebo and surrounding areas",
-				"Latitude" : -27.371788643301,
-				"Longitude" : 152.79061128455,
+				"Latitude" : -27.371321168447,
+				"Longitude" : 152.77730748593,
 				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20250225225700",
-				"ItemDateTimeLocal_ISO" : "2025-02-26T08:57:00+10:00",
-				"PublishDateLocal_ISO" : "2025-02-26T23:45:37+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-02-27T08:57:00+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 153.1539592353, -27.9151511631, 0 ],
-						[ 153.1527576057, -27.9278921354, 0 ],
-						[ 153.1750735847, -27.9281954736, 0 ],
-						[ 153.1767901985, -27.9169713939, 0 ],
-						[ 153.1539592353, -27.9151511631, 0 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : 5464,
-				"UniqueID" : "IF39-4286921",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - North Tamborine - fire as at 11:16am Wednesday, 26 February 2025",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
-				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - North Tamborine - fire as at 11:16am Wednesday, 26 February 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: North Tamborine and surrounding areas\n\n\n \n\nSmoke is currently affecting North Tamborine and surrounding areas. This is from a hazard reduction burn near Beacon Road. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
-				"Header" : "Smoke is currently affecting North Tamborine and surrounding areas. This is from a hazard reduction burn near Beacon Road. This fire is under control.",
-				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire Department.",
-				"WarningLevelSort" : 8,
-				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "North Tamborine and surrounding areas",
-				"Latitude" : -27.921218480019,
-				"Longitude" : 153.16201390902,
-				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20250226011300",
-				"ItemDateTimeLocal_ISO" : "2025-02-26T11:13:00+10:00",
-				"PublishDateLocal_ISO" : "2025-02-26T23:45:37+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-02-27T11:13:00+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 152.7624034881, -27.4925881286, 0 ],
-						[ 152.7576828003, -27.500506183, 0 ],
-						[ 152.7637767792, -27.5104790755, 0 ],
-						[ 152.7765226364, -27.5108216136, 0 ],
-						[ 152.7896118164, -27.5056830645, 0 ],
-						[ 152.7930450439, -27.4998209893, 0 ],
-						[ 152.7911567688, -27.4933495047, 0 ],
-						[ 152.7624034881, -27.4925881286, 0 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : 5465,
-				"UniqueID" : "IF39-4287121",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Kholo (near Brisbane) - fire as at 11:21am Wednesday, 26 February 2025",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
-				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Kholo (near Brisbane) - fire as at 11:21am Wednesday, 26 February 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Kholo and surrounding areas\n\n\n \n\nSmoke is currently affecting Kholo and surrounding areas. This is from a hazard reduction burn near Lake Manchester Road. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
-				"Header" : "Smoke is currently affecting Kholo and surrounding areas. This is from a hazard reduction burn near Lake Manchester Road. This fire is under control.",
-				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire Department.",
-				"WarningLevelSort" : 8,
-				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "Kholo and surrounding areas",
-				"Latitude" : -27.500430050582,
-				"Longitude" : 152.77536392211,
-				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20250226011600",
-				"ItemDateTimeLocal_ISO" : "2025-02-26T11:16:00+10:00",
-				"PublishDateLocal_ISO" : "2025-02-26T23:45:37+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-02-27T11:16:00+10:00"
+				"ItemDateTimeUTM" : "20250227004600",
+				"ItemDateTimeLocal_ISO" : "2025-02-27T10:46:00+10:00",
+				"PublishDateLocal_ISO" : "2025-02-27T23:45:38+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-02-28T10:46:00+10:00"
 			}
 		},
 		{
@@ -145,40 +161,8 @@
 				"Locality" : "GLENHAUGHTON",
 				"ItemDateTimeUTM" : "20250224165427",
 				"ItemDateTimeLocal_ISO" : "2025-02-25T02:54:27+10:00",
-				"PublishDateLocal_ISO" : "2025-02-26T23:45:37+10:00",
+				"PublishDateLocal_ISO" : "2025-02-27T23:45:38+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-02-26T02:54:27+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 145.279113, -23.586013 ]
-			},
-			"properties" : {
-				"OBJECTID" : 20749,
-				"UniqueID" : "QF2-25-024139",
-				"WarningTitle" : "Information - BARCALDINE",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "BARCALDINE",
-				"CurrentStatus" : "Going",
-				"Location" : "Landsborough Hwy & Plum Hill Rd",
-				"Jurisdiction" : "2 Central Region",
-				"Latitude" : -23.586013,
-				"Longitude" : 145.279113,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "BARCALDINE",
-				"ItemDateTimeUTM" : "20250224234834",
-				"ItemDateTimeLocal_ISO" : "2025-02-25T09:48:34+10:00",
-				"PublishDateLocal_ISO" : "2025-02-26T23:45:37+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-02-26T09:48:34+10:00"
 			}
 		},
 		{
@@ -209,7 +193,7 @@
 				"Locality" : "OMAN AMA",
 				"ItemDateTimeUTM" : "20250225194842",
 				"ItemDateTimeLocal_ISO" : "2025-02-26T05:48:42+10:00",
-				"PublishDateLocal_ISO" : "2025-02-26T23:45:37+10:00",
+				"PublishDateLocal_ISO" : "2025-02-27T23:45:38+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-02-27T05:48:42+10:00"
 			}
 		},
@@ -217,32 +201,32 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 152.625153, -25.747071 ]
+				"coordinates" : [ 150.538874, -26.705531 ]
 			},
 			"properties" : {
-				"OBJECTID" : 20941,
-				"UniqueID" : "QF4-25-024548",
-				"WarningTitle" : "Information - TIARO",
+				"OBJECTID" : 21085,
+				"UniqueID" : "QF3-25-024748",
+				"WarningTitle" : "Information - CAMEBY",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : 100,
-				"WarningArea" : "TIARO",
+				"WarningArea" : "CAMEBY",
 				"CurrentStatus" : "Patrolled",
-				"Location" : "Tahiti Rd",
-				"Jurisdiction" : "4 North Coast Region",
-				"Latitude" : -25.747071,
-				"Longitude" : 152.625153,
+				"Location" : "Warrego Hwy & Engine Rd",
+				"Jurisdiction" : "3 South Western Region",
+				"Latitude" : -26.705531,
+				"Longitude" : 150.538874,
 				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
 				"VehiclesOnScene" : 0,
 				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "TIARO",
-				"ItemDateTimeUTM" : "20250226010537",
-				"ItemDateTimeLocal_ISO" : "2025-02-26T11:05:37+10:00",
-				"PublishDateLocal_ISO" : "2025-02-26T23:45:37+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-02-27T11:05:37+10:00"
+				"Locality" : "CAMEBY",
+				"ItemDateTimeUTM" : "20250226162755",
+				"ItemDateTimeLocal_ISO" : "2025-02-27T02:27:55+10:00",
+				"PublishDateLocal_ISO" : "2025-02-27T23:45:38+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-02-28T02:27:55+10:00"
 			}
 		}
 	]
