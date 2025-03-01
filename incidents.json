@@ -45,7 +45,7 @@
 				"GroupedType" : "FIRE VEGETATION",
 				"ItemDateTimeUTM" : "20250228005300",
 				"ItemDateTimeLocal_ISO" : "2025-02-28T10:53:00+10:00",
-				"PublishDateLocal_ISO" : "2025-02-28T23:45:37+10:00",
+				"PublishDateLocal_ISO" : "2025-03-01T23:45:40+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-03-01T10:53:00+10:00"
 			}
 		},
@@ -100,7 +100,7 @@
 				"Locality" : "LEYBURN",
 				"ItemDateTimeUTM" : "20250228075300",
 				"ItemDateTimeLocal_ISO" : "2025-02-28T17:53:00+10:00",
-				"PublishDateLocal_ISO" : "2025-02-28T23:45:37+10:00",
+				"PublishDateLocal_ISO" : "2025-03-01T23:45:40+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-03-01T17:53:00+10:00"
 			}
 		},
@@ -140,7 +140,7 @@
 				"GroupedType" : "FIRE VEGETATION",
 				"ItemDateTimeUTM" : "20250227232000",
 				"ItemDateTimeLocal_ISO" : "2025-02-28T09:20:00+10:00",
-				"PublishDateLocal_ISO" : "2025-02-28T23:45:37+10:00",
+				"PublishDateLocal_ISO" : "2025-03-01T23:45:40+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-03-01T09:20:00+10:00"
 			}
 		},
@@ -178,7 +178,7 @@
 				"GroupedType" : "FIRE VEGETATION",
 				"ItemDateTimeUTM" : "20250228020400",
 				"ItemDateTimeLocal_ISO" : "2025-02-28T12:04:00+10:00",
-				"PublishDateLocal_ISO" : "2025-02-28T23:45:37+10:00",
+				"PublishDateLocal_ISO" : "2025-03-01T23:45:40+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-03-01T12:04:00+10:00"
 			}
 		},
@@ -210,7 +210,7 @@
 				"Locality" : "GLENHAUGHTON",
 				"ItemDateTimeUTM" : "20250224165427",
 				"ItemDateTimeLocal_ISO" : "2025-02-25T02:54:27+10:00",
-				"PublishDateLocal_ISO" : "2025-02-28T23:45:37+10:00",
+				"PublishDateLocal_ISO" : "2025-03-01T23:45:40+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-02-26T02:54:27+10:00"
 			}
 		},
@@ -218,96 +218,32 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 153.187523, -27.639984 ]
+				"coordinates" : [ 152.378084, -27.765388 ]
 			},
 			"properties" : {
-				"OBJECTID" : 21287,
-				"UniqueID" : "QF5S-25-024643",
-				"WarningTitle" : "Information - SHAILER PARK",
+				"OBJECTID" : 21744,
+				"UniqueID" : "QF6-25-025676",
+				"WarningTitle" : "Information - THORNTON",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : 100,
-				"WarningArea" : "SHAILER PARK",
+				"WarningArea" : "THORNTON",
 				"CurrentStatus" : "Going",
-				"Location" : "Leo Lindo Dr",
-				"Jurisdiction" : "5S Brisbane Region (South)",
-				"Latitude" : -27.639984,
-				"Longitude" : 153.187523,
+				"Location" : "Mulgowie Rd",
+				"Jurisdiction" : "6 South Eastern Region",
+				"Latitude" : -27.765388,
+				"Longitude" : 152.378084,
 				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
 				"VehiclesOnScene" : 1,
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "SHAILER PARK",
-				"ItemDateTimeUTM" : "20250226115333",
-				"ItemDateTimeLocal_ISO" : "2025-02-26T21:53:33+10:00",
-				"PublishDateLocal_ISO" : "2025-02-28T23:45:37+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-02-27T21:53:33+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 152.225958, -26.099938 ]
-			},
-			"properties" : {
-				"OBJECTID" : 21402,
-				"UniqueID" : "QF4-25-025248",
-				"WarningTitle" : "Information - KILKIVAN",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "KILKIVAN",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "Blacksnake Rd & Wide Bay Hwy",
-				"Jurisdiction" : "4 North Coast Region",
-				"Latitude" : -26.099938,
-				"Longitude" : 152.225958,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
 				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "KILKIVAN",
-				"ItemDateTimeUTM" : "20250227184409",
-				"ItemDateTimeLocal_ISO" : "2025-02-28T04:44:09+10:00",
-				"PublishDateLocal_ISO" : "2025-02-28T23:45:37+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-03-01T04:44:09+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 149.747803, -26.097554 ]
-			},
-			"properties" : {
-				"OBJECTID" : 21430,
-				"UniqueID" : "QF3-25-025302",
-				"WarningTitle" : "Information - WANDOAN",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "WANDOAN",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "Bundi Rd",
-				"Jurisdiction" : "3 South Western Region",
-				"Latitude" : -26.097554,
-				"Longitude" : 149.747803,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "WANDOAN",
-				"ItemDateTimeUTM" : "20250227202835",
-				"ItemDateTimeLocal_ISO" : "2025-02-28T06:28:35+10:00",
-				"PublishDateLocal_ISO" : "2025-02-28T23:45:37+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-03-01T06:28:35+10:00"
+				"Locality" : "THORNTON",
+				"ItemDateTimeUTM" : "20250228180223",
+				"ItemDateTimeLocal_ISO" : "2025-03-01T04:02:23+10:00",
+				"PublishDateLocal_ISO" : "2025-03-01T23:45:40+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-03-02T04:02:23+10:00"
 			}
 		}
 	]
