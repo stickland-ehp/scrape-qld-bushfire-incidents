@@ -36,7 +36,7 @@
 				"Locality" : "GLENHAUGHTON",
 				"ItemDateTimeUTM" : "20250224165427",
 				"ItemDateTimeLocal_ISO" : "2025-02-25T02:54:27+10:00",
-				"PublishDateLocal_ISO" : "2025-03-08T23:45:37+10:00",
+				"PublishDateLocal_ISO" : "2025-03-09T23:45:34+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-02-26T02:54:27+10:00"
 			}
 		},
@@ -68,7 +68,7 @@
 				"Locality" : "LOCHINGTON",
 				"ItemDateTimeUTM" : "20250303193830",
 				"ItemDateTimeLocal_ISO" : "2025-03-04T05:38:30+10:00",
-				"PublishDateLocal_ISO" : "2025-03-08T23:45:37+10:00",
+				"PublishDateLocal_ISO" : "2025-03-09T23:45:34+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-03-05T05:38:30+10:00"
 			}
 		},
@@ -100,7 +100,7 @@
 				"Locality" : "CONDAMINE",
 				"ItemDateTimeUTM" : "20250305221454",
 				"ItemDateTimeLocal_ISO" : "2025-03-06T08:14:54+10:00",
-				"PublishDateLocal_ISO" : "2025-03-08T23:45:37+10:00",
+				"PublishDateLocal_ISO" : "2025-03-09T23:45:34+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-03-07T08:14:54+10:00"
 			}
 		},
@@ -132,7 +132,7 @@
 				"Locality" : "EINASLEIGH",
 				"ItemDateTimeUTM" : "20250305130916",
 				"ItemDateTimeLocal_ISO" : "2025-03-05T23:09:16+10:00",
-				"PublishDateLocal_ISO" : "2025-03-08T23:45:37+10:00",
+				"PublishDateLocal_ISO" : "2025-03-09T23:45:34+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-03-06T23:09:16+10:00"
 			}
 		},
@@ -164,7 +164,7 @@
 				"Locality" : "FORSAYTH",
 				"ItemDateTimeUTM" : "20250305131829",
 				"ItemDateTimeLocal_ISO" : "2025-03-05T23:18:29+10:00",
-				"PublishDateLocal_ISO" : "2025-03-08T23:45:37+10:00",
+				"PublishDateLocal_ISO" : "2025-03-09T23:45:34+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-03-06T23:18:29+10:00"
 			}
 		},
@@ -196,7 +196,7 @@
 				"Locality" : "GEORGETOWN",
 				"ItemDateTimeUTM" : "20250305133653",
 				"ItemDateTimeLocal_ISO" : "2025-03-05T23:36:53+10:00",
-				"PublishDateLocal_ISO" : "2025-03-08T23:45:37+10:00",
+				"PublishDateLocal_ISO" : "2025-03-09T23:45:34+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-03-06T23:36:53+10:00"
 			}
 		},
@@ -228,40 +228,8 @@
 				"Locality" : "CROYDON",
 				"ItemDateTimeUTM" : "20250305134946",
 				"ItemDateTimeLocal_ISO" : "2025-03-05T23:49:46+10:00",
-				"PublishDateLocal_ISO" : "2025-03-08T23:45:37+10:00",
+				"PublishDateLocal_ISO" : "2025-03-09T23:45:34+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-03-06T23:49:46+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 16173648.2244544607, -2719272.6842721724 ]
-			},
-			"properties" : {
-				"OBJECTID" : 25365,
-				"UniqueID" : "QF2-25-029716",
-				"WarningTitle" : "Information - BARCALDINE",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "BARCALDINE",
-				"CurrentStatus" : "Going",
-				"Location" : "Landsborough Hwy",
-				"Jurisdiction" : "2 Central Region",
-				"Latitude" : -23.719563,
-				"Longitude" : 145.290354,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "BARCALDINE",
-				"ItemDateTimeUTM" : "20250308000630",
-				"ItemDateTimeLocal_ISO" : "2025-03-08T10:06:30+10:00",
-				"PublishDateLocal_ISO" : "2025-03-08T23:45:37+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-03-09T10:06:30+10:00"
 			}
 		},
 		{
@@ -280,20 +248,52 @@
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : 100,
 				"WarningArea" : "CLONCURRY",
-				"CurrentStatus" : "Going",
+				"CurrentStatus" : "Patrolled",
 				"Location" : "BARKLY HWY",
 				"Jurisdiction" : "1 Northern Region",
 				"Latitude" : -20.717862,
 				"Longitude" : 140.45188,
-				"VehiclesAssigned" : 1,
+				"VehiclesAssigned" : 2,
 				"VehiclesOnRoute" : 0,
 				"VehiclesOnScene" : 0,
 				"GroupedType" : "FIRE VEGETATION",
 				"Locality" : "CLONCURRY",
 				"ItemDateTimeUTM" : "20250308023250",
 				"ItemDateTimeLocal_ISO" : "2025-03-08T12:32:50+10:00",
-				"PublishDateLocal_ISO" : "2025-03-08T23:45:37+10:00",
+				"PublishDateLocal_ISO" : "2025-03-09T23:45:34+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-03-09T12:32:50+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 16175462.6208348982, -2726590.6165601555 ]
+			},
+			"properties" : {
+				"OBJECTID" : 26362,
+				"UniqueID" : "QF2-25-031015",
+				"WarningTitle" : "Information - BARCALDINE",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "BARCALDINE",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Narbethong Rd & Landsborough Hwy",
+				"Jurisdiction" : "2 Central Region",
+				"Latitude" : -23.779734,
+				"Longitude" : 145.306653,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "BARCALDINE",
+				"ItemDateTimeUTM" : "20250309002048",
+				"ItemDateTimeLocal_ISO" : "2025-03-09T10:20:48+10:00",
+				"PublishDateLocal_ISO" : "2025-03-09T23:45:34+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-03-10T10:20:48+10:00"
 			}
 		}
 	]
