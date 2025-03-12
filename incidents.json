@@ -24,19 +24,19 @@
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : 100,
 				"WarningArea" : "GLENHAUGHTON",
-				"CurrentStatus" : "Going",
+				"CurrentStatus" : "Patrolled",
 				"Location" : "Unknown",
 				"Jurisdiction" : "2 Central Region",
 				"Latitude" : -25.3544,
 				"Longitude" : 149.088,
 				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 1,
+				"VehiclesOnScene" : 0,
 				"GroupedType" : "FIRE VEGETATION",
 				"Locality" : "GLENHAUGHTON",
 				"ItemDateTimeUTM" : "20250224165427",
 				"ItemDateTimeLocal_ISO" : "2025-02-25T02:54:27+10:00",
-				"PublishDateLocal_ISO" : "2025-03-11T23:45:36+10:00",
+				"PublishDateLocal_ISO" : "2025-03-12T23:50:39+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-02-26T02:54:27+10:00"
 			}
 		},
@@ -68,7 +68,7 @@
 				"Locality" : "LOCHINGTON",
 				"ItemDateTimeUTM" : "20250303193830",
 				"ItemDateTimeLocal_ISO" : "2025-03-04T05:38:30+10:00",
-				"PublishDateLocal_ISO" : "2025-03-11T23:45:36+10:00",
+				"PublishDateLocal_ISO" : "2025-03-12T23:50:39+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-03-05T05:38:30+10:00"
 			}
 		},
@@ -100,72 +100,8 @@
 				"Locality" : "EINASLEIGH",
 				"ItemDateTimeUTM" : "20250305130916",
 				"ItemDateTimeLocal_ISO" : "2025-03-05T23:09:16+10:00",
-				"PublishDateLocal_ISO" : "2025-03-11T23:45:36+10:00",
+				"PublishDateLocal_ISO" : "2025-03-12T23:50:39+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-03-06T23:09:16+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 16794505.1884397119, -2764091.9206945305 ]
-			},
-			"properties" : {
-				"OBJECTID" : 27013,
-				"UniqueID" : "QF2-25-031864",
-				"WarningTitle" : "Information - MOUNT ALMA",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "MOUNT ALMA",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "Unnamed Mount Alma Rd",
-				"Jurisdiction" : "2 Central Region",
-				"Latitude" : -24.087647,
-				"Longitude" : 150.867607,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "MOUNT ALMA",
-				"ItemDateTimeUTM" : "20250309211723",
-				"ItemDateTimeLocal_ISO" : "2025-03-10T07:17:23+10:00",
-				"PublishDateLocal_ISO" : "2025-03-11T23:45:36+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-03-11T07:17:23+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 16659989.6100718845, -2959535.2190908301 ]
-			},
-			"properties" : {
-				"OBJECTID" : 27027,
-				"UniqueID" : "QF3-25-031882",
-				"WarningTitle" : "Information - KINNOUL",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "KINNOUL",
-				"CurrentStatus" : "Going",
-				"Location" : "INJUNE RD",
-				"Jurisdiction" : "3 South Western Region",
-				"Latitude" : -25.680275,
-				"Longitude" : 149.659233,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "KINNOUL",
-				"ItemDateTimeUTM" : "20250309214410",
-				"ItemDateTimeLocal_ISO" : "2025-03-10T07:44:10+10:00",
-				"PublishDateLocal_ISO" : "2025-03-11T23:45:36+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-03-11T07:44:10+10:00"
 			}
 		},
 		{
@@ -196,7 +132,7 @@
 				"Locality" : "PARKNOOK",
 				"ItemDateTimeUTM" : "20250310032602",
 				"ItemDateTimeLocal_ISO" : "2025-03-10T13:26:02+10:00",
-				"PublishDateLocal_ISO" : "2025-03-11T23:45:36+10:00",
+				"PublishDateLocal_ISO" : "2025-03-12T23:50:39+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-03-11T13:26:02+10:00"
 			}
 		}
