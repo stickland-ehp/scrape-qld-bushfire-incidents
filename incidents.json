@@ -1,18 +1,49 @@
 {
 	"type" : "FeatureCollection",
 	"name" : "QFDWarnings",
-	"crs" : {
-		"type" : "name",
-		"properties" : {
-			"name" : "EPSG:3857"
-		}
-	},
 	"features" : [
 		{
 			"type" : "Feature",
 			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 152.9470296387, -26.9503966248, 0 ],
+						[ 152.9382749085, -27.0100581546, 0 ],
+						[ 152.9779286866, -27.0177047807, 0 ],
+						[ 152.987198401, -26.9690633742, 0 ],
+						[ 152.9470296387, -26.9503966248, 0 ]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 5502,
+				"UniqueID" : "IF39-4390121",
+				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Beerburrum - fire as at  7:33am Thursday, 13 March 2025",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
+				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Beerburrum - fire as at  7:33am Thursday, 13 March 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Beerburrum and surrounding areas\n\n\n \n\nSmoke is currently affecting Beerburrum and surrounding areas. This is from a hazard reduction burn near Steve Irwin Way, Beerburrum. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"Header" : "Smoke is currently affecting Beerburrum and surrounding areas. This is from a hazard reduction burn near Steve Irwin Way, Beerburrum. This fire is under control.",
+				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire Department.",
+				"WarningLevelSort" : 8,
+				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "Beerburrum and surrounding areas",
+				"Latitude" : -26.989562631732,
+				"Longitude" : 152.96144919442,
+				"GroupedType" : "FIRE VEGETATION",
+				"ItemDateTimeUTM" : "20250312213100",
+				"ItemDateTimeLocal_ISO" : "2025-03-13T07:31:00+10:00",
+				"PublishDateLocal_ISO" : "2025-03-13T23:45:38+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-03-14T07:31:00+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16596400.2433875687, -2919337.8559312047 ]
+				"coordinates" : [ 149.088, -25.3544 ]
 			},
 			"properties" : {
 				"OBJECTID" : 20567,
@@ -36,7 +67,7 @@
 				"Locality" : "GLENHAUGHTON",
 				"ItemDateTimeUTM" : "20250224165427",
 				"ItemDateTimeLocal_ISO" : "2025-02-25T02:54:27+10:00",
-				"PublishDateLocal_ISO" : "2025-03-12T23:50:39+10:00",
+				"PublishDateLocal_ISO" : "2025-03-13T23:45:38+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-02-26T02:54:27+10:00"
 			}
 		},
@@ -44,7 +75,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16388299.0307011697, -2723417.2851880179 ]
+				"coordinates" : [ 147.218595, -23.753645 ]
 			},
 			"properties" : {
 				"OBJECTID" : 22531,
@@ -68,7 +99,7 @@
 				"Locality" : "LOCHINGTON",
 				"ItemDateTimeUTM" : "20250303193830",
 				"ItemDateTimeLocal_ISO" : "2025-03-04T05:38:30+10:00",
-				"PublishDateLocal_ISO" : "2025-03-12T23:50:39+10:00",
+				"PublishDateLocal_ISO" : "2025-03-13T23:45:38+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-03-05T05:38:30+10:00"
 			}
 		},
@@ -76,7 +107,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16014464.8035242911, -2101028.7469004369 ]
+				"coordinates" : [ 143.860385, -18.541501 ]
 			},
 			"properties" : {
 				"OBJECTID" : 24779,
@@ -100,7 +131,7 @@
 				"Locality" : "EINASLEIGH",
 				"ItemDateTimeUTM" : "20250305130916",
 				"ItemDateTimeLocal_ISO" : "2025-03-05T23:09:16+10:00",
-				"PublishDateLocal_ISO" : "2025-03-12T23:50:39+10:00",
+				"PublishDateLocal_ISO" : "2025-03-13T23:45:38+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-03-06T23:09:16+10:00"
 			}
 		},
@@ -108,32 +139,32 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16609793.5366028715, -3147473.6512223911 ]
+				"coordinates" : [ 145.442205, -16.607763 ]
 			},
 			"properties" : {
-				"OBJECTID" : 27135,
-				"UniqueID" : "QF3-25-032016",
-				"WarningTitle" : "Information - PARKNOOK",
+				"OBJECTID" : 28000,
+				"UniqueID" : "QF7-25-033282",
+				"WarningTitle" : "Information - MOWBRAY",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : 100,
-				"WarningArea" : "PARKNOOK",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "Surat Developmental Rd",
-				"Jurisdiction" : "3 South Western Region",
-				"Latitude" : -27.191948,
-				"Longitude" : 149.208314,
+				"WarningArea" : "MOWBRAY",
+				"CurrentStatus" : "Going",
+				"Location" : "Black Mountain Rd",
+				"Jurisdiction" : "7 Far Northern Region",
+				"Latitude" : -16.607763,
+				"Longitude" : 145.442205,
 				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
 				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "PARKNOOK",
-				"ItemDateTimeUTM" : "20250310032602",
-				"ItemDateTimeLocal_ISO" : "2025-03-10T13:26:02+10:00",
-				"PublishDateLocal_ISO" : "2025-03-12T23:50:39+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-03-11T13:26:02+10:00"
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "MOWBRAY",
+				"ItemDateTimeUTM" : "20250312212317.58",
+				"ItemDateTimeLocal_ISO" : "2025-03-13T07:23:17+10:00",
+				"PublishDateLocal_ISO" : "2025-03-13T23:45:38+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-03-14T07:23:17.58+10:00"
 			}
 		}
 	]
