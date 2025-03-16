@@ -36,7 +36,7 @@
 				"Locality" : null,
 				"ItemDateTimeUTM" : "20250313150316",
 				"ItemDateTimeLocal_ISO" : "2025-03-14T01:03:16+10:00",
-				"PublishDateLocal_ISO" : "2025-03-15T23:45:36+10:00",
+				"PublishDateLocal_ISO" : "2025-03-16T23:45:35+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-03-15T01:03:16+10:00"
 			}
 		},
@@ -68,7 +68,7 @@
 				"Locality" : "PORCUPINE",
 				"ItemDateTimeUTM" : "20250313175132",
 				"ItemDateTimeLocal_ISO" : "2025-03-14T03:51:32+10:00",
-				"PublishDateLocal_ISO" : "2025-03-15T23:45:36+10:00",
+				"PublishDateLocal_ISO" : "2025-03-16T23:45:35+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-03-15T03:51:32+10:00"
 			}
 		},
@@ -100,7 +100,7 @@
 				"Locality" : "CLONCURRY",
 				"ItemDateTimeUTM" : "20250313190656",
 				"ItemDateTimeLocal_ISO" : "2025-03-14T05:06:56+10:00",
-				"PublishDateLocal_ISO" : "2025-03-15T23:45:36+10:00",
+				"PublishDateLocal_ISO" : "2025-03-16T23:45:35+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-03-15T05:06:56+10:00"
 			}
 		},
@@ -132,7 +132,7 @@
 				"Locality" : "BIRDSVILLE",
 				"ItemDateTimeUTM" : "20250313220151",
 				"ItemDateTimeLocal_ISO" : "2025-03-14T08:01:51+10:00",
-				"PublishDateLocal_ISO" : "2025-03-15T23:45:36+10:00",
+				"PublishDateLocal_ISO" : "2025-03-16T23:45:35+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-03-15T08:01:51+10:00"
 			}
 		},
@@ -164,8 +164,40 @@
 				"Locality" : "GLENHAUGHTON",
 				"ItemDateTimeUTM" : "20250224165427",
 				"ItemDateTimeLocal_ISO" : "2025-02-25T02:54:27+10:00",
-				"PublishDateLocal_ISO" : "2025-03-15T23:45:36+10:00",
+				"PublishDateLocal_ISO" : "2025-03-16T23:45:35+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-02-26T02:54:27+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 15530891.8223234043, -2347648.7544373157 ]
+			},
+			"properties" : {
+				"OBJECTID" : 28885,
+				"UniqueID" : "QF1-25-034767",
+				"WarningTitle" : "Information - MOUNT ISA",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "MOUNT ISA",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Unknown",
+				"Jurisdiction" : "1 Northern Region",
+				"Latitude" : -20.628608,
+				"Longitude" : 139.516375,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "MOUNT ISA",
+				"ItemDateTimeUTM" : "20250315234117",
+				"ItemDateTimeLocal_ISO" : "2025-03-16T09:41:17+10:00",
+				"PublishDateLocal_ISO" : "2025-03-16T23:45:35+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-03-17T09:41:17+10:00"
 			}
 		}
 	]
