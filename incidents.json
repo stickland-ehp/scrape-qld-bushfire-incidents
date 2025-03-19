@@ -36,7 +36,7 @@
 				"Locality" : "GLENHAUGHTON",
 				"ItemDateTimeUTM" : "20250224165427",
 				"ItemDateTimeLocal_ISO" : "2025-02-25T02:54:27+10:00",
-				"PublishDateLocal_ISO" : "2025-03-18T23:45:35+10:00",
+				"PublishDateLocal_ISO" : "2025-03-19T23:45:37+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-02-26T02:54:27+10:00"
 			}
 		},
@@ -68,8 +68,72 @@
 				"Locality" : "MOONIE",
 				"ItemDateTimeUTM" : "20250317104814",
 				"ItemDateTimeLocal_ISO" : "2025-03-17T20:48:14+10:00",
-				"PublishDateLocal_ISO" : "2025-03-18T23:45:35+10:00",
+				"PublishDateLocal_ISO" : "2025-03-19T23:45:38+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-03-18T20:48:14+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 16908050.6237708926, -3151461.5356638581 ]
+			},
+			"properties" : {
+				"OBJECTID" : 29661,
+				"UniqueID" : "QF3-25-036021",
+				"WarningTitle" : "Information - HADEN",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "HADEN",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Garrett St",
+				"Jurisdiction" : "3 South Western Region",
+				"Latitude" : -27.223808,
+				"Longitude" : 151.887603,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "HADEN",
+				"ItemDateTimeUTM" : "20250318190921",
+				"ItemDateTimeLocal_ISO" : "2025-03-19T05:09:21+10:00",
+				"PublishDateLocal_ISO" : "2025-03-19T23:45:38+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-03-20T05:09:21+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 16014464.8035242911, -2101028.7469004369 ]
+			},
+			"properties" : {
+				"OBJECTID" : 30759,
+				"UniqueID" : "QF7-25-027891",
+				"WarningTitle" : "Information - EINASLEIGH",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "EINASLEIGH",
+				"CurrentStatus" : "Going",
+				"Location" : "Einasleigh Forsayth Rd",
+				"Jurisdiction" : "7 Far Northern Region",
+				"Latitude" : -18.541501,
+				"Longitude" : 143.860385,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "EINASLEIGH",
+				"ItemDateTimeUTM" : "20250305130916",
+				"ItemDateTimeLocal_ISO" : "2025-03-05T23:09:16+10:00",
+				"PublishDateLocal_ISO" : "2025-03-19T23:45:38+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-03-06T23:09:16+10:00"
 			}
 		}
 	]
