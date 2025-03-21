@@ -1,89 +1,18 @@
 {
 	"type" : "FeatureCollection",
 	"name" : "QFDWarnings",
+	"crs" : {
+		"type" : "name",
+		"properties" : {
+			"name" : "EPSG:3857"
+		}
+	},
 	"features" : [
 		{
 			"type" : "Feature",
 			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 148.5335683823, -27.0635207367, 0 ],
-						[ 148.5201787949, -27.1826919174, 0 ],
-						[ 148.7429952621, -27.2187237994, 0 ],
-						[ 148.7193059921, -27.0678008726, 0 ],
-						[ 148.5335683823, -27.0635207367, 0 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : 5506,
-				"UniqueID" : "IF39-4403621",
-				"WarningTitle" : "AVOID SMOKE - Ballaroo - fire as at 12:58pm Thursday, 20 March 2025",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "AVOID SMOKE",
-				"WarningText" : "\nAVOID SMOKE - Ballaroo - fire as at 12:58pm Thursday, 20 March 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Ballaroo and surrounding areas\n\n\n \n\nSmoke is currently affecting Ballaroo and surrounding areas. This is from a fire burning near Hartwood Road, Ballaroo.\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- No properties are at risk.\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- Some roads may be closed.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if the situation changes.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
-				"Header" : "Smoke is currently affecting Ballaroo and surrounding areas. This is from a fire burning near Hartwood Road, Ballaroo.",
-				"Impacts" : "- No properties are at risk.\r\n\r\n- Smoke can make it hard for some people to breathe.\r\n\r\n- Smoke can make it hard to see when you are driving.\r\n\r\n- Some roads may be closed.",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from Queensland Fire Department.",
-				"WarningLevelSort" : 7,
-				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "Ballaroo and surrounding areas",
-				"Master_Incident_Number" : "QF3-25-036350",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "HARTWOOD RD",
-				"Jurisdiction" : "3 South Western Region",
-				"Latitude" : -27.129844473641,
-				"Longitude" : 148.63072872162,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "BALLAROO",
-				"ItemDateTimeUTM" : "20250320025500",
-				"ItemDateTimeLocal_ISO" : "2025-03-20T12:55:00+10:00",
-				"PublishDateLocal_ISO" : "2025-03-20T23:45:36+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-03-21T12:55:00+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 149.088, -25.3544 ]
-			},
-			"properties" : {
-				"OBJECTID" : 28431,
-				"UniqueID" : "QF2-25-023982",
-				"WarningTitle" : "Information - GLENHAUGHTON",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "GLENHAUGHTON",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "Unknown",
-				"Jurisdiction" : "2 Central Region",
-				"Latitude" : -25.3544,
-				"Longitude" : 149.088,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "GLENHAUGHTON",
-				"ItemDateTimeUTM" : "20250224165427",
-				"ItemDateTimeLocal_ISO" : "2025-02-25T02:54:27+10:00",
-				"PublishDateLocal_ISO" : "2025-03-20T23:45:36+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-02-26T02:54:27+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 150.486724, -27.62646 ]
+				"coordinates" : [ 16752105.4868279006, -3201960.0481190933 ]
 			},
 			"properties" : {
 				"OBJECTID" : 29262,
@@ -107,7 +36,7 @@
 				"Locality" : "MOONIE",
 				"ItemDateTimeUTM" : "20250317104814",
 				"ItemDateTimeLocal_ISO" : "2025-03-17T20:48:14+10:00",
-				"PublishDateLocal_ISO" : "2025-03-20T23:45:37+10:00",
+				"PublishDateLocal_ISO" : "2025-03-21T23:45:37+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-03-18T20:48:14+10:00"
 			}
 		},
@@ -115,64 +44,32 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 151.887603, -27.223808 ]
+				"coordinates" : [ 16470510.2557638567, -2878049.6578500676 ]
 			},
 			"properties" : {
-				"OBJECTID" : 29661,
-				"UniqueID" : "QF3-25-036021",
-				"WarningTitle" : "Information - HADEN",
+				"OBJECTID" : 31192,
+				"UniqueID" : "QF3-25-036801",
+				"WarningTitle" : "Information - MOUNT MOFFATT",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : 100,
-				"WarningArea" : "HADEN",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "Garrett St",
-				"Jurisdiction" : "3 South Western Region",
-				"Latitude" : -27.223808,
-				"Longitude" : 151.887603,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "HADEN",
-				"ItemDateTimeUTM" : "20250318190921",
-				"ItemDateTimeLocal_ISO" : "2025-03-19T05:09:21+10:00",
-				"PublishDateLocal_ISO" : "2025-03-20T23:45:37+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-03-20T05:09:21+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 143.860385, -18.541501 ]
-			},
-			"properties" : {
-				"OBJECTID" : 30759,
-				"UniqueID" : "QF7-25-027891",
-				"WarningTitle" : "Information - EINASLEIGH",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "EINASLEIGH",
+				"WarningArea" : "MOUNT MOFFATT",
 				"CurrentStatus" : "Going",
-				"Location" : "Einasleigh Forsayth Rd",
-				"Jurisdiction" : "7 Far Northern Region",
-				"Latitude" : -18.541501,
-				"Longitude" : 143.860385,
+				"Location" : "Unnamed Mount Moffatt Rd",
+				"Jurisdiction" : "3 South Western Region",
+				"Latitude" : -25.018765,
+				"Longitude" : 147.957111,
 				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
 				"VehiclesOnScene" : 0,
 				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "EINASLEIGH",
-				"ItemDateTimeUTM" : "20250305130916",
-				"ItemDateTimeLocal_ISO" : "2025-03-05T23:09:16+10:00",
-				"PublishDateLocal_ISO" : "2025-03-20T23:45:37+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-03-06T23:09:16+10:00"
+				"Locality" : "MOUNT MOFFATT",
+				"ItemDateTimeUTM" : "20250320170303",
+				"ItemDateTimeLocal_ISO" : "2025-03-21T03:03:03+10:00",
+				"PublishDateLocal_ISO" : "2025-03-21T23:45:37+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-03-22T03:03:03+10:00"
 			}
 		}
 	]
