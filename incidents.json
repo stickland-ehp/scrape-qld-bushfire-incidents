@@ -1,74 +1,43 @@
 {
 	"type" : "FeatureCollection",
 	"name" : "QFDWarnings",
+	"crs" : {
+		"type" : "name",
+		"properties" : {
+			"name" : "EPSG:3857"
+		}
+	},
 	"features" : [
 		{
 			"type" : "Feature",
 			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 152.9712860395, -27.0749335913, 0 ],
-						[ 153.1916992475, -27.0486404201, 0 ],
-						[ 153.1632034589, -26.9819626893, 0 ],
-						[ 152.973345976, -27.0064361763, 0 ],
-						[ 152.9712860395, -27.0749335913, 0 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : 5511,
-				"UniqueID" : "IF39-4430221",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Bribie Island, Donnybrook, Meldale and Caboolture - fire as at  4:50pm Monday, 31 March 2025",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
-				"WarningText" : "\nAVOID SMOKE (HAZARD REDUCTION BURN) - Bribie Island, Donnybrook, Meldale and Caboolture - fire as at  4:50pm Monday, 31 March 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Bribie Island, Donnybrook, Meldale, Caboolture and surrounding areas\n\n\n \n\nSmoke is currently affecting Bribie Island, Donnybrook, Meldale, Caboolture and surrounding areas. This is from a HQ Plantations hazard reduction burn in the Bribie Island State Forest. This fire is under control.\n\n\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from the Queensland Fire Department on behalf of HQ Plantations.\n\n",
-				"Header" : "Smoke is currently affecting Bribie Island, Donnybrook, Meldale, Caboolture and surrounding areas. This is from a HQ Plantations hazard reduction burn in the Bribie Island State Forest. This fire is under control.",
-				"Impacts" : "- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\n\n \n\nThis warning is from the Queensland Fire Department on behalf of HQ Plantations.",
-				"WarningLevelSort" : 8,
-				"ShouldDo" : "- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "Bribie Island, Donnybrook, Meldale, Caboolture and surrounding areas",
-				"Latitude" : -27.03549152342,
-				"Longitude" : 153.07290957467,
-				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20250331064200",
-				"ItemDateTimeLocal_ISO" : "2025-03-31T16:42:00+10:00",
-				"PublishDateLocal_ISO" : "2025-03-31T23:47:52+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-04-01T16:42:00+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 152.631793, -25.932389 ]
+				"coordinates" : [ 15447895.1269336808, -2281676.9946119501 ]
 			},
 			"properties" : {
-				"OBJECTID" : 34131,
-				"UniqueID" : "QF4-25-040880",
-				"WarningTitle" : "Information - GLENWOOD",
+				"OBJECTID" : 34626,
+				"UniqueID" : "QF1-25-041577",
+				"WarningTitle" : "Information - BARKLY",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : 100,
-				"WarningArea" : "GLENWOOD",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "Imhoff Rd",
-				"Jurisdiction" : "4 North Coast Region",
-				"Latitude" : -25.932389,
-				"Longitude" : 152.631793,
+				"WarningArea" : "BARKLY",
+				"CurrentStatus" : "Going",
+				"Location" : "Barkly Hwy",
+				"Jurisdiction" : "1 Northern Region",
+				"Latitude" : -20.072968,
+				"Longitude" : 138.770803,
 				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
 				"VehiclesOnScene" : 0,
 				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "GLENWOOD",
-				"ItemDateTimeUTM" : "20250329224235",
-				"ItemDateTimeLocal_ISO" : "2025-03-30T08:42:35+10:00",
-				"PublishDateLocal_ISO" : "2025-03-31T23:47:52+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-03-31T08:42:35+10:00"
+				"Locality" : "BARKLY",
+				"ItemDateTimeUTM" : "20250331213857",
+				"ItemDateTimeLocal_ISO" : "2025-04-01T07:38:57+10:00",
+				"PublishDateLocal_ISO" : "2025-04-01T23:02:50+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-04-02T07:38:57+10:00"
 			}
 		}
 	]
