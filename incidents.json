@@ -12,32 +12,64 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 17033356.1840679385, -3195730.257360836 ]
+				"coordinates" : [ 17062389.1978227533, -3194108.0147684356 ]
 			},
 			"properties" : {
-				"OBJECTID" : 35278,
-				"UniqueID" : "QF5S-25-042400",
-				"WarningTitle" : "Information - ARCHERFIELD",
+				"OBJECTID" : 35530,
+				"UniqueID" : "QF5S-25-042755",
+				"WarningTitle" : "Information - THORNLANDS",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : 100,
-				"WarningArea" : "ARCHERFIELD",
+				"WarningArea" : "THORNLANDS",
 				"CurrentStatus" : "Going",
-				"Location" : "Beatty Rd",
+				"Location" : "Elderberry St & Sandalwood St",
 				"Jurisdiction" : "5S Brisbane Region (South)",
-				"Latitude" : -27.576866,
-				"Longitude" : 153.013242,
+				"Latitude" : -27.563948,
+				"Longitude" : 153.27405,
 				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
 				"VehiclesOnScene" : 1,
 				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "ARCHERFIELD",
-				"ItemDateTimeUTM" : "20250402232514",
-				"ItemDateTimeLocal_ISO" : "2025-04-03T09:25:14+10:00",
-				"PublishDateLocal_ISO" : "2025-04-03T23:32:47+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-04-04T09:25:14+10:00"
+				"Locality" : "THORNLANDS",
+				"ItemDateTimeUTM" : "20250403212621",
+				"ItemDateTimeLocal_ISO" : "2025-04-04T07:26:21+10:00",
+				"PublishDateLocal_ISO" : "2025-04-04T17:57:50+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-04-05T07:26:21+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 17079585.3874825351, -3251609.3093165704 ]
+			},
+			"properties" : {
+				"OBJECTID" : 35534,
+				"UniqueID" : "QF6-25-042763",
+				"WarningTitle" : "Information - BROADBEACH",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "BROADBEACH",
+				"CurrentStatus" : "Going",
+				"Location" : "The Cascade Water Gardens Access",
+				"Jurisdiction" : "6 South Eastern Region",
+				"Latitude" : -28.020902,
+				"Longitude" : 153.428526,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 1,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "BROADBEACH",
+				"ItemDateTimeUTM" : "20250403214323",
+				"ItemDateTimeLocal_ISO" : "2025-04-04T07:43:23+10:00",
+				"PublishDateLocal_ISO" : "2025-04-04T17:57:50+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-04-05T07:43:23+10:00"
 			}
 		}
 	]
