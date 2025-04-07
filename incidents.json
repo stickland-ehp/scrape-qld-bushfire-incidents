@@ -1,43 +1,88 @@
 {
 	"type" : "FeatureCollection",
 	"name" : "QFDWarnings",
-	"crs" : {
-		"type" : "name",
-		"properties" : {
-			"name" : "EPSG:3857"
-		}
-	},
 	"features" : [
 		{
 			"type" : "Feature",
 			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 16906013.0318114124, -3034370.4257197753 ]
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 152.9859924316, -26.9643216054, 0 ],
+						[ 153.1573104858, -26.9624855915, 0 ],
+						[ 153.1339645386, -26.8926949007, 0 ],
+						[ 152.9945755005, -26.9144325957, 0 ],
+						[ 152.9859924316, -26.9643216054, 0 ]
+					]
+				]
 			},
 			"properties" : {
-				"OBJECTID" : 36109,
-				"UniqueID" : "QF4-25-043636",
-				"WarningTitle" : "Information - WONDAI",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "WONDAI",
+				"OBJECTID" : 5513,
+				"UniqueID" : "IF39-4450321",
+				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Bribie Island - fire as at 10:44am Monday,  7 April 2025",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
+				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Bribie Island - fire as at 10:44am Monday,  7 April 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Bribie Island, Beerburrum and surrounding areas\n\n\n \n\nSmoke is currently affecting Bribie Island, Beerburrum and surrounding areas. This is from a hazard reduction burn on Bribie Island. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"Header" : "Smoke is currently affecting Bribie Island, Beerburrum and surrounding areas. This is from a hazard reduction burn on Bribie Island. This fire is under control.",
+				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire Department.",
+				"WarningLevelSort" : 8,
+				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "Bribie Island, Beerburrum and surrounding areas",
+				"Latitude" : -26.935400911647,
+				"Longitude" : 153.06674301624,
+				"GroupedType" : "FIRE VEGETATION",
+				"ItemDateTimeUTM" : "20250407004400",
+				"ItemDateTimeLocal_ISO" : "2025-04-07T10:44:00+10:00",
+				"PublishDateLocal_ISO" : "2025-04-07T23:47:51+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-04-08T10:44:00+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 150.3214891236, -27.6583440451, 0 ],
+						[ 150.2912767213, -28.0032449586, 0 ],
+						[ 150.6620652955, -27.9474551842, 0 ],
+						[ 151.3514573853, -27.1780491301, 0 ],
+						[ 151.2196214478, -27.0680449005, 0 ],
+						[ 150.3214891236, -27.6583440451, 0 ]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 5514,
+				"UniqueID" : "IF39-4451021",
+				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Moonie - fire as at  2:20pm Monday,  7 April 2025",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
+				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Moonie - fire as at  2:20pm Monday,  7 April 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Moonie, Weir River, Dalby and surrounding areas\n\n\n \n\nSmoke is currently affecting Moonie, Weir River, Dalby and surrounding areas. This is from a hazard reduction burn at Boondandilla State Forest. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"Header" : "Smoke is currently affecting Moonie, Weir River, Dalby and surrounding areas. This is from a hazard reduction burn at Boondandilla State Forest. This fire is under control.",
+				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire Department.",
+				"WarningLevelSort" : 8,
+				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "Moonie, Weir River, Dalby and surrounding areas",
+				"Master_Incident_Number" : "QF3-25-043762",
 				"CurrentStatus" : "Going",
-				"Location" : "BUNYA HWY",
-				"Jurisdiction" : "4 North Coast Region",
-				"Latitude" : -26.284581,
-				"Longitude" : 151.869299,
+				"Location" : "Yagaburne Boondandilla Rd & Boondandilla Rd",
+				"Jurisdiction" : "3 South Western Region",
+				"Latitude" : -27.553686487119,
+				"Longitude" : 150.8021409791,
 				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
 				"VehiclesOnScene" : 1,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "WONDAI",
-				"ItemDateTimeUTM" : "20250406001228",
-				"ItemDateTimeLocal_ISO" : "2025-04-06T10:12:28+10:00",
-				"PublishDateLocal_ISO" : "2025-04-06T21:27:48+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-04-07T10:12:28+10:00"
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "BOONDANDILLA",
+				"ItemDateTimeUTM" : "20250407042000",
+				"ItemDateTimeLocal_ISO" : "2025-04-07T14:20:00+10:00",
+				"PublishDateLocal_ISO" : "2025-04-07T23:47:52+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-04-08T14:20:00+10:00"
 			}
 		}
 	]
