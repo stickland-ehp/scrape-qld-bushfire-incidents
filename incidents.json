@@ -47,7 +47,7 @@
 				"Locality" : "WESTERN CREEK",
 				"ItemDateTimeUTM" : "20250409013900",
 				"ItemDateTimeLocal_ISO" : "2025-04-09T11:39:00+10:00",
-				"PublishDateLocal_ISO" : "2025-04-09T23:52:48+10:00",
+				"PublishDateLocal_ISO" : "2025-04-10T23:47:48+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-04-10T11:39:00+10:00"
 			}
 		},
@@ -85,20 +85,12 @@
 				"WarningLevelSort" : 8,
 				"ShouldDo" : "- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.",
 				"WarningArea" : "Rockhampton and surrounding areas",
-				"Master_Incident_Number" : "QF2-25-044717",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "PILBEAM DR & ELIDA ST",
-				"Jurisdiction" : "2 Central Region",
 				"Latitude" : -23.343887377472,
 				"Longitude" : 150.57586045991,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "MOUNT ARCHER",
+				"GroupedType" : "FIRE VEGETATION",
 				"ItemDateTimeUTM" : "20250409063200",
 				"ItemDateTimeLocal_ISO" : "2025-04-09T16:32:00+10:00",
-				"PublishDateLocal_ISO" : "2025-04-09T23:52:48+10:00",
+				"PublishDateLocal_ISO" : "2025-04-10T23:47:49+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-04-10T16:32:00+10:00"
 			}
 		},
@@ -106,32 +98,64 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 149.167891, -21.123624 ]
+				"coordinates" : [ 149.531428, -25.472527 ]
 			},
 			"properties" : {
-				"OBJECTID" : 36882,
-				"UniqueID" : "QF2-25-044920",
-				"WarningTitle" : "Information - NORTH MACKAY",
+				"OBJECTID" : 36959,
+				"UniqueID" : "QF2-25-045034",
+				"WarningTitle" : "Information - BROADMERE",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : 100,
-				"WarningArea" : "NORTH MACKAY",
+				"WarningArea" : "BROADMERE",
 				"CurrentStatus" : "Going",
-				"Location" : "DANIEL ST",
+				"Location" : "Glenhaughton Rd",
 				"Jurisdiction" : "2 Central Region",
-				"Latitude" : -21.123624,
-				"Longitude" : 149.167891,
+				"Latitude" : -25.472527,
+				"Longitude" : 149.531428,
 				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 1,
-				"VehiclesOnScene" : 2,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
 				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "NORTH MACKAY",
-				"ItemDateTimeUTM" : "20250409033531",
-				"ItemDateTimeLocal_ISO" : "2025-04-09T13:35:31+10:00",
-				"PublishDateLocal_ISO" : "2025-04-09T23:52:48+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-04-10T13:35:31+10:00"
+				"Locality" : "BROADMERE",
+				"ItemDateTimeUTM" : "20250409132737",
+				"ItemDateTimeLocal_ISO" : "2025-04-09T23:27:37+10:00",
+				"PublishDateLocal_ISO" : "2025-04-10T23:47:49+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-04-10T23:27:37+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 150.281652, -25.725812 ]
+			},
+			"properties" : {
+				"OBJECTID" : 36962,
+				"UniqueID" : "QF3-25-045040",
+				"WarningTitle" : "Information - COCKATOO",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "COCKATOO",
+				"CurrentStatus" : "Going",
+				"Location" : "Red Range Rd",
+				"Jurisdiction" : "3 South Western Region",
+				"Latitude" : -25.725812,
+				"Longitude" : 150.281652,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "COCKATOO",
+				"ItemDateTimeUTM" : "20250409133736",
+				"ItemDateTimeLocal_ISO" : "2025-04-09T23:37:36+10:00",
+				"PublishDateLocal_ISO" : "2025-04-10T23:47:49+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-04-10T23:37:36+10:00"
 			}
 		}
 	]
