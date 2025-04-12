@@ -47,7 +47,7 @@
 				"Locality" : "WESTERN CREEK",
 				"ItemDateTimeUTM" : "20250411005600",
 				"ItemDateTimeLocal_ISO" : "2025-04-11T10:56:00+10:00",
-				"PublishDateLocal_ISO" : "2025-04-11T23:47:47+10:00",
+				"PublishDateLocal_ISO" : "2025-04-12T23:47:46+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-04-12T10:56:00+10:00"
 			}
 		},
@@ -79,7 +79,7 @@
 				"Locality" : "BROADMERE",
 				"ItemDateTimeUTM" : "20250409132737",
 				"ItemDateTimeLocal_ISO" : "2025-04-09T23:27:37+10:00",
-				"PublishDateLocal_ISO" : "2025-04-11T23:47:47+10:00",
+				"PublishDateLocal_ISO" : "2025-04-12T23:47:46+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-04-10T23:27:37+10:00"
 			}
 		},
@@ -111,72 +111,8 @@
 				"Locality" : "COCKATOO",
 				"ItemDateTimeUTM" : "20250409133736",
 				"ItemDateTimeLocal_ISO" : "2025-04-09T23:37:36+10:00",
-				"PublishDateLocal_ISO" : "2025-04-11T23:47:47+10:00",
+				"PublishDateLocal_ISO" : "2025-04-12T23:47:46+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-04-10T23:37:36+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 147.917614, -20.32906 ]
-			},
-			"properties" : {
-				"OBJECTID" : 37288,
-				"UniqueID" : "QF1-25-045542",
-				"WarningTitle" : "Information - BOGIE",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "BOGIE",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "Peter Delemothe Rd",
-				"Jurisdiction" : "1 Northern Region",
-				"Latitude" : -20.32906,
-				"Longitude" : 147.917614,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "BOGIE",
-				"ItemDateTimeUTM" : "20250410195644",
-				"ItemDateTimeLocal_ISO" : "2025-04-11T05:56:44+10:00",
-				"PublishDateLocal_ISO" : "2025-04-11T23:47:47+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-04-12T05:56:44+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 144.242432, -14.266789 ]
-			},
-			"properties" : {
-				"OBJECTID" : 37316,
-				"UniqueID" : "QF7-25-045540",
-				"WarningTitle" : "Information - DenHAM ISLAND",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "DenHAM ISLAND",
-				"CurrentStatus" : "Going",
-				"Location" : "Unknown",
-				"Jurisdiction" : "7 Far Northern Region",
-				"Latitude" : -14.266789,
-				"Longitude" : 144.242432,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "DenHAM ISLAND",
-				"ItemDateTimeUTM" : "20250410193219",
-				"ItemDateTimeLocal_ISO" : "2025-04-11T05:32:19+10:00",
-				"PublishDateLocal_ISO" : "2025-04-11T23:47:47+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-04-12T05:32:19+10:00"
 			}
 		}
 	]
