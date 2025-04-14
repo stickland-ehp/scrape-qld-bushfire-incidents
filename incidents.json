@@ -1,86 +1,75 @@
 {
 	"type" : "FeatureCollection",
 	"name" : "QFDWarnings",
+	"crs" : {
+		"type" : "name",
+		"properties" : {
+			"name" : "EPSG:3857"
+		}
+	},
 	"features" : [
 		{
 			"type" : "Feature",
 			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 150.3566596301, -27.7217115474, 0 ],
-						[ 150.2962348255, -28.0979132649, 0 ],
-						[ 150.7631537708, -28.0809517584, 0 ],
-						[ 151.0954901966, -27.9548681881, 0 ],
-						[ 151.1257025989, -27.8116333327, 0 ],
-						[ 151.0817572864, -27.6706418304, 0 ],
-						[ 150.5104682239, -27.6049456807, 0 ],
-						[ 150.3758857044, -27.6755066423, 0 ],
-						[ 150.3566596301, -27.7217115474, 0 ]
-					]
-				]
+				"type" : "Point",
+				"coordinates" : [ 16810080.1210355833, -3224293.5039234678 ]
 			},
 			"properties" : {
-				"OBJECTID" : 5522,
-				"UniqueID" : "IF39-4472621",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Western Creek (near Millmerran) - fire as at 10:58am Friday, 11 April 2025",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
-				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Western Creek (near Millmerran) - fire as at 10:58am Friday, 11 April 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Western Creek and surrounding areas\n\n\n \n\nSmoke is currently affecting Western Creek and surrounding areas. This is from a hazard reduction burn in Western Creek State Forest. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
-				"Header" : "Smoke is currently affecting Western Creek and surrounding areas. This is from a hazard reduction burn in Western Creek State Forest. This fire is under control.",
-				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire Department.",
-				"WarningLevelSort" : 8,
-				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "Western Creek and surrounding areas",
-				"Master_Incident_Number" : "QF3-25-044619",
+				"OBJECTID" : 36692,
+				"UniqueID" : "QF3-25-044619",
+				"WarningTitle" : "Information - WESTERN CREEK",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "WESTERN CREEK",
 				"CurrentStatus" : "Patrolled",
 				"Location" : "Western Creek Boondilla Rd",
 				"Jurisdiction" : "3 South Western Region",
-				"Latitude" : -27.886915946196,
-				"Longitude" : 150.70547554811,
+				"Latitude" : -27.804067,
+				"Longitude" : 151.007519,
 				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
 				"VehiclesOnScene" : 0,
 				"GroupedType" : "FIRE PERMITTED BURN",
 				"Locality" : "WESTERN CREEK",
-				"ItemDateTimeUTM" : "20250411005600",
-				"ItemDateTimeLocal_ISO" : "2025-04-11T10:56:00+10:00",
-				"PublishDateLocal_ISO" : "2025-04-13T23:47:47+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-04-12T10:56:00+10:00"
+				"ItemDateTimeUTM" : "20250408130254",
+				"ItemDateTimeLocal_ISO" : "2025-04-08T23:02:54+10:00",
+				"PublishDateLocal_ISO" : "2025-04-14T23:47:46+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-04-09T23:02:54+10:00"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 150.195377, -25.692867 ]
+				"coordinates" : [ 16539096.9770288635, -3253948.8215143564 ]
 			},
 			"properties" : {
-				"OBJECTID" : 36962,
-				"UniqueID" : "QF3-25-045040",
-				"WarningTitle" : "Information - COCKATOO",
+				"OBJECTID" : 38013,
+				"UniqueID" : "QF3-25-046646",
+				"WarningTitle" : "Information - ST GEORGE",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : 100,
-				"WarningArea" : "COCKATOO",
-				"CurrentStatus" : "Going",
-				"Location" : "HOPKINS RD & RED RANGE RD",
-				"Jurisdiction" : "2 Central Region",
-				"Latitude" : -25.692867,
-				"Longitude" : 150.195377,
+				"WarningArea" : "ST GEORGE",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Saint Georges Tce & Murchison St",
+				"Jurisdiction" : "3 South Western Region",
+				"Latitude" : -28.039453,
+				"Longitude" : 148.573236,
 				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
 				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "COCKATOO",
-				"ItemDateTimeUTM" : "20250409133736",
-				"ItemDateTimeLocal_ISO" : "2025-04-09T23:37:36+10:00",
-				"PublishDateLocal_ISO" : "2025-04-13T23:47:47+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-04-10T23:37:36+10:00"
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "ST GEORGE",
+				"ItemDateTimeUTM" : "20250413144557",
+				"ItemDateTimeLocal_ISO" : "2025-04-14T00:45:57+10:00",
+				"PublishDateLocal_ISO" : "2025-04-14T23:47:46+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-04-15T00:45:57+10:00"
 			}
 		}
 	]
