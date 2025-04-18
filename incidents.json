@@ -1,92 +1,18 @@
 {
 	"type" : "FeatureCollection",
 	"name" : "QFDWarnings",
+	"crs" : {
+		"type" : "name",
+		"properties" : {
+			"name" : "EPSG:3857"
+		}
+	},
 	"features" : [
 		{
 			"type" : "Feature",
 			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 150.221294247, -22.9668807902, 0 ],
-						[ 150.2783871226, -22.966471935, 0 ],
-						[ 150.2740955882, -22.909718523, 0 ],
-						[ 150.2893965141, -22.8778420355, 0 ],
-						[ 150.3027861015, -22.8455740175, 0 ],
-						[ 150.2100889579, -22.8435174626, 0 ],
-						[ 150.1376478568, -22.8329178019, 0 ],
-						[ 150.0967924491, -22.885749694, 0 ],
-						[ 150.0923292533, -22.8953964136, 0 ],
-						[ 150.1953260795, -22.964484809, 0 ],
-						[ 150.221294247, -22.9668807902, 0 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : 5526,
-				"UniqueID" : "IF39-4499321",
-				"WarningTitle" : "AVOID SMOKE - Kunwarara (near Marlborough) - fire as at  1:50pm Wednesday, 16 April 2025",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "AVOID SMOKE",
-				"WarningText" : "\nAVOID SMOKE - Kunwarara (near Marlborough) - fire as at  1:50pm Wednesday, 16 April 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Kunwarara and surrounding areas\n\n\n \n\nSmoke is currently affecting Kunwarara and surrounding areas. This is from a fire burning near the Bruce Highway, Kunwarara.\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- No properties are at risk.\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- Some roads may be closed.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if the situation changes.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
-				"Header" : "Smoke is currently affecting Kunwarara and surrounding areas. This is from a fire burning near the Bruce Highway, Kunwarara.",
-				"Impacts" : "- No properties are at risk.\r\n\r\n- Smoke can make it hard for some people to breathe.\r\n\r\n- Smoke can make it hard to see when you are driving.\r\n\r\n- Some roads may be closed.",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from Queensland Fire Department.",
-				"WarningLevelSort" : 7,
-				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "Kunwarara and surrounding areas",
-				"Latitude" : -22.9052005732,
-				"Longitude" : 150.19841598428,
-				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20250416034800",
-				"ItemDateTimeLocal_ISO" : "2025-04-16T13:48:00+10:00",
-				"PublishDateLocal_ISO" : "2025-04-17T23:47:48+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-04-17T13:48:00+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 148.2153177195, -28.5616551927, 0 ],
-						[ 148.2093095713, -28.5942166303, 0 ],
-						[ 148.2470750742, -28.5993411234, 0 ],
-						[ 148.2520532542, -28.5649720964, 0 ],
-						[ 148.2153177195, -28.5616551927, 0 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : 5525,
-				"UniqueID" : "IF39-4496521",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Dirranbandi - fire as at  9:51am Wednesday, 16 April 2025",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
-				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Dirranbandi - fire as at  9:51am Wednesday, 16 April 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Dirranbandi\n\n\n \n\nSmoke is currently affecting Dirranbandi. This is from a hazard reduction burn near Hannah Street. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
-				"Header" : "Smoke is currently affecting Dirranbandi. This is from a hazard reduction burn near Hannah Street. This fire is under control.",
-				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire Department.",
-				"WarningLevelSort" : 8,
-				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "Dirranbandi",
-				"Latitude" : -28.582007272453,
-				"Longitude" : 148.227849,
-				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20250415234500",
-				"ItemDateTimeLocal_ISO" : "2025-04-16T09:45:00+10:00",
-				"PublishDateLocal_ISO" : "2025-04-17T23:47:48+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-04-17T09:45:00+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 139.549767, -19.691271 ]
+				"coordinates" : [ 15534609.0027599744, -2236493.3789833742 ]
 			},
 			"properties" : {
 				"OBJECTID" : 38505,
@@ -110,40 +36,8 @@
 				"Locality" : "THREE RIVERS",
 				"ItemDateTimeUTM" : "20250415143900",
 				"ItemDateTimeLocal_ISO" : "2025-04-16T00:39:00+10:00",
-				"PublishDateLocal_ISO" : "2025-04-17T23:47:48+10:00",
+				"PublishDateLocal_ISO" : "2025-04-18T23:47:46+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-04-17T00:39:00+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 150.576722, -27.074686 ]
-			},
-			"properties" : {
-				"OBJECTID" : 38853,
-				"UniqueID" : "QF3-25-047929",
-				"WarningTitle" : "Information - TARA",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "TARA",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "Weitzels Rd & Billabong Lane",
-				"Jurisdiction" : "3 South Western Region",
-				"Latitude" : -27.074686,
-				"Longitude" : 150.576722,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "TARA",
-				"ItemDateTimeUTM" : "20250416200612",
-				"ItemDateTimeLocal_ISO" : "2025-04-17T06:06:12+10:00",
-				"PublishDateLocal_ISO" : "2025-04-17T23:47:48+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-04-18T06:06:12+10:00"
 			}
 		}
 	]
