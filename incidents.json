@@ -1,18 +1,102 @@
 {
 	"type" : "FeatureCollection",
 	"name" : "QFDWarnings",
-	"crs" : {
-		"type" : "name",
-		"properties" : {
-			"name" : "EPSG:3857"
-		}
-	},
 	"features" : [
 		{
 			"type" : "Feature",
 			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 151.0491673553, -27.0550312376, 0 ],
+						[ 150.7980267609, -27.0472342661, 0 ],
+						[ 150.7930485809, -27.2813649699, 0 ],
+						[ 151.0908810699, -27.271600262, 0 ],
+						[ 151.0491673553, -27.0550312376, 0 ]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 5529,
+				"UniqueID" : "IF39-4515021",
+				"WarningTitle" : "AVOID SMOKE - Kogan - fire as at  9:52am Monday, 21 April 2025",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "AVOID SMOKE",
+				"WarningText" : "\nAVOID SMOKE - Kogan - fire as at  9:52am Monday, 21 April 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Kogan and surrounding areas\n\n\n \n\nSmoke is currently affecting Kogan and surrounding areas. This is from a fire burning near Grahams Road, Kogan.\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- No properties are at risk.\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- Some roads may be closed.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if the situation changes.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"Header" : "Smoke is currently affecting Kogan and surrounding areas. This is from a fire burning near Grahams Road, Kogan.",
+				"Impacts" : "- No properties are at risk.\r\n\r\n- Smoke can make it hard for some people to breathe.\r\n\r\n- Smoke can make it hard to see when you are driving.\r\n\r\n- Some roads may be closed.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from Queensland Fire Department.",
+				"WarningLevelSort" : 7,
+				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "Kogan and surrounding areas",
+				"Master_Incident_Number" : "QF3-25-049558",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "GRAHAMS RD",
+				"Jurisdiction" : "3 South Western Region",
+				"Latitude" : -27.175891295558,
+				"Longitude" : 150.91406985168,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "KOGAN",
+				"ItemDateTimeUTM" : "20250420235100",
+				"ItemDateTimeLocal_ISO" : "2025-04-21T09:51:00+10:00",
+				"PublishDateLocal_ISO" : "2025-04-21T23:47:47+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-04-22T09:51:00+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 153.3181717974, -27.8532132868, 0 ],
+						[ 153.3241799456, -27.8577664102, 0 ],
+						[ 153.3286431414, -27.8667962058, 0 ],
+						[ 153.3301022631, -27.8714245646, 0 ],
+						[ 153.3304455859, -27.8761287295, 0 ],
+						[ 153.3348658663, -27.8768305049, 0 ],
+						[ 153.341689406, -27.8766218411, 0 ],
+						[ 153.3513882738, -27.8756735067, 0 ],
+						[ 153.3564522845, -27.875161094, 0 ],
+						[ 153.3676961047, -27.8745728109, 0 ],
+						[ 153.3649495226, -27.8491905136, 0 ],
+						[ 153.3479550463, -27.8439546796, 0 ],
+						[ 153.3181717974, -27.8532132868, 0 ]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 5530,
+				"UniqueID" : "IF39-4515321",
+				"WarningTitle" : "AVOID SMOKE - Coomera - fire as at  3:57pm Monday, 21 April 2025",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "AVOID SMOKE",
+				"WarningText" : "\nAVOID SMOKE - Coomera - fire as at  3:57pm Monday, 21 April 2025 \n\n \n\nWarning level: ADVICE\n\n\nWarning area: Coomera and surrounding areas\n\n\n \n\nSmoke is currently affecting Coomera and surrounding areas. This is from a fire burning near Shipper Drive, Coomera. This fire is under control.\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- No properties are at risk.\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- Some roads may be closed.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if the situation changes.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"Header" : "Smoke is currently affecting Coomera and surrounding areas. This is from a fire burning near Shipper Drive, Coomera. This fire is under control.",
+				"Impacts" : "- No properties are at risk.\r\n\r\n- Smoke can make it hard for some people to breathe.\r\n\r\n- Smoke can make it hard to see when you are driving.\r\n\r\n- Some roads may be closed.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from Queensland Fire Department.",
+				"WarningLevelSort" : 7,
+				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "Coomera and surrounding areas",
+				"Latitude" : -27.861332889945,
+				"Longitude" : 153.34591254414,
+				"GroupedType" : "FIRE VEGETATION",
+				"ItemDateTimeUTM" : "20250421055300",
+				"ItemDateTimeLocal_ISO" : "2025-04-21T15:53:00+10:00",
+				"PublishDateLocal_ISO" : "2025-04-21T23:47:47+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-04-22T15:53:00+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 15534609.0027599744, -2236493.3789833742 ]
+				"coordinates" : [ 139.549767, -19.691271 ]
 			},
 			"properties" : {
 				"OBJECTID" : 38505,
@@ -36,8 +120,40 @@
 				"Locality" : "THREE RIVERS",
 				"ItemDateTimeUTM" : "20250415143900",
 				"ItemDateTimeLocal_ISO" : "2025-04-16T00:39:00+10:00",
-				"PublishDateLocal_ISO" : "2025-04-20T23:47:47+10:00",
+				"PublishDateLocal_ISO" : "2025-04-21T23:47:47+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-04-17T00:39:00+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 150.438718, -22.898447 ]
+			},
+			"properties" : {
+				"OBJECTID" : 39842,
+				"UniqueID" : "QF2-25-049700",
+				"WarningTitle" : "Information - CANAL CREEK",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "CANAL CREEK",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Canal Creek Rd",
+				"Jurisdiction" : "2 Central Region",
+				"Latitude" : -22.898447,
+				"Longitude" : 150.438718,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "CANAL CREEK",
+				"ItemDateTimeUTM" : "20250420175710",
+				"ItemDateTimeLocal_ISO" : "2025-04-21T03:57:10+10:00",
+				"PublishDateLocal_ISO" : "2025-04-21T23:47:47+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-04-22T03:57:10+10:00"
 			}
 		}
 	]
