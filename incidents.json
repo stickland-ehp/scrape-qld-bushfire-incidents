@@ -1,50 +1,75 @@
 {
 	"type" : "FeatureCollection",
 	"name" : "QFDWarnings",
+	"crs" : {
+		"type" : "name",
+		"properties" : {
+			"name" : "EPSG:3857"
+		}
+	},
 	"features" : [
 		{
 			"type" : "Feature",
 			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 150.7975654209, -27.0460876069, 0 ],
-						[ 150.7934455479, -27.2818989526, 0 ],
-						[ 151.0907630527, -27.2721342916, 0 ],
-						[ 151.0509376133, -27.0534260231, 0 ],
-						[ 150.7975654209, -27.0460876069, 0 ]
-					]
-				]
+				"type" : "Point",
+				"coordinates" : [ 16869024.4593275674, -2902071.8748963578 ]
 			},
 			"properties" : {
-				"OBJECTID" : 5531,
-				"UniqueID" : "IF39-4516221",
-				"WarningTitle" : "AVOID SMOKE - Kogan - fire as at 12:20pm Tuesday, 22 April 2025",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "AVOID SMOKE",
-				"WarningText" : "\nAVOID SMOKE - Kogan - fire as at 12:20pm Tuesday, 22 April 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Kogan and surrounding areas\n\n\n \n\nSmoke is currently affecting Kogan and surrounding areas. This is from a fire burning near Grahams Road, Kogan.\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- No properties are at risk.\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- Some roads may be closed.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if the situation changes.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
-				"Header" : "Smoke is currently affecting Kogan and surrounding areas. This is from a fire burning near Grahams Road, Kogan.",
-				"Impacts" : "- No properties are at risk.\r\n\r\n- Smoke can make it hard for some people to breathe.\r\n\r\n- Smoke can make it hard to see when you are driving.\r\n\r\n- Some roads may be closed.",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from Queensland Fire Department.",
-				"WarningLevelSort" : 7,
-				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "Kogan and surrounding areas",
-				"Master_Incident_Number" : "QF3-25-049558",
+				"OBJECTID" : 40331,
+				"UniqueID" : "QF4-25-050452",
+				"WarningTitle" : "Information - MOUNT PERRY",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "MOUNT PERRY",
 				"CurrentStatus" : "Patrolled",
-				"Location" : "GRAHAMS RD",
-				"Jurisdiction" : "3 South Western Region",
-				"Latitude" : -27.173218813317,
-				"Longitude" : 150.93352123145,
+				"Location" : "Unknown",
+				"Jurisdiction" : "4 North Coast Region",
+				"Latitude" : -25.214156,
+				"Longitude" : 151.537025,
 				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
 				"VehiclesOnScene" : 0,
 				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "KOGAN",
-				"ItemDateTimeUTM" : "20250422022000",
-				"ItemDateTimeLocal_ISO" : "2025-04-22T12:20:00+10:00",
-				"PublishDateLocal_ISO" : "2025-04-22T23:47:51+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-04-23T12:20:00+10:00"
+				"Locality" : "MOUNT PERRY",
+				"ItemDateTimeUTM" : "20250422150521",
+				"ItemDateTimeLocal_ISO" : "2025-04-23T01:05:21+10:00",
+				"PublishDateLocal_ISO" : "2025-04-23T23:47:50+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-04-24T01:05:21+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 16230319.5300639328, -2876956.365975352 ]
+			},
+			"properties" : {
+				"OBJECTID" : 40403,
+				"UniqueID" : "QF2-25-050565",
+				"WarningTitle" : "Information - MINNIE DOWNS",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "MINNIE DOWNS",
+				"CurrentStatus" : "Going",
+				"Location" : "Unknown",
+				"Jurisdiction" : "2 Central Region",
+				"Latitude" : -25.009865,
+				"Longitude" : 145.799441,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "MINNIE DOWNS",
+				"ItemDateTimeUTM" : "20250422185632",
+				"ItemDateTimeLocal_ISO" : "2025-04-23T04:56:32+10:00",
+				"PublishDateLocal_ISO" : "2025-04-23T23:47:50+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-04-24T04:56:32+10:00"
 			}
 		}
 	]
