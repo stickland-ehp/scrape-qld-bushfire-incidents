@@ -1,18 +1,52 @@
 {
 	"type" : "FeatureCollection",
 	"name" : "QFDWarnings",
-	"crs" : {
-		"type" : "name",
-		"properties" : {
-			"name" : "EPSG:3857"
-		}
-	},
 	"features" : [
 		{
 			"type" : "Feature",
 			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 150.3278355404, -23.137030763, 0 ],
+						[ 150.8167271419, -22.6334861114, 0 ],
+						[ 150.5338291927, -22.0822850526, 0 ],
+						[ 149.1001133724, -20.942668663, 0 ],
+						[ 149.0918736263, -21.2245670562, 0 ],
+						[ 149.3582920834, -22.1280895308, 0 ],
+						[ 149.5450596615, -22.7551148149, 0 ],
+						[ 150.3278355404, -23.137030763, 0 ]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 5534,
+				"UniqueID" : "IF39-4517121",
+				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Mackay to Shoalwater Bay (near Yeppoon) - fire as at 11:41am Thursday, 24 April 2025",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
+				"WarningText" : "\nAVOID SMOKE (HAZARD REDUCTION BURN) - Mackay to Shoalwater Bay (near Yeppoon) - fire as at 11:41am Thursday, 24 April 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Mackay to Shoalwater Bay\n\n\n \n\n\nSmoke is currently affecting Mackay to Shoalwater Bay. This is from a hazard reduction burn in the Shoalwater Bay defence land. This fire is under control.\n\n \n\nThe hazard reduction burn is expected to continue for the next 2 weeks. \n\n\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"Header" : "Smoke is currently affecting Mackay to Shoalwater Bay. This is from a hazard reduction burn in the Shoalwater Bay defence land. This fire is under control.\n\n \n\nThe hazard reduction burn is expected to continue for the next 2 weeks. ",
+				"Impacts" : "- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.",
+				"WarningLevelSort" : 8,
+				"ShouldDo" : "- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "Mackay to Shoalwater Bay",
+				"Latitude" : -22.189139009708,
+				"Longitude" : 149.8719029232,
+				"GroupedType" : "FIRE VEGETATION",
+				"ItemDateTimeUTM" : "20250424013700",
+				"ItemDateTimeLocal_ISO" : "2025-04-24T11:37:00+10:00",
+				"PublishDateLocal_ISO" : "2025-04-24T23:47:51+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-04-25T11:37:00+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16869024.4593275674, -2902071.8748963578 ]
+				"coordinates" : [ 151.537025, -25.214156 ]
 			},
 			"properties" : {
 				"OBJECTID" : 40331,
@@ -36,7 +70,7 @@
 				"Locality" : "MOUNT PERRY",
 				"ItemDateTimeUTM" : "20250422150521",
 				"ItemDateTimeLocal_ISO" : "2025-04-23T01:05:21+10:00",
-				"PublishDateLocal_ISO" : "2025-04-23T23:47:50+10:00",
+				"PublishDateLocal_ISO" : "2025-04-24T23:47:51+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-04-24T01:05:21+10:00"
 			}
 		},
@@ -44,7 +78,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16230319.5300639328, -2876956.365975352 ]
+				"coordinates" : [ 145.799441, -25.009865 ]
 			},
 			"properties" : {
 				"OBJECTID" : 40403,
@@ -68,7 +102,7 @@
 				"Locality" : "MINNIE DOWNS",
 				"ItemDateTimeUTM" : "20250422185632",
 				"ItemDateTimeLocal_ISO" : "2025-04-23T04:56:32+10:00",
-				"PublishDateLocal_ISO" : "2025-04-23T23:47:50+10:00",
+				"PublishDateLocal_ISO" : "2025-04-24T23:47:51+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-04-24T04:56:32+10:00"
 			}
 		}
