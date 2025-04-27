@@ -38,7 +38,7 @@
 				"GroupedType" : "FIRE VEGETATION",
 				"ItemDateTimeUTM" : "20250424013700",
 				"ItemDateTimeLocal_ISO" : "2025-04-24T11:37:00+10:00",
-				"PublishDateLocal_ISO" : "2025-04-26T23:47:51+10:00",
+				"PublishDateLocal_ISO" : "2025-04-27T23:47:51+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-04-25T11:37:00+10:00"
 			}
 		},
@@ -70,7 +70,7 @@
 				"Locality" : "MOUNT PERRY",
 				"ItemDateTimeUTM" : "20250422150521",
 				"ItemDateTimeLocal_ISO" : "2025-04-23T01:05:21+10:00",
-				"PublishDateLocal_ISO" : "2025-04-26T23:47:51+10:00",
+				"PublishDateLocal_ISO" : "2025-04-27T23:47:51+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-04-24T01:05:21+10:00"
 			}
 		},
@@ -102,8 +102,72 @@
 				"Locality" : "STRATHFIELD",
 				"ItemDateTimeUTM" : "20250425163600",
 				"ItemDateTimeLocal_ISO" : "2025-04-26T02:36:00+10:00",
-				"PublishDateLocal_ISO" : "2025-04-26T23:47:51+10:00",
+				"PublishDateLocal_ISO" : "2025-04-27T23:47:51+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-04-27T02:36:00+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 138.759534, -20.067377 ]
+			},
+			"properties" : {
+				"OBJECTID" : 41418,
+				"UniqueID" : "QF1-25-051674",
+				"WarningTitle" : "Information - BARKLY",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "BARKLY",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Barkly Hwy & Thorntonia Yelvertoft Rd",
+				"Jurisdiction" : "1 Northern Region",
+				"Latitude" : -20.067377,
+				"Longitude" : 138.759534,
+				"VehiclesAssigned" : 1,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "BARKLY",
+				"ItemDateTimeUTM" : "20250425162846",
+				"ItemDateTimeLocal_ISO" : "2025-04-26T02:28:46+10:00",
+				"PublishDateLocal_ISO" : "2025-04-27T23:47:51+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-04-27T02:28:46+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 148.583429, -20.641997 ]
+			},
+			"properties" : {
+				"OBJECTID" : 41478,
+				"UniqueID" : "QF2-25-052186",
+				"WarningTitle" : "Information - BLOOMSBURY",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "BLOOMSBURY",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "BRUCE HWY & CAPING RD",
+				"Jurisdiction" : "2 Central Region",
+				"Latitude" : -20.641997,
+				"Longitude" : 148.583429,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "BLOOMSBURY",
+				"ItemDateTimeUTM" : "20250426190057",
+				"ItemDateTimeLocal_ISO" : "2025-04-27T05:00:57+10:00",
+				"PublishDateLocal_ISO" : "2025-04-27T23:47:51+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-04-28T05:00:57+10:00"
 			}
 		}
 	]
