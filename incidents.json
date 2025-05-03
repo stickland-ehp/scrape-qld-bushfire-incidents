@@ -12,64 +12,32 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16974140.4488574043, -2873366.6262269341 ]
+				"coordinates" : [ 16741395.8838966433, -3099987.1140083098 ]
 			},
 			"properties" : {
-				"OBJECTID" : 41987,
-				"UniqueID" : "QF4-25-052993",
-				"WarningTitle" : "Information - COONARR",
+				"OBJECTID" : 43032,
+				"UniqueID" : "QF3-25-054588",
+				"WarningTitle" : "Information - GREENSWAMP",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : 100,
-				"WarningArea" : "COONARR",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "Davenport Dr",
-				"Jurisdiction" : "4 North Coast Region",
-				"Latitude" : -24.980638,
-				"Longitude" : 152.481298,
+				"WarningArea" : "GREENSWAMP",
+				"CurrentStatus" : "Going",
+				"Location" : "Greenswamp Rd",
+				"Jurisdiction" : "3 South Western Region",
+				"Latitude" : -26.811871,
+				"Longitude" : 150.390518,
 				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
 				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "COONARR",
-				"ItemDateTimeUTM" : "20250428183542",
-				"ItemDateTimeLocal_ISO" : "2025-04-29T04:35:42+10:00",
-				"PublishDateLocal_ISO" : "2025-05-02T23:47:49+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-04-30T04:35:42+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 16539925.1940403655, -3253284.4200867973 ]
-			},
-			"properties" : {
-				"OBJECTID" : 42896,
-				"UniqueID" : "QF3-25-054381",
-				"WarningTitle" : "Information - ST GEORGE",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "ST GEORGE",
-				"CurrentStatus" : "Going",
-				"Location" : "Saint Georges Tce",
-				"Jurisdiction" : "3 South Western Region",
-				"Latitude" : -28.034185,
-				"Longitude" : 148.580676,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 1,
 				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "ST GEORGE",
-				"ItemDateTimeUTM" : "20250502030408",
-				"ItemDateTimeLocal_ISO" : "2025-05-02T13:04:08+10:00",
-				"PublishDateLocal_ISO" : "2025-05-02T23:47:49+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-05-03T13:04:08+10:00"
+				"Locality" : "GREENSWAMP",
+				"ItemDateTimeUTM" : "20250502175608",
+				"ItemDateTimeLocal_ISO" : "2025-05-03T03:56:08+10:00",
+				"PublishDateLocal_ISO" : "2025-05-03T23:47:49+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-05-04T03:56:08+10:00"
 			}
 		}
 	]
