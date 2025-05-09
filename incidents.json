@@ -1,18 +1,97 @@
 {
 	"type" : "FeatureCollection",
 	"name" : "QFDWarnings",
-	"crs" : {
-		"type" : "name",
-		"properties" : {
-			"name" : "EPSG:3857"
-		}
-	},
 	"features" : [
 		{
 			"type" : "Feature",
 			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 151.7758001104, -24.3424047082, 0 ],
+						[ 151.6904844061, -24.3406842919, 0 ],
+						[ 151.6880811468, -24.3938499868, 0 ],
+						[ 151.6903127447, -24.4594162506, 0 ],
+						[ 151.8825734869, -24.4650413262, 0 ],
+						[ 151.8595708624, -24.3459236687, 0 ],
+						[ 151.7758001104, -24.3424047082, 0 ]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 5557,
+				"UniqueID" : "IF39-4527921",
+				"WarningTitle" : "AVOID SMOKE - Taunton (near Agnes Water) - fire as at  4:20pm Friday,  9 May 2025",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "AVOID SMOKE",
+				"WarningText" : "\nAVOID SMOKE - Taunton (near Agnes Water) - fire as at  4:20pm Friday,  9 May 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Taunton and surrounding areas\n\n\n \n\nSmoke is currently affecting Taunton and surrounding areas. This is from a fire burning near Fingerboard Road.\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- No properties are at risk.\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- Some roads may be closed.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if the situation changes.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"Header" : "Smoke is currently affecting Taunton and surrounding areas. This is from a fire burning near Fingerboard Road.",
+				"Impacts" : "- No properties are at risk.\r\n\r\n- Smoke can make it hard for some people to breathe.\r\n\r\n- Smoke can make it hard to see when you are driving.\r\n\r\n- Some roads may be closed.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from Queensland Fire Department.",
+				"WarningLevelSort" : 7,
+				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "Taunton and surrounding areas",
+				"Latitude" : -24.410264286531,
+				"Longitude" : 151.78712976128,
+				"GroupedType" : "FIRE VEGETATION",
+				"ItemDateTimeUTM" : "20250509061800",
+				"ItemDateTimeLocal_ISO" : "2025-05-09T16:18:00+10:00",
+				"PublishDateLocal_ISO" : "2025-05-09T23:47:51+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-05-10T16:18:00+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 150.754996287, -28.0336022144, 0 ],
+						[ 150.841513621, -28.3434681012, 0 ],
+						[ 151.1793432108, -28.3567624999, 0 ],
+						[ 151.2171087137, -27.9790409391, 0 ],
+						[ 151.0258779398, -27.9535695578, 0 ],
+						[ 150.754996287, -28.0336022144, 0 ]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 5556,
+				"UniqueID" : "IF39-4527621",
+				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Millmerran Woods - fire as at 12:38pm Friday,  9 May 2025",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
+				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Millmerran Woods - fire as at 12:38pm Friday,  9 May 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Millmerran Woods and surrounding areas\n\n\n \n\nSmoke is currently affecting Millmerran Woods and surrounding areas. This is from a hazard reduction burn in Wondul Range National Park, Woondul. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"Header" : "Smoke is currently affecting Millmerran Woods and surrounding areas. This is from a hazard reduction burn in Wondul Range National Park, Woondul. This fire is under control.",
+				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire Department.",
+				"WarningLevelSort" : 8,
+				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "Millmerran Woods and surrounding areas",
+				"Master_Incident_Number" : "QF3-25-056761",
+				"CurrentStatus" : "Going",
+				"Location" : "Wondul Rd & Thomas Crossing Rd",
+				"Jurisdiction" : "3 South Western Region",
+				"Latitude" : -28.175332034018,
+				"Longitude" : 150.9729418627,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "INGLEWOOD",
+				"ItemDateTimeUTM" : "20250509023600",
+				"ItemDateTimeLocal_ISO" : "2025-05-09T12:36:00+10:00",
+				"PublishDateLocal_ISO" : "2025-05-09T23:47:51+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-05-10T12:36:00+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 15883982.2189884111, -2073055.3846023502 ]
+				"coordinates" : [ 142.68824, -18.30309 ]
 			},
 			"properties" : {
 				"OBJECTID" : 43699,
@@ -36,7 +115,7 @@
 				"Locality" : "GILBERT RIVER",
 				"ItemDateTimeUTM" : "20250505121114",
 				"ItemDateTimeLocal_ISO" : "2025-05-05T22:11:14+10:00",
-				"PublishDateLocal_ISO" : "2025-05-08T23:47:48+10:00",
+				"PublishDateLocal_ISO" : "2025-05-09T23:47:51+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-05-06T22:11:14+10:00"
 			}
 		},
@@ -44,7 +123,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16417473.64284827, -3018216.1497551966 ]
+				"coordinates" : [ 147.480675, -26.154396 ]
 			},
 			"properties" : {
 				"OBJECTID" : 44024,
@@ -68,7 +147,7 @@
 				"Locality" : "TYRCONNEL",
 				"ItemDateTimeUTM" : "20250506152110",
 				"ItemDateTimeLocal_ISO" : "2025-05-07T01:21:10+10:00",
-				"PublishDateLocal_ISO" : "2025-05-08T23:47:49+10:00",
+				"PublishDateLocal_ISO" : "2025-05-09T23:47:51+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-05-08T01:21:10+10:00"
 			}
 		},
@@ -76,7 +155,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 15948241.2837293353, -1704571.3274059317 ]
+				"coordinates" : [ 143.265489, -15.133335 ]
 			},
 			"properties" : {
 				"OBJECTID" : 44237,
@@ -100,7 +179,7 @@
 				"Locality" : "DIXIE",
 				"ItemDateTimeUTM" : "20250507115712",
 				"ItemDateTimeLocal_ISO" : "2025-05-07T21:57:12+10:00",
-				"PublishDateLocal_ISO" : "2025-05-08T23:47:49+10:00",
+				"PublishDateLocal_ISO" : "2025-05-09T23:47:51+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-05-08T21:57:12+10:00"
 			}
 		},
@@ -108,7 +187,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16192890.3550355285, -1942194.7375307735 ]
+				"coordinates" : [ 145.463209, -17.183489 ]
 			},
 			"properties" : {
 				"OBJECTID" : 44246,
@@ -132,7 +211,7 @@
 				"Locality" : "TOLGA",
 				"ItemDateTimeUTM" : "20250507125958",
 				"ItemDateTimeLocal_ISO" : "2025-05-07T22:59:58+10:00",
-				"PublishDateLocal_ISO" : "2025-05-08T23:47:49+10:00",
+				"PublishDateLocal_ISO" : "2025-05-09T23:47:51+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-05-08T22:59:58+10:00"
 			}
 		},
@@ -140,32 +219,32 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16646227.4040640946, -2583838.6923251473 ]
+				"coordinates" : [ 140.246849, -20.310656 ]
 			},
 			"properties" : {
-				"OBJECTID" : 44413,
-				"UniqueID" : "QF2-25-056614",
-				"WarningTitle" : "Information - ST LAWRENCE",
+				"OBJECTID" : 44510,
+				"UniqueID" : "QF1-25-056749",
+				"WarningTitle" : "Information - CLONCURRY",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : 100,
-				"WarningArea" : "ST LAWRENCE",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "BRUCE HWY",
-				"Jurisdiction" : "2 Central Region",
-				"Latitude" : -22.601013,
-				"Longitude" : 149.535605,
+				"WarningArea" : "CLONCURRY",
+				"CurrentStatus" : "Going",
+				"Location" : "Burke Developmental Rd",
+				"Jurisdiction" : "1 Northern Region",
+				"Latitude" : -20.310656,
+				"Longitude" : 140.246849,
 				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
+				"VehiclesOnScene" : 1,
 				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "ST LAWRENCE",
-				"ItemDateTimeUTM" : "20250508020821",
-				"ItemDateTimeLocal_ISO" : "2025-05-08T12:08:21+10:00",
-				"PublishDateLocal_ISO" : "2025-05-08T23:47:49+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-05-09T12:08:21+10:00"
+				"Locality" : "CLONCURRY",
+				"ItemDateTimeUTM" : "20250508145508",
+				"ItemDateTimeLocal_ISO" : "2025-05-09T00:55:08+10:00",
+				"PublishDateLocal_ISO" : "2025-05-09T23:47:51+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-05-10T00:55:08+10:00"
 			}
 		}
 	]
