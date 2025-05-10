@@ -37,32 +37,42 @@
 				"GroupedType" : "FIRE VEGETATION",
 				"ItemDateTimeUTM" : "20250509061800",
 				"ItemDateTimeLocal_ISO" : "2025-05-09T16:18:00+10:00",
-				"PublishDateLocal_ISO" : "2025-05-09T23:47:51+10:00",
+				"PublishDateLocal_ISO" : "2025-05-10T23:47:52+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-05-10T16:18:00+10:00"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
-				"type" : "Polygon",
+				"type" : "MultiPolygon",
 				"coordinates" : [
 					[
-						[ 150.754996287, -28.0336022144, 0 ],
-						[ 150.841513621, -28.3434681012, 0 ],
-						[ 151.1793432108, -28.3567624999, 0 ],
-						[ 151.2171087137, -27.9790409391, 0 ],
-						[ 151.0258779398, -27.9535695578, 0 ],
-						[ 150.754996287, -28.0336022144, 0 ]
+						[
+							[ 150.8466943627, -28.3499437025, 0 ],
+							[ 151.1719617716, -28.3643758002, 0 ],
+							[ 151.2268934122, -27.9866811661, 0 ],
+							[ 151.0181531778, -27.947867982, 0 ],
+							[ 150.7434949747, -28.0400264859, 0 ],
+							[ 150.8466943627, -28.3499437025, 0 ]
+						]
+					],
+					[
+						[
+							[ 150.8473159096, -28.351807539, 0 ],
+							[ 150.8466943627, -28.3499437025, 0 ],
+							[ 150.8451185099, -28.3498737773, 0 ],
+							[ 150.8473159096, -28.351807539, 0 ]
+						]
 					]
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 5556,
-				"UniqueID" : "IF39-4527621",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Millmerran Woods - fire as at 12:38pm Friday,  9 May 2025",
+				"OBJECTID" : 5558,
+				"UniqueID" : "IF39-4528221",
+				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Millmerran Woods - fire as at  1:23pm Saturday, 10 May 2025",
 				"WarningLevel" : "Advice",
 				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
-				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Millmerran Woods - fire as at 12:38pm Friday,  9 May 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Millmerran Woods and surrounding areas\n\n\n \n\nSmoke is currently affecting Millmerran Woods and surrounding areas. This is from a hazard reduction burn in Wondul Range National Park, Woondul. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Millmerran Woods - fire as at  1:23pm Saturday, 10 May 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Millmerran Woods and surrounding areas\n\n\n \n\nSmoke is currently affecting Millmerran Woods and surrounding areas. This is from a hazard reduction burn in Wondul Range National Park, Woondul. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
 				"Header" : "Smoke is currently affecting Millmerran Woods and surrounding areas. This is from a hazard reduction burn in Wondul Range National Park, Woondul. This fire is under control.",
 				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
 				"LeaveSafely" : null,
@@ -74,17 +84,17 @@
 				"CurrentStatus" : "Going",
 				"Location" : "Wondul Rd & Thomas Crossing Rd",
 				"Jurisdiction" : "3 South Western Region",
-				"Latitude" : -28.175332034018,
-				"Longitude" : 150.9729418627,
+				"Latitude" : -28.175695188243,
+				"Longitude" : 151.00716684973,
 				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
 				"VehiclesOnScene" : 0,
 				"GroupedType" : "FIRE PERMITTED BURN",
 				"Locality" : "INGLEWOOD",
-				"ItemDateTimeUTM" : "20250509023600",
-				"ItemDateTimeLocal_ISO" : "2025-05-09T12:36:00+10:00",
-				"PublishDateLocal_ISO" : "2025-05-09T23:47:51+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-05-10T12:36:00+10:00"
+				"ItemDateTimeUTM" : "20250510032300",
+				"ItemDateTimeLocal_ISO" : "2025-05-10T13:23:00+10:00",
+				"PublishDateLocal_ISO" : "2025-05-10T23:47:52+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-05-11T13:23:00+10:00"
 			}
 		},
 		{
@@ -115,40 +125,8 @@
 				"Locality" : "GILBERT RIVER",
 				"ItemDateTimeUTM" : "20250505121114",
 				"ItemDateTimeLocal_ISO" : "2025-05-05T22:11:14+10:00",
-				"PublishDateLocal_ISO" : "2025-05-09T23:47:51+10:00",
+				"PublishDateLocal_ISO" : "2025-05-10T23:47:52+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-05-06T22:11:14+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 147.480675, -26.154396 ]
-			},
-			"properties" : {
-				"OBJECTID" : 44024,
-				"UniqueID" : "QF3-25-056018",
-				"WarningTitle" : "Information - TYRCONNEL",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "TYRCONNEL",
-				"CurrentStatus" : "Going",
-				"Location" : "REDFORD RD",
-				"Jurisdiction" : "3 South Western Region",
-				"Latitude" : -26.154396,
-				"Longitude" : 147.480675,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "TYRCONNEL",
-				"ItemDateTimeUTM" : "20250506152110",
-				"ItemDateTimeLocal_ISO" : "2025-05-07T01:21:10+10:00",
-				"PublishDateLocal_ISO" : "2025-05-09T23:47:51+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-05-08T01:21:10+10:00"
 			}
 		},
 		{
@@ -179,7 +157,7 @@
 				"Locality" : "DIXIE",
 				"ItemDateTimeUTM" : "20250507115712",
 				"ItemDateTimeLocal_ISO" : "2025-05-07T21:57:12+10:00",
-				"PublishDateLocal_ISO" : "2025-05-09T23:47:51+10:00",
+				"PublishDateLocal_ISO" : "2025-05-10T23:47:52+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-05-08T21:57:12+10:00"
 			}
 		},
@@ -211,40 +189,8 @@
 				"Locality" : "TOLGA",
 				"ItemDateTimeUTM" : "20250507125958",
 				"ItemDateTimeLocal_ISO" : "2025-05-07T22:59:58+10:00",
-				"PublishDateLocal_ISO" : "2025-05-09T23:47:51+10:00",
+				"PublishDateLocal_ISO" : "2025-05-10T23:47:52+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-05-08T22:59:58+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 140.246849, -20.310656 ]
-			},
-			"properties" : {
-				"OBJECTID" : 44510,
-				"UniqueID" : "QF1-25-056749",
-				"WarningTitle" : "Information - CLONCURRY",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "CLONCURRY",
-				"CurrentStatus" : "Going",
-				"Location" : "Burke Developmental Rd",
-				"Jurisdiction" : "1 Northern Region",
-				"Latitude" : -20.310656,
-				"Longitude" : 140.246849,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 1,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "CLONCURRY",
-				"ItemDateTimeUTM" : "20250508145508",
-				"ItemDateTimeLocal_ISO" : "2025-05-09T00:55:08+10:00",
-				"PublishDateLocal_ISO" : "2025-05-09T23:47:51+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-05-10T00:55:08+10:00"
 			}
 		}
 	]
