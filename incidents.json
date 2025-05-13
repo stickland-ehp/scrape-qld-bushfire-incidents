@@ -1,18 +1,97 @@
 {
 	"type" : "FeatureCollection",
 	"name" : "QFDWarnings",
-	"crs" : {
-		"type" : "name",
-		"properties" : {
-			"name" : "EPSG:3857"
-		}
-	},
 	"features" : [
 		{
 			"type" : "Feature",
 			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 150.4445670301, -23.1694041182, 0 ],
+						[ 150.4260276014, -23.2577519506, 0 ],
+						[ 150.4521201307, -23.3485629619, 0 ],
+						[ 150.5489371473, -23.415370293, 0 ],
+						[ 150.744631117, -23.3416281976, 0 ],
+						[ 150.5352042372, -23.1668790364, 0 ],
+						[ 150.4445670301, -23.1694041182, 0 ]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 5563,
+				"UniqueID" : "IF39-4529021",
+				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Mount Archer and The Caves (Rockhampton) - fire as at 12:50pm Tuesday, 13 May 2025",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
+				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Mount Archer and The Caves (Rockhampton) - fire as at 12:50pm Tuesday, 13 May 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Mount Archer, The Caves and surrounding areas\n\n\n \n\nSmoke is currently affecting Mount Archer, The Caves and surrounding areas. This is from a hazard reduction burn in the Mount Archer National Park. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"Header" : "Smoke is currently affecting Mount Archer, The Caves and surrounding areas. This is from a hazard reduction burn in the Mount Archer National Park. This fire is under control.",
+				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire Department.",
+				"WarningLevelSort" : 8,
+				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "Mount Archer, The Caves and surrounding areas",
+				"Master_Incident_Number" : "QF2-25-058137",
+				"CurrentStatus" : "Going",
+				"Location" : "Pilbeam Dr & Elida St",
+				"Jurisdiction" : "2 Central Region",
+				"Latitude" : -23.297489395974,
+				"Longitude" : 150.55168372935,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 1,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "MOUNT ARCHER",
+				"ItemDateTimeUTM" : "20250513025000",
+				"ItemDateTimeLocal_ISO" : "2025-05-13T12:50:00+10:00",
+				"PublishDateLocal_ISO" : "2025-05-13T23:52:53+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-05-14T12:50:00+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 149.4891348672, -22.2291445507, 0 ],
+						[ 149.4451895547, -22.3917668238, 0 ],
+						[ 149.5935049844, -22.7822961669, 0 ],
+						[ 150.6756583047, -22.739240252, 0 ],
+						[ 150.1840201211, -22.0154163867, 0 ],
+						[ 149.4891348672, -22.2291445507, 0 ]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 5564,
+				"UniqueID" : "IF39-4529221",
+				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Shoalwater to St Lawrence - fire as at  7:19pm Tuesday, 13 May 2025",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
+				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Shoalwater to St Lawrence - fire as at  7:19pm Tuesday, 13 May 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Shoalwater, Stanage, St Lawrence and surrounding areas\n\n\n \n\nSmoke is currently affecting Shoalwater, Stanage, St Lawrence and surrounding areas. This is from a hazard reduction burn near Shoalwater Bay Military Training Area, Byfield.. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"Header" : "Smoke is currently affecting Shoalwater, Stanage, St Lawrence and surrounding areas. This is from a hazard reduction burn near Shoalwater Bay Military Training Area, Byfield.. This fire is under control.",
+				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire Department.",
+				"WarningLevelSort" : 8,
+				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "Shoalwater, Stanage, St Lawrence and surrounding areas",
+				"Latitude" : -22.620132779316,
+				"Longitude" : 149.99931247947,
+				"GroupedType" : "FIRE VEGETATION",
+				"ItemDateTimeUTM" : "20250513091700",
+				"ItemDateTimeLocal_ISO" : "2025-05-13T19:17:00+10:00",
+				"PublishDateLocal_ISO" : "2025-05-13T23:52:53+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-05-14T19:17:00+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16192890.3550355285, -1942194.7375307735 ]
+				"coordinates" : [ 145.463209, -17.183489 ]
 			},
 			"properties" : {
 				"OBJECTID" : 44246,
@@ -36,7 +115,7 @@
 				"Locality" : "TOLGA",
 				"ItemDateTimeUTM" : "20250507125958",
 				"ItemDateTimeLocal_ISO" : "2025-05-07T22:59:58+10:00",
-				"PublishDateLocal_ISO" : "2025-05-12T23:47:48+10:00",
+				"PublishDateLocal_ISO" : "2025-05-13T23:52:53+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-05-08T22:59:58+10:00"
 			}
 		},
@@ -44,7 +123,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16819115.5901447982, -3287371.6378566553 ]
+				"coordinates" : [ 151.088686, -28.304127 ]
 			},
 			"properties" : {
 				"OBJECTID" : 44520,
@@ -68,7 +147,7 @@
 				"Locality" : "INGLEWOOD",
 				"ItemDateTimeUTM" : "20250508152248",
 				"ItemDateTimeLocal_ISO" : "2025-05-09T01:22:48+10:00",
-				"PublishDateLocal_ISO" : "2025-05-12T23:47:49+10:00",
+				"PublishDateLocal_ISO" : "2025-05-13T23:52:53+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-05-10T01:22:48+10:00"
 			}
 		},
@@ -76,7 +155,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16413464.360067863, -2846486.0611110507 ]
+				"coordinates" : [ 147.444659, -24.761561 ]
 			},
 			"properties" : {
 				"OBJECTID" : 45269,
@@ -100,8 +179,104 @@
 				"Locality" : "BUCKLAND",
 				"ItemDateTimeUTM" : "20250511175820",
 				"ItemDateTimeLocal_ISO" : "2025-05-12T03:58:20+10:00",
-				"PublishDateLocal_ISO" : "2025-05-12T23:47:49+10:00",
+				"PublishDateLocal_ISO" : "2025-05-13T23:52:53+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-05-13T03:58:20+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 148.210471, -23.51676 ]
+			},
+			"properties" : {
+				"OBJECTID" : 45434,
+				"UniqueID" : "QF2-25-058045",
+				"WarningTitle" : "Information - EMERALD",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "EMERALD",
+				"CurrentStatus" : "Contained",
+				"Location" : "Codenwarra Rd",
+				"Jurisdiction" : "2 Central Region",
+				"Latitude" : -23.51676,
+				"Longitude" : 148.210471,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 1,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "EMERALD",
+				"ItemDateTimeUTM" : "20250512113225",
+				"ItemDateTimeLocal_ISO" : "2025-05-12T21:32:25+10:00",
+				"PublishDateLocal_ISO" : "2025-05-13T23:52:54+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-05-13T21:32:25+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 150.548062, -23.701504 ]
+			},
+			"properties" : {
+				"OBJECTID" : 45491,
+				"UniqueID" : "QF2-25-058136",
+				"WarningTitle" : "Information - BAJOOL",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "BAJOOL",
+				"CurrentStatus" : "Going",
+				"Location" : "BODERO RD",
+				"Jurisdiction" : "2 Central Region",
+				"Latitude" : -23.701504,
+				"Longitude" : 150.548062,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 1,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "BAJOOL",
+				"ItemDateTimeUTM" : "20250512151415",
+				"ItemDateTimeLocal_ISO" : "2025-05-13T01:14:15+10:00",
+				"PublishDateLocal_ISO" : "2025-05-13T23:52:54+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-05-14T01:14:15+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 145.527679, -16.712139 ]
+			},
+			"properties" : {
+				"OBJECTID" : 45545,
+				"UniqueID" : "QF7-25-058223",
+				"WarningTitle" : "Information - MONA MONA",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "MONA MONA",
+				"CurrentStatus" : "Going",
+				"Location" : "Mona Mona Rd",
+				"Jurisdiction" : "7 Far Northern Region",
+				"Latitude" : -16.712139,
+				"Longitude" : 145.527679,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "MONA MONA",
+				"ItemDateTimeUTM" : "20250512191748",
+				"ItemDateTimeLocal_ISO" : "2025-05-13T05:17:48+10:00",
+				"PublishDateLocal_ISO" : "2025-05-13T23:52:54+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-05-14T05:17:48+10:00"
 			}
 		}
 	]
