@@ -1,60 +1,18 @@
 {
 	"type" : "FeatureCollection",
 	"name" : "QFDWarnings",
+	"crs" : {
+		"type" : "name",
+		"properties" : {
+			"name" : "EPSG:3857"
+		}
+	},
 	"features" : [
 		{
 			"type" : "Feature",
 			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 150.9998703003, -24.2206668028, 0 ],
-						[ 150.8337020874, -24.1166749618, 0 ],
-						[ 150.5411911011, -24.170560827, 0 ],
-						[ 150.3283309937, -24.295788812, 0 ],
-						[ 150.3915023804, -24.4783998736, 0 ],
-						[ 150.6153488159, -24.6594983012, 0 ],
-						[ 151.1385726929, -24.4534002668, 0 ],
-						[ 150.9998703003, -24.2206668028, 0 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : 5565,
-				"UniqueID" : "IF39-4530821",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Biloela - fire as at  1:18pm Wednesday, 14 May 2025",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
-				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Biloela - fire as at  1:18pm Wednesday, 14 May 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Biloela and surrounding areas\n\n\n \n\nSmoke is currently affecting Biloela and surrounding areas. This is from a hazard reduction burn at the Kroombit Tops National Park. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
-				"Header" : "Smoke is currently affecting Biloela and surrounding areas. This is from a hazard reduction burn at the Kroombit Tops National Park. This fire is under control.",
-				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire Department.",
-				"WarningLevelSort" : 8,
-				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "Biloela and surrounding areas",
-				"Master_Incident_Number" : "QF2-25-055920",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "Valentine Plains Rd",
-				"Jurisdiction" : "2 Central Region",
-				"Latitude" : -24.420893361325,
-				"Longitude" : 150.95729827881,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "VALENTINE PLAINS",
-				"ItemDateTimeUTM" : "20250514031600",
-				"ItemDateTimeLocal_ISO" : "2025-05-14T13:16:00+10:00",
-				"PublishDateLocal_ISO" : "2025-05-17T23:47:48+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-05-15T13:16:00+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 145.463209, -17.183489 ]
+				"coordinates" : [ 16192890.3550355285, -1942194.7375307735 ]
 			},
 			"properties" : {
 				"OBJECTID" : 44246,
@@ -78,7 +36,7 @@
 				"Locality" : "TOLGA",
 				"ItemDateTimeUTM" : "20250507125958",
 				"ItemDateTimeLocal_ISO" : "2025-05-07T22:59:58+10:00",
-				"PublishDateLocal_ISO" : "2025-05-17T23:47:48+10:00",
+				"PublishDateLocal_ISO" : "2025-05-18T23:47:46+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-05-08T22:59:58+10:00"
 			}
 		},
@@ -86,39 +44,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 151.088686, -28.304127 ]
-			},
-			"properties" : {
-				"OBJECTID" : 44520,
-				"UniqueID" : "QF3-25-056761",
-				"WarningTitle" : "Information - INGLEWOOD",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "INGLEWOOD",
-				"CurrentStatus" : "Going",
-				"Location" : "Wondul Rd & Thomas Crossing Rd",
-				"Jurisdiction" : "3 South Western Region",
-				"Latitude" : -28.304127,
-				"Longitude" : 151.088686,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "INGLEWOOD",
-				"ItemDateTimeUTM" : "20250508152248",
-				"ItemDateTimeLocal_ISO" : "2025-05-09T01:22:48+10:00",
-				"PublishDateLocal_ISO" : "2025-05-17T23:47:48+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-05-10T01:22:48+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 150.612246, -26.729739 ]
+				"coordinates" : [ 16766078.5319512542, -3089746.5949482992 ]
 			},
 			"properties" : {
 				"OBJECTID" : 45717,
@@ -142,7 +68,7 @@
 				"Locality" : "CHINCHILLA",
 				"ItemDateTimeUTM" : "20250513114737",
 				"ItemDateTimeLocal_ISO" : "2025-05-13T21:47:37+10:00",
-				"PublishDateLocal_ISO" : "2025-05-17T23:47:48+10:00",
+				"PublishDateLocal_ISO" : "2025-05-18T23:47:46+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-05-14T21:47:37+10:00"
 			}
 		},
@@ -150,7 +76,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 145.359752, -16.970714 ]
+				"coordinates" : [ 16181373.5744765271, -1917416.2441470826 ]
 			},
 			"properties" : {
 				"OBJECTID" : 45992,
@@ -174,7 +100,7 @@
 				"Locality" : "PADDYS GREEN",
 				"ItemDateTimeUTM" : "20250514111713",
 				"ItemDateTimeLocal_ISO" : "2025-05-14T21:17:13+10:00",
-				"PublishDateLocal_ISO" : "2025-05-17T23:47:48+10:00",
+				"PublishDateLocal_ISO" : "2025-05-18T23:47:46+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-05-15T21:17:13+10:00"
 			}
 		},
@@ -182,7 +108,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 145.397276, -16.768721 ]
+				"coordinates" : [ 16185550.7270490564, -1893919.3320730801 ]
 			},
 			"properties" : {
 				"OBJECTID" : 45993,
@@ -206,7 +132,7 @@
 				"Locality" : "SOUTHEDGE",
 				"ItemDateTimeUTM" : "20250514112146",
 				"ItemDateTimeLocal_ISO" : "2025-05-14T21:21:46+10:00",
-				"PublishDateLocal_ISO" : "2025-05-17T23:47:48+10:00",
+				"PublishDateLocal_ISO" : "2025-05-18T23:47:46+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-05-15T21:21:46+10:00"
 			}
 		},
@@ -214,7 +140,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 144.6487, -18.3333 ]
+				"coordinates" : [ 16102219.6279089879, -2076597.8588052446 ]
 			},
 			"properties" : {
 				"OBJECTID" : 46032,
@@ -238,7 +164,7 @@
 				"Locality" : "MOUNT SURPRISE",
 				"ItemDateTimeUTM" : "20250514141118",
 				"ItemDateTimeLocal_ISO" : "2025-05-15T00:11:18+10:00",
-				"PublishDateLocal_ISO" : "2025-05-17T23:47:48+10:00",
+				"PublishDateLocal_ISO" : "2025-05-18T23:47:46+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-05-16T00:11:18+10:00"
 			}
 		},
@@ -246,7 +172,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 143.8769, -17.6309 ]
+				"coordinates" : [ 16016303.244914744, -1994390.8929202752 ]
 			},
 			"properties" : {
 				"OBJECTID" : 46033,
@@ -270,7 +196,7 @@
 				"Locality" : "BULLERINGA",
 				"ItemDateTimeUTM" : "20250514141621",
 				"ItemDateTimeLocal_ISO" : "2025-05-15T00:16:21+10:00",
-				"PublishDateLocal_ISO" : "2025-05-17T23:47:48+10:00",
+				"PublishDateLocal_ISO" : "2025-05-18T23:47:46+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-05-16T00:16:21+10:00"
 			}
 		},
@@ -278,7 +204,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 145.026975, -15.717344 ]
+				"coordinates" : [ 16144329.0082888138, -1772012.6153212921 ]
 			},
 			"properties" : {
 				"OBJECTID" : 46054,
@@ -302,7 +228,7 @@
 				"Locality" : "LAKELAND",
 				"ItemDateTimeUTM" : "20250513133858",
 				"ItemDateTimeLocal_ISO" : "2025-05-13T23:38:58+10:00",
-				"PublishDateLocal_ISO" : "2025-05-17T23:47:48+10:00",
+				"PublishDateLocal_ISO" : "2025-05-18T23:47:46+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-05-14T23:38:58+10:00"
 			}
 		},
@@ -310,7 +236,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 144.20482, -14.938936 ]
+				"coordinates" : [ 16052807.132335674, -1682163.7357048446 ]
 			},
 			"properties" : {
 				"OBJECTID" : 46111,
@@ -334,7 +260,7 @@
 				"Locality" : "LAKEFIELD",
 				"ItemDateTimeUTM" : "20250514203130",
 				"ItemDateTimeLocal_ISO" : "2025-05-15T06:31:30+10:00",
-				"PublishDateLocal_ISO" : "2025-05-17T23:47:48+10:00",
+				"PublishDateLocal_ISO" : "2025-05-18T23:47:46+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-05-16T06:31:30+10:00"
 			}
 		},
@@ -342,7 +268,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 150.948109, -23.179709 ]
+				"coordinates" : [ 16803466.6300875582, -2653765.9169177259 ]
 			},
 			"properties" : {
 				"OBJECTID" : 46313,
@@ -366,7 +292,7 @@
 				"Locality" : null,
 				"ItemDateTimeUTM" : "20250515161905",
 				"ItemDateTimeLocal_ISO" : "2025-05-16T02:19:05+10:00",
-				"PublishDateLocal_ISO" : "2025-05-17T23:47:48+10:00",
+				"PublishDateLocal_ISO" : "2025-05-18T23:47:46+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-05-17T02:19:05+10:00"
 			}
 		},
@@ -374,7 +300,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 152.044599, -28.420466 ]
+				"coordinates" : [ 16925527.3385474719, -3302089.1041530743 ]
 			},
 			"properties" : {
 				"OBJECTID" : 46341,
@@ -398,7 +324,7 @@
 				"Locality" : "DALVEEN",
 				"ItemDateTimeUTM" : "20250515183422",
 				"ItemDateTimeLocal_ISO" : "2025-05-16T04:34:22+10:00",
-				"PublishDateLocal_ISO" : "2025-05-17T23:47:48+10:00",
+				"PublishDateLocal_ISO" : "2025-05-18T23:47:46+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-05-17T04:34:22+10:00"
 			}
 		},
@@ -406,7 +332,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 145.271649, -18.580898 ]
+				"coordinates" : [ 16171565.9933791701, -2105655.0414391654 ]
 			},
 			"properties" : {
 				"OBJECTID" : 46396,
@@ -430,7 +356,7 @@
 				"Locality" : "VALLEY OF LAGOONS",
 				"ItemDateTimeUTM" : "20250515213114.363",
 				"ItemDateTimeLocal_ISO" : "2025-05-16T07:31:14+10:00",
-				"PublishDateLocal_ISO" : "2025-05-17T23:47:48+10:00",
+				"PublishDateLocal_ISO" : "2025-05-18T23:47:46+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-05-17T07:31:14.363+10:00"
 			}
 		},
@@ -438,7 +364,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 145.56372, -16.652897 ]
+				"coordinates" : [ 16204079.1883746497, -1880457.3374090197 ]
 			},
 			"properties" : {
 				"OBJECTID" : 46549,
@@ -462,40 +388,8 @@
 				"Locality" : "WANGETTI",
 				"ItemDateTimeUTM" : "20250515122204",
 				"ItemDateTimeLocal_ISO" : "2025-05-15T22:22:04+10:00",
-				"PublishDateLocal_ISO" : "2025-05-17T23:47:48+10:00",
+				"PublishDateLocal_ISO" : "2025-05-18T23:47:46+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-05-16T22:22:04+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 153.162116, -27.736887 ]
-			},
-			"properties" : {
-				"OBJECTID" : 46754,
-				"UniqueID" : "QF6-25-060034",
-				"WarningTitle" : "Information - BAHRS SCRUB",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "BAHRS SCRUB",
-				"CurrentStatus" : "Going",
-				"Location" : "GREENLEAF GR & BAHRS SCRUB RD",
-				"Jurisdiction" : "6 South Eastern Region",
-				"Latitude" : -27.736887,
-				"Longitude" : 153.162116,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 2,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "BAHRS SCRUB",
-				"ItemDateTimeUTM" : "20250517030815",
-				"ItemDateTimeLocal_ISO" : "2025-05-17T13:08:15+10:00",
-				"PublishDateLocal_ISO" : "2025-05-17T23:47:48+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-05-18T13:08:15+10:00"
 			}
 		}
 	]
