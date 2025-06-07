@@ -1,52 +1,18 @@
 {
 	"type" : "FeatureCollection",
 	"name" : "QFDWarnings",
+	"crs" : {
+		"type" : "name",
+		"properties" : {
+			"name" : "EPSG:3857"
+		}
+	},
 	"features" : [
 		{
 			"type" : "Feature",
 			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 152.998695976, -26.9151819264, 0 ],
-						[ 153.0649572675, -26.9148757928, 0 ],
-						[ 153.1183794173, -26.8796046205, 0 ],
-						[ 153.1255891951, -26.8045534716, 0 ],
-						[ 153.1087663802, -26.7892308008, 0 ],
-						[ 153.0703142317, -26.7812621942, 0 ],
-						[ 153.0507448348, -26.7769711743, 0 ],
-						[ 152.998695976, -26.9151819264, 0 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : 5657,
-				"UniqueID" : "IF39-4581221",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Coochin Creek (near Caloundra) - fire as at 12:25pm Thursday,  5 June 2025",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
-				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Coochin Creek (near Caloundra) - fire as at 12:25pm Thursday,  5 June 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Golden Beach, Pelican Waters, Bells Creek, Gagalba, Nirimba and surrounding areas\n\n\n \n\nSmoke is currently affecting Golden Beach, Pelican Waters, Bells Creek, Gagalba, Nirimba and surrounding areas. This is from a hazard reduction burn in Beerburrum East State Forest near Roys Road. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
-				"Header" : "Smoke is currently affecting Golden Beach, Pelican Waters, Bells Creek, Gagalba, Nirimba and surrounding areas. This is from a hazard reduction burn in Beerburrum East State Forest near Roys Road. This fire is under control.",
-				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire Department.",
-				"WarningLevelSort" : 8,
-				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "Golden Beach, Pelican Waters, Bells Creek, Gagalba, Nirimba and surrounding areas",
-				"Latitude" : -26.825388981694,
-				"Longitude" : 153.06894094073,
-				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20250605022500",
-				"ItemDateTimeLocal_ISO" : "2025-06-05T12:25:00+10:00",
-				"PublishDateLocal_ISO" : "2025-06-06T23:52:54+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-06-06T12:25:00+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 144.20482, -14.938936 ]
+				"coordinates" : [ 16052807.132335674, -1682163.7357048446 ]
 			},
 			"properties" : {
 				"OBJECTID" : 46111,
@@ -70,7 +36,7 @@
 				"Locality" : "LAKEFIELD",
 				"ItemDateTimeUTM" : "20250514203130",
 				"ItemDateTimeLocal_ISO" : "2025-05-15T06:31:30+10:00",
-				"PublishDateLocal_ISO" : "2025-06-06T23:52:54+10:00",
+				"PublishDateLocal_ISO" : "2025-06-07T23:47:50+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-05-16T06:31:30+10:00"
 			}
 		},
@@ -78,7 +44,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 144.693836, -14.622168 ]
+				"coordinates" : [ 16107244.1444454361, -1645694.4653594443 ]
 			},
 			"properties" : {
 				"OBJECTID" : 47309,
@@ -102,7 +68,7 @@
 				"Locality" : "STARCKE",
 				"ItemDateTimeUTM" : "20250519121029",
 				"ItemDateTimeLocal_ISO" : "2025-05-19T22:10:29+10:00",
-				"PublishDateLocal_ISO" : "2025-06-06T23:52:54+10:00",
+				"PublishDateLocal_ISO" : "2025-06-07T23:47:50+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-05-20T22:10:29+10:00"
 			}
 		},
@@ -110,7 +76,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 145.026975, -15.717344 ]
+				"coordinates" : [ 16144329.0082888138, -1772012.6153212921 ]
 			},
 			"properties" : {
 				"OBJECTID" : 47324,
@@ -122,7 +88,7 @@
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : 100,
 				"WarningArea" : "LAKELAND",
-				"CurrentStatus" : "Patrolled",
+				"CurrentStatus" : "Going",
 				"Location" : "Mulligan Hwy",
 				"Jurisdiction" : "7 Far Northern Region",
 				"Latitude" : -15.717344,
@@ -134,7 +100,7 @@
 				"Locality" : "LAKELAND",
 				"ItemDateTimeUTM" : "20250513133858",
 				"ItemDateTimeLocal_ISO" : "2025-05-13T23:38:58+10:00",
-				"PublishDateLocal_ISO" : "2025-06-06T23:52:54+10:00",
+				"PublishDateLocal_ISO" : "2025-06-07T23:47:50+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-05-14T23:38:58+10:00"
 			}
 		},
@@ -142,7 +108,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 142.724972, -13.605516 ]
+				"coordinates" : [ 15888071.2065242305, -1528996.8752604092 ]
 			},
 			"properties" : {
 				"OBJECTID" : 48190,
@@ -166,7 +132,7 @@
 				"Locality" : "COEN",
 				"ItemDateTimeUTM" : "20250522160211",
 				"ItemDateTimeLocal_ISO" : "2025-05-23T02:02:11+10:00",
-				"PublishDateLocal_ISO" : "2025-06-06T23:52:54+10:00",
+				"PublishDateLocal_ISO" : "2025-06-07T23:47:50+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-05-24T02:02:11+10:00"
 			}
 		},
@@ -174,7 +140,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 145.020933, -14.829542 ]
+				"coordinates" : [ 16143656.415925445, -1669563.2627150889 ]
 			},
 			"properties" : {
 				"OBJECTID" : 49582,
@@ -198,7 +164,7 @@
 				"Locality" : "STARCKE",
 				"ItemDateTimeUTM" : "20250527114740",
 				"ItemDateTimeLocal_ISO" : "2025-05-27T21:47:40+10:00",
-				"PublishDateLocal_ISO" : "2025-06-06T23:52:54+10:00",
+				"PublishDateLocal_ISO" : "2025-06-07T23:47:50+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-05-28T21:47:40+10:00"
 			}
 		},
@@ -206,7 +172,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 143.16281, -13.841928 ]
+				"coordinates" : [ 15936811.1097341757, -1556087.5724886104 ]
 			},
 			"properties" : {
 				"OBJECTID" : 50903,
@@ -230,7 +196,7 @@
 				"Locality" : "COEN",
 				"ItemDateTimeUTM" : "20250601144742",
 				"ItemDateTimeLocal_ISO" : "2025-06-02T00:47:42+10:00",
-				"PublishDateLocal_ISO" : "2025-06-06T23:52:54+10:00",
+				"PublishDateLocal_ISO" : "2025-06-07T23:47:50+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-06-03T00:47:42+10:00"
 			}
 		},
@@ -238,71 +204,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 145.959997, -18.500612 ]
-			},
-			"properties" : {
-				"OBJECTID" : 51416,
-				"UniqueID" : "QF1-25-067498",
-				"WarningTitle" : "Information - LONG POCKET",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "LONG POCKET",
-				"CurrentStatus" : "Going",
-				"Location" : "Sheahans Rd",
-				"Jurisdiction" : "1 Northern Region",
-				"Latitude" : -18.500612,
-				"Longitude" : 145.959997,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 1,
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "LONG POCKET",
-				"ItemDateTimeUTM" : "20250603163436.22",
-				"ItemDateTimeLocal_ISO" : "2025-06-04T02:34:36+10:00",
-				"PublishDateLocal_ISO" : "2025-06-06T23:52:54+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-06-05T02:34:36.22+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 144.867273, -18.047001 ]
-			},
-			"properties" : {
-				"OBJECTID" : 51495,
-				"UniqueID" : "QF7-25-067383",
-				"WarningTitle" : "Information - FORTY MILE",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "FORTY MILE",
-				"CurrentStatus" : "Going",
-				"Location" : "Kennedy Hwy",
-				"Jurisdiction" : "7 Far Northern Region",
-				"Latitude" : -18.047001,
-				"Longitude" : 144.867273,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "FORTY MILE",
-				"ItemDateTimeUTM" : "20250603113047",
-				"ItemDateTimeLocal_ISO" : "2025-06-03T21:30:47+10:00",
-				"PublishDateLocal_ISO" : "2025-06-06T23:52:54+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-06-04T21:30:47+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 145.641295, -16.720813 ]
+				"coordinates" : [ 16212714.7978729401, -1888350.0888854247 ]
 			},
 			"properties" : {
 				"OBJECTID" : 51618,
@@ -326,7 +228,7 @@
 				"Locality" : "ELLIS BEACH",
 				"ItemDateTimeUTM" : "20250604135401",
 				"ItemDateTimeLocal_ISO" : "2025-06-04T23:54:01+10:00",
-				"PublishDateLocal_ISO" : "2025-06-06T23:52:54+10:00",
+				"PublishDateLocal_ISO" : "2025-06-07T23:47:50+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-06-05T23:54:01+10:00"
 			}
 		},
@@ -334,7 +236,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 146.461423, -19.096876 ]
+				"coordinates" : [ 16304011.0292182453, -2166344.8211162188 ]
 			},
 			"properties" : {
 				"OBJECTID" : 51632,
@@ -358,7 +260,7 @@
 				"Locality" : "CLEMANT",
 				"ItemDateTimeUTM" : "20250604145408.257",
 				"ItemDateTimeLocal_ISO" : "2025-06-05T00:54:08+10:00",
-				"PublishDateLocal_ISO" : "2025-06-06T23:52:54+10:00",
+				"PublishDateLocal_ISO" : "2025-06-07T23:47:50+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-06-06T00:54:08.257+10:00"
 			}
 		},
@@ -366,7 +268,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 143.244444, -15.162012 ]
+				"coordinates" : [ 15945898.5650455896, -1707878.5439290756 ]
 			},
 			"properties" : {
 				"OBJECTID" : 51700,
@@ -390,8 +292,72 @@
 				"Locality" : "DIXIE",
 				"ItemDateTimeUTM" : "20250529191241",
 				"ItemDateTimeLocal_ISO" : "2025-05-30T05:12:41+10:00",
-				"PublishDateLocal_ISO" : "2025-06-06T23:52:54+10:00",
+				"PublishDateLocal_ISO" : "2025-06-07T23:47:50+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-05-31T05:12:41+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 16986702.5194349512, -2912486.3958810461 ]
+			},
+			"properties" : {
+				"OBJECTID" : 52225,
+				"UniqueID" : "QF4-25-068808",
+				"WarningTitle" : "Information - BURRUM RIVER",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "BURRUM RIVER",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "KEITH ST",
+				"Jurisdiction" : "4 North Coast Region",
+				"Latitude" : -25.298768,
+				"Longitude" : 152.594145,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "BURRUM RIVER",
+				"ItemDateTimeUTM" : "20250606175158",
+				"ItemDateTimeLocal_ISO" : "2025-06-07T03:51:58+10:00",
+				"PublishDateLocal_ISO" : "2025-06-07T23:47:50+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-06-08T03:51:58+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 16365574.7151285931, -2196809.9545455789 ]
+			},
+			"properties" : {
+				"OBJECTID" : 52248,
+				"UniqueID" : "QF1-25-068858",
+				"WarningTitle" : "Information - CAPE CLEVELAND",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "CAPE CLEVELAND",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Crocodile Creek Rd",
+				"Jurisdiction" : "1 Northern Region",
+				"Latitude" : -19.355285,
+				"Longitude" : 147.014459,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "CAPE CLEVELAND",
+				"ItemDateTimeUTM" : "20250606191710",
+				"ItemDateTimeLocal_ISO" : "2025-06-07T05:17:10+10:00",
+				"PublishDateLocal_ISO" : "2025-06-07T23:47:50+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-06-08T05:17:10+10:00"
 			}
 		}
 	]
