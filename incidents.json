@@ -5,128 +5,47 @@
 		{
 			"type" : "Feature",
 			"geometry" : {
-				"type" : "MultiPolygon",
-				"coordinates" : [
-					[
-						[
-							[ 153.020877136, -26.3111105227, 0 ],
-							[ 153.0261316267, -26.3654690934, 0 ],
-							[ 153.0453577009, -26.3871023105, 0 ],
-							[ 153.0700769392, -26.3660843121, 0 ],
-							[ 153.0612650025, -26.3055721477, 0 ],
-							[ 153.020877136, -26.3111105227, 0 ]
-						]
-					],
-					[
-						[
-							[ 153.0208673514, -26.3111118644, 0 ],
-							[ 153.020877136, -26.3111105227, 0 ],
-							[ 153.0208673514, -26.3110092764, 0 ],
-							[ 153.0208673514, -26.3111118644, 0 ]
-						]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : 5756,
-				"UniqueID" : "IF39-4604521",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Cooloola (near Noosa) - fire as at 11:37am Tuesday, 17 June 2025",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
-				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Cooloola (near Noosa) - fire as at 11:37am Tuesday, 17 June 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Cooloola, Noosa North Shore and surrounding areas\n\n\n \n\nSmoke is currently affecting Cooloola, Noosa North Shore and surrounding areas. This is from a hazard reduction burn at Cooloola Recreation Area of the Great Sandy National Park. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
-				"Header" : "Smoke is currently affecting Cooloola, Noosa North Shore and surrounding areas. This is from a hazard reduction burn at Cooloola Recreation Area of the Great Sandy National Park. This fire is under control.",
-				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire Department.",
-				"WarningLevelSort" : 8,
-				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "Cooloola, Noosa North Shore and surrounding areas",
-				"Latitude" : -26.349831191697,
-				"Longitude" : 153.05076153483,
-				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20250617013500",
-				"ItemDateTimeLocal_ISO" : "2025-06-17T11:35:00+10:00",
-				"PublishDateLocal_ISO" : "2025-06-18T23:52:53+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-06-18T11:35:00+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
 				"type" : "Polygon",
 				"coordinates" : [
 					[
-						[ 153.2325246708, -27.8751456549, 0 ],
-						[ 153.2119253056, -27.8848567878, 0 ],
-						[ 153.2187917607, -27.9018491749, 0 ],
-						[ 153.247630872, -27.8969944794, 0 ],
-						[ 153.2393911259, -27.8848567878, 0 ],
-						[ 153.2398489455, -27.8848567878, 0 ],
-						[ 153.2325246708, -27.8751456549, 0 ]
+						[ 153.3383917809, -27.9433651101, 0 ],
+						[ 153.2705855369, -27.9454881554, 0 ],
+						[ 153.2833743095, -28.0027945982, 0 ],
+						[ 153.3413100243, -27.9934730048, 0 ],
+						[ 153.3594202995, -27.9471562332, 0 ],
+						[ 153.3383917809, -27.9433651101, 0 ]
 					]
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 5758,
-				"UniqueID" : "IF39-4605221",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Wongawallan - fire as at 12:41pm Tuesday, 17 June 2025",
+				"OBJECTID" : 5772,
+				"UniqueID" : "IF39-4612021",
+				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Gaven and Nerang - fire as at 11:00am Thursday, 19 June 2025",
 				"WarningLevel" : "Advice",
 				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
-				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Wongawallan - fire as at 12:41pm Tuesday, 17 June 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Wongawallan and surrounding areas\n\n\n \n\nSmoke is currently affecting Wongawallan and surrounding areas. This is from a hazard reduction burn at Timberview Reserve. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
-				"Header" : "Smoke is currently affecting Wongawallan and surrounding areas. This is from a hazard reduction burn at Timberview Reserve. This fire is under control.",
-				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire Department.",
-				"WarningLevelSort" : 8,
-				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "Wongawallan and surrounding areas",
-				"Latitude" : -27.886070618235,
-				"Longitude" : 153.22840479778,
-				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20250617023700",
-				"ItemDateTimeLocal_ISO" : "2025-06-17T12:37:00+10:00",
-				"PublishDateLocal_ISO" : "2025-06-18T23:52:53+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-06-18T12:37:00+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 152.9661655426, -26.3114106789, 0 ],
-						[ 152.9208469391, -26.3171039859, 0 ],
-						[ 152.9202461243, -26.3691770576, 0 ],
-						[ 152.9387426376, -26.3725220893, 0 ],
-						[ 152.9608440399, -26.3738678671, 0 ],
-						[ 152.9785251617, -26.373098895, 0 ],
-						[ 152.9805850983, -26.3157191532, 0 ],
-						[ 152.9661655426, -26.3114106789, 0 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : 5760,
-				"UniqueID" : "IF39-4605521",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Ringtail Creek (near Noosa) - fire as at  2:01pm Tuesday, 17 June 2025",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
-				"WarningText" : "\nAVOID SMOKE (HAZARD REDUCTION BURN) - Ringtail Creek (near Noosa) - fire as at  2:01pm Tuesday, 17 June 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Ringtail Creek and surrounding areas, including Cooroibah and Cootharaba\n\n\n \n\nSmoke is currently affecting Ringtail Creek and surrounding areas, including Cooroibah and Cootharaba. This is from a Noosa Shire Council hazard reduction burn near Sealys Road. This fire is under control.\n\n\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
-				"Header" : "Smoke is currently affecting Ringtail Creek and surrounding areas, including Cooroibah and Cootharaba. This is from a Noosa Shire Council hazard reduction burn near Sealys Road. This fire is under control.",
+				"WarningText" : "\nAVOID SMOKE (HAZARD REDUCTION BURN) - Gaven and Nerang - fire as at 11:00am Thursday, 19 June 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Gaven, Nerang and surrounding areas\n\n\n \n\nSmoke is currently affecting Gaven, Nerang and surrounding areas. This is from a Queensland Parks and Wildlife hazard reduction burn near Matilda Road and North Street, Nerang. This fire is under control.\n\n\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"Header" : "Smoke is currently affecting Gaven, Nerang and surrounding areas. This is from a Queensland Parks and Wildlife hazard reduction burn near Matilda Road and North Street, Nerang. This fire is under control.",
 				"Impacts" : "- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk",
 				"LeaveSafely" : null,
 				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.",
 				"WarningLevelSort" : 8,
 				"ShouldDo" : "- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "Ringtail Creek and surrounding areas, including Cooroibah and Cootharaba",
-				"Latitude" : -26.341412796871,
-				"Longitude" : 152.95363426208,
-				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20250617034400",
-				"ItemDateTimeLocal_ISO" : "2025-06-17T13:44:00+10:00",
-				"PublishDateLocal_ISO" : "2025-06-18T23:52:53+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-06-18T13:44:00+10:00"
+				"WarningArea" : "Gaven, Nerang and surrounding areas",
+				"Master_Incident_Number" : "QF6-25-074556",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Matilda Rd",
+				"Jurisdiction" : "6 South Eastern Region",
+				"Latitude" : -27.966867927908,
+				"Longitude" : 153.31968069076,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "NERANG",
+				"ItemDateTimeUTM" : "20250619005700",
+				"ItemDateTimeLocal_ISO" : "2025-06-19T10:57:00+10:00",
+				"PublishDateLocal_ISO" : "2025-06-19T23:52:47+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-06-20T10:57:00+10:00"
 			}
 		},
 		{
@@ -135,74 +54,35 @@
 				"type" : "Polygon",
 				"coordinates" : [
 					[
-						[ 152.8815331836, -27.3657268008, 0 ],
-						[ 152.8602471729, -27.4221192334, 0 ],
-						[ 152.9342332263, -27.4503046587, 0 ],
-						[ 152.9616990467, -27.4513709929, 0 ],
-						[ 152.9651322742, -27.3815805526, 0 ],
-						[ 152.8815331836, -27.3657268008, 0 ]
+						[ 153.3190661012, -27.5783835613, 0 ],
+						[ 153.2778244553, -27.5829862116, 0 ],
+						[ 153.2870941697, -27.6286218706, 0 ],
+						[ 153.3126287995, -27.6295343899, 0 ],
+						[ 153.3190661012, -27.5783835613, 0 ]
 					]
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 5762,
-				"UniqueID" : "IF39-4607321",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Samford and The Gap - fire as at  4:33pm Tuesday, 17 June 2025",
+				"OBJECTID" : 5777,
+				"UniqueID" : "IF39-4612421",
+				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Redland Bay - fire as at 11:52am Thursday, 19 June 2025",
 				"WarningLevel" : "Advice",
 				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
-				"WarningText" : "\nAVOID SMOKE (HAZARD REDUCTION BURN) - Samford and The Gap - fire as at  4:33pm Tuesday, 17 June 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Samford, Camp Mountain, Upper Kedron and The Gap\n\n\n \n\nSmoke is currently affecting Samford, Camp Mountain, Upper Kedron and The Gap. This is from a Queensland Parks and Wildlife hazard reduction burn at Mount Nebo Road, Enoggera Reservoir in the D'Aguilar National Park. This fire is under control.\n\n\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
-				"Header" : "Smoke is currently affecting Samford, Camp Mountain, Upper Kedron and The Gap. This is from a Queensland Parks and Wildlife hazard reduction burn at Mount Nebo Road, Enoggera Reservoir in the D'Aguilar National Park. This fire is under control.",
-				"Impacts" : "- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.",
-				"WarningLevelSort" : 8,
-				"ShouldDo" : "- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "Samford, Camp Mountain, Upper Kedron and The Gap",
-				"Latitude" : -27.412366924325,
-				"Longitude" : 152.92084363893,
-				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20250617063300",
-				"ItemDateTimeLocal_ISO" : "2025-06-17T16:33:00+10:00",
-				"PublishDateLocal_ISO" : "2025-06-18T23:52:53+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-06-18T16:33:00+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 152.8329138584, -27.3089645147, 0 ],
-						[ 152.8990571327, -27.3091265766, 0 ],
-						[ 152.8992448873, -27.285374389, 0 ],
-						[ 152.8979306049, -27.2595246016, 0 ],
-						[ 152.8510885067, -27.2573310004, 0 ],
-						[ 152.8329138584, -27.3089645147, 0 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : 5768,
-				"UniqueID" : "IF39-4610621",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Mount Samson - fire as at 11:16am Wednesday, 18 June 2025",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
-				"WarningText" : "\nAVOID SMOKE (HAZARD REDUCTION BURN) - Mount Samson - fire as at 11:16am Wednesday, 18 June 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Mount Samson, Cashmere and Clear Mountain\n\n\n \n\nSmoke is currently affecting Mount Samson, Cashmere and Clear Mountain. This is from a Seqwater hazard reduction burn near North Pine Dam. This fire is under control.\n\n\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
-				"Header" : "Smoke is currently affecting Mount Samson, Cashmere and Clear Mountain. This is from a Seqwater hazard reduction burn near North Pine Dam. This fire is under control.",
+				"WarningText" : "\nAVOID SMOKE (HAZARD REDUCTION BURN) - Redland Bay - fire as at 11:52am Thursday, 19 June 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Redland Bay and surrounding areas\n\n\n \n\nSmoke is currently affecting Redland Bay and surrounding areas. This is from a Redland City Council hazard reduction burn near Kidd Street. This fire is under control.\n\n\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"Header" : "Smoke is currently affecting Redland Bay and surrounding areas. This is from a Redland City Council hazard reduction burn near Kidd Street. This fire is under control.",
 				"Impacts" : "- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.",
 				"LeaveSafely" : null,
 				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.",
 				"WarningLevelSort" : 8,
 				"ShouldDo" : "- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "Mount Samson, Cashmere and Clear Mountain",
-				"Latitude" : -27.293443610139,
-				"Longitude" : 152.87224577138,
+				"WarningArea" : "Redland Bay and surrounding areas",
+				"Latitude" : -27.602298351099,
+				"Longitude" : 153.298780335,
 				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20250618005700",
-				"ItemDateTimeLocal_ISO" : "2025-06-18T10:57:00+10:00",
-				"PublishDateLocal_ISO" : "2025-06-18T23:52:53+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-06-19T10:57:00+10:00"
+				"ItemDateTimeUTM" : "20250619013800",
+				"ItemDateTimeLocal_ISO" : "2025-06-19T11:38:00+10:00",
+				"PublishDateLocal_ISO" : "2025-06-19T23:52:47+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-06-20T11:38:00+10:00"
 			}
 		},
 		{
@@ -211,25 +91,23 @@
 				"type" : "Polygon",
 				"coordinates" : [
 					[
-						[ 153.28128649, -28.0254266638, 0 ],
-						[ 153.2724459291, -28.0319610728, 0 ],
-						[ 153.2685835481, -28.0391773343, 0 ],
-						[ 153.2656653047, -28.0460709485, 0 ],
-						[ 153.2761366487, -28.0541003156, 0 ],
-						[ 153.2978518129, -28.0536458391, 0 ],
-						[ 153.3041603685, -28.0306165172, 0 ],
-						[ 153.2932169557, -28.0271124012, 0 ],
-						[ 153.28128649, -28.0254266638, 0 ]
+						[ 153.2657041967, -28.0460330727, 0 ],
+						[ 153.2767763556, -28.0565241577, 0 ],
+						[ 153.2980623663, -28.0537594584, 0 ],
+						[ 153.304885906, -28.0304649922, 0 ],
+						[ 153.2815399588, -28.0251993652, 0 ],
+						[ 153.2721844137, -28.0319044713, 0 ],
+						[ 153.2657041967, -28.0460330727, 0 ]
 					]
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 5767,
-				"UniqueID" : "IF39-4610821",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Advancetown (near Lower Beechmont) - fire as at 11:16am Wednesday, 18 June 2025",
+				"OBJECTID" : 5776,
+				"UniqueID" : "IF39-4612621",
+				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Advancetown (near Lower Beechmont) - fire as at 11:51am Thursday, 19 June 2025",
 				"WarningLevel" : "Advice",
 				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
-				"WarningText" : "\nAVOID SMOKE (HAZARD REDUCTION BURN) - Advancetown (near Lower Beechmont) - fire as at 11:16am Wednesday, 18 June 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Advancetown and surrounding areas\n\n\n \n\nSmoke is currently affecting Advancetown and surrounding areas. This is from an Seqwater hazard reduction burn near Hinze Dam Park, Gilston Road. This fire is under control.\n\n\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"WarningText" : "\nAVOID SMOKE (HAZARD REDUCTION BURN) - Advancetown (near Lower Beechmont) - fire as at 11:51am Thursday, 19 June 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Advancetown and surrounding areas\n\n\n \n\nSmoke is currently affecting Advancetown and surrounding areas. This is from an Seqwater hazard reduction burn near Hinze Dam Park, Gilston Road. This fire is under control.\n\n\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
 				"Header" : "Smoke is currently affecting Advancetown and surrounding areas. This is from an Seqwater hazard reduction burn near Hinze Dam Park, Gilston Road. This fire is under control.",
 				"Impacts" : "- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk",
 				"LeaveSafely" : null,
@@ -237,13 +115,13 @@
 				"WarningLevelSort" : 8,
 				"ShouldDo" : "- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.",
 				"WarningArea" : "Advancetown and surrounding areas",
-				"Latitude" : -28.04258631962,
-				"Longitude" : 153.28059984451,
+				"Latitude" : -28.038457645826,
+				"Longitude" : 153.28591732388,
 				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20250618010400",
-				"ItemDateTimeLocal_ISO" : "2025-06-18T11:04:00+10:00",
-				"PublishDateLocal_ISO" : "2025-06-18T23:52:53+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-06-19T11:04:00+10:00"
+				"ItemDateTimeUTM" : "20250619014200",
+				"ItemDateTimeLocal_ISO" : "2025-06-19T11:42:00+10:00",
+				"PublishDateLocal_ISO" : "2025-06-19T23:52:47+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-06-20T11:42:00+10:00"
 			}
 		},
 		{
@@ -252,35 +130,36 @@
 				"type" : "Polygon",
 				"coordinates" : [
 					[
-						[ 152.8500366211, -25.6446214532, 0 ],
-						[ 152.9187011719, -25.6566914989, 0 ],
-						[ 152.8771591187, -25.5604066965, 0 ],
-						[ 152.7992248535, -25.5783692291, 0 ],
-						[ 152.8500366211, -25.6446214532, 0 ]
+						[ 153.0200072529, -26.3110349209, 0 ],
+						[ 153.0248996022, -26.364725698, 0 ],
+						[ 153.0448123219, -26.3893320501, 0 ],
+						[ 153.0719348195, -26.367186569, 0 ],
+						[ 153.063523412, -26.3056490852, 0 ],
+						[ 153.0200072529, -26.3110349209, 0 ]
 					]
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 5769,
-				"UniqueID" : "IF39-4611321",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Maaroom (near Maryborough) - fire as at 11:42am Wednesday, 18 June 2025",
+				"OBJECTID" : 5775,
+				"UniqueID" : "IF39-4612821",
+				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Cooloola (near Noosa) - fire as at 11:51am Thursday, 19 June 2025",
 				"WarningLevel" : "Advice",
 				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
-				"WarningText" : "\nAVOID SMOKE (HAZARD REDUCTION BURN) - Maaroom (near Maryborough) - fire as at 11:42am Wednesday, 18 June 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Maaroom and surrounding areas\n\n\n \n\nSmoke is currently affecting Maaroom and surrounding areas. This is from a Queensland Parks and Wildlife Service hazard reduction burn in the Poona National Park. This fire is under control.\n\n\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
-				"Header" : "Smoke is currently affecting Maaroom and surrounding areas. This is from a Queensland Parks and Wildlife Service hazard reduction burn in the Poona National Park. This fire is under control.",
-				"Impacts" : "- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.",
+				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Cooloola (near Noosa) - fire as at 11:51am Thursday, 19 June 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Cooloola, Noosa North Shore and surrounding areas\n\n\n \n\nSmoke is currently affecting Cooloola, Noosa North Shore and surrounding areas. This is from a hazard reduction burn at Cooloola Recreation Area of the Great Sandy National Park. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"Header" : "Smoke is currently affecting Cooloola, Noosa North Shore and surrounding areas. This is from a hazard reduction burn at Cooloola Recreation Area of the Great Sandy National Park. This fire is under control.",
+				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
 				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.",
+				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire Department.",
 				"WarningLevelSort" : 8,
-				"ShouldDo" : "- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "Maaroom and surrounding areas",
-				"Latitude" : -25.613667040885,
-				"Longitude" : 152.84797668457,
+				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "Cooloola, Noosa North Shore and surrounding areas",
+				"Latitude" : -26.338114185263,
+				"Longitude" : 153.0417224171,
 				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20250618014000",
-				"ItemDateTimeLocal_ISO" : "2025-06-18T11:40:00+10:00",
-				"PublishDateLocal_ISO" : "2025-06-18T23:52:53+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-06-19T11:40:00+10:00"
+				"ItemDateTimeUTM" : "20250619014600",
+				"ItemDateTimeLocal_ISO" : "2025-06-19T11:46:00+10:00",
+				"PublishDateLocal_ISO" : "2025-06-19T23:52:47+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-06-20T11:46:00+10:00"
 			}
 		},
 		{
@@ -289,35 +168,148 @@
 				"type" : "Polygon",
 				"coordinates" : [
 					[
-						[ 153.3781008538, -27.7595742188, 0 ],
-						[ 153.3966402825, -27.9368542742, 0 ],
-						[ 153.437839013, -27.9326078024, 0 ],
-						[ 153.4584383782, -27.7273656308, 0 ],
-						[ 153.3781008538, -27.7595742188, 0 ]
+						[ 152.8804871221, -27.3653456731, 0 ],
+						[ 152.8586861272, -27.4225001655, 0 ],
+						[ 152.9340454717, -27.4512948265, 0 ],
+						[ 152.9635712285, -27.452056488, 0 ],
+						[ 152.9658028264, -27.3808946199, 0 ],
+						[ 152.8804871221, -27.3653456731, 0 ]
 					]
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 5770,
-				"UniqueID" : "IF39-4611621",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - South Stradbroke Island (Minjerribah) - fire as at 12:05pm Wednesday, 18 June 2025",
+				"OBJECTID" : 5779,
+				"UniqueID" : "IF39-4613521",
+				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Samford and The Gap - fire as at 11:56am Thursday, 19 June 2025",
 				"WarningLevel" : "Advice",
 				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
-				"WarningText" : "\nAVOID SMOKE (HAZARD REDUCTION BURN) - South Stradbroke Island (Minjerribah) - fire as at 12:05pm Wednesday, 18 June 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: South Stradbroke Island and surrounding areas\n\n\n \n\nSmoke is currently affecting South Stradbroke Island and surrounding areas. This is from multiple Queensland Parks and Wildlife Service hazard reduction burns on South Stradbroke Island (Minjerribah). These fires are under control.\n\n\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
-				"Header" : "Smoke is currently affecting South Stradbroke Island and surrounding areas. This is from multiple Queensland Parks and Wildlife Service hazard reduction burns on South Stradbroke Island (Minjerribah). These fires are under control.",
+				"WarningText" : "\nAVOID SMOKE (HAZARD REDUCTION BURN) - Samford and The Gap - fire as at 11:56am Thursday, 19 June 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Samford, Camp Mountain, Upper Kedron and The Gap\n\n\n \n\nSmoke is currently affecting Samford, Camp Mountain, Upper Kedron and The Gap. This is from a Queensland Parks and Wildlife hazard reduction burn at Mount Nebo Road, Enoggera Reservoir in the D'Aguilar National Park. This fire is under control.\n\n\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"Header" : "Smoke is currently affecting Samford, Camp Mountain, Upper Kedron and The Gap. This is from a Queensland Parks and Wildlife hazard reduction burn at Mount Nebo Road, Enoggera Reservoir in the D'Aguilar National Park. This fire is under control.",
+				"Impacts" : "- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.",
+				"WarningLevelSort" : 8,
+				"ShouldDo" : "- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "Samford, Camp Mountain, Upper Kedron and The Gap",
+				"Latitude" : -27.401013542592,
+				"Longitude" : 152.91808096364,
+				"GroupedType" : "FIRE VEGETATION",
+				"ItemDateTimeUTM" : "20250619015600",
+				"ItemDateTimeLocal_ISO" : "2025-06-19T11:56:00+10:00",
+				"PublishDateLocal_ISO" : "2025-06-19T23:52:47+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-06-20T11:56:00+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 153.2188304851, -27.9017174693, 0 ],
+						[ 153.2477983424, -27.8970903368, 0 ],
+						[ 153.2326492259, -27.8751656601, 0 ],
+						[ 153.2117923686, -27.8849147237, 0 ],
+						[ 153.2188304851, -27.9017174693, 0 ]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 5780,
+				"UniqueID" : "IF39-4613821",
+				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Wongawallan - fire as at 12:30pm Thursday, 19 June 2025",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
+				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Wongawallan - fire as at 12:30pm Thursday, 19 June 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Wongawallan and surrounding areas\n\n\n \n\nSmoke is currently affecting Wongawallan and surrounding areas. This is from a hazard reduction burn at Timberview Reserve. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"Header" : "Smoke is currently affecting Wongawallan and surrounding areas. This is from a hazard reduction burn at Timberview Reserve. This fire is under control.",
+				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire Department.",
+				"WarningLevelSort" : 8,
+				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "Wongawallan and surrounding areas",
+				"Latitude" : -27.885445775846,
+				"Longitude" : 153.22831477614,
+				"GroupedType" : "FIRE VEGETATION",
+				"ItemDateTimeUTM" : "20250619023000",
+				"ItemDateTimeLocal_ISO" : "2025-06-19T12:30:00+10:00",
+				"PublishDateLocal_ISO" : "2025-06-19T23:52:47+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-06-20T12:30:00+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 153.2244890159, -27.8162984029, 0 ],
+						[ 153.2250898307, -27.8323148231, 0 ],
+						[ 153.2315271323, -27.8422574778, 0 ],
+						[ 153.2450883811, -27.8351990458, 0 ],
+						[ 153.2429426139, -27.8066570489, 0 ],
+						[ 153.2244890159, -27.8162984029, 0 ]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 5781,
+				"UniqueID" : "IF39-4614021",
+				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Kingsholme (near Gold Coast) - fire as at  2:00pm Thursday, 19 June 2025",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
+				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Kingsholme (near Gold Coast) - fire as at  2:00pm Thursday, 19 June 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Kingsholme, Willow Vale and surrounding areas\n\n\n \n\nSmoke is currently affecting Kingsholme, Willow Vale and surrounding areas. This is from a hazard reduction burn at Wongawallan Conservation Area. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"Header" : "Smoke is currently affecting Kingsholme, Willow Vale and surrounding areas. This is from a hazard reduction burn at Wongawallan Conservation Area. This fire is under control.",
+				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire Department.",
+				"WarningLevelSort" : 8,
+				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "Kingsholme, Willow Vale and surrounding areas",
+				"Latitude" : -27.827077486003,
+				"Longitude" : 153.23410205297,
+				"GroupedType" : "FIRE VEGETATION",
+				"ItemDateTimeUTM" : "20250619035400",
+				"ItemDateTimeLocal_ISO" : "2025-06-19T13:54:00+10:00",
+				"PublishDateLocal_ISO" : "2025-06-19T23:52:47+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-06-20T13:54:00+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 152.6683109438, -25.7238105404, 0 ],
+						[ 152.8495853579, -25.6458418341, 0 ],
+						[ 152.8255527651, -25.4277547417, 0 ],
+						[ 152.5138157046, -25.4773547958, 0 ],
+						[ 152.6683109438, -25.7238105404, 0 ]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 5783,
+				"UniqueID" : "IF39-4614421",
+				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Maryborough - fire as at  3:38pm Thursday, 19 June 2025",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
+				"WarningText" : "\nAVOID SMOKE (HAZARD REDUCTION BURN) - Maryborough - fire as at  3:38pm Thursday, 19 June 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Maryborough, Oakhurst, Tinana and surrounding areas\n\n\n \n\nSmoke is currently affecting Maryborough, Oakhurst, Tinana and surrounding areas. This is from a HQPlantations hazard reduction burn in the Tuan State Forest. This fire is under control.\n\n\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"Header" : "Smoke is currently affecting Maryborough, Oakhurst, Tinana and surrounding areas. This is from a HQPlantations hazard reduction burn in the Tuan State Forest. This fire is under control.",
 				"Impacts" : "- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.",
 				"LeaveSafely" : null,
 				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.",
 				"WarningLevelSort" : 8,
 				"ShouldDo" : "- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "South Stradbroke Island and surrounding areas",
-				"Latitude" : -27.839750406718,
-				"Longitude" : 153.41998622977,
+				"WarningArea" : "Maryborough, Oakhurst, Tinana and surrounding areas",
+				"Latitude" : -25.57835159036,
+				"Longitude" : 152.70264321923,
 				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20250618020100",
-				"ItemDateTimeLocal_ISO" : "2025-06-18T12:01:00+10:00",
-				"PublishDateLocal_ISO" : "2025-06-18T23:52:53+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-06-19T12:01:00+10:00"
+				"ItemDateTimeUTM" : "20250619053500",
+				"ItemDateTimeLocal_ISO" : "2025-06-19T15:35:00+10:00",
+				"PublishDateLocal_ISO" : "2025-06-19T23:52:47+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-06-20T15:35:00+10:00"
 			}
 		},
 		{
@@ -348,7 +340,7 @@
 				"Locality" : "COEN",
 				"ItemDateTimeUTM" : "20250522160211",
 				"ItemDateTimeLocal_ISO" : "2025-05-23T02:02:11+10:00",
-				"PublishDateLocal_ISO" : "2025-06-18T23:52:53+10:00",
+				"PublishDateLocal_ISO" : "2025-06-19T23:52:47+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-05-24T02:02:11+10:00"
 			}
 		},
@@ -380,7 +372,7 @@
 				"Locality" : "DIXIE",
 				"ItemDateTimeUTM" : "20250529191241",
 				"ItemDateTimeLocal_ISO" : "2025-05-30T05:12:41+10:00",
-				"PublishDateLocal_ISO" : "2025-06-18T23:52:53+10:00",
+				"PublishDateLocal_ISO" : "2025-06-19T23:52:47+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-05-31T05:12:41+10:00"
 			}
 		},
@@ -400,7 +392,7 @@
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : 100,
 				"WarningArea" : "ESMERALDA",
-				"CurrentStatus" : "Patrolled",
+				"CurrentStatus" : "Going",
 				"Location" : "Richmond Rd",
 				"Jurisdiction" : "7 Far Northern Region",
 				"Latitude" : -18.602351,
@@ -412,7 +404,7 @@
 				"Locality" : "ESMERALDA",
 				"ItemDateTimeUTM" : "20250609120253",
 				"ItemDateTimeLocal_ISO" : "2025-06-09T22:02:53+10:00",
-				"PublishDateLocal_ISO" : "2025-06-18T23:52:53+10:00",
+				"PublishDateLocal_ISO" : "2025-06-19T23:52:47+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-06-10T22:02:53+10:00"
 			}
 		},
@@ -444,40 +436,8 @@
 				"Locality" : "KGARI",
 				"ItemDateTimeUTM" : "20250613122922.64",
 				"ItemDateTimeLocal_ISO" : "2025-06-13T22:29:22+10:00",
-				"PublishDateLocal_ISO" : "2025-06-18T23:52:53+10:00",
+				"PublishDateLocal_ISO" : "2025-06-19T23:52:47+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-06-14T22:29:22.64+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 153.278614, -27.949117 ]
-			},
-			"properties" : {
-				"OBJECTID" : 54790,
-				"UniqueID" : "QF6-25-071746",
-				"WarningTitle" : "Information - MAUDSLAND",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "MAUDSLAND",
-				"CurrentStatus" : "Going",
-				"Location" : "Burley Griffin Dr",
-				"Jurisdiction" : "6 South Eastern Region",
-				"Latitude" : -27.949117,
-				"Longitude" : 153.278614,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 1,
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "MAUDSLAND",
-				"ItemDateTimeUTM" : "20250612185320",
-				"ItemDateTimeLocal_ISO" : "2025-06-13T04:53:20+10:00",
-				"PublishDateLocal_ISO" : "2025-06-18T23:52:53+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-06-14T04:53:20+10:00"
 			}
 		},
 		{
@@ -508,7 +468,7 @@
 				"Locality" : "CURTIS ISLAND",
 				"ItemDateTimeUTM" : "20250615144105",
 				"ItemDateTimeLocal_ISO" : "2025-06-16T00:41:05+10:00",
-				"PublishDateLocal_ISO" : "2025-06-18T23:52:53+10:00",
+				"PublishDateLocal_ISO" : "2025-06-19T23:52:47+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-06-17T00:41:05+10:00"
 			}
 		},
@@ -540,7 +500,7 @@
 				"Locality" : "PELHAM",
 				"ItemDateTimeUTM" : "20250616122437",
 				"ItemDateTimeLocal_ISO" : "2025-06-16T22:24:37+10:00",
-				"PublishDateLocal_ISO" : "2025-06-18T23:52:53+10:00",
+				"PublishDateLocal_ISO" : "2025-06-19T23:52:47+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-06-17T22:24:37+10:00"
 			}
 		},
@@ -572,7 +532,7 @@
 				"Locality" : "OLD MAITLAND STN",
 				"ItemDateTimeUTM" : "20250617174518",
 				"ItemDateTimeLocal_ISO" : "2025-06-18T03:45:18+10:00",
-				"PublishDateLocal_ISO" : "2025-06-18T23:52:53+10:00",
+				"PublishDateLocal_ISO" : "2025-06-19T23:52:47+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-06-19T03:45:18+10:00"
 			}
 		},
@@ -580,43 +540,43 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 144.208821, -14.909285 ]
+				"coordinates" : [ 152.974413, -25.637192 ]
 			},
 			"properties" : {
-				"OBJECTID" : 55419,
-				"UniqueID" : "QF7-25-074290",
-				"WarningTitle" : "Information - LAKEFIELD",
+				"OBJECTID" : 55582,
+				"UniqueID" : "QF4-25-074548",
+				"WarningTitle" : "Information - KGARI",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : 100,
-				"WarningArea" : "LAKEFIELD",
-				"CurrentStatus" : "Going",
-				"Location" : "Kalpowar Discovery Walk",
-				"Jurisdiction" : "7 Far Northern Region",
-				"Latitude" : -14.909285,
-				"Longitude" : 144.208821,
+				"WarningArea" : "KGARI",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Southern Rd",
+				"Jurisdiction" : "4 North Coast Region",
+				"Latitude" : -25.637192,
+				"Longitude" : 152.974413,
 				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 1,
+				"VehiclesOnScene" : 0,
 				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "LAKEFIELD",
-				"ItemDateTimeUTM" : "20250617183310",
-				"ItemDateTimeLocal_ISO" : "2025-06-18T04:33:10+10:00",
-				"PublishDateLocal_ISO" : "2025-06-18T23:52:53+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-06-19T04:33:10+10:00"
+				"Locality" : "KGARI",
+				"ItemDateTimeUTM" : "20250618115544.017",
+				"ItemDateTimeLocal_ISO" : "2025-06-18T21:55:44+10:00",
+				"PublishDateLocal_ISO" : "2025-06-19T23:52:47+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-06-19T21:55:44.017+10:00"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 145.207551, -15.467821 ]
+				"coordinates" : [ 145.173756, -15.439697 ]
 			},
 			"properties" : {
-				"OBJECTID" : 55462,
-				"UniqueID" : "QF7-25-074139",
+				"OBJECTID" : 55599,
+				"UniqueID" : "QF7-25-074587",
 				"WarningTitle" : "Information - COOKTOWN",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
@@ -625,51 +585,83 @@
 				"WarningLevelSort" : 100,
 				"WarningArea" : "COOKTOWN",
 				"CurrentStatus" : "Going",
-				"Location" : "Starke St",
+				"Location" : "Endeavour Valley Rd & Barretts Creek Rd",
 				"Jurisdiction" : "7 Far Northern Region",
-				"Latitude" : -15.467821,
-				"Longitude" : 145.207551,
+				"Latitude" : -15.439697,
+				"Longitude" : 145.173756,
 				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
 				"VehiclesOnScene" : 0,
 				"GroupedType" : "FIRE PERMITTED BURN",
 				"Locality" : "COOKTOWN",
-				"ItemDateTimeUTM" : "20250617125600",
-				"ItemDateTimeLocal_ISO" : "2025-06-17T22:56:00+10:00",
-				"PublishDateLocal_ISO" : "2025-06-18T23:52:53+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-06-18T22:56:00+10:00"
+				"ItemDateTimeUTM" : "20250618132602",
+				"ItemDateTimeLocal_ISO" : "2025-06-18T23:26:02+10:00",
+				"PublishDateLocal_ISO" : "2025-06-19T23:52:47+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-06-19T23:26:02+10:00"
 			}
 		},
 		{
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 152.988348, -25.968595 ]
+				"coordinates" : [ 152.595462, -25.947047 ]
 			},
 			"properties" : {
-				"OBJECTID" : 55521,
-				"UniqueID" : "QF4-25-074439",
-				"WarningTitle" : "Information - COOLOOLA COVE",
+				"OBJECTID" : 55739,
+				"UniqueID" : "QF4-25-074836",
+				"WarningTitle" : "Information - KANIGAN",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : 100,
-				"WarningArea" : "COOLOOLA COVE",
-				"CurrentStatus" : "Going",
-				"Location" : "Creekside Esp",
+				"WarningArea" : "KANIGAN",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Doels Rd",
 				"Jurisdiction" : "4 North Coast Region",
-				"Latitude" : -25.968595,
-				"Longitude" : 152.988348,
-				"VehiclesAssigned" : 2,
+				"Latitude" : -25.947047,
+				"Longitude" : 152.595462,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "KANIGAN",
+				"ItemDateTimeUTM" : "20250618231057.873",
+				"ItemDateTimeLocal_ISO" : "2025-06-19T09:10:57+10:00",
+				"PublishDateLocal_ISO" : "2025-06-19T23:52:47+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-06-20T09:10:57.873+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 148.73699, -24.970638 ]
+			},
+			"properties" : {
+				"OBJECTID" : 55753,
+				"UniqueID" : "QF2-25-074727",
+				"WarningTitle" : "Information - ARCADIA VALLEY",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "ARCADIA VALLEY",
+				"CurrentStatus" : "Going",
+				"Location" : "ARCADIA VALLEY NORTH RD & LAKE NUGA NUGA ACCS",
+				"Jurisdiction" : "2 Central Region",
+				"Latitude" : -24.970638,
+				"Longitude" : 148.73699,
+				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
 				"VehiclesOnScene" : 0,
 				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "COOLOOLA COVE",
-				"ItemDateTimeUTM" : "20250618033817",
-				"ItemDateTimeLocal_ISO" : "2025-06-18T13:38:17+10:00",
-				"PublishDateLocal_ISO" : "2025-06-18T23:52:53+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-06-19T13:38:17+10:00"
+				"Locality" : "ARCADIA VALLEY",
+				"ItemDateTimeUTM" : "20250618185657",
+				"ItemDateTimeLocal_ISO" : "2025-06-19T04:56:57+10:00",
+				"PublishDateLocal_ISO" : "2025-06-19T23:52:47+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-06-20T04:56:57+10:00"
 			}
 		}
 	]
