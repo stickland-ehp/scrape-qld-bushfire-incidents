@@ -1,18 +1,112 @@
 {
 	"type" : "FeatureCollection",
 	"name" : "QFDWarnings",
-	"crs" : {
-		"type" : "name",
-		"properties" : {
-			"name" : "EPSG:3857"
-		}
-	},
 	"features" : [
 		{
 			"type" : "Feature",
 			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 146.7833306528, -19.2353231371, 0 ],
+						[ 146.7807557321, -19.2854246268, 0 ],
+						[ 146.8537690448, -19.2861267607, 0 ],
+						[ 146.8553139972, -19.2345937865, 0 ],
+						[ 146.7833306528, -19.2353231371, 0 ]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1870,
+				"UniqueID" : "IF39-4634221",
+				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Castle Hill (near Townsville) - fire as at 10:35am Tuesday,  1 July 2025",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
+				"WarningText" : "\nAVOID SMOKE (HAZARD REDUCTION BURN) - Castle Hill (near Townsville) - fire as at 10:35am Tuesday,  1 July 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Castle Hill, Townsville City, North Ward and surrounding areas\n\n\n \n\nSmoke is currently affecting Castle Hill, Townsville City, North Ward and surrounding areas. This is from a Townsville City Council hazard reduction burn near Castle Hill Road, Castle Hill. This fire is under control.\n\n\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"Header" : "Smoke is currently affecting Castle Hill, Townsville City, North Ward and surrounding areas. This is from a Townsville City Council hazard reduction burn near Castle Hill Road, Castle Hill. This fire is under control.",
+				"Impacts" : "- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.",
+				"WarningLevelSort" : 8,
+				"ShouldDo" : "- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "Castle Hill, Townsville City, North Ward and surrounding areas",
+				"Master_Incident_Number" : "QF1-25-080046",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Castle Hill Rd",
+				"Jurisdiction" : "1 Northern Region",
+				"Latitude" : -19.257499331606,
+				"Longitude" : 146.80627604986,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "CASTLE HILL",
+				"ItemDateTimeUTM" : "20250701003000",
+				"ItemDateTimeLocal_ISO" : "2025-07-01T10:30:00+10:00",
+				"PublishDateLocal_ISO" : "2025-07-01T23:50:00+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-07-02T10:30:00+10:00",
+				"MultipleWarnings" : null,
+				"MessageSent" : null,
+				"SendEmailSubscription" : "Yes",
+				"WarningType_Level" : "Advice Fire",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 145.7100317653, -17.0111726505, 0 ],
+						[ 145.7615301784, -17.1280114777, 0 ],
+						[ 145.8432409939, -17.1214494399, 0 ],
+						[ 145.8047888454, -17.0092028306, 0 ],
+						[ 145.7100317653, -17.0111726505, 0 ]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 1871,
+				"UniqueID" : "IF39-4634521",
+				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Edmonton to Gordonvale (near Cairns) - fire as at 11:58am Tuesday,  1 July 2025",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
+				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Edmonton to Gordonvale (near Cairns) - fire as at 11:58am Tuesday,  1 July 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Edmonton, Mount Peter, Gordonvale and surrounding areas\n\n\n \n\nSmoke is currently affecting Edmonton, Mount Peter, Gordonvale and surrounding areas. This is from a hazard reduction burn in the Mount Peter Conservation Park. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"Header" : "Smoke is currently affecting Edmonton, Mount Peter, Gordonvale and surrounding areas. This is from a hazard reduction burn in the Mount Peter Conservation Park. This fire is under control.",
+				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire Department.",
+				"WarningLevelSort" : 8,
+				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "Edmonton, Mount Peter, Gordonvale and surrounding areas",
+				"Master_Incident_Number" : "QF7-25-079920",
+				"CurrentStatus" : "Going",
+				"Location" : "Mount Peter Rd",
+				"Jurisdiction" : "7 Far Northern Region",
+				"Latitude" : -17.073047266834,
+				"Longitude" : 145.77619113289,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "MOUNT PETER",
+				"ItemDateTimeUTM" : "20250701015800",
+				"ItemDateTimeLocal_ISO" : "2025-07-01T11:58:00+10:00",
+				"PublishDateLocal_ISO" : "2025-07-01T23:50:00+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-07-02T11:58:00+10:00",
+				"MultipleWarnings" : null,
+				"MessageSent" : null,
+				"SendEmailSubscription" : "Yes",
+				"WarningType_Level" : "Advice Fire",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 15888071.2065242305, -1528996.8752604092 ]
+				"coordinates" : [ 142.724972, -13.605516 ]
 			},
 			"properties" : {
 				"OBJECTID" : 48190,
@@ -36,7 +130,7 @@
 				"Locality" : "COEN",
 				"ItemDateTimeUTM" : "20250522160211",
 				"ItemDateTimeLocal_ISO" : "2025-05-23T02:02:11+10:00",
-				"PublishDateLocal_ISO" : "2025-06-30T23:50:02+10:00",
+				"PublishDateLocal_ISO" : "2025-07-01T23:50:00+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-05-24T02:02:11+10:00"
 			}
 		},
@@ -44,7 +138,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16470196.7800777815, -2904398.0563902394 ]
+				"coordinates" : [ 147.954295, -25.23306 ]
 			},
 			"properties" : {
 				"OBJECTID" : 57046,
@@ -68,7 +162,7 @@
 				"Locality" : "MOUNT MOFFATT",
 				"ItemDateTimeUTM" : "20250623195925",
 				"ItemDateTimeLocal_ISO" : "2025-06-24T05:59:25+10:00",
-				"PublishDateLocal_ISO" : "2025-06-30T23:50:02+10:00",
+				"PublishDateLocal_ISO" : "2025-07-01T23:50:00+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-06-25T05:59:25+10:00"
 			}
 		},
@@ -76,7 +170,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 15932037.2846909929, -1545828.9192184703 ]
+				"coordinates" : [ 143.119926, -13.752432 ]
 			},
 			"properties" : {
 				"OBJECTID" : 57192,
@@ -100,7 +194,7 @@
 				"Locality" : "COEN",
 				"ItemDateTimeUTM" : "20250624114131",
 				"ItemDateTimeLocal_ISO" : "2025-06-24T21:41:31+10:00",
-				"PublishDateLocal_ISO" : "2025-06-30T23:50:02+10:00",
+				"PublishDateLocal_ISO" : "2025-07-01T23:50:00+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-06-25T21:41:31+10:00"
 			}
 		},
@@ -108,7 +202,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16191619.1977701597, -1893080.3917271376 ]
+				"coordinates" : [ 145.45179, -16.761505 ]
 			},
 			"properties" : {
 				"OBJECTID" : 57200,
@@ -132,7 +226,7 @@
 				"Locality" : "MOUNT MOLLOY",
 				"ItemDateTimeUTM" : "20250624120506",
 				"ItemDateTimeLocal_ISO" : "2025-06-24T22:05:06+10:00",
-				"PublishDateLocal_ISO" : "2025-06-30T23:50:02+10:00",
+				"PublishDateLocal_ISO" : "2025-07-01T23:50:00+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-06-25T22:05:06+10:00"
 			}
 		},
@@ -140,7 +234,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16016616.8319203071, -1634954.7021960863 ]
+				"coordinates" : [ 143.879717, -14.528796 ]
 			},
 			"properties" : {
 				"OBJECTID" : 57516,
@@ -164,7 +258,7 @@
 				"Locality" : "LAKEFIELD",
 				"ItemDateTimeUTM" : "20250625132007",
 				"ItemDateTimeLocal_ISO" : "2025-06-25T23:20:07+10:00",
-				"PublishDateLocal_ISO" : "2025-06-30T23:50:02+10:00",
+				"PublishDateLocal_ISO" : "2025-07-01T23:50:00+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-06-26T23:20:07+10:00"
 			}
 		},
@@ -172,7 +266,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16808455.7470259294, -3230246.578444575 ]
+				"coordinates" : [ 150.992927, -27.85136 ]
 			},
 			"properties" : {
 				"OBJECTID" : 57827,
@@ -196,7 +290,7 @@
 				"Locality" : "WESTERN CREEK",
 				"ItemDateTimeUTM" : "20250626135434",
 				"ItemDateTimeLocal_ISO" : "2025-06-26T23:54:34+10:00",
-				"PublishDateLocal_ISO" : "2025-06-30T23:50:02+10:00",
+				"PublishDateLocal_ISO" : "2025-07-01T23:50:00+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-06-27T23:54:34+10:00"
 			}
 		},
@@ -204,7 +298,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16780933.1161222011, -3223352.563101796 ]
+				"coordinates" : [ 150.745687, -27.79659 ]
 			},
 			"properties" : {
 				"OBJECTID" : 57831,
@@ -228,7 +322,7 @@
 				"Locality" : "CATTLE CREEK",
 				"ItemDateTimeUTM" : "20250626135724",
 				"ItemDateTimeLocal_ISO" : "2025-06-26T23:57:24+10:00",
-				"PublishDateLocal_ISO" : "2025-06-30T23:50:02+10:00",
+				"PublishDateLocal_ISO" : "2025-07-01T23:50:00+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-06-27T23:57:24+10:00"
 			}
 		},
@@ -236,39 +330,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16223456.9060955122, -1925669.227014886 ]
-			},
-			"properties" : {
-				"OBJECTID" : 58764,
-				"UniqueID" : "QF7-25-079920",
-				"WarningTitle" : "Information - MOUNT PETER",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "MOUNT PETER",
-				"CurrentStatus" : "Going",
-				"Location" : "Mount Peter Rd",
-				"Jurisdiction" : "7 Far Northern Region",
-				"Latitude" : -17.04161,
-				"Longitude" : 145.737793,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "MOUNT PETER",
-				"ItemDateTimeUTM" : "20250630005138",
-				"ItemDateTimeLocal_ISO" : "2025-06-30T10:51:38+10:00",
-				"PublishDateLocal_ISO" : "2025-06-30T23:50:02+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-07-01T10:51:38+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 16198409.4640695695, -1872363.0740044573 ]
+				"coordinates" : [ 145.512788, -16.583222 ]
 			},
 			"properties" : {
 				"OBJECTID" : 58767,
@@ -292,7 +354,7 @@
 				"Locality" : "OAK BEACH",
 				"ItemDateTimeUTM" : "20250630005547.06",
 				"ItemDateTimeLocal_ISO" : "2025-06-30T10:55:47+10:00",
-				"PublishDateLocal_ISO" : "2025-06-30T23:50:02+10:00",
+				"PublishDateLocal_ISO" : "2025-07-01T23:50:00+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-07-01T10:55:47.06+10:00"
 			}
 		},
@@ -300,7 +362,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16231866.7596664708, -1909607.9064842255 ]
+				"coordinates" : [ 145.81334, -16.903613 ]
 			},
 			"properties" : {
 				"OBJECTID" : 58769,
@@ -324,7 +386,7 @@
 				"Locality" : "EAST TRINITY",
 				"ItemDateTimeUTM" : "20250630005834",
 				"ItemDateTimeLocal_ISO" : "2025-06-30T10:58:34+10:00",
-				"PublishDateLocal_ISO" : "2025-06-30T23:50:02+10:00",
+				"PublishDateLocal_ISO" : "2025-07-01T23:50:00+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-07-01T10:58:34+10:00"
 			}
 		},
@@ -332,7 +394,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16207600.4465074241, -1885152.3707327067 ]
+				"coordinates" : [ 145.595352, -16.6933 ]
 			},
 			"properties" : {
 				"OBJECTID" : 58770,
@@ -356,8 +418,72 @@
 				"Locality" : "WANGETTI",
 				"ItemDateTimeUTM" : "20250630010333",
 				"ItemDateTimeLocal_ISO" : "2025-06-30T11:03:33+10:00",
-				"PublishDateLocal_ISO" : "2025-06-30T23:50:02+10:00",
+				"PublishDateLocal_ISO" : "2025-07-01T23:50:00+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-07-01T11:03:33+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.383738, -17.093901 ]
+			},
+			"properties" : {
+				"OBJECTID" : 58868,
+				"UniqueID" : "QF7-25-080041",
+				"WarningTitle" : "Information - CHILLAGOE",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "CHILLAGOE",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Burke Developmental Rd",
+				"Jurisdiction" : "7 Far Northern Region",
+				"Latitude" : -17.093901,
+				"Longitude" : 144.383738,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "CHILLAGOE",
+				"ItemDateTimeUTM" : "20250630132019",
+				"ItemDateTimeLocal_ISO" : "2025-06-30T23:20:19+10:00",
+				"PublishDateLocal_ISO" : "2025-07-01T23:50:00+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-07-01T23:20:19+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 146.621073, -19.224762 ]
+			},
+			"properties" : {
+				"OBJECTID" : 59049,
+				"UniqueID" : "QF1-25-080303",
+				"WarningTitle" : "Information - BLACK RIVER",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "BLACK RIVER",
+				"CurrentStatus" : "Going",
+				"Location" : "Bruce Hwy & Black River Rd",
+				"Jurisdiction" : "1 Northern Region",
+				"Latitude" : -19.224762,
+				"Longitude" : 146.621073,
+				"VehiclesAssigned" : 1,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "BLACK RIVER",
+				"ItemDateTimeUTM" : "20250701033345",
+				"ItemDateTimeLocal_ISO" : "2025-07-01T13:33:45+10:00",
+				"PublishDateLocal_ISO" : "2025-07-01T23:50:00+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-07-02T13:33:45+10:00"
 			}
 		}
 	]
