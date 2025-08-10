@@ -1,190 +1,18 @@
 {
 	"type" : "FeatureCollection",
 	"name" : "QFDWarnings",
+	"crs" : {
+		"type" : "name",
+		"properties" : {
+			"name" : "EPSG:3857"
+		}
+	},
 	"features" : [
 		{
 			"type" : "Feature",
 			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 145.6904019968, -17.1076621053, 0 ],
-						[ 145.6835355418, -17.2290312672, 0 ],
-						[ 145.9197415965, -17.1978764974, 0 ],
-						[ 145.8174314158, -17.0627025993, 0 ],
-						[ 145.6904019968, -17.1076621053, 0 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : 2153,
-				"UniqueID" : "IF39-4697521",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Gordonvale (near Cairns) - fire as at 12:59pm Wednesday,  6 August 2025",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
-				"WarningText" : "\nAVOID SMOKE (HAZARD REDUCTION BURN) - Gordonvale (near Cairns) - fire as at 12:59pm Wednesday,  6 August 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Gordonvale, Goldsborough and surrounding areas\n\n\n \n\nSmoke is currently affecting Gordonvale, Goldsborough and surrounding areas. This is from multiple hazard reduction burns in the area. These fires are under control.\n\n\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
-				"Header" : "Smoke is currently affecting Gordonvale, Goldsborough and surrounding areas. This is from multiple hazard reduction burns in the area. These fires are under control.",
-				"Impacts" : "- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.",
-				"WarningLevelSort" : 8,
-				"ShouldDo" : "- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "Gordonvale, Goldsborough and surrounding areas",
-				"Latitude" : -17.157531479999,
-				"Longitude" : 145.77245613503,
-				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20250806025800",
-				"ItemDateTimeLocal_ISO" : "2025-08-06T12:58:00+10:00",
-				"PublishDateLocal_ISO" : "2025-08-09T23:50:01+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-08-07T12:58:00+10:00",
-				"MultipleWarnings" : null,
-				"MessageSent" : null,
-				"SendEmailSubscription" : "Yes",
-				"WarningType_Level" : "Advice Fire",
-				"EventType" : "Fire"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 145.0233960944, -15.0596903921, 0 ],
-						[ 145.0385022955, -15.5524322922, 0 ],
-						[ 145.3227735358, -15.5444940873, 0 ],
-						[ 145.3811384039, -15.2644779259, 0 ],
-						[ 145.2719617682, -15.074277281, 0 ],
-						[ 145.0233960944, -15.0596903921, 0 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : 2171,
-				"UniqueID" : "IF39-4701621",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Cooktown to Hope Vale - fire as at 12:49pm Thursday,  7 August 2025",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
-				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Cooktown to Hope Vale - fire as at 12:49pm Thursday,  7 August 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Cooktown, Hope Vale and surrounding areas\n\n\n \n\nSmoke is currently affecting Cooktown, Hope Vale and surrounding areas. This is from a hazard reduction burn in the Hann State Forest. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
-				"Header" : "Smoke is currently affecting Cooktown, Hope Vale and surrounding areas. This is from a hazard reduction burn in the Hann State Forest. This fire is under control.",
-				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire Department.",
-				"WarningLevelSort" : 8,
-				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "Cooktown, Hope Vale and surrounding areas",
-				"Latitude" : -15.336669405662,
-				"Longitude" : 145.18338449767,
-				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20250807024800",
-				"ItemDateTimeLocal_ISO" : "2025-08-07T12:48:00+10:00",
-				"PublishDateLocal_ISO" : "2025-08-09T23:50:01+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-08-08T12:48:00+10:00",
-				"MultipleWarnings" : null,
-				"MessageSent" : null,
-				"SendEmailSubscription" : "Yes",
-				"WarningType_Level" : "Advice Fire",
-				"EventType" : "Fire"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 152.6765009785, -25.5220041285, 0 ],
-						[ 152.6692912006, -25.4107267986, 0 ],
-						[ 152.5889536762, -25.42313048, 0 ],
-						[ 152.6061198139, -25.5238630418, 0 ],
-						[ 152.6765009785, -25.5220041285, 0 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : 2174,
-				"UniqueID" : "IF39-4702621",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Duckinwilla, Aldershot and Oakhurst (near Maryborough) - fire as at  9:33am Friday,  8 August 2025",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
-				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Duckinwilla, Aldershot and Oakhurst (near Maryborough) - fire as at  9:33am Friday,  8 August 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Duckinwilla, Aldershot, Oakhurst and surrounding areas\n\n\n \n\nSmoke is currently affecting Duckinwilla, Aldershot, Oakhurst and surrounding areas. This is from a hazard reduction burn near Stein Road, Aldershot. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
-				"Header" : "Smoke is currently affecting Duckinwilla, Aldershot, Oakhurst and surrounding areas. This is from a hazard reduction burn near Stein Road, Aldershot. This fire is under control.",
-				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire Department.",
-				"WarningLevelSort" : 8,
-				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "Duckinwilla, Aldershot, Oakhurst and surrounding areas",
-				"Latitude" : -25.477691510591,
-				"Longitude" : 152.63461560247,
-				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20250807233300",
-				"ItemDateTimeLocal_ISO" : "2025-08-08T09:33:00+10:00",
-				"PublishDateLocal_ISO" : "2025-08-09T23:50:01+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-08-09T09:33:00+10:00",
-				"MultipleWarnings" : null,
-				"MessageSent" : null,
-				"SendEmailSubscription" : "Yes",
-				"WarningType_Level" : "Advice Fire",
-				"EventType" : "Fire"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 145.4808501351, -16.8276889083, 0 ],
-						[ 145.5543212044, -16.9232936094, 0 ],
-						[ 145.5868510354, -16.8966842456, 0 ],
-						[ 145.61547557, -16.8674457739, 0 ],
-						[ 145.5325202096, -16.8020546923, 0 ],
-						[ 145.4808501351, -16.8276889083, 0 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : 2182,
-				"UniqueID" : "IF39-4703721",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Koah and Speewah (near Kuranda) - fire as at  9:57am Saturday,  9 August 2025",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
-				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Koah and Speewah (near Kuranda) - fire as at  9:57am Saturday,  9 August 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Koah, Speewah and surrounding areas\n\n\n \n\nSmoke is currently affecting Koah, Speewah and surrounding areas. This is from a hazard reduction burn near Koah Road, Koah. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
-				"Header" : "Smoke is currently affecting Koah, Speewah and surrounding areas. This is from a hazard reduction burn near Koah Road, Koah. This fire is under control.",
-				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire Department.",
-				"WarningLevelSort" : 8,
-				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "Koah, Speewah and surrounding areas",
-				"Master_Incident_Number" : "QF7-25-098561",
-				"CurrentStatus" : "Going",
-				"Location" : "Clohesy River",
-				"Jurisdiction" : "7 Far Northern Region",
-				"Latitude" : -16.862191029166,
-				"Longitude" : 145.5479697335,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 1,
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "KOAH",
-				"ItemDateTimeUTM" : "20250808235500",
-				"ItemDateTimeLocal_ISO" : "2025-08-09T09:55:00+10:00",
-				"PublishDateLocal_ISO" : "2025-08-09T23:50:01+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-08-10T09:55:00+10:00",
-				"MultipleWarnings" : null,
-				"MessageSent" : null,
-				"SendEmailSubscription" : "Yes",
-				"WarningType_Level" : "Advice Fire",
-				"EventType" : "Fire"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 143.207061, -13.952808 ]
+				"coordinates" : [ 15941737.1085212678, -1568802.8886804066 ]
 			},
 			"properties" : {
 				"OBJECTID" : 65497,
@@ -208,7 +36,7 @@
 				"Locality" : "COEN",
 				"ItemDateTimeUTM" : "20250701140542",
 				"ItemDateTimeLocal_ISO" : "2025-07-02T00:05:42+10:00",
-				"PublishDateLocal_ISO" : "2025-08-09T23:50:01+10:00",
+				"PublishDateLocal_ISO" : "2025-08-10T23:49:59+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-07-03T00:05:42+10:00"
 			}
 		},
@@ -216,7 +44,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 145.256051, -15.471609 ]
+				"coordinates" : [ 16169829.6319617759, -1743612.0274096294 ]
 			},
 			"properties" : {
 				"OBJECTID" : 67907,
@@ -240,7 +68,7 @@
 				"Locality" : "COOKTOWN",
 				"ItemDateTimeUTM" : "20250802110950",
 				"ItemDateTimeLocal_ISO" : "2025-08-02T21:09:50+10:00",
-				"PublishDateLocal_ISO" : "2025-08-09T23:50:01+10:00",
+				"PublishDateLocal_ISO" : "2025-08-10T23:49:59+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-08-03T21:09:50+10:00"
 			}
 		},
@@ -248,7 +76,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 144.847987, -15.285107 ]
+				"coordinates" : [ 16124404.1552707106, -1722079.76019017 ]
 			},
 			"properties" : {
 				"OBJECTID" : 68450,
@@ -272,7 +100,7 @@
 				"Locality" : "COOKTOWN",
 				"ItemDateTimeUTM" : "20250804115357",
 				"ItemDateTimeLocal_ISO" : "2025-08-04T21:53:57+10:00",
-				"PublishDateLocal_ISO" : "2025-08-09T23:50:01+10:00",
+				"PublishDateLocal_ISO" : "2025-08-10T23:49:59+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-08-05T21:53:57+10:00"
 			}
 		},
@@ -280,7 +108,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 145.139777, -15.391923 ]
+				"coordinates" : [ 16156886.0694892798, -1734409.6580629211 ]
 			},
 			"properties" : {
 				"OBJECTID" : 68459,
@@ -304,7 +132,7 @@
 				"Locality" : "HOPE VALE",
 				"ItemDateTimeUTM" : "20250804122537",
 				"ItemDateTimeLocal_ISO" : "2025-08-04T22:25:37+10:00",
-				"PublishDateLocal_ISO" : "2025-08-09T23:50:01+10:00",
+				"PublishDateLocal_ISO" : "2025-08-10T23:49:59+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-08-05T22:25:37+10:00"
 			}
 		},
@@ -312,7 +140,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 145.447408, -17.655615 ]
+				"coordinates" : [ 16191131.3957615029, -1997277.9554890031 ]
 			},
 			"properties" : {
 				"OBJECTID" : 68501,
@@ -336,7 +164,7 @@
 				"Locality" : "MILLSTREAM",
 				"ItemDateTimeUTM" : "20250804142636",
 				"ItemDateTimeLocal_ISO" : "2025-08-05T00:26:36+10:00",
-				"PublishDateLocal_ISO" : "2025-08-09T23:50:01+10:00",
+				"PublishDateLocal_ISO" : "2025-08-10T23:49:59+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-08-06T00:26:36+10:00"
 			}
 		},
@@ -344,7 +172,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 146.250196, -19.507751 ]
+				"coordinates" : [ 16280497.3471364547, -2214807.5446932912 ]
 			},
 			"properties" : {
 				"OBJECTID" : 68508,
@@ -368,7 +196,7 @@
 				"Locality" : "DOTSWOOD",
 				"ItemDateTimeUTM" : "20250804144905",
 				"ItemDateTimeLocal_ISO" : "2025-08-05T00:49:05+10:00",
-				"PublishDateLocal_ISO" : "2025-08-09T23:50:01+10:00",
+				"PublishDateLocal_ISO" : "2025-08-10T23:49:59+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-08-06T00:49:05+10:00"
 			}
 		},
@@ -376,7 +204,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 146.063434, -18.348249 ]
+				"coordinates" : [ 16259707.0963969231, -2078351.0319454335 ]
 			},
 			"properties" : {
 				"OBJECTID" : 68537,
@@ -400,7 +228,7 @@
 				"Locality" : "DAMPER CREEK",
 				"ItemDateTimeUTM" : "20250804162318",
 				"ItemDateTimeLocal_ISO" : "2025-08-05T02:23:18+10:00",
-				"PublishDateLocal_ISO" : "2025-08-09T23:50:01+10:00",
+				"PublishDateLocal_ISO" : "2025-08-10T23:49:59+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-08-06T02:23:18+10:00"
 			}
 		},
@@ -408,39 +236,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 145.991707, -18.239313 ]
-			},
-			"properties" : {
-				"OBJECTID" : 68540,
-				"UniqueID" : "QF7-25-096677",
-				"WarningTitle" : "Information - ELLERBECK",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "ELLERBECK",
-				"CurrentStatus" : "Going",
-				"Location" : "Bruce Hwy",
-				"Jurisdiction" : "7 Far Northern Region",
-				"Latitude" : -18.239313,
-				"Longitude" : 145.991707,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "ELLERBECK",
-				"ItemDateTimeUTM" : "20250804162626",
-				"ItemDateTimeLocal_ISO" : "2025-08-05T02:26:26+10:00",
-				"PublishDateLocal_ISO" : "2025-08-09T23:50:01+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-08-06T02:26:26+10:00"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 145.394901, -16.642901 ]
+				"coordinates" : [ 16185286.3432584219, -1879295.9044635613 ]
 			},
 			"properties" : {
 				"OBJECTID" : 69072,
@@ -464,7 +260,7 @@
 				"Locality" : "MOUNT MOLLOY",
 				"ItemDateTimeUTM" : "20250806113334",
 				"ItemDateTimeLocal_ISO" : "2025-08-06T21:33:34+10:00",
-				"PublishDateLocal_ISO" : "2025-08-09T23:50:01+10:00",
+				"PublishDateLocal_ISO" : "2025-08-10T23:49:59+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-08-07T21:33:34+10:00"
 			}
 		},
@@ -472,7 +268,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 145.135973, -15.060406 ]
+				"coordinates" : [ 16156462.6101463027, -1696162.6994657514 ]
 			},
 			"properties" : {
 				"OBJECTID" : 69323,
@@ -496,7 +292,7 @@
 				"Locality" : "STARCKE",
 				"ItemDateTimeUTM" : "20250807111016",
 				"ItemDateTimeLocal_ISO" : "2025-08-07T21:10:16+10:00",
-				"PublishDateLocal_ISO" : "2025-08-09T23:50:01+10:00",
+				"PublishDateLocal_ISO" : "2025-08-10T23:49:59+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-08-08T21:10:16+10:00"
 			}
 		},
@@ -504,7 +300,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 144.901129, -16.485353 ]
+				"coordinates" : [ 16130319.8956504464, -1860998.411876722 ]
 			},
 			"properties" : {
 				"OBJECTID" : 69354,
@@ -528,8 +324,72 @@
 				"Locality" : "DESAILLY",
 				"ItemDateTimeUTM" : "20250807134412",
 				"ItemDateTimeLocal_ISO" : "2025-08-07T23:44:12+10:00",
-				"PublishDateLocal_ISO" : "2025-08-09T23:50:01+10:00",
+				"PublishDateLocal_ISO" : "2025-08-10T23:49:59+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-08-08T23:44:12+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 16179806.3073656522, -1889988.9339883938 ]
+			},
+			"properties" : {
+				"OBJECTID" : 69919,
+				"UniqueID" : "QF7-25-099115",
+				"WarningTitle" : "Information - SOUTHEDGE",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "SOUTHEDGE",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "QUAIDS RD",
+				"Jurisdiction" : "7 Far Northern Region",
+				"Latitude" : -16.734912,
+				"Longitude" : 145.345673,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "SOUTHEDGE",
+				"ItemDateTimeUTM" : "20250809182708",
+				"ItemDateTimeLocal_ISO" : "2025-08-10T04:27:08+10:00",
+				"PublishDateLocal_ISO" : "2025-08-10T23:49:59+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-08-11T04:27:08+10:00"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 16473900.6021754555, -2507455.5012634955 ]
+			},
+			"properties" : {
+				"OBJECTID" : 69945,
+				"UniqueID" : "QF2-25-099168",
+				"WarningTitle" : "Information - MORANBAH",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "MORANBAH",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Goonyella Rd",
+				"Jurisdiction" : "2 Central Region",
+				"Latitude" : -21.966099,
+				"Longitude" : 147.987567,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "MORANBAH",
+				"ItemDateTimeUTM" : "20250809203707",
+				"ItemDateTimeLocal_ISO" : "2025-08-10T06:37:07+10:00",
+				"PublishDateLocal_ISO" : "2025-08-10T23:49:59+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-08-11T06:37:07+10:00"
 			}
 		}
 	]
