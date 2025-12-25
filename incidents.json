@@ -8,57 +8,6 @@
 				"type" : "Polygon",
 				"coordinates" : [
 					[
-						[ 149.9605807126, -22.8030651063, 0 ],
-						[ 149.9412297481, -22.9365581214, 0 ],
-						[ 149.9406679929, -22.9365581214, 0 ],
-						[ 150.1425417722, -22.9428815458, 0 ],
-						[ 150.1439150632, -22.8347103779, 0 ],
-						[ 149.9605807126, -22.8030651063, 0 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : 4050,
-				"UniqueID" : "IF39-5327321",
-				"WarningTitle" : "AVOID SMOKE - Kunwarara - fire as at  3:12pm Wednesday, 24 December 2025",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "AVOID SMOKE",
-				"WarningText" : "\nAVOID SMOKE - Kunwarara - fire as at  3:12pm Wednesday, 24 December 2025 \n\n \n\nWarning level: ADVICE\n\n\nWarning area: Kunwarara and surrounding areas\n\n\n \n\nSmoke is currently affecting Kunwarara and surrounding areas. This is from a fire burning near Kunwarara Road and Eden Garry Road. This fire is under control.\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- No properties are at risk.\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- Some roads may be closed.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if the situation changes.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
-				"Header" : "Smoke is currently affecting Kunwarara and surrounding areas. This is from a fire burning near Kunwarara Road and Eden Garry Road. This fire is under control.",
-				"Impacts" : "- No properties are at risk.\r\n\r\n- Smoke can make it hard for some people to breathe.\r\n\r\n- Smoke can make it hard to see when you are driving.\r\n\r\n- Some roads may be closed.",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from Queensland Fire Department.",
-				"WarningLevelSort" : 7,
-				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "Kunwarara and surrounding areas",
-				"Master_Incident_Number" : "QF2-25-175290",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "KUNWARARA RD & EDEN GARRY RD",
-				"Jurisdiction" : "2 Central Region",
-				"Latitude" : -22.893551006343,
-				"Longitude" : 150.05945766576,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "KUNWARARA",
-				"ItemDateTimeUTM" : "20251224051200",
-				"ItemDateTimeLocal_ISO" : "2025-12-24T15:12:00+10:00",
-				"PublishDateLocal_ISO" : "2025-12-24T23:53:07+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-12-25T15:12:00+10:00",
-				"MultipleWarnings" : null,
-				"MessageSent" : null,
-				"SendEmailSubscription" : "Yes",
-				"WarningType_Level" : "Advice Fire",
-				"EventType" : "Fire"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
 						[ 150.5022162143, -26.2493112362, 0 ],
 						[ 150.5339033706, -26.6259739497, 0 ],
 						[ 150.8136255843, -26.6327188571, 0 ],
@@ -98,8 +47,128 @@
 				"Locality" : "BARAKULA",
 				"ItemDateTimeUTM" : "20251224052000",
 				"ItemDateTimeLocal_ISO" : "2025-12-24T15:20:00+10:00",
-				"PublishDateLocal_ISO" : "2025-12-24T23:53:07+10:00",
+				"PublishDateLocal_ISO" : "2025-12-25T23:53:04+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-12-25T15:20:00+10:00",
+				"MultipleWarnings" : null,
+				"MessageSent" : null,
+				"SendEmailSubscription" : "Yes",
+				"WarningType_Level" : "Advice Fire",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "MultiPolygon",
+				"coordinates" : [
+					[
+						[
+							[ 151.5367892454, -28.1205661603, 0 ],
+							[ 151.6463115714, -28.1378065185, 0 ],
+							[ 151.6549709574, -28.0580870392, 0 ],
+							[ 151.5493039084, -28.0443177486, 0 ],
+							[ 151.5367892454, -28.1205661603, 0 ]
+						]
+					],
+					[
+						[
+							[ 151.5367534752, -28.1207840206, 0 ],
+							[ 151.5367892454, -28.1205661603, 0 ],
+							[ 151.536677158, -28.1205485147, 0 ],
+							[ 151.5367534752, -28.1207840206, 0 ]
+						]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 4054,
+				"UniqueID" : "IF39-5328021",
+				"WarningTitle" : "AVOID SMOKE - Leyburn and Karara - fire as at  2:07pm Thursday, 25 December 2025",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "AVOID SMOKE",
+				"WarningText" : "\nAVOID SMOKE - Leyburn and Karara - fire as at  2:07pm Thursday, 25 December 2025 \n\n \n\nWarning level: ADVICE\n\n\nWarning area: Leyburn, Karara and surrounding areas\n\n\n \n\nSmoke is currently affecting Leyburn, Karara and surrounding areas. This is from a fire burning near Dalmere Road. This fire is under control.\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- No properties are at risk.\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- Some roads may be closed.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if the situation changes.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"Header" : "Smoke is currently affecting Leyburn, Karara and surrounding areas. This is from a fire burning near Dalmere Road. This fire is under control.",
+				"Impacts" : "- No properties are at risk.\r\n\r\n- Smoke can make it hard for some people to breathe.\r\n\r\n- Smoke can make it hard to see when you are driving.\r\n\r\n- Some roads may be closed.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from Queensland Fire Department.",
+				"WarningLevelSort" : 7,
+				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "Leyburn, Karara and surrounding areas",
+				"Master_Incident_Number" : "QF3-25-178808",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Dalmere Rd",
+				"Jurisdiction" : "3 South Western Region",
+				"Latitude" : -28.097549957115,
+				"Longitude" : 151.59691178823,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "LEYBURN",
+				"ItemDateTimeUTM" : "20251225040300",
+				"ItemDateTimeLocal_ISO" : "2025-12-25T14:03:00+10:00",
+				"PublishDateLocal_ISO" : "2025-12-25T23:53:04+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-12-26T14:03:00+10:00",
+				"MultipleWarnings" : null,
+				"MessageSent" : null,
+				"SendEmailSubscription" : "Yes",
+				"WarningType_Level" : "Advice Fire",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "MultiPolygon",
+				"coordinates" : [
+					[
+						[
+							[ 150.8273281395, -28.6671725746, 0 ],
+							[ 150.9265718471, -28.6978074607, 0 ],
+							[ 150.9361848842, -28.6568429754, 0 ],
+							[ 150.8303270211, -28.6438876412, 0 ],
+							[ 150.8273281395, -28.6671725746, 0 ]
+						]
+					],
+					[
+						[
+							[ 150.8273134755, -28.6672864212, 0 ],
+							[ 150.8273281395, -28.6671725746, 0 ],
+							[ 150.8270463862, -28.6670855893, 0 ],
+							[ 150.8273134755, -28.6672864212, 0 ]
+						]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 4056,
+				"UniqueID" : "IF39-5328421",
+				"WarningTitle" : "AVOID SMOKE - Glenarbon and Beebo (near Goondiwindi) - fire as at  9:20pm Thursday, 25 December 2025",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "AVOID SMOKE",
+				"WarningText" : "\nAVOID SMOKE - Glenarbon and Beebo (near Goondiwindi) - fire as at  9:20pm Thursday, 25 December 2025 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Glenarbon, Beebo and surrounding areas\n\n\n \n\nSmoke is currently affecting Glenarbon, Beebo and surrounding areas. This is from a fire burning between Texas Yelarbon Road and Clive Road.\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- No properties are at risk.\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- Some roads may be closed.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if the situation changes.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"Header" : "Smoke is currently affecting Glenarbon, Beebo and surrounding areas. This is from a fire burning between Texas Yelarbon Road and Clive Road.",
+				"Impacts" : "- No properties are at risk.\r\n\r\n- Smoke can make it hard for some people to breathe.\r\n\r\n- Smoke can make it hard to see when you are driving.\r\n\r\n- Some roads may be closed.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from Queensland Fire Department.",
+				"WarningLevelSort" : 7,
+				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "Glenarbon, Beebo and surrounding areas",
+				"Master_Incident_Number" : "QF3-25-178852",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "TEXAS YELARBON RD",
+				"Jurisdiction" : "3 South Western Region",
+				"Latitude" : -28.67220653924,
+				"Longitude" : 150.87152575162,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "GLENARBON",
+				"ItemDateTimeUTM" : "20251225111700",
+				"ItemDateTimeLocal_ISO" : "2025-12-25T21:17:00+10:00",
+				"PublishDateLocal_ISO" : "2025-12-25T23:53:04+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-12-26T21:17:00+10:00",
 				"MultipleWarnings" : null,
 				"MessageSent" : null,
 				"SendEmailSubscription" : "Yes",
@@ -135,7 +204,7 @@
 				"Locality" : "GREENVALE",
 				"ItemDateTimeUTM" : "20251210231503",
 				"ItemDateTimeLocal_ISO" : "2025-12-11T09:15:03+10:00",
-				"PublishDateLocal_ISO" : "2025-12-24T23:53:07+10:00",
+				"PublishDateLocal_ISO" : "2025-12-25T23:53:04+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-12-12T09:15:03+10:00",
 				"EventType" : "Fire"
 			}
@@ -168,41 +237,8 @@
 				"Locality" : "BASALT",
 				"ItemDateTimeUTM" : "20251215235905",
 				"ItemDateTimeLocal_ISO" : "2025-12-16T09:59:05+10:00",
-				"PublishDateLocal_ISO" : "2025-12-24T23:53:07+10:00",
+				"PublishDateLocal_ISO" : "2025-12-25T23:53:04+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-12-17T09:59:05+10:00",
-				"EventType" : "Fire"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 147.632971, -23.99022 ]
-			},
-			"properties" : {
-				"OBJECTID" : 114524,
-				"UniqueID" : "QF2-25-177532",
-				"WarningTitle" : "Information - LOCHINGTON",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "LOCHINGTON",
-				"CurrentStatus" : "Going",
-				"Location" : "Glenlee Rd & Willows Rutland Rd",
-				"Jurisdiction" : "2 Central Region",
-				"Latitude" : -23.99022,
-				"Longitude" : 147.632971,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "LOCHINGTON",
-				"ItemDateTimeUTM" : "20251221185946",
-				"ItemDateTimeLocal_ISO" : "2025-12-22T04:59:46+10:00",
-				"PublishDateLocal_ISO" : "2025-12-24T23:53:07+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-12-23T04:59:46+10:00",
 				"EventType" : "Fire"
 			}
 		},
@@ -234,7 +270,7 @@
 				"Locality" : "WAIRUNA",
 				"ItemDateTimeUTM" : "20251222115626",
 				"ItemDateTimeLocal_ISO" : "2025-12-22T21:56:26+10:00",
-				"PublishDateLocal_ISO" : "2025-12-24T23:53:07+10:00",
+				"PublishDateLocal_ISO" : "2025-12-25T23:53:04+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-12-23T21:56:26+10:00",
 				"EventType" : "Fire"
 			}
@@ -267,7 +303,7 @@
 				"Locality" : "GLENAUBYN",
 				"ItemDateTimeUTM" : "20251218183911",
 				"ItemDateTimeLocal_ISO" : "2025-12-19T04:39:11+10:00",
-				"PublishDateLocal_ISO" : "2025-12-24T23:53:07+10:00",
+				"PublishDateLocal_ISO" : "2025-12-25T23:53:04+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-12-20T04:39:11+10:00",
 				"EventType" : "Fire"
 			}
@@ -300,41 +336,8 @@
 				"Locality" : "YABULU",
 				"ItemDateTimeUTM" : "20251223171540",
 				"ItemDateTimeLocal_ISO" : "2025-12-24T03:15:40+10:00",
-				"PublishDateLocal_ISO" : "2025-12-24T23:53:07+10:00",
+				"PublishDateLocal_ISO" : "2025-12-25T23:53:04+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-12-25T03:15:40+10:00",
-				"EventType" : "Fire"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 149.149174, -21.123648 ]
-			},
-			"properties" : {
-				"OBJECTID" : 115148,
-				"UniqueID" : "QF2-25-178507",
-				"WarningTitle" : "Information - GLENELLA",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "GLENELLA",
-				"CurrentStatus" : "Going",
-				"Location" : "Glenella Rd",
-				"Jurisdiction" : "2 Central Region",
-				"Latitude" : -21.123648,
-				"Longitude" : 149.149174,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "GLENELLA",
-				"ItemDateTimeUTM" : "20251223195638",
-				"ItemDateTimeLocal_ISO" : "2025-12-24T05:56:38+10:00",
-				"PublishDateLocal_ISO" : "2025-12-24T23:53:07+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2025-12-25T05:56:38+10:00",
 				"EventType" : "Fire"
 			}
 		},
@@ -366,8 +369,107 @@
 				"Locality" : "JENSEN",
 				"ItemDateTimeUTM" : "20251223203311",
 				"ItemDateTimeLocal_ISO" : "2025-12-24T06:33:11+10:00",
-				"PublishDateLocal_ISO" : "2025-12-24T23:53:07+10:00",
+				"PublishDateLocal_ISO" : "2025-12-25T23:53:04+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2025-12-25T06:33:11+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 151.62115, -27.704304 ]
+			},
+			"properties" : {
+				"OBJECTID" : 115382,
+				"UniqueID" : "QF3-25-178900",
+				"WarningTitle" : "Information - PITTSWORTH",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "PITTSWORTH",
+				"CurrentStatus" : "Going",
+				"Location" : "Quibet Rd",
+				"Jurisdiction" : "3 South Western Region",
+				"Latitude" : -27.704304,
+				"Longitude" : 151.62115,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "PITTSWORTH",
+				"ItemDateTimeUTM" : "20251224200543",
+				"ItemDateTimeLocal_ISO" : "2025-12-25T06:05:43+10:00",
+				"PublishDateLocal_ISO" : "2025-12-25T23:53:04+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-12-26T06:05:43+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 147.038358, -19.419695 ]
+			},
+			"properties" : {
+				"OBJECTID" : 115396,
+				"UniqueID" : "QF1-25-178906",
+				"WarningTitle" : "Information - CROMARTY",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "CROMARTY",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "BRUCE HWY",
+				"Jurisdiction" : "1 Northern Region",
+				"Latitude" : -19.419695,
+				"Longitude" : 147.038358,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "CROMARTY",
+				"ItemDateTimeUTM" : "20251224202820",
+				"ItemDateTimeLocal_ISO" : "2025-12-25T06:28:20+10:00",
+				"PublishDateLocal_ISO" : "2025-12-25T23:53:04+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-12-26T06:28:20+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 153.186448, -27.671977 ]
+			},
+			"properties" : {
+				"OBJECTID" : 115475,
+				"UniqueID" : "QF6-25-179032",
+				"WarningTitle" : "Information - LOGANHOLME",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "LOGANHOLME",
+				"CurrentStatus" : "Contained",
+				"Location" : "ATLANTIC DR & BEENLEIGH REDLAND BAY RD",
+				"Jurisdiction" : "6 South Eastern Region",
+				"Latitude" : -27.671977,
+				"Longitude" : 153.186448,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 1,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "LOGANHOLME",
+				"ItemDateTimeUTM" : "20251225032027",
+				"ItemDateTimeLocal_ISO" : "2025-12-25T13:20:27+10:00",
+				"PublishDateLocal_ISO" : "2025-12-25T23:53:04+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2025-12-26T13:20:27+10:00",
 				"EventType" : "Fire"
 			}
 		}
