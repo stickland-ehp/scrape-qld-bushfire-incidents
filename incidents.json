@@ -5,26 +5,34 @@
 		{
 			"type" : "Feature",
 			"geometry" : {
-				"type" : "Polygon",
+				"type" : "MultiPolygon",
 				"coordinates" : [
 					[
-						[ 153.4321503038, -27.8720277593, 0 ],
-						[ 153.3014130662, -27.8808287731, 0 ],
-						[ 153.3013443765, -27.8805859909, 0 ],
-						[ 153.3013443765, -27.8808894617, 0 ],
-						[ 153.3259262773, -27.9398073685, 0 ],
-						[ 153.4328369493, -27.9363496362, 0 ],
-						[ 153.4321503038, -27.8720277593, 0 ]
+						[
+							[ 153.326372427, -27.9407344968, 0 ],
+							[ 153.3262030687, -27.9407400292, 0 ],
+							[ 153.3263747301, -27.9407400292, 0 ],
+							[ 153.326372427, -27.9407344968, 0 ]
+						]
+					],
+					[
+						[
+							[ 153.326372427, -27.9407344968, 0 ],
+							[ 153.4329764452, -27.9372519937, 0 ],
+							[ 153.4321181383, -27.8723236663, 0 ],
+							[ 153.301312169, -27.8805177056, 0 ],
+							[ 153.326372427, -27.9407344968, 0 ]
+						]
 					]
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 2523,
-				"UniqueID" : "IF39-5376921",
-				"WarningTitle" : "AVOID SMOKE - Coombabah, Pacific Pines, Paradise Point and Runaway Bay - fire as at  3:57pm Friday,  9 January 2026",
+				"OBJECTID" : 2527,
+				"UniqueID" : "IF39-5383921",
+				"WarningTitle" : "AVOID SMOKE - Coombabah, Pacific Pines, Paradise Point and Runaway Bay - fire as at 11:25am Sunday, 11 January 2026",
 				"WarningLevel" : "Advice",
 				"CallToAction" : "AVOID SMOKE",
-				"WarningText" : "\nAVOID SMOKE - Coombabah, Pacific Pines, Paradise Point and Runaway Bay - fire as at  3:57pm Friday,  9 January 2026 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Coombabah, Pacific Pines, Paradise Point, Runaway Bay, and surrounding areas\n\n\n \n\nSmoke is currently affecting Coombabah, Pacific Pines, Paradise Point, Runaway Bay, and surrounding areas. This is from a fire burning near the corner of Oxley Drive and Hansford Road, Coombabah.\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- No properties are at risk.\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- Some roads may be closed.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if the situation changes.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"WarningText" : "\nAVOID SMOKE - Coombabah, Pacific Pines, Paradise Point and Runaway Bay - fire as at 11:25am Sunday, 11 January 2026 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Coombabah, Pacific Pines, Paradise Point, Runaway Bay, and surrounding areas\n\n\n \n\nSmoke is currently affecting Coombabah, Pacific Pines, Paradise Point, Runaway Bay, and surrounding areas. This is from a fire burning near the corner of Oxley Drive and Hansford Road, Coombabah.\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- No properties are at risk.\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- Some roads may be closed.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if the situation changes.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
 				"Header" : "Smoke is currently affecting Coombabah, Pacific Pines, Paradise Point, Runaway Bay, and surrounding areas. This is from a fire burning near the corner of Oxley Drive and Hansford Road, Coombabah.",
 				"Impacts" : "- No properties are at risk.\r\n\r\n- Smoke can make it hard for some people to breathe.\r\n\r\n- Smoke can make it hard to see when you are driving.\r\n\r\n- Some roads may be closed.",
 				"LeaveSafely" : null,
@@ -36,17 +44,75 @@
 				"CurrentStatus" : "Patrolled",
 				"Location" : "Oxley Dr & Hansford Rd",
 				"Jurisdiction" : "6 South Eastern Region",
-				"Latitude" : -27.908865794863,
-				"Longitude" : 153.37546772555,
+				"Latitude" : -27.907674994663,
+				"Longitude" : 153.3723799791,
 				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
 				"VehiclesOnScene" : 0,
 				"GroupedType" : "FIRE VEGETATION",
 				"Locality" : "COOMBABAH",
-				"ItemDateTimeUTM" : "20260109055700",
-				"ItemDateTimeLocal_ISO" : "2026-01-09T15:57:00+10:00",
-				"PublishDateLocal_ISO" : "2026-01-10T23:48:07+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-01-10T15:57:00+10:00",
+				"ItemDateTimeUTM" : "20260111012500",
+				"ItemDateTimeLocal_ISO" : "2026-01-11T11:25:00+10:00",
+				"PublishDateLocal_ISO" : "2026-01-11T23:48:05+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-01-12T11:25:00+10:00",
+				"MultipleWarnings" : null,
+				"MessageSent" : null,
+				"SendEmailSubscription" : "Yes",
+				"WarningType_Level" : "Advice Fire",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 153.2889062416, -27.7124944276, 0 ],
+						[ 153.2874471199, -27.7894782674, 0 ],
+						[ 153.3628922951, -27.7892125067, 0 ],
+						[ 153.3659821999, -27.7873139117, 0 ],
+						[ 153.3670121681, -27.7840485174, 0 ],
+						[ 153.3680421364, -27.7811627937, 0 ],
+						[ 153.3635789406, -27.7772139444, 0 ],
+						[ 153.36100402, -27.764759741, 0 ],
+						[ 153.3543521416, -27.7592151368, 0 ],
+						[ 153.3513051521, -27.7515438475, 0 ],
+						[ 153.3577424538, -27.7343759817, 0 ],
+						[ 153.3534509194, -27.7164455887, 0 ],
+						[ 153.2889062416, -27.7124944276, 0 ]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2528,
+				"UniqueID" : "IF39-5385621",
+				"WarningTitle" : "AVOID SMOKE - Jacobs Well, Steiglitz, Woongoolba and Norwell - fire as at  1:58pm Sunday, 11 January 2026",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "AVOID SMOKE",
+				"WarningText" : "\nAVOID SMOKE - Jacobs Well, Steiglitz, Woongoolba and Norwell - fire as at  1:58pm Sunday, 11 January 2026 \n\n \n\nWarning level: ADVICE\n\n\nWarning area: Jacobs Well, Steiglitz, Woongoolba and Norwell\n\n\n \n\nSmoke is currently affecting Jacobs Well, Steiglitz, Woongoolba and Norwell. This is from a fire burning at Cabbage Tree Point Road.. This fire is under control.\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- No properties are at risk.\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- Some roads may be closed.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if the situation changes.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"Header" : "Smoke is currently affecting Jacobs Well, Steiglitz, Woongoolba and Norwell. This is from a fire burning at Cabbage Tree Point Road.. This fire is under control.",
+				"Impacts" : "- No properties are at risk.\r\n\r\n- Smoke can make it hard for some people to breathe.\r\n\r\n- Smoke can make it hard to see when you are driving.\r\n\r\n- Some roads may be closed.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from Queensland Fire Department.",
+				"WarningLevelSort" : 7,
+				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "Jacobs Well, Steiglitz, Woongoolba and Norwell",
+				"Master_Incident_Number" : "QF6-26-004593",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Cabbage Tree Point Rd",
+				"Jurisdiction" : "6 South Eastern Region",
+				"Latitude" : -27.748809324368,
+				"Longitude" : 153.33336653826,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "STEIGLITZ",
+				"ItemDateTimeUTM" : "20260111035800",
+				"ItemDateTimeLocal_ISO" : "2026-01-11T13:58:00+10:00",
+				"PublishDateLocal_ISO" : "2026-01-11T23:48:05+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-01-12T13:58:00+10:00",
 				"MultipleWarnings" : null,
 				"MessageSent" : null,
 				"SendEmailSubscription" : "Yes",
@@ -82,7 +148,7 @@
 				"Locality" : "TYRCONNEL",
 				"ItemDateTimeUTM" : "20260107183341",
 				"ItemDateTimeLocal_ISO" : "2026-01-08T04:33:41+10:00",
-				"PublishDateLocal_ISO" : "2026-01-10T23:48:07+10:00",
+				"PublishDateLocal_ISO" : "2026-01-11T23:48:05+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-01-09T04:33:41+10:00",
 				"EventType" : "Fire"
 			}
@@ -91,32 +157,65 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 152.640206, -25.799426 ]
+				"coordinates" : [ 146.007904, -26.543041 ]
 			},
 			"properties" : {
-				"OBJECTID" : 119254,
-				"UniqueID" : "QF4-26-003580",
-				"WarningTitle" : "Information - BAUPLE",
+				"OBJECTID" : 119774,
+				"UniqueID" : "QF3-26-004746",
+				"WarningTitle" : "Information - WARD",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : 100,
-				"WarningArea" : "BAUPLE",
+				"WarningArea" : "WARD",
 				"CurrentStatus" : "Going",
-				"Location" : "VALENTINE RD",
-				"Jurisdiction" : "4 North Coast Region",
-				"Latitude" : -25.799426,
-				"Longitude" : 152.640206,
+				"Location" : "DIAMANTINA DEVELOPMENTAL RD",
+				"Jurisdiction" : "3 South Western Region",
+				"Latitude" : -26.543041,
+				"Longitude" : 146.007904,
 				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
 				"VehiclesOnScene" : 0,
 				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "BAUPLE",
-				"ItemDateTimeUTM" : "20260108175226",
-				"ItemDateTimeLocal_ISO" : "2026-01-09T03:52:26+10:00",
-				"PublishDateLocal_ISO" : "2026-01-10T23:48:07+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-01-10T03:52:26+10:00",
+				"Locality" : "WARD",
+				"ItemDateTimeUTM" : "20260110194716",
+				"ItemDateTimeLocal_ISO" : "2026-01-11T05:47:16+10:00",
+				"PublishDateLocal_ISO" : "2026-01-11T23:48:05+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-01-12T05:47:16+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 152.996976, -27.536518 ]
+			},
+			"properties" : {
+				"OBJECTID" : 119869,
+				"UniqueID" : "QF5S-26-004896",
+				"WarningTitle" : "Information - ROCKLEA",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "ROCKLEA",
+				"CurrentStatus" : "Going",
+				"Location" : "Brisbane Markets Accs",
+				"Jurisdiction" : "5S Brisbane Region (South)",
+				"Latitude" : -27.536518,
+				"Longitude" : 152.996976,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 2,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "ROCKLEA",
+				"ItemDateTimeUTM" : "20260111015907",
+				"ItemDateTimeLocal_ISO" : "2026-01-11T11:59:07+10:00",
+				"PublishDateLocal_ISO" : "2026-01-11T23:48:05+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-01-12T11:59:07+10:00",
 				"EventType" : "Fire"
 			}
 		}
