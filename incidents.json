@@ -1,221 +1,22 @@
 {
 	"type" : "FeatureCollection",
 	"name" : "QFDWarnings",
+	"crs" : {
+		"type" : "name",
+		"properties" : {
+			"name" : "EPSG:3857"
+		}
+	},
 	"features" : [
 		{
 			"type" : "Feature",
 			"geometry" : {
-				"type" : "MultiPolygon",
-				"coordinates" : [
-					[
-						[
-							[ 152.9644999411, -26.924166206, 0 ],
-							[ 153.0149803652, -26.9307510003, 0 ],
-							[ 153.03351027, -26.8591455268, 0 ],
-							[ 152.9771481319, -26.8569674777, 0 ],
-							[ 152.9644999411, -26.924166206, 0 ]
-						]
-					],
-					[
-						[
-							[ 152.9644928516, -26.9242038608, 0 ],
-							[ 152.9644999411, -26.924166206, 0 ],
-							[ 152.9643974865, -26.9241528411, 0 ],
-							[ 152.9644928516, -26.9242038608, 0 ]
-						]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : 2537,
-				"UniqueID" : "IF39-5406421",
-				"WarningTitle" : "AVOID SMOKE - Glass House Mountains - fire as at  8:42am Thursday, 15 January 2026",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "AVOID SMOKE",
-				"WarningText" : "\nAVOID SMOKE - Glass House Mountains - fire as at  8:42am Thursday, 15 January 2026 \n\n \n\nWarning level: ADVICE\n\n\nWarning area: Glass House Mountains, Beerwah and surrounding areas\n\n\n \n\nSmoke is currently affecting Glass House Mountains, Beerwah and surrounding areas. This is from a fire burning near the Bruce Highway, between Red Road and Johnston Road. This fire is under control.\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- No properties are at risk.\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- Some roads may be closed.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if the situation changes.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
-				"Header" : "Smoke is currently affecting Glass House Mountains, Beerwah and surrounding areas. This is from a fire burning near the Bruce Highway, between Red Road and Johnston Road. This fire is under control.",
-				"Impacts" : "- No properties are at risk.\r\n\r\n- Smoke can make it hard for some people to breathe.\r\n\r\n- Smoke can make it hard to see when you are driving.\r\n\r\n- Some roads may be closed.",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from Queensland Fire Department.",
-				"WarningLevelSort" : 7,
-				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "Glass House Mountains, Beerwah and surrounding areas",
-				"Master_Incident_Number" : "QF4-26-006018",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "Johnston Road Off Ramp",
-				"Jurisdiction" : "4 North Coast Region",
-				"Latitude" : -26.896157418324,
-				"Longitude" : 152.99951183534,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "COOCHIN CREEK",
-				"ItemDateTimeUTM" : "20260114224200",
-				"ItemDateTimeLocal_ISO" : "2026-01-15T08:42:00+10:00",
-				"PublishDateLocal_ISO" : "2026-01-15T23:58:05+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-01-16T08:42:00+10:00",
-				"MultipleWarnings" : null,
-				"MessageSent" : null,
-				"SendEmailSubscription" : "Yes",
-				"WarningType_Level" : "Advice Fire",
-				"EventType" : "Fire"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "MultiPolygon",
-				"coordinates" : [
-					[
-						[
-							[ 150.7846193049, -27.4170593536, 0 ],
-							[ 151.110862362, -27.4264008798, 0 ],
-							[ 151.1178050924, -27.2525658224, 0 ],
-							[ 150.83505961, -27.3226070277, 0 ],
-							[ 150.7846193049, -27.4170593536, 0 ]
-						]
-					],
-					[
-						[
-							[ 150.7844767521, -27.4173261775, 0 ],
-							[ 150.7846193049, -27.4170593536, 0 ],
-							[ 150.7844767521, -27.4170552716, 0 ],
-							[ 150.7844767521, -27.4173261775, 0 ]
-						]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : 2541,
-				"UniqueID" : "IF39-5412021",
-				"WarningTitle" : "AVOID SMOKE - Kumbarilla - fire as at  2:42pm Thursday, 15 January 2026",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "AVOID SMOKE",
-				"WarningText" : "\nAVOID SMOKE - Kumbarilla - fire as at  2:42pm Thursday, 15 January 2026 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Kumbarilla and surrounding areas\n\n\n \n\nSmoke is currently affecting Kumbarilla and surrounding areas. This is from a fire burning near Halliford Road, Kumbarilla.\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- No properties are at risk.\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- Some roads may be closed.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if the situation changes.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
-				"Header" : "Smoke is currently affecting Kumbarilla and surrounding areas. This is from a fire burning near Halliford Road, Kumbarilla.",
-				"Impacts" : "- No properties are at risk.\r\n\r\n- Smoke can make it hard for some people to breathe.\r\n\r\n- Smoke can make it hard to see when you are driving.\r\n\r\n- Some roads may be closed.",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from Queensland Fire Department.",
-				"WarningLevelSort" : 7,
-				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "Kumbarilla and surrounding areas",
-				"Master_Incident_Number" : "QF3-26-005945",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "HALLIFORD RD",
-				"Jurisdiction" : "3 South Western Region",
-				"Latitude" : -27.357441696369,
-				"Longitude" : 150.974677474,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "HALLIFORD",
-				"ItemDateTimeUTM" : "20260115044200",
-				"ItemDateTimeLocal_ISO" : "2026-01-15T14:42:00+10:00",
-				"PublishDateLocal_ISO" : "2026-01-15T23:58:05+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-01-16T14:42:00+10:00",
-				"MultipleWarnings" : null,
-				"MessageSent" : null,
-				"SendEmailSubscription" : "Yes",
-				"WarningType_Level" : "Advice Fire",
-				"EventType" : "Fire"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "MultiPolygon",
-				"coordinates" : [
-					[
-						[
-							[ 152.778374673, -27.4091396109, 0 ],
-							[ 152.7783468364, -27.4091548371, 0 ],
-							[ 152.7784231326, -27.4092140997, 0 ],
-							[ 152.778374673, -27.4091396109, 0 ]
-						]
-					],
-					[
-						[
-							[ 152.778374673, -27.4091396109, 0 ],
-							[ 152.8003099477, -27.397140693, 0 ],
-							[ 152.7822568894, -27.3756914823, 0 ],
-							[ 152.7610185717, -27.3824577913, 0 ],
-							[ 152.778374673, -27.4091396109, 0 ]
-						]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : 2538,
-				"UniqueID" : "IF39-5410221",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Mount Nebo - fire as at 11:58am Thursday, 15 January 2026",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
-				"WarningText" : "\nAVOID SMOKE (HAZARD REDUCTION BURN) - Mount Nebo - fire as at 11:58am Thursday, 15 January 2026 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Mount Nebo and surrounding areas\n\n\n \n\nSmoke is currently affecting Mount Nebo and surrounding areas. This is from a Queensland Parks and Wildlife hazard reduction burn near Forestry Road and Double Break. This fire is under control.\n\n\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
-				"Header" : "Smoke is currently affecting Mount Nebo and surrounding areas. This is from a Queensland Parks and Wildlife hazard reduction burn near Forestry Road and Double Break. This fire is under control.",
-				"Impacts" : "- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.",
-				"WarningLevelSort" : 8,
-				"ShouldDo" : "- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "Mount Nebo and surrounding areas",
-				"Latitude" : -27.390832534254,
-				"Longitude" : 152.78033046614,
-				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20260115015600",
-				"ItemDateTimeLocal_ISO" : "2026-01-15T11:56:00+10:00",
-				"PublishDateLocal_ISO" : "2026-01-15T23:58:05+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-01-16T11:56:00+10:00",
-				"MultipleWarnings" : null,
-				"MessageSent" : null,
-				"SendEmailSubscription" : "Yes",
-				"WarningType_Level" : "Advice Fire",
-				"EventType" : "Fire"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 153.032652, -26.756763 ]
+				"coordinates" : [ 16803704.9651173465, -3175752.0877370765 ]
 			},
 			"properties" : {
-				"OBJECTID" : 120935,
-				"UniqueID" : "QF4-26-006488",
-				"WarningTitle" : "Information - PALMVIEW",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "PALMVIEW",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "De Zen Rd",
-				"Jurisdiction" : "4 North Coast Region",
-				"Latitude" : -26.756763,
-				"Longitude" : 153.032652,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "PALMVIEW",
-				"ItemDateTimeUTM" : "20260114183123.893",
-				"ItemDateTimeLocal_ISO" : "2026-01-15T04:31:23+10:00",
-				"PublishDateLocal_ISO" : "2026-01-15T23:58:05+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-01-16T04:31:23.893+10:00",
-				"EventType" : "Fire"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 150.970398, -27.406763 ]
-			},
-			"properties" : {
-				"OBJECTID" : 120954,
-				"UniqueID" : "QF3-26-006061",
+				"OBJECTID" : 120602,
+				"UniqueID" : "QF3-26-005945",
 				"WarningTitle" : "Information - HALLIFORD",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
@@ -223,20 +24,20 @@
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : 100,
 				"WarningArea" : "HALLIFORD",
-				"CurrentStatus" : "Going",
-				"Location" : "Halliford Rd",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "HALLIFORD RD",
 				"Jurisdiction" : "3 South Western Region",
-				"Latitude" : -27.406763,
-				"Longitude" : 150.970398,
+				"Latitude" : -27.417673,
+				"Longitude" : 150.95025,
 				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
 				"VehiclesOnScene" : 0,
 				"GroupedType" : "FIRE VEGETATION",
 				"Locality" : "HALLIFORD",
-				"ItemDateTimeUTM" : "20260113204327",
-				"ItemDateTimeLocal_ISO" : "2026-01-14T06:43:27+10:00",
-				"PublishDateLocal_ISO" : "2026-01-15T23:58:05+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-01-15T06:43:27+10:00",
+				"ItemDateTimeUTM" : "20260113164817",
+				"ItemDateTimeLocal_ISO" : "2026-01-14T02:48:17+10:00",
+				"PublishDateLocal_ISO" : "2026-01-16T23:58:05+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-01-15T02:48:17+10:00",
 				"EventType" : "Fire"
 			}
 		},
@@ -244,7 +45,40 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 150.716957, -27.284881 ]
+				"coordinates" : [ 17031414.6608290151, -3113400.0796214179 ]
+			},
+			"properties" : {
+				"OBJECTID" : 120632,
+				"UniqueID" : "QF4-26-006018",
+				"WarningTitle" : "Information - COOCHIN CREEK",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "COOCHIN CREEK",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Johnston Road Off Ramp",
+				"Jurisdiction" : "4 North Coast Region",
+				"Latitude" : -26.919357,
+				"Longitude" : 152.995801,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "COOCHIN CREEK",
+				"ItemDateTimeUTM" : "20260113184608",
+				"ItemDateTimeLocal_ISO" : "2026-01-14T04:46:08+10:00",
+				"PublishDateLocal_ISO" : "2026-01-16T23:58:05+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-01-15T04:46:08+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 16777734.9071517102, -3159109.1736811483 ]
 			},
 			"properties" : {
 				"OBJECTID" : 120977,
@@ -268,8 +102,74 @@
 				"Locality" : "WERANGA",
 				"ItemDateTimeUTM" : "20260114211906",
 				"ItemDateTimeLocal_ISO" : "2026-01-15T07:19:06+10:00",
-				"PublishDateLocal_ISO" : "2026-01-15T23:58:05+10:00",
+				"PublishDateLocal_ISO" : "2026-01-16T23:58:05+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-01-16T07:19:06+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 16971564.2932014652, -3258899.4349755938 ]
+			},
+			"properties" : {
+				"OBJECTID" : 121185,
+				"UniqueID" : "QF6-26-006898",
+				"WarningTitle" : "Information - CLUMBER",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "CLUMBER",
+				"CurrentStatus" : "Going",
+				"Location" : "Wilson Rd",
+				"Jurisdiction" : "6 South Eastern Region",
+				"Latitude" : -28.078698,
+				"Longitude" : 152.458156,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 1,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "CLUMBER",
+				"ItemDateTimeUTM" : "20260115161054.35",
+				"ItemDateTimeLocal_ISO" : "2026-01-16T02:10:54+10:00",
+				"PublishDateLocal_ISO" : "2026-01-16T23:58:05+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-01-17T02:10:54.35+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 16273630.8269858547, -3074484.0765705281 ]
+			},
+			"properties" : {
+				"OBJECTID" : 121248,
+				"UniqueID" : "QF3-26-007045",
+				"WarningTitle" : "Information - BAKERS BEND",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "BAKERS BEND",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Mitchell Hwy",
+				"Jurisdiction" : "3 South Western Region",
+				"Latitude" : -26.607219,
+				"Longitude" : 146.188513,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "BAKERS BEND",
+				"ItemDateTimeUTM" : "20260115203633",
+				"ItemDateTimeLocal_ISO" : "2026-01-16T06:36:33+10:00",
+				"PublishDateLocal_ISO" : "2026-01-16T23:58:05+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-01-17T06:36:33+10:00",
 				"EventType" : "Fire"
 			}
 		}
