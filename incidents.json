@@ -12,72 +12,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16803704.9651173465, -3175752.0877370765 ]
-			},
-			"properties" : {
-				"OBJECTID" : 120602,
-				"UniqueID" : "QF3-26-005945",
-				"WarningTitle" : "Information - HALLIFORD",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "HALLIFORD",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "HALLIFORD RD",
-				"Jurisdiction" : "3 South Western Region",
-				"Latitude" : -27.417673,
-				"Longitude" : 150.95025,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "HALLIFORD",
-				"ItemDateTimeUTM" : "20260113164817",
-				"ItemDateTimeLocal_ISO" : "2026-01-14T02:48:17+10:00",
-				"PublishDateLocal_ISO" : "2026-01-17T23:48:06+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-01-15T02:48:17+10:00",
-				"EventType" : "Fire"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 17031414.6608290151, -3113400.0796214179 ]
-			},
-			"properties" : {
-				"OBJECTID" : 120632,
-				"UniqueID" : "QF4-26-006018",
-				"WarningTitle" : "Information - COOCHIN CREEK",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "COOCHIN CREEK",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "Johnston Road Off Ramp",
-				"Jurisdiction" : "4 North Coast Region",
-				"Latitude" : -26.919357,
-				"Longitude" : 152.995801,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "COOCHIN CREEK",
-				"ItemDateTimeUTM" : "20260113184608",
-				"ItemDateTimeLocal_ISO" : "2026-01-14T04:46:08+10:00",
-				"PublishDateLocal_ISO" : "2026-01-17T23:48:06+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-01-15T04:46:08+10:00",
-				"EventType" : "Fire"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ 16971564.2932014652, -3258899.4349755938 ]
 			},
 			"properties" : {
@@ -90,19 +24,19 @@
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : 100,
 				"WarningArea" : "CLUMBER",
-				"CurrentStatus" : "Going",
+				"CurrentStatus" : "Patrolled",
 				"Location" : "Wilson Rd",
 				"Jurisdiction" : "6 South Eastern Region",
 				"Latitude" : -28.078698,
 				"Longitude" : 152.458156,
 				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 1,
+				"VehiclesOnScene" : 0,
 				"GroupedType" : "FIRE VEGETATION",
 				"Locality" : "CLUMBER",
 				"ItemDateTimeUTM" : "20260115161054.35",
 				"ItemDateTimeLocal_ISO" : "2026-01-16T02:10:54+10:00",
-				"PublishDateLocal_ISO" : "2026-01-17T23:48:06+10:00",
+				"PublishDateLocal_ISO" : "2026-01-18T23:48:03+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-01-17T02:10:54.35+10:00",
 				"EventType" : "Fire"
 			}
@@ -135,8 +69,41 @@
 				"Locality" : "BAKERS BEND",
 				"ItemDateTimeUTM" : "20260115203633",
 				"ItemDateTimeLocal_ISO" : "2026-01-16T06:36:33+10:00",
-				"PublishDateLocal_ISO" : "2026-01-17T23:48:06+10:00",
+				"PublishDateLocal_ISO" : "2026-01-18T23:48:04+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-01-17T06:36:33+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 16709632.5369911455, -2712253.4602634283 ]
+			},
+			"properties" : {
+				"OBJECTID" : 121828,
+				"UniqueID" : "QF2-26-007989",
+				"WarningTitle" : "Information - WESTWOOD",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "WESTWOOD",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "CAPRICORN HWY",
+				"Jurisdiction" : "2 Central Region",
+				"Latitude" : -23.661822,
+				"Longitude" : 150.105183,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "WESTWOOD",
+				"ItemDateTimeUTM" : "20260117192438",
+				"ItemDateTimeLocal_ISO" : "2026-01-18T05:24:38+10:00",
+				"PublishDateLocal_ISO" : "2026-01-18T23:48:04+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-01-19T05:24:38+10:00",
 				"EventType" : "Fire"
 			}
 		}
