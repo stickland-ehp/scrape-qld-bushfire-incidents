@@ -1,43 +1,48 @@
 {
 	"type" : "FeatureCollection",
 	"name" : "QFDWarnings",
-	"crs" : {
-		"type" : "name",
-		"properties" : {
-			"name" : "EPSG:3857"
-		}
-	},
 	"features" : [
 		{
 			"type" : "Feature",
 			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 16913125.5680366643, -2868310.1110421736 ]
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 151.2749710448, -23.8830401216, 0 ],
+						[ 151.2428016986, -23.8824122694, 0 ],
+						[ 151.2426987059, -23.8824122694, 0 ],
+						[ 151.2425270445, -23.9064254458, 0 ],
+						[ 151.2780609496, -23.9089363701, 0 ],
+						[ 151.2782326109, -23.8951256829, 0 ],
+						[ 151.2749710448, -23.8830401216, 0 ]
+					]
+				]
 			},
 			"properties" : {
-				"OBJECTID" : 122183,
-				"UniqueID" : "QF4-26-008514",
-				"WarningTitle" : "Information - DAMASCUS",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "DAMASCUS",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "BRUCE HWY",
-				"Jurisdiction" : "4 North Coast Region",
-				"Latitude" : -24.939457,
-				"Longitude" : 151.933192,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
+				"OBJECTID" : 2547,
+				"UniqueID" : "IF39-5440921",
+				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Telina (near Gladstone) - fire as at 10:14am Wednesday, 21 January 2026",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
+				"WarningText" : "\nAVOID SMOKE (HAZARD REDUCTION BURN) - Telina (near Gladstone) - fire as at 10:14am Wednesday, 21 January 2026 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Telina, Toolooa, Kirkwood, Glen Eden and surrounding areas\n\n\n \n\nSmoke is currently affecting Telina, Toolooa, Kirkwood, Glen Eden and surrounding areas. This is from a Gladstone City Council hazard reduction burn at Mount Biondello, near Glenlyon Road, Telina. This fire is under control.\n\n\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"Header" : "Smoke is currently affecting Telina, Toolooa, Kirkwood, Glen Eden and surrounding areas. This is from a Gladstone City Council hazard reduction burn at Mount Biondello, near Glenlyon Road, Telina. This fire is under control.",
+				"Impacts" : "- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.",
+				"WarningLevelSort" : 8,
+				"ShouldDo" : "- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "Telina, Toolooa, Kirkwood, Glen Eden and surrounding areas",
+				"Latitude" : -23.892975484961,
+				"Longitude" : 151.2579379279,
 				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "DAMASCUS",
-				"ItemDateTimeUTM" : "20260119075931",
-				"ItemDateTimeLocal_ISO" : "2026-01-19T17:59:31+10:00",
-				"PublishDateLocal_ISO" : "2026-01-21T00:13:04+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-01-20T17:59:31+10:00",
+				"ItemDateTimeUTM" : "20260121001000",
+				"ItemDateTimeLocal_ISO" : "2026-01-21T10:10:00+10:00",
+				"PublishDateLocal_ISO" : "2026-01-22T00:03:06+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-01-22T10:10:00+10:00",
+				"MultipleWarnings" : null,
+				"MessageSent" : null,
+				"SendEmailSubscription" : "Yes",
+				"WarningType_Level" : "Advice Fire",
 				"EventType" : "Fire"
 			}
 		},
@@ -45,7 +50,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16766329.2234445196, -3236061.0507626701 ]
+				"coordinates" : [ 150.614498, -27.897532 ]
 			},
 			"properties" : {
 				"OBJECTID" : 122222,
@@ -69,41 +74,8 @@
 				"Locality" : "BOONDANDILLA",
 				"ItemDateTimeUTM" : "20260119124539",
 				"ItemDateTimeLocal_ISO" : "2026-01-19T22:45:39+10:00",
-				"PublishDateLocal_ISO" : "2026-01-21T00:13:04+10:00",
+				"PublishDateLocal_ISO" : "2026-01-22T00:03:06+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-01-20T22:45:39+10:00",
-				"EventType" : "Fire"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 16640081.6776163783, -2542529.5315346885 ]
-			},
-			"properties" : {
-				"OBJECTID" : 122343,
-				"UniqueID" : "QF2-26-008788",
-				"WarningTitle" : "Information - ST LAWRENCE",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "ST LAWRENCE",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "Bruce Hwy",
-				"Jurisdiction" : "2 Central Region",
-				"Latitude" : -22.258,
-				"Longitude" : 149.480397,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "ST LAWRENCE",
-				"ItemDateTimeUTM" : "20260119192830",
-				"ItemDateTimeLocal_ISO" : "2026-01-20T05:28:30+10:00",
-				"PublishDateLocal_ISO" : "2026-01-21T00:13:04+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-01-21T05:28:30+10:00",
 				"EventType" : "Fire"
 			}
 		}
