@@ -1,18 +1,72 @@
 {
 	"type" : "FeatureCollection",
 	"name" : "QFDWarnings",
-	"crs" : {
-		"type" : "name",
-		"properties" : {
-			"name" : "EPSG:3857"
-		}
-	},
 	"features" : [
 		{
 			"type" : "Feature",
 			"geometry" : {
+				"type" : "MultiPolygon",
+				"coordinates" : [
+					[
+						[
+							[ 153.2965362139, -27.8125918083, 0 ],
+							[ 153.2965110581, -27.8125992249, 0 ],
+							[ 153.2965492796, -27.8127679401, 0 ],
+							[ 153.2965362139, -27.8125918083, 0 ]
+						]
+					],
+					[
+						[
+							[ 153.2965362139, -27.8125918083, 0 ],
+							[ 153.3830283921, -27.7870886594, 0 ],
+							[ 153.3871482652, -27.7345301846, 0 ],
+							[ 153.2910178941, -27.7381766781, 0 ],
+							[ 153.2965362139, -27.8125918083, 0 ]
+						]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2551,
+				"UniqueID" : "IF39-5461321",
+				"WarningTitle" : "AVOID SMOKE - Jacobs Well - fire as at  8:36am Tuesday, 27 January 2026",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "AVOID SMOKE",
+				"WarningText" : "\nAVOID SMOKE - Jacobs Well - fire as at  8:36am Tuesday, 27 January 2026 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Jacobs Well and surrounding areas\n\n\n \n\nSmoke is currently affecting Jacobs Well and surrounding areas. This is from a fire burning near Stapylton Jacobs Well Road.\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- No properties are at risk.\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- Some roads may be closed.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if the situation changes.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"Header" : "Smoke is currently affecting Jacobs Well and surrounding areas. This is from a fire burning near Stapylton Jacobs Well Road.",
+				"Impacts" : "- No properties are at risk.\r\n\r\n- Smoke can make it hard for some people to breathe.\r\n\r\n- Smoke can make it hard to see when you are driving.\r\n\r\n- Some roads may be closed.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from Queensland Fire Department.",
+				"WarningLevelSort" : 7,
+				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "Jacobs Well and surrounding areas",
+				"Master_Incident_Number" : "QF6-26-011702",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "STAPYLTON JACOBS WELL RD",
+				"Jurisdiction" : "6 South Eastern Region",
+				"Latitude" : -27.772508505211,
+				"Longitude" : 153.33255994729,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "JACOBS WELL",
+				"ItemDateTimeUTM" : "20260126223500",
+				"ItemDateTimeLocal_ISO" : "2026-01-27T08:35:00+10:00",
+				"PublishDateLocal_ISO" : "2026-01-28T00:13:05+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-01-28T08:35:00+10:00",
+				"MultipleWarnings" : null,
+				"MessageSent" : null,
+				"SendEmailSubscription" : "Yes",
+				"WarningType_Level" : "Advice Fire",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 15398332.6840062644, -2648740.7729553259 ]
+				"coordinates" : [ 138.325576, -23.138205 ]
 			},
 			"properties" : {
 				"OBJECTID" : 123431,
@@ -36,7 +90,7 @@
 				"Locality" : "STURT",
 				"ItemDateTimeUTM" : "20260123195538",
 				"ItemDateTimeLocal_ISO" : "2026-01-24T05:55:38+10:00",
-				"PublishDateLocal_ISO" : "2026-01-27T00:03:05+10:00",
+				"PublishDateLocal_ISO" : "2026-01-28T00:13:05+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-01-25T05:55:38+10:00",
 				"EventType" : "Fire"
 			}
@@ -45,32 +99,98 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16877147.4425707497, -3252843.3955684775 ]
+				"coordinates" : [ 150.598761, -26.936983 ]
 			},
 			"properties" : {
-				"OBJECTID" : 124087,
-				"UniqueID" : "QF3-26-011537",
-				"WarningTitle" : "Information - LEYBURN",
+				"OBJECTID" : 124269,
+				"UniqueID" : "QF3-26-011818",
+				"WarningTitle" : "Information - CROSSROADS",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : 100,
-				"WarningArea" : "LEYBURN",
+				"WarningArea" : "CROSSROADS",
 				"CurrentStatus" : "Patrolled",
-				"Location" : "LEYBURN FORESTRY RD",
+				"Location" : "CLYNES RD & KOGAN CONDAMINE RD",
 				"Jurisdiction" : "3 South Western Region",
-				"Latitude" : -28.030688,
-				"Longitude" : 151.609995,
+				"Latitude" : -26.936983,
+				"Longitude" : 150.598761,
 				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
 				"VehiclesOnScene" : 0,
 				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "LEYBURN",
-				"ItemDateTimeUTM" : "20260125214538",
-				"ItemDateTimeLocal_ISO" : "2026-01-26T07:45:38+10:00",
-				"PublishDateLocal_ISO" : "2026-01-27T00:03:05+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-01-27T07:45:38+10:00",
+				"Locality" : "CROSSROADS",
+				"ItemDateTimeUTM" : "20260126162856",
+				"ItemDateTimeLocal_ISO" : "2026-01-27T02:28:56+10:00",
+				"PublishDateLocal_ISO" : "2026-01-28T00:13:05+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-01-28T02:28:56+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 152.237001, -28.007238 ]
+			},
+			"properties" : {
+				"OBJECTID" : 124350,
+				"UniqueID" : "QF3-26-011986",
+				"WarningTitle" : "Information - GOOMBURRA",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "GOOMBURRA",
+				"CurrentStatus" : "Going",
+				"Location" : "Inverramsay Rd",
+				"Jurisdiction" : "3 South Western Region",
+				"Latitude" : -28.007238,
+				"Longitude" : 152.237001,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "GOOMBURRA",
+				"ItemDateTimeUTM" : "20260126222636",
+				"ItemDateTimeLocal_ISO" : "2026-01-27T08:26:36+10:00",
+				"PublishDateLocal_ISO" : "2026-01-28T00:13:05+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-01-28T08:26:36+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 151.951217, -24.9543 ]
+			},
+			"properties" : {
+				"OBJECTID" : 124361,
+				"UniqueID" : "QF4-26-012000",
+				"WarningTitle" : "Information - DAMASCUS",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "DAMASCUS",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "DAMASCUS RD",
+				"Jurisdiction" : "4 North Coast Region",
+				"Latitude" : -24.9543,
+				"Longitude" : 151.951217,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "DAMASCUS",
+				"ItemDateTimeUTM" : "20260126225724",
+				"ItemDateTimeLocal_ISO" : "2026-01-27T08:57:24+10:00",
+				"PublishDateLocal_ISO" : "2026-01-28T00:13:05+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-01-28T08:57:24+10:00",
 				"EventType" : "Fire"
 			}
 		}
