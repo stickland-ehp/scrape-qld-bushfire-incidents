@@ -36,7 +36,7 @@
 				"Locality" : "STEWARTON",
 				"ItemDateTimeUTM" : "20260201233530",
 				"ItemDateTimeLocal_ISO" : "2026-02-02T09:35:30+10:00",
-				"PublishDateLocal_ISO" : "2026-02-04T00:28:08+10:00",
+				"PublishDateLocal_ISO" : "2026-02-05T00:23:06+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-02-03T09:35:30+10:00",
 				"EventType" : "Fire"
 			}
@@ -69,7 +69,7 @@
 				"Locality" : "BLACKWATER",
 				"ItemDateTimeUTM" : "20260202003328",
 				"ItemDateTimeLocal_ISO" : "2026-02-02T10:33:28+10:00",
-				"PublishDateLocal_ISO" : "2026-02-04T00:28:08+10:00",
+				"PublishDateLocal_ISO" : "2026-02-05T00:23:07+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-02-03T10:33:28+10:00",
 				"EventType" : "Fire"
 			}
@@ -102,41 +102,8 @@
 				"Locality" : "OPALTON",
 				"ItemDateTimeUTM" : "20260202004015",
 				"ItemDateTimeLocal_ISO" : "2026-02-02T10:40:15+10:00",
-				"PublishDateLocal_ISO" : "2026-02-04T00:28:08+10:00",
+				"PublishDateLocal_ISO" : "2026-02-05T00:23:07+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-02-03T10:40:15+10:00",
-				"EventType" : "Fire"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 16694826.1541597098, -3015264.828740376 ]
-			},
-			"properties" : {
-				"OBJECTID" : 126311,
-				"UniqueID" : "QF3-26-015298",
-				"WarningTitle" : "Information - WANDOAN",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "WANDOAN",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "WINDEYER RD",
-				"Jurisdiction" : "3 South Western Region",
-				"Latitude" : -26.130596,
-				"Longitude" : 149.972175,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "WANDOAN",
-				"ItemDateTimeUTM" : "20260202211056",
-				"ItemDateTimeLocal_ISO" : "2026-02-03T07:10:56+10:00",
-				"PublishDateLocal_ISO" : "2026-02-04T00:28:08+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-02-04T07:10:56+10:00",
 				"EventType" : "Fire"
 			}
 		},
@@ -168,8 +135,74 @@
 				"Locality" : "GHINGHINDA",
 				"ItemDateTimeUTM" : "20260202224256",
 				"ItemDateTimeLocal_ISO" : "2026-02-03T08:42:56+10:00",
-				"PublishDateLocal_ISO" : "2026-02-04T00:28:08+10:00",
+				"PublishDateLocal_ISO" : "2026-02-05T00:23:07+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-02-04T08:42:56+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 16753494.6427535098, -3112987.4650903037 ]
+			},
+			"properties" : {
+				"OBJECTID" : 126457,
+				"UniqueID" : "QF3-26-015521",
+				"WarningTitle" : "Information - CROSSROADS",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "CROSSROADS",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Chinchilla Tara Rd & Phipps Rd",
+				"Jurisdiction" : "3 South Western Region",
+				"Latitude" : -26.916052,
+				"Longitude" : 150.499203,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "CROSSROADS",
+				"ItemDateTimeUTM" : "20260203151311",
+				"ItemDateTimeLocal_ISO" : "2026-02-04T01:13:11+10:00",
+				"PublishDateLocal_ISO" : "2026-02-05T00:23:07+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-02-05T01:13:11+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 15953006.982449688, -2608417.4304935732 ]
+			},
+			"properties" : {
+				"OBJECTID" : 126472,
+				"UniqueID" : "QF2-26-015551",
+				"WarningTitle" : "Information - LONGREACH",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "LONGREACH",
+				"CurrentStatus" : "Going",
+				"Location" : "Unknown",
+				"Jurisdiction" : "2 Central Region",
+				"Latitude" : -22.8047,
+				"Longitude" : 143.3083,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 1,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "LONGREACH",
+				"ItemDateTimeUTM" : "20260203162045",
+				"ItemDateTimeLocal_ISO" : "2026-02-04T02:20:45+10:00",
+				"PublishDateLocal_ISO" : "2026-02-05T00:23:07+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-02-05T02:20:45+10:00",
 				"EventType" : "Fire"
 			}
 		}
