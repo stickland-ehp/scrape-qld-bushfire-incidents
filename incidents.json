@@ -1,88 +1,43 @@
 {
 	"type" : "FeatureCollection",
 	"name" : "QFDWarnings",
+	"crs" : {
+		"type" : "name",
+		"properties" : {
+			"name" : "EPSG:3857"
+		}
+	},
 	"features" : [
 		{
 			"type" : "Feature",
 			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 151.9265769873, -26.6237551085, 0 ],
-						[ 151.7866386412, -26.6109251381, 0 ],
-						[ 151.7551387785, -26.6250709616, 0 ],
-						[ 151.7284454344, -26.6436354813, 0 ],
-						[ 151.7245830534, -26.6726318749, 0 ],
-						[ 151.7224372862, -26.6994777787, 0 ],
-						[ 151.7302478789, -26.7391119379, 0 ],
-						[ 151.791101837, -26.7433296978, 0 ],
-						[ 151.8636287688, -26.7443247078, 0 ],
-						[ 151.902552986, -26.7459730422, 0 ],
-						[ 151.9105781554, -26.7267722431, 0 ],
-						[ 151.9186462401, -26.6944168501, 0 ],
-						[ 151.9244827269, -26.6671852688, 0 ],
-						[ 151.9265769873, -26.6237551085, 0 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : 2629,
-				"UniqueID" : "IF39-5496221",
-				"WarningTitle" : "AVOID SMOKE - Goodger (near Kingaroy) - fire as at  4:04pm Sunday, 22 February 2026",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "AVOID SMOKE",
-				"WarningText" : "\nAVOID SMOKE - Goodger (near Kingaroy) - fire as at  4:04pm Sunday, 22 February 2026 \n\n \n\nWarning level: ADVICE\n\n\nWarning area: Goodger, Haly Creek and surrounding areas\n\n\n \n\nSmoke is currently affecting Goodger, Haly Creek and surrounding areas. This is from a fire burning near Goodger Gully Road. This fire is under control.\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- No properties are at risk.\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- Some roads may be closed.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if the situation changes.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
-				"Header" : "Smoke is currently affecting Goodger, Haly Creek and surrounding areas. This is from a fire burning near Goodger Gully Road. This fire is under control.",
-				"Impacts" : "- No properties are at risk.\r\n\r\n- Smoke can make it hard for some people to breathe.\r\n\r\n- Smoke can make it hard to see when you are driving.\r\n\r\n- Some roads may be closed.",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from Queensland Fire Department.",
-				"WarningLevelSort" : 7,
-				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "Goodger, Haly Creek and surrounding areas",
-				"Latitude" : -26.667019293739,
-				"Longitude" : 151.84129669653,
-				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20260222060200",
-				"ItemDateTimeLocal_ISO" : "2026-02-22T16:02:00+10:00",
-				"PublishDateLocal_ISO" : "2026-02-23T00:03:06+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-02-23T16:02:00+10:00",
-				"MultipleWarnings" : null,
-				"MessageSent" : null,
-				"SendEmailSubscription" : "Yes",
-				"WarningType_Level" : "Advice Fire",
-				"EventType" : "Fire"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 152.719987, -27.570434 ]
+				"coordinates" : [ 17091501.1370965354, -3270040.3586917622 ]
 			},
 			"properties" : {
-				"OBJECTID" : 131762,
-				"UniqueID" : "QF6-26-024044",
-				"WarningTitle" : "Information - MUIRLEA",
+				"OBJECTID" : 132134,
+				"UniqueID" : "QF6-26-024658",
+				"WarningTitle" : "Information - COOLANGATTA",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : 100,
-				"WarningArea" : "MUIRLEA",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "Pine Mountain Rd",
+				"WarningArea" : "COOLANGATTA",
+				"CurrentStatus" : "Contained",
+				"Location" : "MARINE PDE",
 				"Jurisdiction" : "6 South Eastern Region",
-				"Latitude" : -27.570434,
-				"Longitude" : 152.719987,
+				"Latitude" : -28.166963,
+				"Longitude" : 153.535567,
 				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "MUIRLEA",
-				"ItemDateTimeUTM" : "20260221185323",
-				"ItemDateTimeLocal_ISO" : "2026-02-22T04:53:23+10:00",
-				"PublishDateLocal_ISO" : "2026-02-23T00:03:06+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-02-23T04:53:23+10:00",
+				"VehiclesOnScene" : 1,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "COOLANGATTA",
+				"ItemDateTimeUTM" : "20260223024824",
+				"ItemDateTimeLocal_ISO" : "2026-02-23T12:48:24+10:00",
+				"PublishDateLocal_ISO" : "2026-02-23T23:13:05+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-02-24T12:48:24+10:00",
 				"EventType" : "Fire"
 			}
 		}
