@@ -1,43 +1,146 @@
 {
 	"type" : "FeatureCollection",
 	"name" : "QFDWarnings",
-	"crs" : {
-		"type" : "name",
-		"properties" : {
-			"name" : "EPSG:3857"
-		}
-	},
 	"features" : [
 		{
 			"type" : "Feature",
 			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 17091501.1370965354, -3270040.3586917622 ]
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 153.202628995, -28.1137015024, 0 ],
+						[ 153.1844328891, -28.1330799459, 0 ],
+						[ 153.2631224894, -28.1668627259, 0 ],
+						[ 153.2940558612, -28.1345331935, 0 ],
+						[ 153.2941588538, -28.1345331935, 0 ],
+						[ 153.202628995, -28.1137015024, 0 ]
+					]
+				]
 			},
 			"properties" : {
-				"OBJECTID" : 132134,
-				"UniqueID" : "QF6-26-024658",
-				"WarningTitle" : "Information - COOLANGATTA",
+				"OBJECTID" : 2631,
+				"UniqueID" : "IF39-5496621",
+				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Springbrook, Numinbah Valley and Beechmont - fire as at  1:55pm Tuesday, 24 February 2026",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
+				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Springbrook, Numinbah Valley and Beechmont - fire as at  1:55pm Tuesday, 24 February 2026 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Springbrook, Numinbah Valley, Beechmont and surrounding areas\n\n\n \n\nSmoke is currently affecting Springbrook, Numinbah Valley, Beechmont and surrounding areas. This is from a hazard reduction burn near the Numinbah section of Springbrook National Park, Numinbah Valley. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"Header" : "Smoke is currently affecting Springbrook, Numinbah Valley, Beechmont and surrounding areas. This is from a hazard reduction burn near the Numinbah section of Springbrook National Park, Numinbah Valley. This fire is under control.",
+				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire Department.",
+				"WarningLevelSort" : 8,
+				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "Springbrook, Numinbah Valley, Beechmont and surrounding areas",
+				"Latitude" : -28.13865059356,
+				"Longitude" : 153.2294768386,
+				"GroupedType" : "FIRE VEGETATION",
+				"ItemDateTimeUTM" : "20260224035000",
+				"ItemDateTimeLocal_ISO" : "2026-02-24T13:50:00+10:00",
+				"PublishDateLocal_ISO" : "2026-02-25T00:33:06+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-02-25T13:50:00+10:00",
+				"MultipleWarnings" : null,
+				"MessageSent" : null,
+				"SendEmailSubscription" : "Yes",
+				"WarningType_Level" : "Advice Fire",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 152.725097, -28.325295 ]
+			},
+			"properties" : {
+				"OBJECTID" : 132211,
+				"UniqueID" : "QF6-26-024763",
+				"WarningTitle" : "Information - MOUNT LINDESAY",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : 100,
-				"WarningArea" : "COOLANGATTA",
-				"CurrentStatus" : "Contained",
-				"Location" : "MARINE PDE",
+				"WarningArea" : "MOUNT LINDESAY",
+				"CurrentStatus" : "Going",
+				"Location" : "Mount Lindesay Hwy",
 				"Jurisdiction" : "6 South Eastern Region",
-				"Latitude" : -28.166963,
-				"Longitude" : 153.535567,
+				"Latitude" : -28.325295,
+				"Longitude" : 152.725097,
 				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
 				"VehiclesOnScene" : 1,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "MOUNT LINDESAY",
+				"ItemDateTimeUTM" : "20260223123755",
+				"ItemDateTimeLocal_ISO" : "2026-02-23T22:37:55+10:00",
+				"PublishDateLocal_ISO" : "2026-02-25T00:33:06+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-02-24T22:37:55+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 152.558017, -27.446588 ]
+			},
+			"properties" : {
+				"OBJECTID" : 132274,
+				"UniqueID" : "QF6-26-024868",
+				"WarningTitle" : "Information - CLARENDON",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "CLARENDON",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Clarendon Rd",
+				"Jurisdiction" : "6 South Eastern Region",
+				"Latitude" : -27.446588,
+				"Longitude" : 152.558017,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
 				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "COOLANGATTA",
-				"ItemDateTimeUTM" : "20260223024824",
-				"ItemDateTimeLocal_ISO" : "2026-02-23T12:48:24+10:00",
-				"PublishDateLocal_ISO" : "2026-02-23T23:13:05+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-02-24T12:48:24+10:00",
+				"Locality" : "CLARENDON",
+				"ItemDateTimeUTM" : "20260223170412",
+				"ItemDateTimeLocal_ISO" : "2026-02-24T03:04:12+10:00",
+				"PublishDateLocal_ISO" : "2026-02-25T00:33:06+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-02-25T03:04:12+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 152.567043, -27.522788 ]
+			},
+			"properties" : {
+				"OBJECTID" : 132360,
+				"UniqueID" : "QF6-26-025022",
+				"WarningTitle" : "Information - COOLANA",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "COOLANA",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Frohloffs Rd",
+				"Jurisdiction" : "6 South Eastern Region",
+				"Latitude" : -27.522788,
+				"Longitude" : 152.567043,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "COOLANA",
+				"ItemDateTimeUTM" : "20260223225814",
+				"ItemDateTimeLocal_ISO" : "2026-02-24T08:58:14+10:00",
+				"PublishDateLocal_ISO" : "2026-02-25T00:33:06+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-02-25T08:58:14+10:00",
 				"EventType" : "Fire"
 			}
 		}
