@@ -36,7 +36,7 @@
 				"Locality" : "MOUNT LINDESAY",
 				"ItemDateTimeUTM" : "20260223123755",
 				"ItemDateTimeLocal_ISO" : "2026-02-23T22:37:55+10:00",
-				"PublishDateLocal_ISO" : "2026-02-27T00:33:06+10:00",
+				"PublishDateLocal_ISO" : "2026-02-28T00:23:06+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-02-24T22:37:55+10:00",
 				"EventType" : "Fire"
 			}
@@ -69,8 +69,41 @@
 				"Locality" : "MOUNT GIPPS",
 				"ItemDateTimeUTM" : "20260224141100",
 				"ItemDateTimeLocal_ISO" : "2026-02-25T00:11:00+10:00",
-				"PublishDateLocal_ISO" : "2026-02-27T00:33:06+10:00",
+				"PublishDateLocal_ISO" : "2026-02-28T00:23:06+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-02-26T00:11:00+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 15964662.1331357434, -1378923.8641931268 ]
+			},
+			"properties" : {
+				"OBJECTID" : 133076,
+				"UniqueID" : "QF7-26-026201",
+				"WarningTitle" : "Information - WUTHARA ISLAND",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "WUTHARA ISLAND",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Unknown",
+				"Jurisdiction" : "7 Far Northern Region",
+				"Latitude" : -12.2917,
+				"Longitude" : 143.413,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "WUTHARA ISLAND",
+				"ItemDateTimeUTM" : "20260226171505",
+				"ItemDateTimeLocal_ISO" : "2026-02-27T03:15:05+10:00",
+				"PublishDateLocal_ISO" : "2026-02-28T00:23:06+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-02-28T03:15:05+10:00",
 				"EventType" : "Fire"
 			}
 		}
