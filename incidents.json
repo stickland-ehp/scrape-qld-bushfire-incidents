@@ -36,8 +36,41 @@
 				"Locality" : "WUTHARA ISLAND",
 				"ItemDateTimeUTM" : "20260226171505",
 				"ItemDateTimeLocal_ISO" : "2026-02-27T03:15:05+10:00",
-				"PublishDateLocal_ISO" : "2026-03-03T00:23:06+10:00",
+				"PublishDateLocal_ISO" : "2026-03-04T00:23:05+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-02-28T03:15:05+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 17019398.2783953361, -2958598.3495135475 ]
+			},
+			"properties" : {
+				"OBJECTID" : 134115,
+				"UniqueID" : "QF4-26-027723",
+				"WarningTitle" : "Information - BOONOOROO",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "BOONOOROO",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Eckert Rd",
+				"Jurisdiction" : "4 North Coast Region",
+				"Latitude" : -25.67269,
+				"Longitude" : 152.887856,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "BOONOOROO",
+				"ItemDateTimeUTM" : "20260302200452",
+				"ItemDateTimeLocal_ISO" : "2026-03-03T06:04:52+10:00",
+				"PublishDateLocal_ISO" : "2026-03-04T00:23:05+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-03-04T06:04:52+10:00",
 				"EventType" : "Fire"
 			}
 		}
