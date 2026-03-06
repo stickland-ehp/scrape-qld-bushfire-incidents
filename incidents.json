@@ -1,97 +1,18 @@
 {
 	"type" : "FeatureCollection",
 	"name" : "QFDWarnings",
+	"crs" : {
+		"type" : "name",
+		"properties" : {
+			"name" : "EPSG:3857"
+		}
+	},
 	"features" : [
 		{
 			"type" : "Feature",
 			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 153.2006477466, -27.5506627402, 0 ],
-						[ 153.2018493762, -27.5342244121, 0 ],
-						[ 153.1932663073, -27.5246342518, 0 ],
-						[ 153.1561874499, -27.520676164, 0 ],
-						[ 153.1505226245, -27.544118145, 0 ],
-						[ 153.2006477466, -27.5506627402, 0 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : 2634,
-				"UniqueID" : "IF39-5514221",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Capalaba, Chandler and Burbank (near Brisbane) - fire as at  9:58am Thursday,  5 March 2026",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
-				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Capalaba, Chandler and Burbank (near Brisbane) - fire as at  9:58am Thursday,  5 March 2026 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Capalaba, Chandler, Burbank and surrounding areas\n\n\n \n\nSmoke is currently affecting Capalaba, Chandler, Burbank and surrounding areas. This is from a hazard reduction burn in the Leslie Harrison Conservation Area. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
-				"Header" : "Smoke is currently affecting Capalaba, Chandler, Burbank and surrounding areas. This is from a hazard reduction burn in the Leslie Harrison Conservation Area. This fire is under control.",
-				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire Department.",
-				"WarningLevelSort" : 8,
-				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "Capalaba, Chandler, Burbank and surrounding areas",
-				"Latitude" : -27.536355445266,
-				"Longitude" : 153.17592850827,
-				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20260304235800",
-				"ItemDateTimeLocal_ISO" : "2026-03-05T09:58:00+10:00",
-				"PublishDateLocal_ISO" : "2026-03-06T00:28:08+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-03-06T09:58:00+10:00",
-				"MultipleWarnings" : null,
-				"MessageSent" : null,
-				"SendEmailSubscription" : "Yes",
-				"WarningType_Level" : "Advice Fire",
-				"EventType" : "Fire"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 151.839466095, -26.3528055024, 0 ],
-						[ 151.8731117248, -26.3577276995, 0 ],
-						[ 151.8995475769, -26.3068036039, 0 ],
-						[ 151.8423843384, -26.2983397264, 0 ],
-						[ 151.839466095, -26.3528055024, 0 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : 2635,
-				"UniqueID" : "IF39-5519721",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Wondai - fire as at  3:17pm Thursday,  5 March 2026",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
-				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Wondai - fire as at  3:17pm Thursday,  5 March 2026 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Wondai and surrounding areas\n\n\n \n\nSmoke is currently affecting Wondai and surrounding areas. This is from a hazard reduction burn in the McEuen State Forest. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
-				"Header" : "Smoke is currently affecting Wondai and surrounding areas. This is from a hazard reduction burn in the McEuen State Forest. This fire is under control.",
-				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire Department.",
-				"WarningLevelSort" : 8,
-				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "Wondai and surrounding areas",
-				"Latitude" : -26.331114576811,
-				"Longitude" : 151.86441332101,
-				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20260305051700",
-				"ItemDateTimeLocal_ISO" : "2026-03-05T15:17:00+10:00",
-				"PublishDateLocal_ISO" : "2026-03-06T00:28:08+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-03-06T15:17:00+10:00",
-				"MultipleWarnings" : null,
-				"MessageSent" : null,
-				"SendEmailSubscription" : "Yes",
-				"WarningType_Level" : "Advice Fire",
-				"EventType" : "Fire"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 143.413, -12.2917 ]
+				"coordinates" : [ 15964662.1331357434, -1378923.8641931268 ]
 			},
 			"properties" : {
 				"OBJECTID" : 133076,
@@ -115,7 +36,7 @@
 				"Locality" : "WUTHARA ISLAND",
 				"ItemDateTimeUTM" : "20260226171505",
 				"ItemDateTimeLocal_ISO" : "2026-02-27T03:15:05+10:00",
-				"PublishDateLocal_ISO" : "2026-03-06T00:28:08+10:00",
+				"PublishDateLocal_ISO" : "2026-03-07T00:18:09+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-02-28T03:15:05+10:00",
 				"EventType" : "Fire"
 			}
@@ -124,40 +45,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 138.917628, -20.213543 ]
-			},
-			"properties" : {
-				"OBJECTID" : 134349,
-				"UniqueID" : "QF1-26-028081",
-				"WarningTitle" : "Information - GUNPOWDER",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "GUNPOWDER",
-				"CurrentStatus" : "Going",
-				"Location" : "Barkly Hwy",
-				"Jurisdiction" : "1 Northern Region",
-				"Latitude" : -20.213543,
-				"Longitude" : 138.917628,
-				"VehiclesAssigned" : 1,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "GUNPOWDER",
-				"ItemDateTimeUTM" : "20260303163736",
-				"ItemDateTimeLocal_ISO" : "2026-03-04T02:37:36+10:00",
-				"PublishDateLocal_ISO" : "2026-03-06T00:28:08+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-03-05T02:37:36+10:00",
-				"EventType" : "Fire"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 152.721944, -28.300556 ]
+				"coordinates" : [ 17000929.0390388444, -3286920.1433940721 ]
 			},
 			"properties" : {
 				"OBJECTID" : 134548,
@@ -181,7 +69,7 @@
 				"Locality" : "MOUNT BARNEY",
 				"ItemDateTimeUTM" : "20260304123216",
 				"ItemDateTimeLocal_ISO" : "2026-03-04T22:32:16+10:00",
-				"PublishDateLocal_ISO" : "2026-03-06T00:28:08+10:00",
+				"PublishDateLocal_ISO" : "2026-03-07T00:18:09+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-03-05T22:32:16+10:00",
 				"EventType" : "Fire"
 			}
@@ -190,65 +78,32 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 152.254408, -25.86638 ]
+				"coordinates" : [ 16446441.6460204609, -2820444.6534476983 ]
 			},
 			"properties" : {
-				"OBJECTID" : 134617,
-				"UniqueID" : "QF4-26-028551",
-				"WarningTitle" : "Information - CALGOA",
+				"OBJECTID" : 134813,
+				"UniqueID" : "QF2-26-028861",
+				"WarningTitle" : "Information - BUCKLAND",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : 100,
-				"WarningArea" : "CALGOA",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "COOKE RD & HEATH RD",
-				"Jurisdiction" : "4 North Coast Region",
-				"Latitude" : -25.86638,
-				"Longitude" : 152.254408,
+				"WarningArea" : "BUCKLAND",
+				"CurrentStatus" : "Going",
+				"Location" : "Welcome Rd",
+				"Jurisdiction" : "2 Central Region",
+				"Latitude" : -24.548954,
+				"Longitude" : 147.740899,
 				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
 				"VehiclesOnScene" : 0,
 				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "CALGOA",
-				"ItemDateTimeUTM" : "20260304172938",
-				"ItemDateTimeLocal_ISO" : "2026-03-05T03:29:38+10:00",
-				"PublishDateLocal_ISO" : "2026-03-06T00:28:08+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-03-06T03:29:38+10:00",
-				"EventType" : "Fire"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 151.860156, -26.331203 ]
-			},
-			"properties" : {
-				"OBJECTID" : 134674,
-				"UniqueID" : "QF4-26-028660",
-				"WarningTitle" : "Information - WONDAI",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "WONDAI",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "Wondai Charlestown Rd",
-				"Jurisdiction" : "4 North Coast Region",
-				"Latitude" : -26.331203,
-				"Longitude" : 151.860156,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "WONDAI",
-				"ItemDateTimeUTM" : "20260304213555",
-				"ItemDateTimeLocal_ISO" : "2026-03-05T07:35:55+10:00",
-				"PublishDateLocal_ISO" : "2026-03-06T00:28:08+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-03-06T07:35:55+10:00",
+				"Locality" : "BUCKLAND",
+				"ItemDateTimeUTM" : "20260305105006",
+				"ItemDateTimeLocal_ISO" : "2026-03-05T20:50:06+10:00",
+				"PublishDateLocal_ISO" : "2026-03-07T00:18:09+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-03-06T20:50:06+10:00",
 				"EventType" : "Fire"
 			}
 		}
