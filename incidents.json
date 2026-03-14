@@ -1,55 +1,18 @@
 {
 	"type" : "FeatureCollection",
 	"name" : "QFDWarnings",
+	"crs" : {
+		"type" : "name",
+		"properties" : {
+			"name" : "EPSG:3857"
+		}
+	},
 	"features" : [
 		{
 			"type" : "Feature",
 			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 152.9523912159, -26.9747728887, 0 ],
-						[ 153.0224290577, -26.9753848298, 0 ],
-						[ 153.006636211, -26.7968633473, 0 ],
-						[ 152.9348817554, -26.8057501505, 0 ],
-						[ 152.9349962522, -26.8057705928, 0 ],
-						[ 152.9523912159, -26.9747728887, 0 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : 2638,
-				"UniqueID" : "IF39-5571221",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Elimbah to Landsborough - fire as at 11:54am Friday, 13 March 2026",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
-				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Elimbah to Landsborough - fire as at 11:54am Friday, 13 March 2026 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Elimbah, Beerburrum, Beerwah, Landsborough and surrounding areas\n\n\n \n\nSmoke is currently affecting Elimbah, Beerburrum, Beerwah, Landsborough and surrounding areas. This is from a hazard reduction burn near the corner of Murphys Road and Beerburrum Donnybrook Road, Elimbah. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
-				"Header" : "Smoke is currently affecting Elimbah, Beerburrum, Beerwah, Landsborough and surrounding areas. This is from a hazard reduction burn near the corner of Murphys Road and Beerburrum Donnybrook Road, Elimbah. This fire is under control.",
-				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire Department.",
-				"WarningLevelSort" : 8,
-				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "Elimbah, Beerburrum, Beerwah, Landsborough and surrounding areas",
-				"Latitude" : -26.895192231588,
-				"Longitude" : 152.97985703621,
-				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20260313015400",
-				"ItemDateTimeLocal_ISO" : "2026-03-13T11:54:00+10:00",
-				"PublishDateLocal_ISO" : "2026-03-14T00:23:07+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-03-14T11:54:00+10:00",
-				"MultipleWarnings" : null,
-				"MessageSent" : null,
-				"SendEmailSubscription" : "Yes",
-				"WarningType_Level" : "Advice Fire",
-				"EventType" : "Fire"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 143.413, -12.2917 ]
+				"coordinates" : [ 15964662.1331357434, -1378923.8641931268 ]
 			},
 			"properties" : {
 				"OBJECTID" : 133076,
@@ -73,7 +36,7 @@
 				"Locality" : "WUTHARA ISLAND",
 				"ItemDateTimeUTM" : "20260226171505",
 				"ItemDateTimeLocal_ISO" : "2026-02-27T03:15:05+10:00",
-				"PublishDateLocal_ISO" : "2026-03-14T00:23:07+10:00",
+				"PublishDateLocal_ISO" : "2026-03-15T00:03:04+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-02-28T03:15:05+10:00",
 				"EventType" : "Fire"
 			}
@@ -82,32 +45,32 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 150.654468, -23.201004 ]
+				"coordinates" : [ 16924566.428702943, -3275518.5743796388 ]
 			},
 			"properties" : {
-				"OBJECTID" : 137199,
-				"UniqueID" : "QF2-26-032192",
-				"WarningTitle" : "Information - BONDOOLA",
+				"OBJECTID" : 137532,
+				"UniqueID" : "QF3-26-032664",
+				"WarningTitle" : "Information - WARWICK",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : 100,
-				"WarningArea" : "BONDOOLA",
-				"CurrentStatus" : "Going",
-				"Location" : "Yeppoon Rd",
-				"Jurisdiction" : "2 Central Region",
-				"Latitude" : -23.201004,
-				"Longitude" : 150.654468,
+				"WarningArea" : "WARWICK",
+				"CurrentStatus" : "Contained",
+				"Location" : "Victoria St",
+				"Jurisdiction" : "3 South Western Region",
+				"Latitude" : -28.210338,
+				"Longitude" : 152.035967,
 				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
 				"VehiclesOnScene" : 1,
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "BONDOOLA",
-				"ItemDateTimeUTM" : "20260312222608.507",
-				"ItemDateTimeLocal_ISO" : "2026-03-13T08:26:08+10:00",
-				"PublishDateLocal_ISO" : "2026-03-14T00:23:07+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-03-14T08:26:08.507+10:00",
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "WARWICK",
+				"ItemDateTimeUTM" : "20260314033158",
+				"ItemDateTimeLocal_ISO" : "2026-03-14T13:31:58+10:00",
+				"PublishDateLocal_ISO" : "2026-03-15T00:03:04+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-03-15T13:31:58+10:00",
 				"EventType" : "Fire"
 			}
 		}
