@@ -1,43 +1,199 @@
 {
 	"type" : "FeatureCollection",
 	"name" : "QFDWarnings",
-	"crs" : {
-		"type" : "name",
-		"properties" : {
-			"name" : "EPSG:3857"
-		}
-	},
 	"features" : [
 		{
 			"type" : "Feature",
 			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 16994376.3285327889, -3025850.836107553 ]
+				"type" : "MultiPolygon",
+				"coordinates" : [
+					[
+						[
+							[ 153.1535045422, -27.5572841414, 0 ],
+							[ 153.1950835641, -27.5596423942, 0 ],
+							[ 153.1905774529, -27.5425585339, 0 ],
+							[ 153.1894473523, -27.5250195527, 0 ],
+							[ 153.1586770505, -27.5225457731, 0 ],
+							[ 153.1535045422, -27.5572841414, 0 ]
+						]
+					],
+					[
+						[
+							[ 153.1535033732, -27.5572919911, 0 ],
+							[ 153.1535045422, -27.5572841414, 0 ],
+							[ 153.1534938283, -27.5572835337, 0 ],
+							[ 153.1535033732, -27.5572919911, 0 ]
+						]
+					]
+				]
 			},
 			"properties" : {
-				"OBJECTID" : 138026,
-				"UniqueID" : "QF4-26-033429",
-				"WarningTitle" : "Information - SOUTHSIDE",
+				"OBJECTID" : 2640,
+				"UniqueID" : "IF39-5593721",
+				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Capalaba, Chandler and Burbank - fire as at 10:03am Tuesday, 17 March 2026",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
+				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Capalaba, Chandler and Burbank - fire as at 10:03am Tuesday, 17 March 2026 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Capalaba, Chandler, Burbank and surrounding areas\n\n\n \n\nSmoke is currently affecting Capalaba, Chandler, Burbank and surrounding areas. This is from a hazard reduction burn near Mount Gravatt Capalaba Road and Geldart Road. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"Header" : "Smoke is currently affecting Capalaba, Chandler, Burbank and surrounding areas. This is from a hazard reduction burn near Mount Gravatt Capalaba Road and Geldart Road. This fire is under control.",
+				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire Department.",
+				"WarningLevelSort" : 8,
+				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "Capalaba, Chandler, Burbank and surrounding areas",
+				"Latitude" : -27.539319869385,
+				"Longitude" : 153.176768236,
+				"GroupedType" : "FIRE VEGETATION",
+				"ItemDateTimeUTM" : "20260316234100",
+				"ItemDateTimeLocal_ISO" : "2026-03-17T09:41:00+10:00",
+				"PublishDateLocal_ISO" : "2026-03-18T00:38:06+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-03-18T09:41:00+10:00",
+				"MultipleWarnings" : null,
+				"MessageSent" : null,
+				"SendEmailSubscription" : "Yes",
+				"WarningType_Level" : "Advice Fire",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 150.5019021034, -23.2571362822, 0 ],
+						[ 150.5466198921, -23.2966374128, 0 ],
+						[ 150.5975604057, -23.2867020828, 0 ],
+						[ 150.6237816811, -23.2502756109, 0 ],
+						[ 150.5449032783, -23.2094197119, 0 ],
+						[ 150.5019021034, -23.2571362822, 0 ]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2641,
+				"UniqueID" : "IF39-5594421",
+				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Ironpot (near Rockhampton) - fire as at 10:33am Tuesday, 17 March 2026",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
+				"WarningText" : "\nAVOID SMOKE (HAZARD REDUCTION BURN) - Ironpot (near Rockhampton) - fire as at 10:33am Tuesday, 17 March 2026 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Ironpot, Limestone Creek and surrounding areas\n\n\n \n\nSmoke is currently affecting Ironpot and surrounding areas. This is from a Queensland Parks and Wildlife Service  hazard reduction burn near Yeppoon Road, between Ironpot Creek and Limestone Creek. This fire is under control.\n\n\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"Header" : "Smoke is currently affecting Ironpot and surrounding areas. This is from a Queensland Parks and Wildlife Service  hazard reduction burn near Yeppoon Road, between Ironpot Creek and Limestone Creek. This fire is under control.",
+				"Impacts" : "- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.",
+				"WarningLevelSort" : 8,
+				"ShouldDo" : "- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "Ironpot, Limestone Creek and surrounding areas",
+				"Latitude" : -23.264233156782,
+				"Longitude" : 150.56146860122,
+				"GroupedType" : "FIRE VEGETATION",
+				"ItemDateTimeUTM" : "20260317003300",
+				"ItemDateTimeLocal_ISO" : "2026-03-17T10:33:00+10:00",
+				"PublishDateLocal_ISO" : "2026-03-18T00:38:07+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-03-18T10:33:00+10:00",
+				"MultipleWarnings" : null,
+				"MessageSent" : null,
+				"SendEmailSubscription" : "Yes",
+				"WarningType_Level" : "Advice Fire",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 150.59176, -23.275858 ]
+			},
+			"properties" : {
+				"OBJECTID" : 138143,
+				"UniqueID" : "QF2-26-033589",
+				"WarningTitle" : "Information - IRONPOT",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : 100,
-				"WarningArea" : "SOUTHSIDE",
-				"CurrentStatus" : "Going",
-				"Location" : "Sorensen Rd",
-				"Jurisdiction" : "4 North Coast Region",
-				"Latitude" : -26.215941,
-				"Longitude" : 152.66308,
-				"VehiclesAssigned" : 1,
+				"WarningArea" : "IRONPOT",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Yeppoon Rd",
+				"Jurisdiction" : "2 Central Region",
+				"Latitude" : -23.275858,
+				"Longitude" : 150.59176,
+				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
 				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "SOUTHSIDE",
-				"ItemDateTimeUTM" : "20260316004434",
-				"ItemDateTimeLocal_ISO" : "2026-03-16T10:44:34+10:00",
-				"PublishDateLocal_ISO" : "2026-03-16T21:03:04+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-03-17T10:44:34+10:00",
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "IRONPOT",
+				"ItemDateTimeUTM" : "20260316133806.503",
+				"ItemDateTimeLocal_ISO" : "2026-03-16T23:38:06+10:00",
+				"PublishDateLocal_ISO" : "2026-03-18T00:38:07+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-03-17T23:38:06.503+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 150.592408, -23.273923 ]
+			},
+			"properties" : {
+				"OBJECTID" : 138144,
+				"UniqueID" : "QF2-26-033590",
+				"WarningTitle" : "Information - IRONPOT",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "IRONPOT",
+				"CurrentStatus" : "Going",
+				"Location" : "YEPPOON RD",
+				"Jurisdiction" : "2 Central Region",
+				"Latitude" : -23.273923,
+				"Longitude" : 150.592408,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 1,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "IRONPOT",
+				"ItemDateTimeUTM" : "20260316133810.797",
+				"ItemDateTimeLocal_ISO" : "2026-03-16T23:38:10+10:00",
+				"PublishDateLocal_ISO" : "2026-03-18T00:38:07+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-03-17T23:38:10.797+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 143.300091, -18.453577 ]
+			},
+			"properties" : {
+				"OBJECTID" : 138176,
+				"UniqueID" : "QF7-26-033630",
+				"WarningTitle" : "Information - GEORGETOWN",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "GEORGETOWN",
+				"CurrentStatus" : "Going",
+				"Location" : "Gilbert River",
+				"Jurisdiction" : "7 Far Northern Region",
+				"Latitude" : -18.453577,
+				"Longitude" : 143.300091,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "GEORGETOWN",
+				"ItemDateTimeUTM" : "20260316155942",
+				"ItemDateTimeLocal_ISO" : "2026-03-17T01:59:42+10:00",
+				"PublishDateLocal_ISO" : "2026-03-18T00:38:07+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-03-18T01:59:42+10:00",
 				"EventType" : "Fire"
 			}
 		}
