@@ -36,7 +36,7 @@
 				"Locality" : "GEORGETOWN",
 				"ItemDateTimeUTM" : "20260316155942",
 				"ItemDateTimeLocal_ISO" : "2026-03-17T01:59:42+10:00",
-				"PublishDateLocal_ISO" : "2026-03-20T00:33:07+10:00",
+				"PublishDateLocal_ISO" : "2026-03-21T00:23:06+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-03-18T01:59:42+10:00",
 				"EventType" : "Fire"
 			}
@@ -69,7 +69,7 @@
 				"Locality" : "LAWN HILL",
 				"ItemDateTimeUTM" : "20260317213740.357",
 				"ItemDateTimeLocal_ISO" : "2026-03-18T07:37:40+10:00",
-				"PublishDateLocal_ISO" : "2026-03-20T00:33:07+10:00",
+				"PublishDateLocal_ISO" : "2026-03-21T00:23:06+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-03-19T07:37:40.357+10:00",
 				"EventType" : "Fire"
 			}
@@ -102,7 +102,7 @@
 				"Locality" : "GILBERTON",
 				"ItemDateTimeUTM" : "20260317122511",
 				"ItemDateTimeLocal_ISO" : "2026-03-17T22:25:11+10:00",
-				"PublishDateLocal_ISO" : "2026-03-20T00:33:07+10:00",
+				"PublishDateLocal_ISO" : "2026-03-21T00:23:06+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-03-18T22:25:11+10:00",
 				"EventType" : "Fire"
 			}
@@ -135,41 +135,8 @@
 				"Locality" : "EINASLEIGH",
 				"ItemDateTimeUTM" : "20260317122728",
 				"ItemDateTimeLocal_ISO" : "2026-03-17T22:27:28+10:00",
-				"PublishDateLocal_ISO" : "2026-03-20T00:33:07+10:00",
+				"PublishDateLocal_ISO" : "2026-03-21T00:23:06+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-03-18T22:27:28+10:00",
-				"EventType" : "Fire"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 16944624.6424710229, -3228964.1818027487 ]
-			},
-			"properties" : {
-				"OBJECTID" : 138645,
-				"UniqueID" : "QF6-26-034376",
-				"WarningTitle" : "Information - EAST HALDON",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "EAST HALDON",
-				"CurrentStatus" : "Going",
-				"Location" : "East Haldon Rd",
-				"Jurisdiction" : "6 South Eastern Region",
-				"Latitude" : -27.841174,
-				"Longitude" : 152.216153,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 1,
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "EAST HALDON",
-				"ItemDateTimeUTM" : "20260318135716.833",
-				"ItemDateTimeLocal_ISO" : "2026-03-18T23:57:16+10:00",
-				"PublishDateLocal_ISO" : "2026-03-20T00:33:07+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-03-19T23:57:16.833+10:00",
 				"EventType" : "Fire"
 			}
 		}
