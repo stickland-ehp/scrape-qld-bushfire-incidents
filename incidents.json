@@ -36,7 +36,7 @@
 				"Locality" : "GEORGETOWN",
 				"ItemDateTimeUTM" : "20260316155942",
 				"ItemDateTimeLocal_ISO" : "2026-03-17T01:59:42+10:00",
-				"PublishDateLocal_ISO" : "2026-03-21T00:23:06+10:00",
+				"PublishDateLocal_ISO" : "2026-03-21T23:58:04+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-03-18T01:59:42+10:00",
 				"EventType" : "Fire"
 			}
@@ -69,7 +69,7 @@
 				"Locality" : "LAWN HILL",
 				"ItemDateTimeUTM" : "20260317213740.357",
 				"ItemDateTimeLocal_ISO" : "2026-03-18T07:37:40+10:00",
-				"PublishDateLocal_ISO" : "2026-03-21T00:23:06+10:00",
+				"PublishDateLocal_ISO" : "2026-03-21T23:58:04+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-03-19T07:37:40.357+10:00",
 				"EventType" : "Fire"
 			}
@@ -102,7 +102,7 @@
 				"Locality" : "GILBERTON",
 				"ItemDateTimeUTM" : "20260317122511",
 				"ItemDateTimeLocal_ISO" : "2026-03-17T22:25:11+10:00",
-				"PublishDateLocal_ISO" : "2026-03-21T00:23:06+10:00",
+				"PublishDateLocal_ISO" : "2026-03-21T23:58:04+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-03-18T22:25:11+10:00",
 				"EventType" : "Fire"
 			}
@@ -135,8 +135,41 @@
 				"Locality" : "EINASLEIGH",
 				"ItemDateTimeUTM" : "20260317122728",
 				"ItemDateTimeLocal_ISO" : "2026-03-17T22:27:28+10:00",
-				"PublishDateLocal_ISO" : "2026-03-21T00:23:06+10:00",
+				"PublishDateLocal_ISO" : "2026-03-21T23:58:04+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-03-18T22:27:28+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 16833674.1757897288, -2745849.7201281278 ]
+			},
+			"properties" : {
+				"OBJECTID" : 139318,
+				"UniqueID" : "QF2-26-035421",
+				"WarningTitle" : "Information - BURUA",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "BURUA",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "MCKENNA RD & DAWSON HWY",
+				"Jurisdiction" : "2 Central Region",
+				"Latitude" : -23.937957,
+				"Longitude" : 151.219468,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "BURUA",
+				"ItemDateTimeUTM" : "20260320205344.637",
+				"ItemDateTimeLocal_ISO" : "2026-03-21T06:53:44+10:00",
+				"PublishDateLocal_ISO" : "2026-03-21T23:58:04+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-03-22T06:53:44.637+10:00",
 				"EventType" : "Fire"
 			}
 		}
