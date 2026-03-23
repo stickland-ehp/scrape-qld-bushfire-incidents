@@ -36,7 +36,7 @@
 				"Locality" : "GEORGETOWN",
 				"ItemDateTimeUTM" : "20260316155942",
 				"ItemDateTimeLocal_ISO" : "2026-03-17T01:59:42+10:00",
-				"PublishDateLocal_ISO" : "2026-03-23T00:03:05+10:00",
+				"PublishDateLocal_ISO" : "2026-03-24T00:38:05+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-03-18T01:59:42+10:00",
 				"EventType" : "Fire"
 			}
@@ -69,7 +69,7 @@
 				"Locality" : "LAWN HILL",
 				"ItemDateTimeUTM" : "20260317213740.357",
 				"ItemDateTimeLocal_ISO" : "2026-03-18T07:37:40+10:00",
-				"PublishDateLocal_ISO" : "2026-03-23T00:03:05+10:00",
+				"PublishDateLocal_ISO" : "2026-03-24T00:38:05+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-03-19T07:37:40.357+10:00",
 				"EventType" : "Fire"
 			}
@@ -102,7 +102,7 @@
 				"Locality" : "GILBERTON",
 				"ItemDateTimeUTM" : "20260317122511",
 				"ItemDateTimeLocal_ISO" : "2026-03-17T22:25:11+10:00",
-				"PublishDateLocal_ISO" : "2026-03-23T00:03:05+10:00",
+				"PublishDateLocal_ISO" : "2026-03-24T00:38:05+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-03-18T22:25:11+10:00",
 				"EventType" : "Fire"
 			}
@@ -135,7 +135,7 @@
 				"Locality" : "EINASLEIGH",
 				"ItemDateTimeUTM" : "20260317122728",
 				"ItemDateTimeLocal_ISO" : "2026-03-17T22:27:28+10:00",
-				"PublishDateLocal_ISO" : "2026-03-23T00:03:05+10:00",
+				"PublishDateLocal_ISO" : "2026-03-24T00:38:05+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-03-18T22:27:28+10:00",
 				"EventType" : "Fire"
 			}
@@ -144,32 +144,65 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16934550.0059152506, -3107037.9200445921 ]
+				"coordinates" : [ 16159328.7530757561, -2351263.2851781291 ]
 			},
 			"properties" : {
-				"OBJECTID" : 139546,
-				"UniqueID" : "QF4-26-035762",
-				"WarningTitle" : "Information - BLACKBUTT NORTH",
+				"OBJECTID" : 139741,
+				"UniqueID" : "QF1-26-036029",
+				"WarningTitle" : "Information - TORRENS CREEK",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : 100,
-				"WarningArea" : "BLACKBUTT NORTH",
+				"WarningArea" : "TORRENS CREEK",
+				"CurrentStatus" : "Going",
+				"Location" : "Poison Valley Rd",
+				"Jurisdiction" : "1 Northern Region",
+				"Latitude" : -20.658993,
+				"Longitude" : 145.16172,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 1,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "TORRENS CREEK",
+				"ItemDateTimeUTM" : "20260322142523.963",
+				"ItemDateTimeLocal_ISO" : "2026-03-23T00:25:23+10:00",
+				"PublishDateLocal_ISO" : "2026-03-24T00:38:05+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-03-24T00:25:23.963+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 16991202.387211293, -3184531.9062632653 ]
+			},
+			"properties" : {
+				"OBJECTID" : 139792,
+				"UniqueID" : "QF6-26-036112",
+				"WarningTitle" : "Information - FAIRNEY VIEW",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "FAIRNEY VIEW",
 				"CurrentStatus" : "Patrolled",
-				"Location" : "Anita Rd",
-				"Jurisdiction" : "4 North Coast Region",
-				"Latitude" : -26.868386,
-				"Longitude" : 152.125651,
+				"Location" : "Hecks Rd",
+				"Jurisdiction" : "6 South Eastern Region",
+				"Latitude" : -27.487662,
+				"Longitude" : 152.634568,
 				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
 				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "BLACKBUTT NORTH",
-				"ItemDateTimeUTM" : "20260321180313.093",
-				"ItemDateTimeLocal_ISO" : "2026-03-22T04:03:13+10:00",
-				"PublishDateLocal_ISO" : "2026-03-23T00:03:05+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-03-23T04:03:13.093+10:00",
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "FAIRNEY VIEW",
+				"ItemDateTimeUTM" : "20260322175357",
+				"ItemDateTimeLocal_ISO" : "2026-03-23T03:53:57+10:00",
+				"PublishDateLocal_ISO" : "2026-03-24T00:38:05+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-03-24T03:53:57+10:00",
 				"EventType" : "Fire"
 			}
 		}
