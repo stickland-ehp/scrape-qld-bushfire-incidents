@@ -5,24 +5,97 @@
 		{
 			"type" : "Feature",
 			"geometry" : {
-				"type" : "Polygon",
+				"type" : "MultiPolygon",
 				"coordinates" : [
 					[
-						[ 149.928025812, -27.7969416505, 0 ],
-						[ 149.9911971987, -27.9753734625, 0 ],
-						[ 150.280961603, -27.8940838688, 0 ],
-						[ 150.2260299624, -27.7203809789, 0 ],
-						[ 149.928025812, -27.7969416505, 0 ]
+						[
+							[ 151.5311236228, -28.2155121764, 0 ],
+							[ 151.5310243697, -28.2155169754, 0 ],
+							[ 151.5311197348, -28.2155337922, 0 ],
+							[ 151.5311236228, -28.2155121764, 0 ]
+						]
+					],
+					[
+						[
+							[ 151.5311236228, -28.2155121764, 0 ],
+							[ 151.5650896186, -28.2138698594, 0 ],
+							[ 151.5686945075, -28.2060037313, 0 ],
+							[ 151.5997652167, -28.2013140333, 0 ],
+							[ 151.600795185, -28.1795269307, 0 ],
+							[ 151.5925554389, -28.1674210665, 0 ],
+							[ 151.5403703803, -28.1640917137, 0 ],
+							[ 151.5311236228, -28.2155121764, 0 ]
+						]
 					]
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 2652,
-				"UniqueID" : "IF39-5650421",
-				"WarningTitle" : "AVOID SMOKE - Southwood (near Moonie) - fire as at  8:39pm Thursday, 26 March 2026",
+				"OBJECTID" : 2655,
+				"UniqueID" : "IF39-5652421",
+				"WarningTitle" : "AVOID SMOKE - Karara (near Warwick) - fire as at  6:18pm Friday, 27 March 2026",
 				"WarningLevel" : "Advice",
 				"CallToAction" : "AVOID SMOKE",
-				"WarningText" : "\nAVOID SMOKE - Southwood (near Moonie) - fire as at  8:39pm Thursday, 26 March 2026 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Southwood and surrounding areas\n\n\n \n\nSmoke is currently affecting Southwood and surrounding areas. This is from a fire burning near the Moonie Highway and Fabians Road.\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- No properties are at risk.\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- Some roads may be closed.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if the situation changes.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"WarningText" : "\nAVOID SMOKE - Karara (near Warwick) - fire as at  6:18pm Friday, 27 March 2026 \n\n \n\nWarning level: ADVICE\n\n\nWarning area: Between Warahgai Road, Back Creek Road and Cunningham Highway, including Toowoomba Karara Road\n\n\n \n\nSmoke is currently affecting Between Warahgai Road, Back Creek Road and Cunningham Highway, including Toowoomba Karara Road. This is from a fire burning near Warahgai Road and Toowoomba Karara Road. This fire is under control.\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- No properties are at risk.\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- Some roads may be closed.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if the situation changes.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"Header" : "Smoke is currently affecting Between Warahgai Road, Back Creek Road and Cunningham Highway, including Toowoomba Karara Road. This is from a fire burning near Warahgai Road and Toowoomba Karara Road. This fire is under control.",
+				"Impacts" : "- No properties are at risk.\r\n\r\n- Smoke can make it hard for some people to breathe.\r\n\r\n- Smoke can make it hard to see when you are driving.\r\n\r\n- Some roads may be closed.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from Queensland Fire Department.",
+				"WarningLevelSort" : 7,
+				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "Between Warahgai Road, Back Creek Road and Cunningham Highway, including Toowoomba Karara Road",
+				"Master_Incident_Number" : "QF3-26-037788",
+				"CurrentStatus" : "Going",
+				"Location" : "Warahgai Rd & Toowoomba Karara Rd",
+				"Jurisdiction" : "3 South Western Region",
+				"Latitude" : -28.191312026962,
+				"Longitude" : 151.56587162918,
+				"VehiclesAssigned" : 1,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "KARARA",
+				"ItemDateTimeUTM" : "20260327081800",
+				"ItemDateTimeLocal_ISO" : "2026-03-27T18:18:00+10:00",
+				"PublishDateLocal_ISO" : "2026-03-28T00:33:05+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-03-28T18:18:00+10:00",
+				"MultipleWarnings" : null,
+				"MessageSent" : null,
+				"SendEmailSubscription" : "Yes",
+				"WarningType_Level" : "Advice Fire",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "MultiPolygon",
+				"coordinates" : [
+					[
+						[
+							[ 149.9925314676, -27.9760193953, 0 ],
+							[ 149.9917502367, -27.9762493749, 0 ],
+							[ 149.992970977, -27.9771926601, 0 ],
+							[ 149.9925314676, -27.9760193953, 0 ]
+						]
+					],
+					[
+						[
+							[ 149.9925314676, -27.9760193953, 0 ],
+							[ 150.288381096, -27.8888916508, 0 ],
+							[ 150.2279562914, -27.7188275938, 0 ],
+							[ 149.9258322679, -27.7978190076, 0 ],
+							[ 149.9925314676, -27.9760193953, 0 ]
+						]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2656,
+				"UniqueID" : "IF39-5652621",
+				"WarningTitle" : "AVOID SMOKE - Southwood (near Moonie) - fire as at  6:25pm Friday, 27 March 2026",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "AVOID SMOKE",
+				"WarningText" : "\nAVOID SMOKE - Southwood (near Moonie) - fire as at  6:25pm Friday, 27 March 2026 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Southwood and surrounding areas\n\n\n \n\nSmoke is currently affecting Southwood and surrounding areas. This is from a fire burning near the Moonie Highway and Fabians Road.\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- No properties are at risk.\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- Some roads may be closed.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if the situation changes.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
 				"Header" : "Smoke is currently affecting Southwood and surrounding areas. This is from a fire burning near the Moonie Highway and Fabians Road.",
 				"Impacts" : "- No properties are at risk.\r\n\r\n- Smoke can make it hard for some people to breathe.\r\n\r\n- Smoke can make it hard to see when you are driving.\r\n\r\n- Some roads may be closed.",
 				"LeaveSafely" : null,
@@ -30,102 +103,17 @@
 				"WarningLevelSort" : 7,
 				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Follow your bushfire survival plan now. If you do not have a bushfire survival plan, make one on the QFD website.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
 				"WarningArea" : "Southwood and surrounding areas",
-				"Latitude" : -27.854023246911,
-				"Longitude" : 150.10243377097,
+				"Latitude" : -27.848829108595,
+				"Longitude" : 150.11122655503,
 				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20260326103800",
-				"ItemDateTimeLocal_ISO" : "2026-03-26T20:38:00+10:00",
-				"PublishDateLocal_ISO" : "2026-03-27T00:48:04+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-03-27T20:38:00+10:00",
+				"ItemDateTimeUTM" : "20260327082500",
+				"ItemDateTimeLocal_ISO" : "2026-03-27T18:25:00+10:00",
+				"PublishDateLocal_ISO" : "2026-03-28T00:33:06+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-03-28T18:25:00+10:00",
 				"MultipleWarnings" : null,
 				"MessageSent" : null,
 				"SendEmailSubscription" : "Yes",
 				"WarningType_Level" : "Advice Fire",
-				"EventType" : "Fire"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 153.0133263018, -26.3663368524, 0 ],
-						[ 153.0150143019, -26.3610621217, 0 ],
-						[ 153.0137459209, -26.3561291186, 0 ],
-						[ 153.0140701748, -26.3436143626, 0 ],
-						[ 153.0140224818, -26.3435887228, 0 ],
-						[ 152.9977241854, -26.3367343315, 0 ],
-						[ 152.9931036298, -26.3397170943, 0 ],
-						[ 152.9903904183, -26.3426998665, 0 ],
-						[ 152.9673305872, -26.348818967, 0 ],
-						[ 152.9728380634, -26.3642723118, 0 ],
-						[ 152.9759732619, -26.3737505176, 0 ],
-						[ 152.9823509577, -26.3790420682, 0 ],
-						[ 153.0000797621, -26.3743982117, 0 ],
-						[ 153.0080858574, -26.3727598826, 0 ],
-						[ 153.0133263018, -26.3663368524, 0 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : 2651,
-				"UniqueID" : "IF39-5648321",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Cooroibah (near Noosa) - fire as at  1:53pm Thursday, 26 March 2026",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
-				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Cooroibah (near Noosa) - fire as at  1:53pm Thursday, 26 March 2026 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Cooroibah and surrounding areas\n\n\n \n\nSmoke is currently affecting Cooroibah and surrounding areas. This is from a hazard reduction burn on Maximillian Road, Noosa North Shore. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
-				"Header" : "Smoke is currently affecting Cooroibah and surrounding areas. This is from a hazard reduction burn on Maximillian Road, Noosa North Shore. This fire is under control.",
-				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire Department.",
-				"WarningLevelSort" : 8,
-				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
-				"WarningArea" : "Cooroibah and surrounding areas",
-				"Latitude" : -26.360609120474,
-				"Longitude" : 152.99370060993,
-				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20260326033200",
-				"ItemDateTimeLocal_ISO" : "2026-03-26T13:32:00+10:00",
-				"PublishDateLocal_ISO" : "2026-03-27T00:48:05+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-03-27T13:32:00+10:00",
-				"MultipleWarnings" : null,
-				"MessageSent" : null,
-				"SendEmailSubscription" : "Yes",
-				"WarningType_Level" : "Advice Fire",
-				"EventType" : "Fire"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 143.300091, -18.453577 ]
-			},
-			"properties" : {
-				"OBJECTID" : 138176,
-				"UniqueID" : "QF7-26-033630",
-				"WarningTitle" : "Information - GEORGETOWN",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "GEORGETOWN",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "Gilbert River",
-				"Jurisdiction" : "7 Far Northern Region",
-				"Latitude" : -18.453577,
-				"Longitude" : 143.300091,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "GEORGETOWN",
-				"ItemDateTimeUTM" : "20260316155942",
-				"ItemDateTimeLocal_ISO" : "2026-03-17T01:59:42+10:00",
-				"PublishDateLocal_ISO" : "2026-03-27T00:48:05+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-03-18T01:59:42+10:00",
 				"EventType" : "Fire"
 			}
 		},
@@ -157,7 +145,7 @@
 				"Locality" : "GILBERTON",
 				"ItemDateTimeUTM" : "20260317122511",
 				"ItemDateTimeLocal_ISO" : "2026-03-17T22:25:11+10:00",
-				"PublishDateLocal_ISO" : "2026-03-27T00:48:05+10:00",
+				"PublishDateLocal_ISO" : "2026-03-28T00:33:06+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-03-18T22:25:11+10:00",
 				"EventType" : "Fire"
 			}
@@ -190,41 +178,8 @@
 				"Locality" : "EINASLEIGH",
 				"ItemDateTimeUTM" : "20260317122728",
 				"ItemDateTimeLocal_ISO" : "2026-03-17T22:27:28+10:00",
-				"PublishDateLocal_ISO" : "2026-03-27T00:48:05+10:00",
+				"PublishDateLocal_ISO" : "2026-03-28T00:33:06+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-03-18T22:27:28+10:00",
-				"EventType" : "Fire"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 150.579099, -26.643792 ]
-			},
-			"properties" : {
-				"OBJECTID" : 140324,
-				"UniqueID" : "QF3-26-036993",
-				"WarningTitle" : "Information - BAKING BOARD",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "BAKING BOARD",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "AUBURN RD",
-				"Jurisdiction" : "3 South Western Region",
-				"Latitude" : -26.643792,
-				"Longitude" : 150.579099,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "BAKING BOARD",
-				"ItemDateTimeUTM" : "20260324203318",
-				"ItemDateTimeLocal_ISO" : "2026-03-25T06:33:18+10:00",
-				"PublishDateLocal_ISO" : "2026-03-27T00:48:05+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-03-26T06:33:18+10:00",
 				"EventType" : "Fire"
 			}
 		},
@@ -244,19 +199,19 @@
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : 100,
 				"WarningArea" : "SOUTHWOOD",
-				"CurrentStatus" : "Going",
+				"CurrentStatus" : "Patrolled",
 				"Location" : "MOONIE HWY",
 				"Jurisdiction" : "3 South Western Region",
 				"Latitude" : -27.842534,
 				"Longitude" : 150.115108,
-				"VehiclesAssigned" : 1,
+				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 2,
+				"VehiclesOnScene" : 0,
 				"GroupedType" : "FIRE VEGETATION",
 				"Locality" : "SOUTHWOOD",
 				"ItemDateTimeUTM" : "20260325175604",
 				"ItemDateTimeLocal_ISO" : "2026-03-26T03:56:04+10:00",
-				"PublishDateLocal_ISO" : "2026-03-27T00:48:05+10:00",
+				"PublishDateLocal_ISO" : "2026-03-28T00:33:06+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-03-27T03:56:04+10:00",
 				"EventType" : "Fire"
 			}
@@ -289,7 +244,7 @@
 				"Locality" : "YULEBA SOUTH",
 				"ItemDateTimeUTM" : "20260325193003",
 				"ItemDateTimeLocal_ISO" : "2026-03-26T05:30:03+10:00",
-				"PublishDateLocal_ISO" : "2026-03-27T00:48:05+10:00",
+				"PublishDateLocal_ISO" : "2026-03-28T00:33:06+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-03-27T05:30:03+10:00",
 				"EventType" : "Fire"
 			}
@@ -322,7 +277,7 @@
 				"Locality" : "WAIRUNA",
 				"ItemDateTimeUTM" : "20260325223927",
 				"ItemDateTimeLocal_ISO" : "2026-03-26T08:39:27+10:00",
-				"PublishDateLocal_ISO" : "2026-03-27T00:48:05+10:00",
+				"PublishDateLocal_ISO" : "2026-03-28T00:33:06+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-03-27T08:39:27+10:00",
 				"EventType" : "Fire"
 			}
@@ -355,8 +310,74 @@
 				"Locality" : "ABERDEEN",
 				"ItemDateTimeUTM" : "20260325230636",
 				"ItemDateTimeLocal_ISO" : "2026-03-26T09:06:36+10:00",
-				"PublishDateLocal_ISO" : "2026-03-27T00:48:05+10:00",
+				"PublishDateLocal_ISO" : "2026-03-28T00:33:06+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-03-27T09:06:36+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 145.597925, -16.914622 ]
+			},
+			"properties" : {
+				"OBJECTID" : 140681,
+				"UniqueID" : "QF7-26-037759",
+				"WarningTitle" : "Information - KOAH",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "KOAH",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Cedar Park Rd",
+				"Jurisdiction" : "7 Far Northern Region",
+				"Latitude" : -16.914622,
+				"Longitude" : 145.597925,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "KOAH",
+				"ItemDateTimeUTM" : "20260326163442",
+				"ItemDateTimeLocal_ISO" : "2026-03-27T02:34:42+10:00",
+				"PublishDateLocal_ISO" : "2026-03-28T00:33:06+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-03-28T02:34:42+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 152.665611, -25.464339 ]
+			},
+			"properties" : {
+				"OBJECTID" : 140773,
+				"UniqueID" : "QF4-26-037897",
+				"WarningTitle" : "Information - ALDERSHOT",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "ALDERSHOT",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Shiplick St",
+				"Jurisdiction" : "4 North Coast Region",
+				"Latitude" : -25.464339,
+				"Longitude" : 152.665611,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "ALDERSHOT",
+				"ItemDateTimeUTM" : "20260326214151",
+				"ItemDateTimeLocal_ISO" : "2026-03-27T07:41:51+10:00",
+				"PublishDateLocal_ISO" : "2026-03-28T00:33:06+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-03-28T07:41:51+10:00",
 				"EventType" : "Fire"
 			}
 		}
