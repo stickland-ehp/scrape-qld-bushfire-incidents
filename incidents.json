@@ -43,7 +43,7 @@
 				"Locality" : "KINKA BEACH",
 				"ItemDateTimeUTM" : "20260503065500",
 				"ItemDateTimeLocal_ISO" : "2026-05-03T16:55:00+10:00",
-				"PublishDateLocal_ISO" : "2026-05-04T00:28:05+10:00",
+				"PublishDateLocal_ISO" : "2026-05-05T01:28:08+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-05-04T16:55:00+10:00",
 				"MultipleWarnings" : null,
 				"MessageSent" : null,
@@ -86,7 +86,7 @@
 				"GroupedType" : "FIRE VEGETATION",
 				"ItemDateTimeUTM" : "20260502063100",
 				"ItemDateTimeLocal_ISO" : "2026-05-02T16:31:00+10:00",
-				"PublishDateLocal_ISO" : "2026-05-04T00:28:05+10:00",
+				"PublishDateLocal_ISO" : "2026-05-05T01:28:08+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-05-03T16:31:00+10:00",
 				"MultipleWarnings" : null,
 				"MessageSent" : null,
@@ -128,8 +128,50 @@
 				"GroupedType" : "FIRE VEGETATION",
 				"ItemDateTimeUTM" : "20260502063200",
 				"ItemDateTimeLocal_ISO" : "2026-05-02T16:32:00+10:00",
-				"PublishDateLocal_ISO" : "2026-05-04T00:28:05+10:00",
+				"PublishDateLocal_ISO" : "2026-05-05T01:28:08+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-05-03T16:32:00+10:00",
+				"MultipleWarnings" : null,
+				"MessageSent" : null,
+				"SendEmailSubscription" : "Yes",
+				"WarningType_Level" : "Advice Fire",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 148.6476253011, -27.9473274561, 0 ],
+						[ 148.5164760091, -28.0370621959, 0 ],
+						[ 148.5878871419, -28.1079482277, 0 ],
+						[ 148.7183497884, -28.0152417034, 0 ],
+						[ 148.6476253011, -27.9473274561, 0 ]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2840,
+				"UniqueID" : "IF39-5709321",
+				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - St George - fire as at  9:19am Monday,  4 May 2026",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
+				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - St George - fire as at  9:19am Monday,  4 May 2026 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: St George and surrounding areas\n\n\n \n\nSmoke is currently affecting St George and surrounding areas. This is from a hazard reduction burn near Salmon Road and the Carnarvon Highway. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"Header" : "Smoke is currently affecting St George and surrounding areas. This is from a hazard reduction burn near Salmon Road and the Carnarvon Highway. This fire is under control.",
+				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire Department.",
+				"WarningLevelSort" : 8,
+				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "St George and surrounding areas",
+				"Latitude" : -28.02948613731,
+				"Longitude" : 148.60951647543,
+				"GroupedType" : "FIRE VEGETATION",
+				"ItemDateTimeUTM" : "20260503231500",
+				"ItemDateTimeLocal_ISO" : "2026-05-04T09:15:00+10:00",
+				"PublishDateLocal_ISO" : "2026-05-05T01:28:08+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-05-05T09:15:00+10:00",
 				"MultipleWarnings" : null,
 				"MessageSent" : null,
 				"SendEmailSubscription" : "Yes",
@@ -165,7 +207,7 @@
 				"Locality" : "TORRENS CREEK",
 				"ItemDateTimeUTM" : "20260419151619.443",
 				"ItemDateTimeLocal_ISO" : "2026-04-20T01:16:19+10:00",
-				"PublishDateLocal_ISO" : "2026-05-04T00:28:05+10:00",
+				"PublishDateLocal_ISO" : "2026-05-05T01:28:08+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-04-21T01:16:19.443+10:00",
 				"EventType" : "Fire"
 			}
@@ -198,7 +240,7 @@
 				"Locality" : "AURUKUN",
 				"ItemDateTimeUTM" : "20260420131947",
 				"ItemDateTimeLocal_ISO" : "2026-04-20T23:19:47+10:00",
-				"PublishDateLocal_ISO" : "2026-05-04T00:28:05+10:00",
+				"PublishDateLocal_ISO" : "2026-05-05T01:28:08+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-04-21T23:19:47+10:00",
 				"EventType" : "Fire"
 			}
@@ -231,7 +273,7 @@
 				"Locality" : "BERAJONDO",
 				"ItemDateTimeUTM" : "20260418181524.747",
 				"ItemDateTimeLocal_ISO" : "2026-04-19T04:15:24+10:00",
-				"PublishDateLocal_ISO" : "2026-05-04T00:28:05+10:00",
+				"PublishDateLocal_ISO" : "2026-05-05T01:28:08+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-04-20T04:15:24.747+10:00",
 				"EventType" : "Fire"
 			}
@@ -264,7 +306,7 @@
 				"Locality" : "CANAL CREEK",
 				"ItemDateTimeUTM" : "20260422132753",
 				"ItemDateTimeLocal_ISO" : "2026-04-22T23:27:53+10:00",
-				"PublishDateLocal_ISO" : "2026-05-04T00:28:05+10:00",
+				"PublishDateLocal_ISO" : "2026-05-05T01:28:08+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-04-23T23:27:53+10:00",
 				"EventType" : "Fire"
 			}
@@ -297,41 +339,8 @@
 				"Locality" : "GILBERTON",
 				"ItemDateTimeUTM" : "20260427151732",
 				"ItemDateTimeLocal_ISO" : "2026-04-28T01:17:32+10:00",
-				"PublishDateLocal_ISO" : "2026-05-04T00:28:05+10:00",
+				"PublishDateLocal_ISO" : "2026-05-05T01:28:08+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-04-29T01:17:32+10:00",
-				"EventType" : "Fire"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 146.964802, -19.500255 ]
-			},
-			"properties" : {
-				"OBJECTID" : 149671,
-				"UniqueID" : "QF1-26-052925",
-				"WarningTitle" : "Information - MOUNT ELLIOT",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "MOUNT ELLIOT",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "Unknown",
-				"Jurisdiction" : "1 Northern Region",
-				"Latitude" : -19.500255,
-				"Longitude" : 146.964802,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "MOUNT ELLIOT",
-				"ItemDateTimeUTM" : "20260427153752.507",
-				"ItemDateTimeLocal_ISO" : "2026-04-28T01:37:52+10:00",
-				"PublishDateLocal_ISO" : "2026-05-04T00:28:05+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-04-29T01:37:52.507+10:00",
 				"EventType" : "Fire"
 			}
 		},
@@ -363,7 +372,7 @@
 				"Locality" : "PENTLAND",
 				"ItemDateTimeUTM" : "20260427163841.963",
 				"ItemDateTimeLocal_ISO" : "2026-04-28T02:38:41+10:00",
-				"PublishDateLocal_ISO" : "2026-05-04T00:28:05+10:00",
+				"PublishDateLocal_ISO" : "2026-05-05T01:28:08+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-04-29T02:38:41.963+10:00",
 				"EventType" : "Fire"
 			}
@@ -396,7 +405,7 @@
 				"Locality" : "PORCUPINE",
 				"ItemDateTimeUTM" : "20260427163910.55",
 				"ItemDateTimeLocal_ISO" : "2026-04-28T02:39:10+10:00",
-				"PublishDateLocal_ISO" : "2026-05-04T00:28:05+10:00",
+				"PublishDateLocal_ISO" : "2026-05-05T01:28:08+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-04-29T02:39:10.55+10:00",
 				"EventType" : "Fire"
 			}
@@ -429,7 +438,7 @@
 				"Locality" : "LYNDHURST",
 				"ItemDateTimeUTM" : "20260427163936.39",
 				"ItemDateTimeLocal_ISO" : "2026-04-28T02:39:36+10:00",
-				"PublishDateLocal_ISO" : "2026-05-04T00:28:05+10:00",
+				"PublishDateLocal_ISO" : "2026-05-05T01:28:08+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-04-29T02:39:36.39+10:00",
 				"EventType" : "Fire"
 			}
@@ -462,7 +471,7 @@
 				"Locality" : "CONJUBOY",
 				"ItemDateTimeUTM" : "20260427112926",
 				"ItemDateTimeLocal_ISO" : "2026-04-27T21:29:26+10:00",
-				"PublishDateLocal_ISO" : "2026-05-04T00:28:05+10:00",
+				"PublishDateLocal_ISO" : "2026-05-05T01:28:08+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-04-28T21:29:26+10:00",
 				"EventType" : "Fire"
 			}
@@ -495,7 +504,7 @@
 				"Locality" : "MOUNT SURPRISE",
 				"ItemDateTimeUTM" : "20260429145206",
 				"ItemDateTimeLocal_ISO" : "2026-04-30T00:52:06+10:00",
-				"PublishDateLocal_ISO" : "2026-05-04T00:28:05+10:00",
+				"PublishDateLocal_ISO" : "2026-05-05T01:28:08+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-05-01T00:52:06+10:00",
 				"EventType" : "Fire"
 			}
@@ -504,32 +513,32 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 151.97042, -26.479929 ]
+				"coordinates" : [ 148.638469, -28.00306 ]
 			},
 			"properties" : {
-				"OBJECTID" : 150828,
-				"UniqueID" : "QF4-26-054567",
-				"WarningTitle" : "Information - WATTLE CAMP",
+				"OBJECTID" : 151308,
+				"UniqueID" : "QF3-26-055296",
+				"WarningTitle" : "Information - ST GEORGE",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : 100,
-				"WarningArea" : "WATTLE CAMP",
+				"WarningArea" : "ST GEORGE",
 				"CurrentStatus" : "Patrolled",
-				"Location" : "Franklin Rd & Granite Cres",
-				"Jurisdiction" : "4 North Coast Region",
-				"Latitude" : -26.479929,
-				"Longitude" : 151.97042,
+				"Location" : "CARNARVON HWY & SALMON RD",
+				"Jurisdiction" : "3 South Western Region",
+				"Latitude" : -28.00306,
+				"Longitude" : 148.638469,
 				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
 				"VehiclesOnScene" : 0,
 				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "WATTLE CAMP",
-				"ItemDateTimeUTM" : "20260501185659",
-				"ItemDateTimeLocal_ISO" : "2026-05-02T04:56:59+10:00",
-				"PublishDateLocal_ISO" : "2026-05-04T00:28:05+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-05-03T04:56:59+10:00",
+				"Locality" : "ST GEORGE",
+				"ItemDateTimeUTM" : "20260503121157.877",
+				"ItemDateTimeLocal_ISO" : "2026-05-03T22:11:57+10:00",
+				"PublishDateLocal_ISO" : "2026-05-05T01:28:08+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-05-04T22:11:57.877+10:00",
 				"EventType" : "Fire"
 			}
 		},
@@ -537,65 +546,65 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 151.91593, -28.104963 ]
+				"coordinates" : [ 151.213935, -23.961223 ]
 			},
 			"properties" : {
-				"OBJECTID" : 151262,
-				"UniqueID" : "QF3-26-055236",
-				"WarningTitle" : "Information - DEUCHAR",
+				"OBJECTID" : 151442,
+				"UniqueID" : "QF2-26-055473",
+				"WarningTitle" : "Information - BURUA",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : 100,
-				"WarningArea" : "DEUCHAR",
+				"WarningArea" : "BURUA",
 				"CurrentStatus" : "Going",
-				"Location" : "Quigleys Rd",
-				"Jurisdiction" : "3 South Western Region",
-				"Latitude" : -28.104963,
-				"Longitude" : 151.91593,
-				"VehiclesAssigned" : 2,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "DEUCHAR",
-				"ItemDateTimeUTM" : "20260503041236",
-				"ItemDateTimeLocal_ISO" : "2026-05-03T14:12:36+10:00",
-				"PublishDateLocal_ISO" : "2026-05-04T00:28:05+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-05-04T14:12:36+10:00",
-				"EventType" : "Fire"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 145.332912, -23.554593 ]
-			},
-			"properties" : {
-				"OBJECTID" : 151263,
-				"UniqueID" : "QF2-26-055238",
-				"WarningTitle" : "Information - BARCALDINE",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "BARCALDINE",
-				"CurrentStatus" : "Going",
-				"Location" : "Capricorn Hwy",
+				"Location" : "Brendonna Rd",
 				"Jurisdiction" : "2 Central Region",
-				"Latitude" : -23.554593,
-				"Longitude" : 145.332912,
-				"VehiclesAssigned" : 1,
+				"Latitude" : -23.961223,
+				"Longitude" : 151.213935,
+				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
 				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "BARCALDINE",
-				"ItemDateTimeUTM" : "20260503042014",
-				"ItemDateTimeLocal_ISO" : "2026-05-03T14:20:14+10:00",
-				"PublishDateLocal_ISO" : "2026-05-04T00:28:05+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-05-04T14:20:14+10:00",
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "BURUA",
+				"ItemDateTimeUTM" : "20260503190510.143",
+				"ItemDateTimeLocal_ISO" : "2026-05-04T05:05:10+10:00",
+				"PublishDateLocal_ISO" : "2026-05-05T01:28:08+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-05-05T05:05:10.143+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 151.219189, -23.954842 ]
+			},
+			"properties" : {
+				"OBJECTID" : 151443,
+				"UniqueID" : "QF2-26-055474",
+				"WarningTitle" : "Information - BURUA",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "BURUA",
+				"CurrentStatus" : "Going",
+				"Location" : "Brendonna Rd",
+				"Jurisdiction" : "2 Central Region",
+				"Latitude" : -23.954842,
+				"Longitude" : 151.219189,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "BURUA",
+				"ItemDateTimeUTM" : "20260503190531.063",
+				"ItemDateTimeLocal_ISO" : "2026-05-04T05:05:31+10:00",
+				"PublishDateLocal_ISO" : "2026-05-05T01:28:08+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-05-05T05:05:31.063+10:00",
 				"EventType" : "Fire"
 			}
 		}
