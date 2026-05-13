@@ -36,7 +36,7 @@
 				"Locality" : "AURUKUN",
 				"ItemDateTimeUTM" : "20260420131947",
 				"ItemDateTimeLocal_ISO" : "2026-04-20T23:19:47+10:00",
-				"PublishDateLocal_ISO" : "2026-05-13T02:03:05+10:00",
+				"PublishDateLocal_ISO" : "2026-05-14T02:08:08+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-04-21T23:19:47+10:00",
 				"EventType" : "Fire"
 			}
@@ -69,7 +69,7 @@
 				"Locality" : "GILBERT RIVER",
 				"ItemDateTimeUTM" : "20260505142134",
 				"ItemDateTimeLocal_ISO" : "2026-05-06T00:21:34+10:00",
-				"PublishDateLocal_ISO" : "2026-05-13T02:03:06+10:00",
+				"PublishDateLocal_ISO" : "2026-05-14T02:08:08+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-05-07T00:21:34+10:00",
 				"EventType" : "Fire"
 			}
@@ -102,8 +102,173 @@
 				"Locality" : "CURTIS ISLAND",
 				"ItemDateTimeUTM" : "20260507164232",
 				"ItemDateTimeLocal_ISO" : "2026-05-08T02:42:32+10:00",
-				"PublishDateLocal_ISO" : "2026-05-13T02:03:06+10:00",
+				"PublishDateLocal_ISO" : "2026-05-14T02:08:08+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-05-09T02:42:32+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 16280764.5139143616, -2283556.2045971849 ]
+			},
+			"properties" : {
+				"OBJECTID" : 153864,
+				"UniqueID" : "QF1-26-059636",
+				"WarningTitle" : "Information - TOWERS HILL",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "TOWERS HILL",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Towers Hill Rd",
+				"Jurisdiction" : "1 Northern Region",
+				"Latitude" : -20.088823,
+				"Longitude" : 146.252596,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "TOWERS HILL",
+				"ItemDateTimeUTM" : "20260512125258.653",
+				"ItemDateTimeLocal_ISO" : "2026-05-12T22:52:58+10:00",
+				"PublishDateLocal_ISO" : "2026-05-14T02:08:08+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-05-13T22:52:58.653+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 16327961.3063429277, -2193391.3202753616 ]
+			},
+			"properties" : {
+				"OBJECTID" : 153872,
+				"UniqueID" : "QF1-26-059649",
+				"WarningTitle" : "Information - BOHLE PLAINS",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "BOHLE PLAINS",
+				"CurrentStatus" : "Going",
+				"Location" : "Gumlow Rd",
+				"Jurisdiction" : "1 Northern Region",
+				"Latitude" : -19.326308,
+				"Longitude" : 146.676572,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 1,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "BOHLE PLAINS",
+				"ItemDateTimeUTM" : "20260512131658.84",
+				"ItemDateTimeLocal_ISO" : "2026-05-12T23:16:58+10:00",
+				"PublishDateLocal_ISO" : "2026-05-14T02:08:08+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-05-13T23:16:58.84+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 15874136.4553057086, -2077593.6387914056 ]
+			},
+			"properties" : {
+				"OBJECTID" : 153909,
+				"UniqueID" : "QF7-26-059705",
+				"WarningTitle" : "Information - GILBERT RIVER",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "GILBERT RIVER",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Littleton Rd",
+				"Jurisdiction" : "7 Far Northern Region",
+				"Latitude" : -18.341791,
+				"Longitude" : 142.599794,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "GILBERT RIVER",
+				"ItemDateTimeUTM" : "20260512160119",
+				"ItemDateTimeLocal_ISO" : "2026-05-13T02:01:19+10:00",
+				"PublishDateLocal_ISO" : "2026-05-14T02:08:08+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-05-14T02:01:19+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 16175924.9306801651, -1965144.3973784547 ]
+			},
+			"properties" : {
+				"OBJECTID" : 153910,
+				"UniqueID" : "QF7-26-059707",
+				"WarningTitle" : "Information - WATSONVILLE",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "WATSONVILLE",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Emily St & James St",
+				"Jurisdiction" : "7 Far Northern Region",
+				"Latitude" : -17.380342,
+				"Longitude" : 145.310806,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "WATSONVILLE",
+				"ItemDateTimeUTM" : "20260512160507",
+				"ItemDateTimeLocal_ISO" : "2026-05-13T02:05:07+10:00",
+				"PublishDateLocal_ISO" : "2026-05-14T02:08:08+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-05-14T02:05:07+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 16147216.1906020306, -2446607.3902950222 ]
+			},
+			"properties" : {
+				"OBJECTID" : 153916,
+				"UniqueID" : "QF1-26-059714",
+				"WarningTitle" : "Information - TORRENS CREEK",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "TORRENS CREEK",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Aramac Torrens Creek Rd",
+				"Jurisdiction" : "1 Northern Region",
+				"Latitude" : -21.458273,
+				"Longitude" : 145.052911,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "TORRENS CREEK",
+				"ItemDateTimeUTM" : "20260512161948.557",
+				"ItemDateTimeLocal_ISO" : "2026-05-13T02:19:48+10:00",
+				"PublishDateLocal_ISO" : "2026-05-14T02:08:08+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-05-14T02:19:48.557+10:00",
 				"EventType" : "Fire"
 			}
 		}
