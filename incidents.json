@@ -1,18 +1,56 @@
 {
 	"type" : "FeatureCollection",
 	"name" : "QFDWarnings",
-	"crs" : {
-		"type" : "name",
-		"properties" : {
-			"name" : "EPSG:3857"
-		}
-	},
 	"features" : [
 		{
 			"type" : "Feature",
 			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 148.2219579266, -20.0063289285, 0 ],
+						[ 148.2394673871, -20.0271355675, 0 ],
+						[ 148.2703664349, -20.0253614654, 0 ],
+						[ 148.2696797894, -20.0076193427, 0 ],
+						[ 148.2686498212, -19.9961665465, 0 ],
+						[ 148.2425572919, -19.9935855196, 0 ],
+						[ 148.2219579266, -20.0063289285, 0 ]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2890,
+				"UniqueID" : "IF39-5720721",
+				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Bowen - fire as at 11:24am Monday, 25 May 2026",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
+				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Bowen - fire as at 11:24am Monday, 25 May 2026 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Bowen and surrounding areas\n\n\n \n\nSmoke is currently affecting Bowen and surrounding areas. This is from a hazard reduction burn near Henry Darwen Drive. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"Header" : "Smoke is currently affecting Bowen and surrounding areas. This is from a hazard reduction burn near Henry Darwen Drive. This fire is under control.",
+				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire Department.",
+				"WarningLevelSort" : 8,
+				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "Bowen and surrounding areas",
+				"Latitude" : -20.010522736109,
+				"Longitude" : 148.24873710142,
+				"GroupedType" : "FIRE VEGETATION",
+				"ItemDateTimeUTM" : "20260525012400",
+				"ItemDateTimeLocal_ISO" : "2026-05-25T11:24:00+10:00",
+				"PublishDateLocal_ISO" : "2026-05-26T02:03:07+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-05-26T11:24:00+10:00",
+				"MultipleWarnings" : null,
+				"MessageSent" : null,
+				"SendEmailSubscription" : "Yes",
+				"WarningType_Level" : "Advice Fire",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16358087.2548583467, -2205027.2139314325 ]
+				"coordinates" : [ 146.947198, -19.424915 ]
 			},
 			"properties" : {
 				"OBJECTID" : 155265,
@@ -36,7 +74,7 @@
 				"Locality" : "ALLIGATOR CREEK",
 				"ItemDateTimeUTM" : "20260517135815.917",
 				"ItemDateTimeLocal_ISO" : "2026-05-17T23:58:15+10:00",
-				"PublishDateLocal_ISO" : "2026-05-25T00:48:04+10:00",
+				"PublishDateLocal_ISO" : "2026-05-26T02:03:08+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-05-18T23:58:15.917+10:00",
 				"EventType" : "Fire"
 			}
@@ -45,40 +83,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16125977.4336340912, -2047984.8670529178 ]
-			},
-			"properties" : {
-				"OBJECTID" : 155649,
-				"UniqueID" : "QF7-26-062202",
-				"WarningTitle" : "Information - ",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : null,
-				"CurrentStatus" : "Patrolled",
-				"Location" : "Unknown",
-				"Jurisdiction" : "7 Far Northern Region",
-				"Latitude" : -18.08914,
-				"Longitude" : 144.86212,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : null,
-				"ItemDateTimeUTM" : "20260518112017",
-				"ItemDateTimeLocal_ISO" : "2026-05-18T21:20:17+10:00",
-				"PublishDateLocal_ISO" : "2026-05-25T00:48:04+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-05-19T21:20:17+10:00",
-				"EventType" : "Fire"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 16187367.7950972747, -1959306.054119193 ]
+				"coordinates" : [ 145.413599, -17.330283 ]
 			},
 			"properties" : {
 				"OBJECTID" : 155669,
@@ -102,7 +107,7 @@
 				"Locality" : "MOOMIN",
 				"ItemDateTimeUTM" : "20260518123337",
 				"ItemDateTimeLocal_ISO" : "2026-05-18T22:33:37+10:00",
-				"PublishDateLocal_ISO" : "2026-05-25T00:48:04+10:00",
+				"PublishDateLocal_ISO" : "2026-05-26T02:03:08+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-05-19T22:33:37+10:00",
 				"EventType" : "Fire"
 			}
@@ -111,7 +116,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16039136.7649077866, -1662224.5842402657 ]
+				"coordinates" : [ 144.082017, -14.765804 ]
 			},
 			"properties" : {
 				"OBJECTID" : 155904,
@@ -135,7 +140,7 @@
 				"Locality" : "LAKEFIELD",
 				"ItemDateTimeUTM" : "20260518164604",
 				"ItemDateTimeLocal_ISO" : "2026-05-19T02:46:04+10:00",
-				"PublishDateLocal_ISO" : "2026-05-25T00:48:04+10:00",
+				"PublishDateLocal_ISO" : "2026-05-26T02:03:08+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-05-20T02:46:04+10:00",
 				"EventType" : "Fire"
 			}
@@ -144,7 +149,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16056589.879952319, -1644525.7437458136 ]
+				"coordinates" : [ 144.238801, -14.612009 ]
 			},
 			"properties" : {
 				"OBJECTID" : 155905,
@@ -168,7 +173,7 @@
 				"Locality" : "LAKEFIELD",
 				"ItemDateTimeUTM" : "20260518164844",
 				"ItemDateTimeLocal_ISO" : "2026-05-19T02:48:44+10:00",
-				"PublishDateLocal_ISO" : "2026-05-25T00:48:04+10:00",
+				"PublishDateLocal_ISO" : "2026-05-26T02:03:08+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-05-20T02:48:44+10:00",
 				"EventType" : "Fire"
 			}
@@ -177,7 +182,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16125789.1923751608, -1790531.1940859216 ]
+				"coordinates" : [ 144.860429, -15.877416 ]
 			},
 			"properties" : {
 				"OBJECTID" : 156031,
@@ -201,7 +206,7 @@
 				"Locality" : "LAKELAND",
 				"ItemDateTimeUTM" : "20260519182537",
 				"ItemDateTimeLocal_ISO" : "2026-05-20T04:25:37+10:00",
-				"PublishDateLocal_ISO" : "2026-05-25T00:48:04+10:00",
+				"PublishDateLocal_ISO" : "2026-05-26T02:03:08+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-05-21T04:25:37+10:00",
 				"EventType" : "Fire"
 			}
@@ -210,7 +215,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16278174.5546415634, -2077124.4163834143 ]
+				"coordinates" : [ 146.22933, -18.33779 ]
 			},
 			"properties" : {
 				"OBJECTID" : 156060,
@@ -234,7 +239,7 @@
 				"Locality" : "HINCHINBROOK",
 				"ItemDateTimeUTM" : "20260419130728",
 				"ItemDateTimeLocal_ISO" : "2026-04-19T23:07:28+10:00",
-				"PublishDateLocal_ISO" : "2026-05-25T00:48:04+10:00",
+				"PublishDateLocal_ISO" : "2026-05-26T02:03:08+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-04-20T23:07:28+10:00",
 				"EventType" : "Fire"
 			}
@@ -243,7 +248,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16087736.5168788247, -1938939.8645131649 ]
+				"coordinates" : [ 144.518596, -17.155553 ]
 			},
 			"properties" : {
 				"OBJECTID" : 156061,
@@ -267,7 +272,7 @@
 				"Locality" : "CHILLAGOE",
 				"ItemDateTimeUTM" : "20260518125905",
 				"ItemDateTimeLocal_ISO" : "2026-05-18T22:59:05+10:00",
-				"PublishDateLocal_ISO" : "2026-05-25T00:48:04+10:00",
+				"PublishDateLocal_ISO" : "2026-05-26T02:03:08+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-05-19T22:59:05+10:00",
 				"EventType" : "Fire"
 			}
@@ -276,7 +281,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16256406.0282169394, -2204032.7656781878 ]
+				"coordinates" : [ 146.03378, -19.41649 ]
 			},
 			"properties" : {
 				"OBJECTID" : 156508,
@@ -300,7 +305,7 @@
 				"Locality" : null,
 				"ItemDateTimeUTM" : "20260521141432.85",
 				"ItemDateTimeLocal_ISO" : "2026-05-22T00:14:32+10:00",
-				"PublishDateLocal_ISO" : "2026-05-25T00:48:04+10:00",
+				"PublishDateLocal_ISO" : "2026-05-26T02:03:08+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-05-23T00:14:32.85+10:00",
 				"EventType" : "Fire"
 			}
@@ -309,7 +314,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16339617.3475849107, -2195418.8085089605 ]
+				"coordinates" : [ 146.78128, -19.343494 ]
 			},
 			"properties" : {
 				"OBJECTID" : 156530,
@@ -333,7 +338,7 @@
 				"Locality" : "ROSENEATH",
 				"ItemDateTimeUTM" : "20260521155458.903",
 				"ItemDateTimeLocal_ISO" : "2026-05-22T01:54:58+10:00",
-				"PublishDateLocal_ISO" : "2026-05-25T00:48:04+10:00",
+				"PublishDateLocal_ISO" : "2026-05-26T02:03:08+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-05-23T01:54:58.903+10:00",
 				"EventType" : "Fire"
 			}
@@ -342,7 +347,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16087178.1383130029, -1943936.9066792724 ]
+				"coordinates" : [ 144.51358, -17.19844 ]
 			},
 			"properties" : {
 				"OBJECTID" : 156558,
@@ -366,7 +371,7 @@
 				"Locality" : null,
 				"ItemDateTimeUTM" : "20260521181030",
 				"ItemDateTimeLocal_ISO" : "2026-05-22T04:10:30+10:00",
-				"PublishDateLocal_ISO" : "2026-05-25T00:48:04+10:00",
+				"PublishDateLocal_ISO" : "2026-05-26T02:03:08+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-05-23T04:10:30+10:00",
 				"EventType" : "Fire"
 			}
@@ -375,7 +380,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 15493934.9758944325, -1882041.2178583341 ]
+				"coordinates" : [ 139.184386, -16.666528 ]
 			},
 			"properties" : {
 				"OBJECTID" : 156594,
@@ -399,7 +404,7 @@
 				"Locality" : "WELLESLEY ISLANDS",
 				"ItemDateTimeUTM" : "20260521200823.34",
 				"ItemDateTimeLocal_ISO" : "2026-05-22T06:08:23+10:00",
-				"PublishDateLocal_ISO" : "2026-05-25T00:48:04+10:00",
+				"PublishDateLocal_ISO" : "2026-05-26T02:03:08+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-05-23T06:08:23.34+10:00",
 				"EventType" : "Fire"
 			}
@@ -408,7 +413,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16986125.9957921356, -3008876.2864780938 ]
+				"coordinates" : [ 152.588966, -26.079061 ]
 			},
 			"properties" : {
 				"OBJECTID" : 156848,
@@ -432,7 +437,7 @@
 				"Locality" : "CURRA",
 				"ItemDateTimeUTM" : "20260521162437.79",
 				"ItemDateTimeLocal_ISO" : "2026-05-22T02:24:37+10:00",
-				"PublishDateLocal_ISO" : "2026-05-25T00:48:04+10:00",
+				"PublishDateLocal_ISO" : "2026-05-26T02:03:08+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-05-23T02:24:37.79+10:00",
 				"EventType" : "Fire"
 			}
@@ -441,40 +446,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16915123.7528964058, -3272459.0878952569 ]
-			},
-			"properties" : {
-				"OBJECTID" : 157053,
-				"UniqueID" : "QF3-26-064495",
-				"WarningTitle" : "Information - ALLAN",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "ALLAN",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "Sandy Creek Rd",
-				"Jurisdiction" : "3 South Western Region",
-				"Latitude" : -28.186116,
-				"Longitude" : 151.951142,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "ALLAN",
-				"ItemDateTimeUTM" : "20260523162706",
-				"ItemDateTimeLocal_ISO" : "2026-05-24T02:27:06+10:00",
-				"PublishDateLocal_ISO" : "2026-05-25T00:48:04+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-05-25T02:27:06+10:00",
-				"EventType" : "Fire"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 16236394.1233570296, -2176168.9691101103 ]
+				"coordinates" : [ 145.85401, -19.18025 ]
 			},
 			"properties" : {
 				"OBJECTID" : 157075,
@@ -498,7 +470,7 @@
 				"Locality" : "PALUMA",
 				"ItemDateTimeUTM" : "20260523181510",
 				"ItemDateTimeLocal_ISO" : "2026-05-24T04:15:10+10:00",
-				"PublishDateLocal_ISO" : "2026-05-25T00:48:04+10:00",
+				"PublishDateLocal_ISO" : "2026-05-26T02:03:08+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-05-25T04:15:10+10:00",
 				"EventType" : "Fire"
 			}
@@ -507,32 +479,98 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16861889.5478846654, -2772377.5800537793 ]
+				"coordinates" : [ 151.369887, -26.357291 ]
 			},
 			"properties" : {
-				"OBJECTID" : 157182,
-				"UniqueID" : "QF2-26-064711",
-				"WarningTitle" : "Information - FORESHORES",
+				"OBJECTID" : 157223,
+				"UniqueID" : "QF4-26-064767",
+				"WarningTitle" : "Information - DURONG",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : 100,
-				"WarningArea" : "FORESHORES",
-				"CurrentStatus" : "Going",
-				"Location" : "Turkey Beach Rd & Bruce Hwy",
-				"Jurisdiction" : "2 Central Region",
-				"Latitude" : -24.155579,
-				"Longitude" : 151.472931,
-				"VehiclesAssigned" : 2,
+				"WarningArea" : "DURONG",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Coven Rd",
+				"Jurisdiction" : "4 North Coast Region",
+				"Latitude" : -26.357291,
+				"Longitude" : 151.369887,
+				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
 				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "FORESHORES",
-				"ItemDateTimeUTM" : "20260524041244",
-				"ItemDateTimeLocal_ISO" : "2026-05-24T14:12:44+10:00",
-				"PublishDateLocal_ISO" : "2026-05-25T00:48:04+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-05-25T14:12:44+10:00",
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "DURONG",
+				"ItemDateTimeUTM" : "20260524120502.617",
+				"ItemDateTimeLocal_ISO" : "2026-05-24T22:05:02+10:00",
+				"PublishDateLocal_ISO" : "2026-05-26T02:03:08+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-05-25T22:05:02.617+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 146.726617, -19.452852 ]
+			},
+			"properties" : {
+				"OBJECTID" : 157275,
+				"UniqueID" : "QF1-26-064857",
+				"WarningTitle" : "Information - PINNACLES",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "PINNACLES",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Riverway Dr",
+				"Jurisdiction" : "1 Northern Region",
+				"Latitude" : -19.452852,
+				"Longitude" : 146.726617,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "PINNACLES",
+				"ItemDateTimeUTM" : "20260524144818.42",
+				"ItemDateTimeLocal_ISO" : "2026-05-25T00:48:18+10:00",
+				"PublishDateLocal_ISO" : "2026-05-26T02:03:08+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-05-26T00:48:18.42+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 145.040278, -21.361389 ]
+			},
+			"properties" : {
+				"OBJECTID" : 157296,
+				"UniqueID" : "QF1-26-064886",
+				"WarningTitle" : "Information - TORRENS CREEK",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "TORRENS CREEK",
+				"CurrentStatus" : "Going",
+				"Location" : "Torrens Creek Aramac Rd",
+				"Jurisdiction" : "1 Northern Region",
+				"Latitude" : -21.361389,
+				"Longitude" : 145.040278,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "TORRENS CREEK",
+				"ItemDateTimeUTM" : "20260524164435.31",
+				"ItemDateTimeLocal_ISO" : "2026-05-25T02:44:35+10:00",
+				"PublishDateLocal_ISO" : "2026-05-26T02:03:08+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-05-26T02:44:35.31+10:00",
 				"EventType" : "Fire"
 			}
 		}
