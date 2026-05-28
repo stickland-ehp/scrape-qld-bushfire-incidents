@@ -1,43 +1,57 @@
 {
 	"type" : "FeatureCollection",
 	"name" : "QFDWarnings",
-	"crs" : {
-		"type" : "name",
-		"properties" : {
-			"name" : "EPSG:3857"
-		}
-	},
 	"features" : [
 		{
 			"type" : "Feature",
 			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 16358087.2548583467, -2205027.2139314325 ]
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 146.6894014715, -19.302452898, 0 ],
+						[ 146.7006374965, -19.194782852, 0 ],
+						[ 146.5811611782, -19.1325177431, 0 ],
+						[ 146.5234829555, -19.1013763785, 0 ],
+						[ 146.4352178271, -19.1500911512, 0 ],
+						[ 146.4750432665, -19.3218931712, 0 ],
+						[ 146.4753553248, -19.3220698758, 0 ],
+						[ 146.6894014715, -19.302452898, 0 ]
+					]
+				]
 			},
 			"properties" : {
-				"OBJECTID" : 155265,
-				"UniqueID" : "QF1-26-061696",
-				"WarningTitle" : "Information - ALLIGATOR CREEK",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "ALLIGATOR CREEK",
-				"CurrentStatus" : "Going",
-				"Location" : "Alligator Creek Rd",
+				"OBJECTID" : 2896,
+				"UniqueID" : "IF39-5727821",
+				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Bluewater Park and Bluewater (Townsville) - fire as at  3:54pm Thursday, 28 May 2026",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
+				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Bluewater Park and Bluewater (Townsville) - fire as at  3:54pm Thursday, 28 May 2026 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Bluewater Park, Bluewater and surrounding areas\n\n\n \n\nSmoke is currently affecting Bluewater Park, Bluewater and surrounding areas. This is from a hazard reduction burn in Hervey Range. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"Header" : "Smoke is currently affecting Bluewater Park, Bluewater and surrounding areas. This is from a hazard reduction burn in Hervey Range. This fire is under control.",
+				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire Department.",
+				"WarningLevelSort" : 8,
+				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "Bluewater Park, Bluewater and surrounding areas",
+				"Master_Incident_Number" : "QF1-26-066169",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Unknown",
 				"Jurisdiction" : "1 Northern Region",
-				"Latitude" : -19.424915,
-				"Longitude" : 146.947198,
+				"Latitude" : -19.220778645717,
+				"Longitude" : 146.55469414545,
 				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
 				"VehiclesOnScene" : 0,
 				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "ALLIGATOR CREEK",
-				"ItemDateTimeUTM" : "20260517135815.917",
-				"ItemDateTimeLocal_ISO" : "2026-05-17T23:58:15+10:00",
-				"PublishDateLocal_ISO" : "2026-05-28T02:48:05+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-05-18T23:58:15.917+10:00",
+				"Locality" : "HERVEY RANGE",
+				"ItemDateTimeUTM" : "20260528055400",
+				"ItemDateTimeLocal_ISO" : "2026-05-28T15:54:00+10:00",
+				"PublishDateLocal_ISO" : "2026-05-29T03:23:04+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-05-29T15:54:00+10:00",
+				"MultipleWarnings" : null,
+				"MessageSent" : null,
+				"SendEmailSubscription" : "Yes",
+				"WarningType_Level" : "Advice Fire",
 				"EventType" : "Fire"
 			}
 		},
@@ -45,7 +59,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16187367.7950972747, -1959306.054119193 ]
+				"coordinates" : [ 145.413599, -17.330283 ]
 			},
 			"properties" : {
 				"OBJECTID" : 155669,
@@ -69,7 +83,7 @@
 				"Locality" : "MOOMIN",
 				"ItemDateTimeUTM" : "20260518123337",
 				"ItemDateTimeLocal_ISO" : "2026-05-18T22:33:37+10:00",
-				"PublishDateLocal_ISO" : "2026-05-28T02:48:05+10:00",
+				"PublishDateLocal_ISO" : "2026-05-29T03:23:04+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-05-19T22:33:37+10:00",
 				"EventType" : "Fire"
 			}
@@ -78,7 +92,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16039136.7649077866, -1662224.5842402657 ]
+				"coordinates" : [ 144.082017, -14.765804 ]
 			},
 			"properties" : {
 				"OBJECTID" : 155904,
@@ -102,7 +116,7 @@
 				"Locality" : "LAKEFIELD",
 				"ItemDateTimeUTM" : "20260518164604",
 				"ItemDateTimeLocal_ISO" : "2026-05-19T02:46:04+10:00",
-				"PublishDateLocal_ISO" : "2026-05-28T02:48:05+10:00",
+				"PublishDateLocal_ISO" : "2026-05-29T03:23:04+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-05-20T02:46:04+10:00",
 				"EventType" : "Fire"
 			}
@@ -111,7 +125,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16056589.879952319, -1644525.7437458136 ]
+				"coordinates" : [ 144.238801, -14.612009 ]
 			},
 			"properties" : {
 				"OBJECTID" : 155905,
@@ -135,7 +149,7 @@
 				"Locality" : "LAKEFIELD",
 				"ItemDateTimeUTM" : "20260518164844",
 				"ItemDateTimeLocal_ISO" : "2026-05-19T02:48:44+10:00",
-				"PublishDateLocal_ISO" : "2026-05-28T02:48:06+10:00",
+				"PublishDateLocal_ISO" : "2026-05-29T03:23:04+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-05-20T02:48:44+10:00",
 				"EventType" : "Fire"
 			}
@@ -144,7 +158,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16125789.1923751608, -1790531.1940859216 ]
+				"coordinates" : [ 144.860429, -15.877416 ]
 			},
 			"properties" : {
 				"OBJECTID" : 156031,
@@ -168,7 +182,7 @@
 				"Locality" : "LAKELAND",
 				"ItemDateTimeUTM" : "20260519182537",
 				"ItemDateTimeLocal_ISO" : "2026-05-20T04:25:37+10:00",
-				"PublishDateLocal_ISO" : "2026-05-28T02:48:06+10:00",
+				"PublishDateLocal_ISO" : "2026-05-29T03:23:04+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-05-21T04:25:37+10:00",
 				"EventType" : "Fire"
 			}
@@ -177,7 +191,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16278174.5546415634, -2077124.4163834143 ]
+				"coordinates" : [ 146.22933, -18.33779 ]
 			},
 			"properties" : {
 				"OBJECTID" : 156060,
@@ -201,7 +215,7 @@
 				"Locality" : "HINCHINBROOK",
 				"ItemDateTimeUTM" : "20260419130728",
 				"ItemDateTimeLocal_ISO" : "2026-04-19T23:07:28+10:00",
-				"PublishDateLocal_ISO" : "2026-05-28T02:48:06+10:00",
+				"PublishDateLocal_ISO" : "2026-05-29T03:23:04+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-04-20T23:07:28+10:00",
 				"EventType" : "Fire"
 			}
@@ -210,7 +224,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16087736.5168788247, -1938939.8645131649 ]
+				"coordinates" : [ 144.518596, -17.155553 ]
 			},
 			"properties" : {
 				"OBJECTID" : 156061,
@@ -234,7 +248,7 @@
 				"Locality" : "CHILLAGOE",
 				"ItemDateTimeUTM" : "20260518125905",
 				"ItemDateTimeLocal_ISO" : "2026-05-18T22:59:05+10:00",
-				"PublishDateLocal_ISO" : "2026-05-28T02:48:06+10:00",
+				"PublishDateLocal_ISO" : "2026-05-29T03:23:04+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-05-19T22:59:05+10:00",
 				"EventType" : "Fire"
 			}
@@ -243,40 +257,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16256406.0282169394, -2204032.7656781878 ]
-			},
-			"properties" : {
-				"OBJECTID" : 156508,
-				"UniqueID" : "QF1-26-063524",
-				"WarningTitle" : "Information - DOTSWOOD",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "DOTSWOOD",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "Unknown",
-				"Jurisdiction" : "1 Northern Region",
-				"Latitude" : -19.41649,
-				"Longitude" : 146.03378,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "DOTSWOOD",
-				"ItemDateTimeUTM" : "20260521141432.85",
-				"ItemDateTimeLocal_ISO" : "2026-05-22T00:14:32+10:00",
-				"PublishDateLocal_ISO" : "2026-05-28T02:48:06+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-05-23T00:14:32.85+10:00",
-				"EventType" : "Fire"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 16339617.3475849107, -2195418.8085089605 ]
+				"coordinates" : [ 146.78128, -19.343494 ]
 			},
 			"properties" : {
 				"OBJECTID" : 156530,
@@ -300,7 +281,7 @@
 				"Locality" : "ROSENEATH",
 				"ItemDateTimeUTM" : "20260521155458.903",
 				"ItemDateTimeLocal_ISO" : "2026-05-22T01:54:58+10:00",
-				"PublishDateLocal_ISO" : "2026-05-28T02:48:06+10:00",
+				"PublishDateLocal_ISO" : "2026-05-29T03:23:04+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-05-23T01:54:58.903+10:00",
 				"EventType" : "Fire"
 			}
@@ -309,7 +290,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16087178.1383130029, -1943936.9066792724 ]
+				"coordinates" : [ 144.51358, -17.19844 ]
 			},
 			"properties" : {
 				"OBJECTID" : 156558,
@@ -333,7 +314,7 @@
 				"Locality" : null,
 				"ItemDateTimeUTM" : "20260521181030",
 				"ItemDateTimeLocal_ISO" : "2026-05-22T04:10:30+10:00",
-				"PublishDateLocal_ISO" : "2026-05-28T02:48:06+10:00",
+				"PublishDateLocal_ISO" : "2026-05-29T03:23:04+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-05-23T04:10:30+10:00",
 				"EventType" : "Fire"
 			}
@@ -342,7 +323,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16986125.9957921356, -3008876.2864780938 ]
+				"coordinates" : [ 152.588966, -26.079061 ]
 			},
 			"properties" : {
 				"OBJECTID" : 156848,
@@ -366,7 +347,7 @@
 				"Locality" : "CURRA",
 				"ItemDateTimeUTM" : "20260521162437.79",
 				"ItemDateTimeLocal_ISO" : "2026-05-22T02:24:37+10:00",
-				"PublishDateLocal_ISO" : "2026-05-28T02:48:06+10:00",
+				"PublishDateLocal_ISO" : "2026-05-29T03:23:04+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-05-23T02:24:37.79+10:00",
 				"EventType" : "Fire"
 			}
@@ -375,40 +356,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16236394.1233570296, -2176168.9691101103 ]
-			},
-			"properties" : {
-				"OBJECTID" : 157075,
-				"UniqueID" : "QF1-26-064534",
-				"WarningTitle" : "Information - PALUMA",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "PALUMA",
-				"CurrentStatus" : "Going",
-				"Location" : "Unknown",
-				"Jurisdiction" : "1 Northern Region",
-				"Latitude" : -19.18025,
-				"Longitude" : 145.85401,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "PALUMA",
-				"ItemDateTimeUTM" : "20260523181510",
-				"ItemDateTimeLocal_ISO" : "2026-05-24T04:15:10+10:00",
-				"PublishDateLocal_ISO" : "2026-05-28T02:48:06+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-05-25T04:15:10+10:00",
-				"EventType" : "Fire"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 16145809.8914748374, -2435022.9025893891 ]
+				"coordinates" : [ 145.040278, -21.361389 ]
 			},
 			"properties" : {
 				"OBJECTID" : 157296,
@@ -432,7 +380,7 @@
 				"Locality" : "TORRENS CREEK",
 				"ItemDateTimeUTM" : "20260524164435.31",
 				"ItemDateTimeLocal_ISO" : "2026-05-25T02:44:35+10:00",
-				"PublishDateLocal_ISO" : "2026-05-28T02:48:06+10:00",
+				"PublishDateLocal_ISO" : "2026-05-29T03:23:04+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-05-26T02:44:35.31+10:00",
 				"EventType" : "Fire"
 			}
@@ -441,7 +389,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 15937889.7955999617, -1737844.1679164171 ]
+				"coordinates" : [ 143.1725, -15.421667 ]
 			},
 			"properties" : {
 				"OBJECTID" : 157499,
@@ -465,7 +413,7 @@
 				"Locality" : null,
 				"ItemDateTimeUTM" : "20260520152849",
 				"ItemDateTimeLocal_ISO" : "2026-05-21T01:28:49+10:00",
-				"PublishDateLocal_ISO" : "2026-05-28T02:48:06+10:00",
+				"PublishDateLocal_ISO" : "2026-05-29T03:23:04+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-05-22T01:28:49+10:00",
 				"EventType" : "Fire"
 			}
@@ -474,7 +422,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 15888071.2065242305, -1528996.8752604092 ]
+				"coordinates" : [ 142.724972, -13.605516 ]
 			},
 			"properties" : {
 				"OBJECTID" : 157500,
@@ -498,7 +446,7 @@
 				"Locality" : "COEN",
 				"ItemDateTimeUTM" : "20260524165615",
 				"ItemDateTimeLocal_ISO" : "2026-05-25T02:56:15+10:00",
-				"PublishDateLocal_ISO" : "2026-05-28T02:48:06+10:00",
+				"PublishDateLocal_ISO" : "2026-05-29T03:23:04+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-05-26T02:56:15+10:00",
 				"EventType" : "Fire"
 			}
@@ -507,7 +455,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16078640.1560081411, -1735092.5025869191 ]
+				"coordinates" : [ 144.436882, -15.397837 ]
 			},
 			"properties" : {
 				"OBJECTID" : 157507,
@@ -531,7 +479,7 @@
 				"Locality" : "LAURA",
 				"ItemDateTimeUTM" : "20260525105709",
 				"ItemDateTimeLocal_ISO" : "2026-05-25T20:57:09+10:00",
-				"PublishDateLocal_ISO" : "2026-05-28T02:48:06+10:00",
+				"PublishDateLocal_ISO" : "2026-05-29T03:23:05+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-05-26T20:57:09+10:00",
 				"EventType" : "Fire"
 			}
@@ -540,7 +488,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16101140.496765241, -2058311.3191726601 ]
+				"coordinates" : [ 144.639006, -18.177297 ]
 			},
 			"properties" : {
 				"OBJECTID" : 157528,
@@ -564,7 +512,7 @@
 				"Locality" : "MOUNT SURPRISE",
 				"ItemDateTimeUTM" : "20260525121727",
 				"ItemDateTimeLocal_ISO" : "2026-05-25T22:17:27+10:00",
-				"PublishDateLocal_ISO" : "2026-05-28T02:48:06+10:00",
+				"PublishDateLocal_ISO" : "2026-05-29T03:23:05+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-05-26T22:17:27+10:00",
 				"EventType" : "Fire"
 			}
@@ -573,7 +521,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16502937.5121124461, -2273495.1921161353 ]
+				"coordinates" : [ 148.24841, -20.003919 ]
 			},
 			"properties" : {
 				"OBJECTID" : 157789,
@@ -597,7 +545,7 @@
 				"Locality" : "BOWEN",
 				"ItemDateTimeUTM" : "20260526124151.133",
 				"ItemDateTimeLocal_ISO" : "2026-05-26T22:41:51+10:00",
-				"PublishDateLocal_ISO" : "2026-05-28T02:48:06+10:00",
+				"PublishDateLocal_ISO" : "2026-05-29T03:23:05+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-05-27T22:41:51.133+10:00",
 				"EventType" : "Fire"
 			}
@@ -606,7 +554,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16327653.5079508852, -2192444.6580223031 ]
+				"coordinates" : [ 146.673807, -19.318283 ]
 			},
 			"properties" : {
 				"OBJECTID" : 157801,
@@ -630,7 +578,7 @@
 				"Locality" : "BOHLE PLAINS",
 				"ItemDateTimeUTM" : "20260526133651.923",
 				"ItemDateTimeLocal_ISO" : "2026-05-26T23:36:51+10:00",
-				"PublishDateLocal_ISO" : "2026-05-28T02:48:06+10:00",
+				"PublishDateLocal_ISO" : "2026-05-29T03:23:05+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-05-27T23:36:51.923+10:00",
 				"EventType" : "Fire"
 			}
@@ -639,7 +587,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16132940.6904221904, -1781424.2889763571 ]
+				"coordinates" : [ 144.924672, -15.798713 ]
 			},
 			"properties" : {
 				"OBJECTID" : 157847,
@@ -663,7 +611,7 @@
 				"Locality" : "LAKELAND",
 				"ItemDateTimeUTM" : "20260526163517",
 				"ItemDateTimeLocal_ISO" : "2026-05-27T02:35:17+10:00",
-				"PublishDateLocal_ISO" : "2026-05-28T02:48:06+10:00",
+				"PublishDateLocal_ISO" : "2026-05-29T03:23:05+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-05-28T02:35:17+10:00",
 				"EventType" : "Fire"
 			}
@@ -672,7 +620,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16348839.0542022251, -2195114.5418934575 ]
+				"coordinates" : [ 146.86412, -19.340915 ]
 			},
 			"properties" : {
 				"OBJECTID" : 157855,
@@ -696,7 +644,7 @@
 				"Locality" : "STUART",
 				"ItemDateTimeUTM" : "20260526170017",
 				"ItemDateTimeLocal_ISO" : "2026-05-27T03:00:17+10:00",
-				"PublishDateLocal_ISO" : "2026-05-28T02:48:06+10:00",
+				"PublishDateLocal_ISO" : "2026-05-29T03:23:05+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-05-28T03:00:17+10:00",
 				"EventType" : "Fire"
 			}
@@ -705,7 +653,7 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 16182157.1523722224, -1929760.5579938591 ]
+				"coordinates" : [ 145.366791, -17.076746 ]
 			},
 			"properties" : {
 				"OBJECTID" : 157887,
@@ -729,8 +677,206 @@
 				"Locality" : "CHEWKO",
 				"ItemDateTimeUTM" : "20260526190506.697",
 				"ItemDateTimeLocal_ISO" : "2026-05-27T05:05:06+10:00",
-				"PublishDateLocal_ISO" : "2026-05-28T02:48:06+10:00",
+				"PublishDateLocal_ISO" : "2026-05-29T03:23:05+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-05-28T05:05:06.697+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 146.187054, -18.50614 ]
+			},
+			"properties" : {
+				"OBJECTID" : 158095,
+				"UniqueID" : "QF7-26-066128",
+				"WarningTitle" : "Information - RUNGOO",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "RUNGOO",
+				"CurrentStatus" : "Going",
+				"Location" : "Bruce Hwy",
+				"Jurisdiction" : "7 Far Northern Region",
+				"Latitude" : -18.50614,
+				"Longitude" : 146.187054,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "RUNGOO",
+				"ItemDateTimeUTM" : "20260527122310",
+				"ItemDateTimeLocal_ISO" : "2026-05-27T22:23:10+10:00",
+				"PublishDateLocal_ISO" : "2026-05-29T03:23:05+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-05-28T22:23:10+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 145.771854, -17.235862 ]
+			},
+			"properties" : {
+				"OBJECTID" : 158099,
+				"UniqueID" : "QF7-26-066133",
+				"WarningTitle" : "Information - GOLDSBOROUGH",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "GOLDSBOROUGH",
+				"CurrentStatus" : "Going",
+				"Location" : "Mulgrave River Forestry Rd",
+				"Jurisdiction" : "7 Far Northern Region",
+				"Latitude" : -17.235862,
+				"Longitude" : 145.771854,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "GOLDSBOROUGH",
+				"ItemDateTimeUTM" : "20260527123052",
+				"ItemDateTimeLocal_ISO" : "2026-05-27T22:30:52+10:00",
+				"PublishDateLocal_ISO" : "2026-05-29T03:23:05+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-05-28T22:30:52+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 145.386386, -17.639256 ]
+			},
+			"properties" : {
+				"OBJECTID" : 158111,
+				"UniqueID" : "QF7-26-066149",
+				"WarningTitle" : "Information - MILLSTREAM",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "MILLSTREAM",
+				"CurrentStatus" : "Going",
+				"Location" : "Kennedy Hwy",
+				"Jurisdiction" : "7 Far Northern Region",
+				"Latitude" : -17.639256,
+				"Longitude" : 145.386386,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "MILLSTREAM",
+				"ItemDateTimeUTM" : "20260527130845",
+				"ItemDateTimeLocal_ISO" : "2026-05-27T23:08:45+10:00",
+				"PublishDateLocal_ISO" : "2026-05-29T03:23:05+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-05-28T23:08:45+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 145.869734, -17.341394 ]
+			},
+			"properties" : {
+				"OBJECTID" : 158112,
+				"UniqueID" : "QF7-26-066148",
+				"WarningTitle" : "Information - BABINDA",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "BABINDA",
+				"CurrentStatus" : "Going",
+				"Location" : "Goldfield Trk",
+				"Jurisdiction" : "7 Far Northern Region",
+				"Latitude" : -17.341394,
+				"Longitude" : 145.869734,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "BABINDA",
+				"ItemDateTimeUTM" : "20260527131034",
+				"ItemDateTimeLocal_ISO" : "2026-05-27T23:10:34+10:00",
+				"PublishDateLocal_ISO" : "2026-05-29T03:23:05+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-05-28T23:10:34+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 145.307639, -18.444144 ]
+			},
+			"properties" : {
+				"OBJECTID" : 158128,
+				"UniqueID" : "QF7-26-066174",
+				"WarningTitle" : "Information - WAIRUNA",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "WAIRUNA",
+				"CurrentStatus" : "Going",
+				"Location" : "Wairuna Rd",
+				"Jurisdiction" : "7 Far Northern Region",
+				"Latitude" : -18.444144,
+				"Longitude" : 145.307639,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "WAIRUNA",
+				"ItemDateTimeUTM" : "20260527135620",
+				"ItemDateTimeLocal_ISO" : "2026-05-27T23:56:20+10:00",
+				"PublishDateLocal_ISO" : "2026-05-29T03:23:05+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-05-28T23:56:20+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 146.26089, -20.051455 ]
+			},
+			"properties" : {
+				"OBJECTID" : 158256,
+				"UniqueID" : "QF1-26-066390",
+				"WarningTitle" : "Information - TOLL",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "TOLL",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Golf Links Dr",
+				"Jurisdiction" : "1 Northern Region",
+				"Latitude" : -20.051455,
+				"Longitude" : 146.26089,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "TOLL",
+				"ItemDateTimeUTM" : "20260527214434.71",
+				"ItemDateTimeLocal_ISO" : "2026-05-28T07:44:34+10:00",
+				"PublishDateLocal_ISO" : "2026-05-29T03:23:05+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-05-29T07:44:34.71+10:00",
 				"EventType" : "Fire"
 			}
 		}
