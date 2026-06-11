@@ -5,38 +5,100 @@
 		{
 			"type" : "Feature",
 			"geometry" : {
-				"type" : "Polygon",
+				"type" : "MultiPolygon",
 				"coordinates" : [
 					[
-						[ 145.097134141, -17.6637263543, 0 ],
-						[ 145.0976920405, -17.6787739984, 0 ],
-						[ 145.1292777338, -17.6851116237, 0 ],
-						[ 145.12193921, -17.6680608591, 0 ],
-						[ 145.097134141, -17.6637263543, 0 ]
+						[
+							[ 151.164048659, -27.9346219083, 0 ],
+							[ 151.1640475128, -27.9346229043, 0 ],
+							[ 151.1640570472, -27.9346397559, 0 ],
+							[ 151.164048659, -27.9346219083, 0 ]
+						]
+					],
+					[
+						[
+							[ 151.164048659, -27.9346219083, 0 ],
+							[ 151.1848185394, -27.9165738742, 0 ],
+							[ 151.1740897034, -27.9059553902, 0 ],
+							[ 151.1541769836, -27.9136159727, 0 ],
+							[ 151.164048659, -27.9346219083, 0 ]
+						]
 					]
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 2965,
-				"UniqueID" : "IF39-5748221",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Mount Garnet - fire as at 10:40am Wednesday, 10 June 2026",
+				"OBJECTID" : 2967,
+				"UniqueID" : "IF39-5748621",
+				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Captains Mountain (near Millmerran) - fire as at 10:35am Thursday, 11 June 2026",
 				"WarningLevel" : "Advice",
 				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
-				"WarningText" : "\nAVOID SMOKE (HAZARD REDUCTION BURN) - Mount Garnet - fire as at 10:40am Wednesday, 10 June 2026 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Mount Garnet and surrounding areas\n\n\n \n\nSmoke is currently affecting Mount Garnet and surrounding areas. This is from a hazard reduction burn by the Department of Natural Resources and Mines, Manufacturing and Regional and Rural Development, near Azurite Street. This fire is under control.\n\n\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
-				"Header" : "Smoke is currently affecting Mount Garnet and surrounding areas. This is from a hazard reduction burn by the Department of Natural Resources and Mines, Manufacturing and Regional and Rural Development, near Azurite Street. This fire is under control.",
+				"WarningText" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Captains Mountain (near Millmerran) - fire as at 10:35am Thursday, 11 June 2026 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Captains Mountain and surrounding areas\n\n\n \n\nSmoke is currently affecting Captains Mountain and surrounding areas. This is from a hazard reduction burn on Captains Mountain Road. This fire is under control.\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"Header" : "Smoke is currently affecting Captains Mountain and surrounding areas. This is from a hazard reduction burn on Captains Mountain Road. This fire is under control.",
+				"Impacts" : "- Smoke can make it hard for some people to breathe.\r\n- Smoke can make it hard to see when you are driving.\r\n- No properties are at risk.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\r\n\r\nThis warning is from Queensland Fire Department.",
+				"WarningLevelSort" : 8,
+				"ShouldDo" : "- Stay inside and close windows and doors.\r\n\r\n- Keep respiratory medication close by.\r\n\r\n- Avoid driving through smoke if you can.\r\n\r\n- Watch out for firefighters working in the area.\r\n\r\n- Do not fly drones around the fire. Drones affect air operations.",
+				"WarningArea" : "Captains Mountain and surrounding areas",
+				"Latitude" : -27.918924968995,
+				"Longitude" : 151.1677382324,
+				"GroupedType" : "FIRE VEGETATION",
+				"ItemDateTimeUTM" : "20260611003300",
+				"ItemDateTimeLocal_ISO" : "2026-06-11T10:33:00+10:00",
+				"PublishDateLocal_ISO" : "2026-06-12T03:23:07+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-06-12T10:33:00+10:00",
+				"MultipleWarnings" : null,
+				"MessageSent" : null,
+				"SendEmailSubscription" : "Yes",
+				"WarningType_Level" : "Advice Fire",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "MultiPolygon",
+				"coordinates" : [
+					[
+						[
+							[ 145.0975175358, -17.679626577, 0 ],
+							[ 145.1295471492, -17.6856317985, 0 ],
+							[ 145.1277017894, -17.6690308831, 0 ],
+							[ 145.0971031489, -17.6640830231, 0 ],
+							[ 145.0975175358, -17.679626577, 0 ]
+						]
+					],
+					[
+						[
+							[ 145.0975180008, -17.6796440145, 0 ],
+							[ 145.0975175358, -17.679626577, 0 ],
+							[ 145.097489387, -17.6796212993, 0 ],
+							[ 145.0975180008, -17.6796440145, 0 ]
+						]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 2968,
+				"UniqueID" : "IF39-5749021",
+				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Mount Garnet - fire as at 11:20am Thursday, 11 June 2026",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "AVOID SMOKE (HAZARD REDUCTION BURN)",
+				"WarningText" : "\nAVOID SMOKE (HAZARD REDUCTION BURN) - Mount Garnet - fire as at 11:20am Thursday, 11 June 2026 \n\n \n\nWarning level: ADVICE\n\n \n\n\nWarning area: Mount Garnet and surrounding areas\n\n\n \n\nSmoke is currently affecting Mount Garnet and surrounding areas. This is from a Department of Natural Resources and Mines, Manufacturing and Regional and Rural Development hazard reduction burn near Opal Street. This fire is under control.\n\n\n\n\n \n\nWhat you should do:\n\n- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.\n\n\n\n \n\nImpacts:\n\n- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.\n\n\n\n \n\nFurther Information:\n\n- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\n\n\n\n \n\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.\n\n",
+				"Header" : "Smoke is currently affecting Mount Garnet and surrounding areas. This is from a Department of Natural Resources and Mines, Manufacturing and Regional and Rural Development hazard reduction burn near Opal Street. This fire is under control.",
 				"Impacts" : "- Smoke can make it hard for some people to breathe.\n\n- Smoke can make it hard to see when you are driving.\n\n- No properties are at risk.",
 				"LeaveSafely" : null,
 				"FurtherInformation" : "- For all warnings, visit the QFD Current Bushfires and Warnings website.\n\n- Follow QFD on Facebook and X.com.\n\n- For road closures, visit the QLD Traffic website or call 13 19 40.\n\n- Visit the Department of Environment and Science website for live air quality data.\n\n- Find out how to get ready for a bushfire on the QFD website under Prepare - Bushfire.\r\n\r\n\r\nUpdates will be issued if needed.\n\n \n\nThis warning is from Queensland Fire Department.",
 				"WarningLevelSort" : 8,
 				"ShouldDo" : "- Stay inside and close windows and doors.\n\n- Keep respiratory medication close by.\n\n- Avoid driving through smoke if you can.\n\n- Watch out for firefighters working in the area.\n\n- Do not fly drones around the fire. Drones affect air operations.",
 				"WarningArea" : "Mount Garnet and surrounding areas",
-				"Latitude" : -17.67623888569,
-				"Longitude" : 145.11524441629,
+				"Latitude" : -17.674837288869,
+				"Longitude" : 145.111823112,
 				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20260610003700",
-				"ItemDateTimeLocal_ISO" : "2026-06-10T10:37:00+10:00",
-				"PublishDateLocal_ISO" : "2026-06-11T02:48:08+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-06-11T10:37:00+10:00",
+				"ItemDateTimeUTM" : "20260611011800",
+				"ItemDateTimeLocal_ISO" : "2026-06-11T11:18:00+10:00",
+				"PublishDateLocal_ISO" : "2026-06-12T03:23:07+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-06-12T11:18:00+10:00",
 				"MultipleWarnings" : null,
 				"MessageSent" : null,
 				"SendEmailSubscription" : "Yes",
@@ -72,7 +134,7 @@
 				"Locality" : "LAKEFIELD",
 				"ItemDateTimeUTM" : "20260518164604",
 				"ItemDateTimeLocal_ISO" : "2026-05-19T02:46:04+10:00",
-				"PublishDateLocal_ISO" : "2026-06-11T02:48:08+10:00",
+				"PublishDateLocal_ISO" : "2026-06-12T03:23:07+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-05-20T02:46:04+10:00",
 				"EventType" : "Fire"
 			}
@@ -105,41 +167,8 @@
 				"Locality" : "LAKEFIELD",
 				"ItemDateTimeUTM" : "20260518164844",
 				"ItemDateTimeLocal_ISO" : "2026-05-19T02:48:44+10:00",
-				"PublishDateLocal_ISO" : "2026-06-11T02:48:08+10:00",
+				"PublishDateLocal_ISO" : "2026-06-12T03:23:07+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-05-20T02:48:44+10:00",
-				"EventType" : "Fire"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 144.860429, -15.877416 ]
-			},
-			"properties" : {
-				"OBJECTID" : 3,
-				"UniqueID" : "QF7-26-062756",
-				"WarningTitle" : "Information - LAKELAND",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "LAKELAND",
-				"CurrentStatus" : "Going",
-				"Location" : "Mulligan Hwy",
-				"Jurisdiction" : "7 Far Northern Region",
-				"Latitude" : -15.877416,
-				"Longitude" : 144.860429,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "LAKELAND",
-				"ItemDateTimeUTM" : "20260519182537",
-				"ItemDateTimeLocal_ISO" : "2026-05-20T04:25:37+10:00",
-				"PublishDateLocal_ISO" : "2026-06-11T02:48:08+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-05-21T04:25:37+10:00",
 				"EventType" : "Fire"
 			}
 		},
@@ -171,7 +200,7 @@
 				"Locality" : null,
 				"ItemDateTimeUTM" : "20260520152849",
 				"ItemDateTimeLocal_ISO" : "2026-05-21T01:28:49+10:00",
-				"PublishDateLocal_ISO" : "2026-06-11T02:48:08+10:00",
+				"PublishDateLocal_ISO" : "2026-06-12T03:23:07+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-05-22T01:28:49+10:00",
 				"EventType" : "Fire"
 			}
@@ -204,7 +233,7 @@
 				"Locality" : "COEN",
 				"ItemDateTimeUTM" : "20260524165615",
 				"ItemDateTimeLocal_ISO" : "2026-05-25T02:56:15+10:00",
-				"PublishDateLocal_ISO" : "2026-06-11T02:48:08+10:00",
+				"PublishDateLocal_ISO" : "2026-06-12T03:23:07+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-05-26T02:56:15+10:00",
 				"EventType" : "Fire"
 			}
@@ -237,7 +266,7 @@
 				"Locality" : "COOTOWN",
 				"ItemDateTimeUTM" : "20260601204728",
 				"ItemDateTimeLocal_ISO" : "2026-06-02T06:47:28+10:00",
-				"PublishDateLocal_ISO" : "2026-06-11T02:48:08+10:00",
+				"PublishDateLocal_ISO" : "2026-06-12T03:23:07+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-06-03T06:47:28+10:00",
 				"EventType" : "Fire"
 			}
@@ -270,7 +299,7 @@
 				"Locality" : "CAIRNS AREA",
 				"ItemDateTimeUTM" : "20260602160952",
 				"ItemDateTimeLocal_ISO" : "2026-06-03T02:09:52+10:00",
-				"PublishDateLocal_ISO" : "2026-06-11T02:48:08+10:00",
+				"PublishDateLocal_ISO" : "2026-06-12T03:23:07+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-06-04T02:09:52+10:00",
 				"EventType" : "Fire"
 			}
@@ -303,7 +332,7 @@
 				"Locality" : null,
 				"ItemDateTimeUTM" : "20260603103956",
 				"ItemDateTimeLocal_ISO" : "2026-06-03T20:39:56+10:00",
-				"PublishDateLocal_ISO" : "2026-06-11T02:48:08+10:00",
+				"PublishDateLocal_ISO" : "2026-06-12T03:23:07+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-06-04T20:39:56+10:00",
 				"EventType" : "Fire"
 			}
@@ -336,7 +365,7 @@
 				"Locality" : "DIXIE",
 				"ItemDateTimeUTM" : "20260603141600",
 				"ItemDateTimeLocal_ISO" : "2026-06-04T00:16:00+10:00",
-				"PublishDateLocal_ISO" : "2026-06-11T02:48:08+10:00",
+				"PublishDateLocal_ISO" : "2026-06-12T03:23:07+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-06-05T00:16:00+10:00",
 				"EventType" : "Fire"
 			}
@@ -369,7 +398,7 @@
 				"Locality" : "COEN",
 				"ItemDateTimeUTM" : "20260603151754",
 				"ItemDateTimeLocal_ISO" : "2026-06-04T01:17:54+10:00",
-				"PublishDateLocal_ISO" : "2026-06-11T02:48:08+10:00",
+				"PublishDateLocal_ISO" : "2026-06-12T03:23:07+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-06-05T01:17:54+10:00",
 				"EventType" : "Fire"
 			}
@@ -402,7 +431,7 @@
 				"Locality" : "HIGHBURY",
 				"ItemDateTimeUTM" : "20260604192308",
 				"ItemDateTimeLocal_ISO" : "2026-06-05T05:23:08+10:00",
-				"PublishDateLocal_ISO" : "2026-06-11T02:48:08+10:00",
+				"PublishDateLocal_ISO" : "2026-06-12T03:23:07+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-06-06T05:23:08+10:00",
 				"EventType" : "Fire"
 			}
@@ -435,7 +464,7 @@
 				"Locality" : "AGNES WATER",
 				"ItemDateTimeUTM" : "20260609121720.053",
 				"ItemDateTimeLocal_ISO" : "2026-06-09T22:17:20+10:00",
-				"PublishDateLocal_ISO" : "2026-06-11T02:48:08+10:00",
+				"PublishDateLocal_ISO" : "2026-06-12T03:23:07+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-06-10T22:17:20.053+10:00",
 				"EventType" : "Fire"
 			}
@@ -444,32 +473,32 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 145.301389, -17.363243 ]
+				"coordinates" : [ 145.1201, -15.9004 ]
 			},
 			"properties" : {
-				"OBJECTID" : 315,
-				"UniqueID" : "QF7-26-072436",
-				"WarningTitle" : "Information - WATSONVILLE",
+				"OBJECTID" : 506,
+				"UniqueID" : "QF7-26-072720",
+				"WarningTitle" : "Information - ",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : 100,
-				"WarningArea" : "WATSONVILLE",
+				"WarningArea" : null,
 				"CurrentStatus" : "Going",
-				"Location" : "Sandridge Rd",
+				"Location" : "Unknown",
 				"Jurisdiction" : "7 Far Northern Region",
-				"Latitude" : -17.363243,
-				"Longitude" : 145.301389,
+				"Latitude" : -15.9004,
+				"Longitude" : 145.1201,
 				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 1,
+				"VehiclesOnScene" : 0,
 				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "WATSONVILLE",
-				"ItemDateTimeUTM" : "20260609181902.153",
-				"ItemDateTimeLocal_ISO" : "2026-06-10T04:19:02+10:00",
-				"PublishDateLocal_ISO" : "2026-06-11T02:48:08+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-06-11T04:19:02.153+10:00",
+				"Locality" : null,
+				"ItemDateTimeUTM" : "20260610120257",
+				"ItemDateTimeLocal_ISO" : "2026-06-10T22:02:57+10:00",
+				"PublishDateLocal_ISO" : "2026-06-12T03:23:07+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-06-11T22:02:57+10:00",
 				"EventType" : "Fire"
 			}
 		},
@@ -477,32 +506,131 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 141.729692, -13.355164 ]
+				"coordinates" : [ 144.847987, -15.285107 ]
 			},
 			"properties" : {
-				"OBJECTID" : 361,
-				"UniqueID" : "QF7-26-072511",
-				"WarningTitle" : "Information - AURUKUN",
+				"OBJECTID" : 625,
+				"UniqueID" : "QF7-26-072712",
+				"WarningTitle" : "Information - COOKTOWN",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : 100,
-				"WarningArea" : "AURUKUN",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "Kang Kang Rd",
+				"WarningArea" : "COOKTOWN",
+				"CurrentStatus" : "Going",
+				"Location" : "Battlecamp Rd",
 				"Jurisdiction" : "7 Far Northern Region",
-				"Latitude" : -13.355164,
-				"Longitude" : 141.729692,
+				"Latitude" : -15.285107,
+				"Longitude" : 144.847987,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "COOKTOWN",
+				"ItemDateTimeUTM" : "20260610113638",
+				"ItemDateTimeLocal_ISO" : "2026-06-10T21:36:38+10:00",
+				"PublishDateLocal_ISO" : "2026-06-12T03:23:07+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-06-11T21:36:38+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 144.800891, -15.241344 ]
+			},
+			"properties" : {
+				"OBJECTID" : 626,
+				"UniqueID" : "QF7-26-072710",
+				"WarningTitle" : "Information - COOKTOWN",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "COOKTOWN",
+				"CurrentStatus" : "Going",
+				"Location" : "Henwood Rd",
+				"Jurisdiction" : "7 Far Northern Region",
+				"Latitude" : -15.241344,
+				"Longitude" : 144.800891,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "COOKTOWN",
+				"ItemDateTimeUTM" : "20260610113854",
+				"ItemDateTimeLocal_ISO" : "2026-06-10T21:38:54+10:00",
+				"PublishDateLocal_ISO" : "2026-06-12T03:23:07+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-06-11T21:38:54+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 151.874244, -25.105832 ]
+			},
+			"properties" : {
+				"OBJECTID" : 639,
+				"UniqueID" : "QF4-26-072934",
+				"WarningTitle" : "Information - HORSE CAMP",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "HORSE CAMP",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Horsecamp Rd",
+				"Jurisdiction" : "4 North Coast Region",
+				"Latitude" : -25.105832,
+				"Longitude" : 151.874244,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "HORSE CAMP",
+				"ItemDateTimeUTM" : "20260610210112.277",
+				"ItemDateTimeLocal_ISO" : "2026-06-11T07:01:12+10:00",
+				"PublishDateLocal_ISO" : "2026-06-12T03:23:07+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-06-12T07:01:12.277+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 141.903204, -12.675964 ]
+			},
+			"properties" : {
+				"OBJECTID" : 658,
+				"UniqueID" : "QF7-26-072959",
+				"WarningTitle" : "Information - MISSION RIVER",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "MISSION RIVER",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Peninsula Developmental Rd",
+				"Jurisdiction" : "7 Far Northern Region",
+				"Latitude" : -12.675964,
+				"Longitude" : 141.903204,
 				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
 				"VehiclesOnScene" : 0,
 				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "AURUKUN",
-				"ItemDateTimeUTM" : "20260609212731",
-				"ItemDateTimeLocal_ISO" : "2026-06-10T07:27:31+10:00",
-				"PublishDateLocal_ISO" : "2026-06-11T02:48:08+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-06-11T07:27:31+10:00",
+				"Locality" : "MISSION RIVER",
+				"ItemDateTimeUTM" : "20260610220151",
+				"ItemDateTimeLocal_ISO" : "2026-06-11T08:01:51+10:00",
+				"PublishDateLocal_ISO" : "2026-06-12T03:23:07+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-06-12T08:01:51+10:00",
 				"EventType" : "Fire"
 			}
 		}
