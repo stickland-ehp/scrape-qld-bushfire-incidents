@@ -8,36 +8,81 @@
 				"type" : "Polygon",
 				"coordinates" : [
 					[
-						[ 146.677674393, -19.5041454593, 0 ],
-						[ 146.8103342925, -19.5041454593, 0 ],
-						[ 146.7935643397, -19.3365519814, 0 ],
-						[ 146.7694102685, -19.3300729673, 0 ],
-						[ 146.6903086976, -19.3300729673, 0 ],
-						[ 146.677674393, -19.5041454593, 0 ]
+						[ 151.3831813984, -23.9950138682, 0 ],
+						[ 151.3849376557, -23.9561414146, 0 ],
+						[ 151.3604282218, -23.9544855125, 0 ],
+						[ 151.3570903643, -23.9586688009, 0 ],
+						[ 151.3512729463, -23.958058747, 0 ],
+						[ 151.3465045756, -23.9688650002, 0 ],
+						[ 151.3441737963, -23.994785857, 0 ],
+						[ 151.3637032795, -23.9949037401, 0 ],
+						[ 151.3831813984, -23.9950138682, 0 ]
 					]
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 3101,
-				"UniqueID" : "WARN-183",
-				"WarningTitle" : "AVOID SMOKE - Kelso (near Townsville) - fire as at 5:04pm Wednesday, 29 July 2026",
+				"OBJECTID" : 3108,
+				"UniqueID" : "WARN-196",
+				"WarningTitle" : "STAY INFORMED - Tannum Sands - fire as at 3:01pm Thursday, 30 July 2026",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "Stay Informed",
+				"WarningText" : "A fire is burning between Ronpen Close and Broadacres Drive.\r\n\r\nStay informed because the situation could change.\r\n\r\nWhat you should do:\r\n\r\n- Check for warning updates often and listen to your local radio station.\r\n\r\n- Decide what you will do if the bushfire gets closer.\r\n\r\n- If the smoke is thick where you are, stay inside and close windows and doors.\r\n\r\n- If you need medication to help you breathe keep it close. Smoke can make it hard to breathe.\r\n\r\n- Do not fly drones around the fire as they affect firefighting.\r\n\r\n- If you are in danger, call Triple Zero (000) now.\r\n\r\nImpacts:\r\n\r\n- Some roads may be closed or impacted by smoke. It could be hard to see. You may need to drive a different way.\r\n\r\nWhat firefighters are doing:\r\n\r\n- Firefighters are working to control the fire.\r\n\r\nMore information:\r\n\r\n- For all fire warnings, visit the Qld Fire website.\r\n\r\n- Follow Queensland Fire Department on Facebook.\r\n\r\n- For road closures, visit the QLD Traffic website or call 13 19 40.\r\n\r\n- For local information visit your Council’s Local Disaster Dashboard.\r\n\r\n- If you are worried about your health call your doctor or 13 HEALTH (13 432 584).\r\n\r\n- Natural disasters can affect your mental health. If you need help contact:\r\n\r\n  - Lifeline on 13 11 14.\r\n\r\n  - Beyond Blue on 1300 224 636.\r\n\r\n  - Kids Helpline on 1800 551 800.\r\n\r\n- If you need translation, call TIS National on 131 450.\r\n\r\n- Learn how to get ready for a bushfire on the Qld Fire website - Prepare - Bushfire.\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from the Queensland Fire Department.",
+				"Header" : "A fire is burning between Ronpen Close and Broadacres Drive.\r\n\r\nStay informed because the situation could change.",
+				"Impacts" : "- Some roads may be closed or impacted by smoke. It could be hard to see. You may need to drive a different way.\r\n\r\nWhat firefighters are doing:\r\n\r\n- Firefighters are working to control the fire.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all fire warnings, visit the Qld Fire website.\r\n\r\n- Follow Queensland Fire Department on Facebook.\r\n\r\n- For road closures, visit the QLD Traffic website or call 13 19 40.\r\n\r\n- For local information visit your Council’s Local Disaster Dashboard.\r\n\r\n- If you are worried about your health call your doctor or 13 HEALTH (13 432 584).\r\n\r\n- Natural disasters can affect your mental health. If you need help contact:\r\n\r\n  - Lifeline on 13 11 14.\r\n\r\n  - Beyond Blue on 1300 224 636.\r\n\r\n  - Kids Helpline on 1800 551 800.\r\n\r\n- If you need translation, call TIS National on 131 450.\r\n\r\n- Learn how to get ready for a bushfire on the Qld Fire website - Prepare - Bushfire.\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from the Queensland Fire Department.",
+				"WarningLevelSort" : 5,
+				"ShouldDo" : "- Check for warning updates often and listen to your local radio station.\r\n\r\n- Decide what you will do if the bushfire gets closer.\r\n\r\n- If the smoke is thick where you are, stay inside and close windows and doors.\r\n\r\n- If you need medication to help you breathe keep it close. Smoke can make it hard to breathe.\r\n\r\n- Do not fly drones around the fire as they affect firefighting.\r\n\r\n- If you are in danger, call Triple Zero (000) now.",
+				"WarningArea" : "Tannum Sands",
+				"Latitude" : -23.97497520871736,
+				"Longitude" : 151.3655136829624,
+				"GroupedType" : "FIRE VEGETATION",
+				"ItemDateTimeUTM" : "20260730050215.700000",
+				"ItemDateTimeLocal_ISO" : "2026-07-30T15:02:15+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-07-31T15:02:15.7+10:00",
+				"MultipleWarnings" : null,
+				"MessageSent" : null,
+				"SendEmailSubscription" : null,
+				"WarningType_Level" : "Advice Fire",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 148.5041677978, -20.3483226957, 0 ],
+						[ 148.5767805602, -20.285700851, 0 ],
+						[ 148.5088026549, -20.2277249226, 0 ],
+						[ 148.434129956, -20.2908532186, 0 ],
+						[ 148.5041677978, -20.3483226957, 0 ]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 3113,
+				"UniqueID" : "WARN-203",
+				"WarningTitle" : "AVOID SMOKE - Gregory River (near Bowen) - fire as at 6:11pm Thursday, 30 July 2026",
 				"WarningLevel" : "Advice",
 				"CallToAction" : "Avoid Smoke",
-				"WarningText" : "Thick smoke is affecting Kelso, Rasmussen, Gumlow and Pinnacles. This is from a fire burning near Riverway Drive, Pinnacles.\r\n\r\nFire crews are currently on scene. This fire could burn for days. Protect yourself from the impacts of smoke.\r\n\r\nWhat you should do:\r\n\r\n- If the smoke is thick where you are, stay inside and close windows and doors.\r\n\r\n- If you need medication to help you breathe keep it close.\r\n\r\n- If you are worried about your health call your doctor or 13 HEALTH (13 432 584). If it is an emergency, call Triple Zero (000) now.\r\n\r\n- If you are affected by the smoke you may need to leave the area.\r\n\r\n- Check for warning updates often.\r\n\r\n- Do not fly drones around the fire as they affect firefighting.\r\n\r\nImpacts:\r\n\r\n- No properties are at risk.\r\n\r\n- Smoke could make it hard for some people to breathe and can cause health issues.\r\n\r\n- Some roads may be closed or impacted by smoke. It could be hard to see. You may need to drive a different way.\r\n\r\nMore information:\r\n\r\n- For all fire warnings, visit the Qld Fire website.\r\n\r\n- Follow Queensland Fire Department on Facebook.\r\n\r\n- For road closures, visit the QLD Traffic website or call 13 19 40.\r\n\r\n- For local information visit your Council’s Local Disaster Dashboard.\r\n\r\n- If you need translation, call TIS National on 131 450.\r\n\r\n- Learn how to get ready for a bushfire on the Qld Fire website - Prepare - Bushfire.\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from the Queensland Fire Department.",
-				"Header" : "Thick smoke is affecting Kelso, Rasmussen, Gumlow and Pinnacles. This is from a fire burning near Riverway Drive, Pinnacles.\r\n\r\nFire crews are currently on scene. This fire could burn for days. Protect yourself from the impacts of smoke.",
+				"WarningText" : "Thick smoke is affecting Gregory River and surrounding areas. This is from a fire burning near the Bruce Highway and Six Mile Creek.\r\n\r\nProtect yourself from the impacts of smoke.\r\n\r\nWhat you should do:\r\n\r\n- If the smoke is thick where you are, stay inside and close windows and doors.\r\n\r\n- If you need medication to help you breathe keep it close.\r\n\r\n- If you are worried about your health call your doctor or 13 HEALTH (13 432 584). If it is an emergency, call Triple Zero (000) now.\r\n\r\n- If you are affected by the smoke you may need to leave the area.\r\n\r\n- Check for warning updates often.\r\n\r\n- Do not fly drones around the fire as they affect firefighting.\r\n\r\nImpacts:\r\n\r\n- No properties are at risk.\r\n\r\n- Smoke could make it hard for some people to breathe and can cause health issues.\r\n\r\n- Some roads may be closed or impacted by smoke. It could be hard to see. You may need to drive a different way.\r\n\r\nMore information:\r\n\r\n- For all fire warnings, visit the Qld Fire website.\r\n\r\n- Follow Queensland Fire Department on Facebook.\r\n\r\n- For road closures, visit the QLD Traffic website or call 13 19 40.\r\n\r\n- For local information visit your Council’s Local Disaster Dashboard.\r\n\r\n- If you need translation, call TIS National on 131 450.\r\n\r\n- Learn how to get ready for a bushfire on the Qld Fire website - Prepare - Bushfire.\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from the Queensland Fire Department.",
+				"Header" : "Thick smoke is affecting Gregory River and surrounding areas. This is from a fire burning near the Bruce Highway and Six Mile Creek.\r\n\r\nProtect yourself from the impacts of smoke.",
 				"Impacts" : "- No properties are at risk.\r\n\r\n- Smoke could make it hard for some people to breathe and can cause health issues.\r\n\r\n- Some roads may be closed or impacted by smoke. It could be hard to see. You may need to drive a different way.",
 				"LeaveSafely" : null,
 				"FurtherInformation" : "- For all fire warnings, visit the Qld Fire website.\r\n\r\n- Follow Queensland Fire Department on Facebook.\r\n\r\n- For road closures, visit the QLD Traffic website or call 13 19 40.\r\n\r\n- For local information visit your Council’s Local Disaster Dashboard.\r\n\r\n- If you need translation, call TIS National on 131 450.\r\n\r\n- Learn how to get ready for a bushfire on the Qld Fire website - Prepare - Bushfire.\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from the Queensland Fire Department.",
 				"WarningLevelSort" : 7,
 				"ShouldDo" : "- If the smoke is thick where you are, stay inside and close windows and doors.\r\n\r\n- If you need medication to help you breathe keep it close.\r\n\r\n- If you are worried about your health call your doctor or 13 HEALTH (13 432 584). If it is an emergency, call Triple Zero (000) now.\r\n\r\n- If you are affected by the smoke you may need to leave the area.\r\n\r\n- Check for warning updates often.\r\n\r\n- Do not fly drones around the fire as they affect firefighting.",
-				"WarningArea" : "Kelso, Rasmussen, Gumlow and Pinnacles",
-				"Latitude" : -19.421145800823084,
-				"Longitude" : 146.74270087537724,
+				"WarningArea" : "Gregory River and surrounding areas",
+				"Latitude" : -20.288120518014658,
+				"Longitude" : 148.50580135212374,
 				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20260729070519.483000",
-				"ItemDateTimeLocal_ISO" : "2026-07-29T17:05:19+10:00",
-				"PublishDateLocal_ISO" : "2026-07-30T01:33:05+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-07-30T17:05:19.483+10:00",
+				"ItemDateTimeUTM" : "20260730081117.727000",
+				"ItemDateTimeLocal_ISO" : "2026-07-30T18:11:17+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-07-31T18:11:17.727+10:00",
 				"MultipleWarnings" : null,
 				"MessageSent" : null,
 				"SendEmailSubscription" : null,
@@ -51,257 +96,40 @@
 				"type" : "Polygon",
 				"coordinates" : [
 					[
-						[ 146.0223642883, -18.405602342, 0 ],
-						[ 146.1295506006, -18.3482163773, 0 ],
-						[ 146.0239092407, -18.2256891161, 0 ],
-						[ 145.9332720337, -18.2657946561, 0 ],
-						[ 146.0223642883, -18.405602342, 0 ]
+						[ 152.5054628209, -25.9325606934, 0 ],
+						[ 152.6610419159, -25.9311138282, 0 ],
+						[ 152.6700522876, -25.7506031585, 0 ],
+						[ 152.5030600917, -25.7496371266, 0 ],
+						[ 152.5054628209, -25.9325606934, 0 ]
 					]
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 3092,
-				"UniqueID" : "WARN-171",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Cardwell - fire as at 10:30am Wednesday, 29 July 2026",
+				"OBJECTID" : 3114,
+				"UniqueID" : "WARN-204",
+				"WarningTitle" : "AVOID SMOKE - Bauple - fire as at 9:14pm Thursday, 30 July 2026",
 				"WarningLevel" : "Advice",
-				"CallToAction" : "Avoid Smoke (Hazard Reduction Burn)",
-				"WarningText" : "Thick smoke is affecting Cardwell, Damper Creek and Ellerbeck. This is from Queensland Parks and Wildlife Service hazard reduction burning in the Girringun National Park, near the Bruce Highway and Stony Creek Road, Cardwell.\r\n\r\nSmoke could be in the area for days. Protect yourself from the impacts of smoke.\r\n\r\nWhat you should do:\r\n\r\n- If the smoke is thick where you are, stay inside and close windows and doors.\r\n\r\n- If you need medication to help you breathe keep it close.\r\n\r\n- If you are worried about your health call your doctor or 13 HEALTH (13 432 584). If it is an emergency, call Triple Zero (000) now.\r\n\r\n- If you are affected by the smoke you may need to leave the area.\r\n\r\n- Do not fly drones around the fire as they affect firefighting.\r\n\r\nImpacts:\r\n\r\n- Smoke could make it hard for some people to breathe and can cause health issues.\r\n\r\n- Some roads may be closed or impacted by smoke. It could be hard to see. You may need to drive a different way.\r\n\r\nMore information:\r\n\r\n- For all fire warnings, visit the Qld Fire website.\r\n\r\n- Follow Queensland Fire Department on Facebook.\r\n\r\n- For road closures, visit the QLD Traffic website or call 13 19 40.\r\n\r\n- For local information visit your Council’s Local Disaster Dashboard.\r\n\r\n- If you need translation, call TIS National on 131 450.\r\n\r\n- For information about camp ground and park closures, visit the Park Alerts website.\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from the Queensland Fire Department.",
-				"Header" : "Thick smoke is affecting Cardwell, Damper Creek and Ellerbeck. This is from Queensland Parks and Wildlife Service hazard reduction burning in the Girringun National Park, near the Bruce Highway and Stony Creek Road, Cardwell.\r\n\r\nSmoke could be in the area for days. Protect yourself from the impacts of smoke.",
-				"Impacts" : "- Smoke could make it hard for some people to breathe and can cause health issues.\r\n\r\n- Some roads may be closed or impacted by smoke. It could be hard to see. You may need to drive a different way.",
+				"CallToAction" : "Avoid Smoke",
+				"WarningText" : "There is a fire near the Bruce Highway, Bauple.\r\n\r\nThere will be thick smoke in the area for hours. The incident is under control.\r\n\r\nWhat you should do:\r\n\r\n- If the smoke is thick where you are, stay inside and close windows and doors.\r\n\r\n- If you need medication to help you breathe keep it close. Smoke can make it hard to breathe.\r\n\r\n- Stay away from the area if you do not need to be there.\r\n\r\n- Check for warning updates often and listen to your local radio station.\r\n\r\n- Do not fly drones around the incident as they affect firefighting.\r\n\r\n- If you are in danger, call Triple Zero (000) now.\r\n\r\nImpacts:\r\n\r\n- Some roads may be closed or impacted by smoke. You may need to drive a different way.\r\n\r\n- Smoke can make it hard to see when driving.\r\n\r\nMore information:\r\n\r\n- For all warnings, visit the Qld Fire website.\r\n\r\n- Follow Queensland Fire Department on Facebook.\r\n\r\n- For road closures, visit the QLD Traffic website or call 13 19 40.\r\n\r\n- If you are worried about your health call your doctor or 13 HEALTH (13 432 584).\r\n\r\n- For local information visit your Council’s Local Disaster Dashboard.\r\n\r\n- If you need translation, call TIS National on 131 450.\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from the Queensland Fire Department.",
+				"Header" : "There is a fire near the Bruce Highway, Bauple.\r\n\r\nThere will be thick smoke in the area for hours. The incident is under control.",
+				"Impacts" : "- Some roads may be closed or impacted by smoke. You may need to drive a different way.\r\n\r\n- Smoke can make it hard to see when driving.",
 				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all fire warnings, visit the Qld Fire website.\r\n\r\n- Follow Queensland Fire Department on Facebook.\r\n\r\n- For road closures, visit the QLD Traffic website or call 13 19 40.\r\n\r\n- For local information visit your Council’s Local Disaster Dashboard.\r\n\r\n- If you need translation, call TIS National on 131 450.\r\n\r\n- For information about camp ground and park closures, visit the Park Alerts website.\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from the Queensland Fire Department.",
-				"WarningLevelSort" : 8,
-				"ShouldDo" : "- If the smoke is thick where you are, stay inside and close windows and doors.\r\n\r\n- If you need medication to help you breathe keep it close.\r\n\r\n- If you are worried about your health call your doctor or 13 HEALTH (13 432 584). If it is an emergency, call Triple Zero (000) now.\r\n\r\n- If you are affected by the smoke you may need to leave the area.\r\n\r\n- Do not fly drones around the fire as they affect firefighting.",
-				"WarningArea" : "Cardwell, Damper Creek and Ellerbeck ",
-				"Latitude" : -18.31390937132984,
-				"Longitude" : 146.02861857988313,
-				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20260729003119.517000",
-				"ItemDateTimeLocal_ISO" : "2026-07-29T10:31:19+10:00",
-				"PublishDateLocal_ISO" : "2026-07-30T01:33:05+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-07-30T10:31:19.517+10:00",
+				"FurtherInformation" : "- For all warnings, visit the Qld Fire website.\r\n\r\n- Follow Queensland Fire Department on Facebook.\r\n\r\n- For road closures, visit the QLD Traffic website or call 13 19 40.\r\n\r\n- If you are worried about your health call your doctor or 13 HEALTH (13 432 584).\r\n\r\n- For local information visit your Council’s Local Disaster Dashboard.\r\n\r\n- If you need translation, call TIS National on 131 450.\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from the Queensland Fire Department.",
+				"WarningLevelSort" : 7,
+				"ShouldDo" : "- If the smoke is thick where you are, stay inside and close windows and doors.\r\n\r\n- If you need medication to help you breathe keep it close. Smoke can make it hard to breathe.\r\n\r\n- Stay away from the area if you do not need to be there.\r\n\r\n- Check for warning updates often and listen to your local radio station.\r\n\r\n- Do not fly drones around the incident as they affect firefighting.\r\n\r\n- If you are in danger, call Triple Zero (000) now.",
+				"WarningArea" : "Bauple and surrounding areas",
+				"Latitude" : -25.839903246645623,
+				"Longitude" : 152.5847441068999,
+				"GroupedType" : "Other",
+				"ItemDateTimeUTM" : "20260730111506.797000",
+				"ItemDateTimeLocal_ISO" : "2026-07-30T21:15:06+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-07-31T21:15:06.797+10:00",
 				"MultipleWarnings" : null,
 				"MessageSent" : null,
 				"SendEmailSubscription" : null,
-				"WarningType_Level" : "Advice Fire",
-				"EventType" : "Fire"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 152.9635093413, -26.4022807093, 0 ],
-						[ 153.0816123686, -26.3853663018, 0 ],
-						[ 153.0764625273, -26.2471906609, 0 ],
-						[ 152.9288337431, -26.2521173447, 0 ],
-						[ 152.9635093413, -26.4022807093, 0 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : 3093,
-				"UniqueID" : "WARN-173",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Cooroibah (Sunshine Coast) - fire as at 11:00am Wednesday, 29 July 2026",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "Avoid Smoke (Hazard Reduction Burn)",
-				"WarningText" : "Thick smoke is affecting Cooroibah, Boreen Point, Teewah, Noosa North Shore and surrounding areas. This is from Queensland Parks and Wildlife Service hazard reduction burning in the Great Sandy National Park.\r\n\r\nProtect yourself from the impacts of smoke.\r\n\r\nWhat you should do:\r\n\r\n- If the smoke is thick where you are, stay inside and close windows and doors.\r\n\r\n- If you need medication to help you breathe keep it close.\r\n\r\n- If you are worried about your health call your doctor or 13 HEALTH (13 432 584). If it is an emergency, call Triple Zero (000) now.\r\n\r\n- If you are affected by the smoke you may need to leave the area.\r\n\r\n- Do not fly drones around the fire as they affect firefighting.\r\n\r\nImpacts:\r\n\r\n- Smoke could make it hard for some people to breathe and can cause health issues.\r\n\r\n- Some roads may be closed or impacted by smoke. It could be hard to see. You may need to drive a different way.\r\n\r\nMore information:\r\n\r\n- For all fire warnings, visit the Qld Fire website.\r\n\r\n- Follow Queensland Fire Department on Facebook.\r\n\r\n- For road closures, visit the QLD Traffic website or call 13 19 40.\r\n\r\n- For local information visit your Council’s Local Disaster Dashboard.\r\n\r\n- If you need translation, call TIS National on 131 450.\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from the Queensland Fire Department.",
-				"Header" : "Thick smoke is affecting Cooroibah, Boreen Point, Teewah, Noosa North Shore and surrounding areas. This is from Queensland Parks and Wildlife Service hazard reduction burning in the Great Sandy National Park.\r\n\r\nProtect yourself from the impacts of smoke.",
-				"Impacts" : "- Smoke could make it hard for some people to breathe and can cause health issues.\r\n\r\n- Some roads may be closed or impacted by smoke. It could be hard to see. You may need to drive a different way.",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all fire warnings, visit the Qld Fire website.\r\n\r\n- Follow Queensland Fire Department on Facebook.\r\n\r\n- For road closures, visit the QLD Traffic website or call 13 19 40.\r\n\r\n- For local information visit your Council’s Local Disaster Dashboard.\r\n\r\n- If you need translation, call TIS National on 131 450.\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from the Queensland Fire Department.",
-				"WarningLevelSort" : 8,
-				"ShouldDo" : "- If the smoke is thick where you are, stay inside and close windows and doors.\r\n\r\n- If you need medication to help you breathe keep it close.\r\n\r\n- If you are worried about your health call your doctor or 13 HEALTH (13 432 584). If it is an emergency, call Triple Zero (000) now.\r\n\r\n- If you are affected by the smoke you may need to leave the area.\r\n\r\n- Do not fly drones around the fire as they affect firefighting.",
-				"WarningArea" : "Cooroibah, Boreen Point, Teewah, Noosa North Shore and surrounding areas",
-				"Latitude" : -26.319336921779463,
-				"Longitude" : 153.01116572491793,
-				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20260729010119.820000",
-				"ItemDateTimeLocal_ISO" : "2026-07-29T11:01:19+10:00",
-				"PublishDateLocal_ISO" : "2026-07-30T01:33:05+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-07-30T11:01:19.82+10:00",
-				"MultipleWarnings" : null,
-				"MessageSent" : null,
-				"SendEmailSubscription" : null,
-				"WarningType_Level" : "Advice Fire",
-				"EventType" : "Fire"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 152.4286729548, -25.1882467365, 0 ],
-						[ 152.5294381831, -25.1668080898, 0 ],
-						[ 152.5005990718, -25.0719979293, 0 ],
-						[ 152.4027520869, -25.0920540781, 0 ],
-						[ 152.4286729548, -25.1882467365, 0 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : 3094,
-				"UniqueID" : "WARN-172",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Kinkuna (near Woodgate) - fire as at 11:02am Wednesday, 29 July 2026",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "Avoid Smoke (Hazard Reduction Burn)",
-				"WarningText" : "Thick smoke is affecting Kinkuna and surrounding areas. This is from Queensland Parks and Wildlife Service hazard reduction burning in the Burrum Coast National Park, near the intersection Heidkes Road and Woodgate Road.\r\n\r\nProtect yourself from the impacts of smoke.\r\n\r\nWhat you should do:\r\n\r\n- If the smoke is thick where you are, stay inside and close windows and doors.\r\n\r\n- If you need medication to help you breathe keep it close.\r\n\r\n- If you are worried about your health call your doctor or 13 HEALTH (13 432 584). If it is an emergency, call Triple Zero (000) now.\r\n\r\n- If you are affected by the smoke you may need to leave the area.\r\n\r\n- Do not fly drones around the fire as they affect firefighting.\r\n\r\nImpacts:\r\n\r\n- Smoke could make it hard for some people to breathe and can cause health issues.\r\n\r\n- Some roads may be closed or impacted by smoke. It could be hard to see. You may need to drive a different way.\r\n\r\nMore information:\r\n\r\n- For all fire warnings, visit the Qld Fire website.\r\n\r\n- Follow Queensland Fire Department on Facebook.\r\n\r\n- For road closures, visit the QLD Traffic website or call 13 19 40.\r\n\r\n- For live air quality data visit the Department of Environment and Science website.\r\n\r\n- For local information visit your Council’s Local Disaster Dashboard.\r\n\r\n- If you need translation, call TIS National on 131 450.\r\n\r\n- For information about camp ground and park closures, visit the Park Alerts website.\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from the Queensland Fire Department.",
-				"Header" : "Thick smoke is affecting Kinkuna and surrounding areas. This is from Queensland Parks and Wildlife Service hazard reduction burning in the Burrum Coast National Park, near the intersection Heidkes Road and Woodgate Road.\r\n\r\nProtect yourself from the impacts of smoke.",
-				"Impacts" : "- Smoke could make it hard for some people to breathe and can cause health issues.\r\n\r\n- Some roads may be closed or impacted by smoke. It could be hard to see. You may need to drive a different way.",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all fire warnings, visit the Qld Fire website.\r\n\r\n- Follow Queensland Fire Department on Facebook.\r\n\r\n- For road closures, visit the QLD Traffic website or call 13 19 40.\r\n\r\n- For live air quality data visit the Department of Environment and Science website.\r\n\r\n- For local information visit your Council’s Local Disaster Dashboard.\r\n\r\n- If you need translation, call TIS National on 131 450.\r\n\r\n- For information about camp ground and park closures, visit the Park Alerts website.\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from the Queensland Fire Department.",
-				"WarningLevelSort" : 8,
-				"ShouldDo" : "- If the smoke is thick where you are, stay inside and close windows and doors.\r\n\r\n- If you need medication to help you breathe keep it close.\r\n\r\n- If you are worried about your health call your doctor or 13 HEALTH (13 432 584). If it is an emergency, call Triple Zero (000) now.\r\n\r\n- If you are affected by the smoke you may need to leave the area.\r\n\r\n- Do not fly drones around the fire as they affect firefighting.",
-				"WarningArea" : "Kinkuna and surrounding areas",
-				"Latitude" : -25.130040531004973,
-				"Longitude" : 152.46537424506428,
-				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20260729010249.650000",
-				"ItemDateTimeLocal_ISO" : "2026-07-29T11:02:49+10:00",
-				"PublishDateLocal_ISO" : "2026-07-30T01:33:05+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-07-30T11:02:49.65+10:00",
-				"MultipleWarnings" : null,
-				"MessageSent" : null,
-				"SendEmailSubscription" : null,
-				"WarningType_Level" : "Advice Fire",
-				"EventType" : "Fire"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 152.1789593707, -27.3634972611, 0 ],
-						[ 152.1795971491, -27.3082951961, 0 ],
-						[ 152.0815158527, -27.3072794391, 0 ],
-						[ 152.0797390948, -27.3626593178, 0 ],
-						[ 152.1789593707, -27.3634972611, 0 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : 3095,
-				"UniqueID" : "WARN-175",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Cressbrook Creek - fire as at 11:30am Wednesday, 29 July 2026",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "Avoid Smoke (Hazard Reduction Burn)",
-				"WarningText" : "Thick smoke is affecting Cressbrook Creek and surrounding areas. This is from Queensland Parks and Wildlife Service hazard reduction burning in the Crows Nest National Park.\r\n\r\nProtect yourself from the impacts of smoke.\r\n\r\nWhat you should do:\r\n\r\n- If the smoke is thick where you are, stay inside and close windows and doors.\r\n\r\n- If you need medication to help you breathe keep it close.\r\n\r\n- If you are worried about your health call your doctor or 13 HEALTH (13 432 584). If it is an emergency, call Triple Zero (000) now.\r\n\r\n- If you are affected by the smoke you may need to leave the area.\r\n\r\n- Do not fly drones around the fire as they affect firefighting.\r\n\r\nImpacts:\r\n\r\n- Smoke could make it hard for some people to breathe and can cause health issues.\r\n\r\n- Some roads may be closed or impacted by smoke. It could be hard to see. You may need to drive a different way.\r\n\r\nMore information:\r\n\r\n- For all fire warnings, visit the Qld Fire website.\r\n\r\n- Follow Queensland Fire Department on Facebook.\r\n\r\n- For road closures, visit the QLD Traffic website or call 13 19 40.\r\n\r\n- For local information visit your Council’s Local Disaster Dashboard.\r\n\r\n- If you need translation, call TIS National on 131 450.\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from the Queensland Fire Department.",
-				"Header" : "Thick smoke is affecting Cressbrook Creek and surrounding areas. This is from Queensland Parks and Wildlife Service hazard reduction burning in the Crows Nest National Park.\r\n\r\nProtect yourself from the impacts of smoke.",
-				"Impacts" : "- Smoke could make it hard for some people to breathe and can cause health issues.\r\n\r\n- Some roads may be closed or impacted by smoke. It could be hard to see. You may need to drive a different way.",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all fire warnings, visit the Qld Fire website.\r\n\r\n- Follow Queensland Fire Department on Facebook.\r\n\r\n- For road closures, visit the QLD Traffic website or call 13 19 40.\r\n\r\n- For local information visit your Council’s Local Disaster Dashboard.\r\n\r\n- If you need translation, call TIS National on 131 450.\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from the Queensland Fire Department.",
-				"WarningLevelSort" : 8,
-				"ShouldDo" : "- If the smoke is thick where you are, stay inside and close windows and doors.\r\n\r\n- If you need medication to help you breathe keep it close.\r\n\r\n- If you are worried about your health call your doctor or 13 HEALTH (13 432 584). If it is an emergency, call Triple Zero (000) now.\r\n\r\n- If you are affected by the smoke you may need to leave the area.\r\n\r\n- Do not fly drones around the fire as they affect firefighting.",
-				"WarningArea" : "Cressbrook Creek and surrounding areas",
-				"Latitude" : -27.335485545157084,
-				"Longitude" : 152.12992368602514,
-				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20260729013040.437000",
-				"ItemDateTimeLocal_ISO" : "2026-07-29T11:30:40+10:00",
-				"PublishDateLocal_ISO" : "2026-07-30T01:33:05+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-07-30T11:30:40.437+10:00",
-				"MultipleWarnings" : null,
-				"MessageSent" : null,
-				"SendEmailSubscription" : null,
-				"WarningType_Level" : "Advice Fire",
-				"EventType" : "Fire"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 153.2521712762, -28.0653379965, 0 ],
-						[ 153.3037555199, -28.0010929899, 0 ],
-						[ 153.2474935036, -27.9713818692, 0 ],
-						[ 153.213504551, -28.0084437126, 0 ],
-						[ 153.2254564744, -28.0373491626, 0 ],
-						[ 153.2521712762, -28.0653379965, 0 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : 3096,
-				"UniqueID" : "WARN-178",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Clagiraba (Gold Coast) - fire as at 11:42am Wednesday, 29 July 2026",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "Avoid Smoke (Hazard Reduction Burn)",
-				"WarningText" : "Thick smoke is affecting Clagiraba. This is from LRM Fire & Rescue hazard reduction burning in the Lower Beechmont Conservation Area.\r\n\r\nProtect yourself from the impacts of smoke.\r\n\r\nWhat you should do:\r\n\r\n- If the smoke is thick where you are, stay inside and close windows and doors.\r\n\r\n- If you need medication to help you breathe keep it close.\r\n\r\n- If you are worried about your health call your doctor or 13 HEALTH (13 432 584). If it is an emergency, call Triple Zero (000) now.\r\n\r\n- If you are affected by the smoke you may need to leave the area.\r\n\r\n- Do not fly drones around the fire as they affect firefighting.\r\n\r\nImpacts:\r\n\r\n- Smoke could make it hard for some people to breathe and can cause health issues.\r\n\r\n- Some roads may be closed or impacted by smoke. It could be hard to see. You may need to drive a different way.\r\n\r\nMore information:\r\n\r\n- For all fire warnings, visit the Qld Fire website.\r\n\r\n- Follow Queensland Fire Department on Facebook.\r\n\r\n- For road closures, visit the QLD Traffic website or call 13 19 40.\r\n\r\n- For local information visit your Council’s Local Disaster Dashboard.\r\n\r\n- If you need translation, call TIS National on 131 450.\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from the Queensland Fire Department.",
-				"Header" : "Thick smoke is affecting Clagiraba. This is from LRM Fire & Rescue hazard reduction burning in the Lower Beechmont Conservation Area.\r\n\r\nProtect yourself from the impacts of smoke.",
-				"Impacts" : "- Smoke could make it hard for some people to breathe and can cause health issues.\r\n\r\n- Some roads may be closed or impacted by smoke. It could be hard to see. You may need to drive a different way.",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all fire warnings, visit the Qld Fire website.\r\n\r\n- Follow Queensland Fire Department on Facebook.\r\n\r\n- For road closures, visit the QLD Traffic website or call 13 19 40.\r\n\r\n- For local information visit your Council’s Local Disaster Dashboard.\r\n\r\n- If you need translation, call TIS National on 131 450.\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from the Queensland Fire Department.",
-				"WarningLevelSort" : 8,
-				"ShouldDo" : "- If the smoke is thick where you are, stay inside and close windows and doors.\r\n\r\n- If you need medication to help you breathe keep it close.\r\n\r\n- If you are worried about your health call your doctor or 13 HEALTH (13 432 584). If it is an emergency, call Triple Zero (000) now.\r\n\r\n- If you are affected by the smoke you may need to leave the area.\r\n\r\n- Do not fly drones around the fire as they affect firefighting.",
-				"WarningArea" : "Clagiraba",
-				"Latitude" : -28.014720782171192,
-				"Longitude" : 153.2546618932883,
-				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20260729014325.333000",
-				"ItemDateTimeLocal_ISO" : "2026-07-29T11:43:25+10:00",
-				"PublishDateLocal_ISO" : "2026-07-30T01:33:05+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-07-30T11:43:25.333+10:00",
-				"MultipleWarnings" : null,
-				"MessageSent" : null,
-				"SendEmailSubscription" : null,
-				"WarningType_Level" : "Advice Fire",
-				"EventType" : "Fire"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Polygon",
-				"coordinates" : [
-					[
-						[ 153.4195498527, -27.7422131419, 0 ],
-						[ 153.4511094219, -27.7268081273, 0 ],
-						[ 153.4655912052, -27.6365290554, 0 ],
-						[ 153.3631113613, -27.5799082798, 0 ],
-						[ 153.3458096703, -27.586501457, 0 ],
-						[ 153.347230177, -27.6202218855, 0 ],
-						[ 153.3608577103, -27.6498771444, 0 ],
-						[ 153.3657731566, -27.709838991, 0 ],
-						[ 153.3925679132, -27.7093324216, 0 ],
-						[ 153.4023395601, -27.73134545, 0 ],
-						[ 153.4195498527, -27.7422131419, 0 ]
-					]
-				]
-			},
-			"properties" : {
-				"OBJECTID" : 3097,
-				"UniqueID" : "WARN-179",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - North Stradbroke Island, Russell Island, Macleay Island - fire as at 11:43am Wednesday, 29 July 2026",
-				"WarningLevel" : "Advice",
-				"CallToAction" : "Avoid Smoke (Hazard Reduction Burn)",
-				"WarningText" : "Thick smoke is affecting North Stradbroke Island, Russell Island, Macleay Island and surrounding areas. This is from Queensland Parks and Wildlife Service hazard reduction burning within the Naree Budjong Djara National Park, North Stradbroke Island.\r\n\r\nProtect yourself from the impacts of smoke.\r\n\r\nWhat you should do:\r\n\r\n- If the smoke is thick where you are, stay inside and close windows and doors.\r\n\r\n- If you need medication to help you breathe keep it close.\r\n\r\n- If you are worried about your health call your doctor or 13 HEALTH (13 432 584). If it is an emergency, call Triple Zero (000) now.\r\n\r\n- If you are affected by the smoke you may need to leave the area.\r\n\r\n- Do not fly drones around the fire as they affect firefighting.\r\n\r\nImpacts:\r\n\r\n- Smoke could make it hard for some people to breathe and can cause health issues.\r\n\r\n- Some roads may be closed or impacted by smoke. It could be hard to see. You may need to drive a different way.\r\n\r\nMore information:\r\n\r\n- For all fire warnings, visit the Qld Fire website.\r\n\r\n- Follow Queensland Fire Department on Facebook.\r\n\r\n- For road closures, visit the QLD Traffic website or call 13 19 40.\r\n\r\n- For local information visit your Council’s Local Disaster Dashboard.\r\n\r\n- If you need translation, call TIS National on 131 450.\r\n\r\n- For information about camp ground and park closures, visit the Park Alerts website.\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from the Queensland Fire Department.",
-				"Header" : "Thick smoke is affecting North Stradbroke Island, Russell Island, Macleay Island and surrounding areas. This is from Queensland Parks and Wildlife Service hazard reduction burning within the Naree Budjong Djara National Park, North Stradbroke Island.\r\n\r\nProtect yourself from the impacts of smoke.",
-				"Impacts" : "- Smoke could make it hard for some people to breathe and can cause health issues.\r\n\r\n- Some roads may be closed or impacted by smoke. It could be hard to see. You may need to drive a different way.",
-				"LeaveSafely" : null,
-				"FurtherInformation" : "- For all fire warnings, visit the Qld Fire website.\r\n\r\n- Follow Queensland Fire Department on Facebook.\r\n\r\n- For road closures, visit the QLD Traffic website or call 13 19 40.\r\n\r\n- For local information visit your Council’s Local Disaster Dashboard.\r\n\r\n- If you need translation, call TIS National on 131 450.\r\n\r\n- For information about camp ground and park closures, visit the Park Alerts website.\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from the Queensland Fire Department.",
-				"WarningLevelSort" : 8,
-				"ShouldDo" : "- If the smoke is thick where you are, stay inside and close windows and doors.\r\n\r\n- If you need medication to help you breathe keep it close.\r\n\r\n- If you are worried about your health call your doctor or 13 HEALTH (13 432 584). If it is an emergency, call Triple Zero (000) now.\r\n\r\n- If you are affected by the smoke you may need to leave the area.\r\n\r\n- Do not fly drones around the fire as they affect firefighting.",
-				"WarningArea" : "North Stradbroke Island, Russell Island, Macleay Island and surrounding areas",
-				"Latitude" : -27.660379727889794,
-				"Longitude" : 153.40551870901723,
-				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20260729014440.400000",
-				"ItemDateTimeLocal_ISO" : "2026-07-29T11:44:40+10:00",
-				"PublishDateLocal_ISO" : "2026-07-30T01:33:05+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-07-30T11:44:40.4+10:00",
-				"MultipleWarnings" : null,
-				"MessageSent" : null,
-				"SendEmailSubscription" : null,
-				"WarningType_Level" : "Advice Fire",
-				"EventType" : "Fire"
+				"WarningType_Level" : "Advice Other",
+				"EventType" : "Other"
 			}
 		},
 		{
@@ -337,7 +165,7 @@
 				"GroupedType" : "FIRE VEGETATION",
 				"ItemDateTimeUTM" : "20260729020046.077000",
 				"ItemDateTimeLocal_ISO" : "2026-07-29T12:00:46+10:00",
-				"PublishDateLocal_ISO" : "2026-07-30T01:33:05+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-07-30T12:00:46.077+10:00",
 				"MultipleWarnings" : null,
 				"MessageSent" : null,
@@ -352,35 +180,37 @@
 				"type" : "Polygon",
 				"coordinates" : [
 					[
-						[ 152.9715814459, -27.0217900828, 0 ],
-						[ 153.0766286742, -27.0194112768, 0 ],
-						[ 153.0697862018, -26.9979402541, 0 ],
-						[ 152.9725114181, -26.9851933462, 0 ],
-						[ 152.9715814459, -27.0217900828, 0 ]
+						[ 153.2521712762, -28.0653379965, 0 ],
+						[ 153.3357560546, -28.0650771268, 0 ],
+						[ 153.3030879537, -27.9862721378, 0 ],
+						[ 153.2474935036, -27.9713818692, 0 ],
+						[ 153.213504551, -28.0084437126, 0 ],
+						[ 153.2254564744, -28.0373491626, 0 ],
+						[ 153.2521712762, -28.0653379965, 0 ]
 					]
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 3099,
-				"UniqueID" : "WARN-180",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Elimbah and Donnybrook - fire as at 12:02pm Wednesday, 29 July 2026",
+				"OBJECTID" : 3103,
+				"UniqueID" : "WARN-186",
+				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Clagiraba, Gilston, Advancetown and Lower Beechmont - fire as at 10:01am Thursday, 30 July 2026",
 				"WarningLevel" : "Advice",
 				"CallToAction" : "Avoid Smoke (Hazard Reduction Burn)",
-				"WarningText" : "Thick smoke is affecting Elimbah, Donnybrook and surrounding areas. This is from HQ Plantations hazard reduction burning near Rutters Road and Clinker Road, Elimbah.\r\n\r\nProtect yourself from the impacts of smoke.\r\n\r\nWhat you should do:\r\n\r\n- If the smoke is thick where you are, stay inside and close windows and doors.\r\n\r\n- If you need medication to help you breathe keep it close.\r\n\r\n- If you are worried about your health call your doctor or 13 HEALTH (13 432 584). If it is an emergency, call Triple Zero (000) now.\r\n\r\n- If you are affected by the smoke you may need to leave the area.\r\n\r\n- Do not fly drones around the fire as they affect firefighting.\r\n\r\nImpacts:\r\n\r\n- Smoke could make it hard for some people to breathe and can cause health issues.\r\n\r\n- Some roads may be closed or impacted by smoke. It could be hard to see. You may need to drive a different way.\r\n\r\nMore information:\r\n\r\n- For all fire warnings, visit the Qld Fire website.\r\n\r\n- Follow Queensland Fire Department on Facebook.\r\n\r\n- For road closures, visit the QLD Traffic website or call 13 19 40.\r\n\r\n- For local information visit your Council’s Local Disaster Dashboard.\r\n\r\n- If you need translation, call TIS National on 131 450.\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from the Queensland Fire Department.",
-				"Header" : "Thick smoke is affecting Elimbah, Donnybrook and surrounding areas. This is from HQ Plantations hazard reduction burning near Rutters Road and Clinker Road, Elimbah.\r\n\r\nProtect yourself from the impacts of smoke.",
+				"WarningText" : "Thick smoke is affecting Clagiraba, Gilston, Advancetown, Lower Beechmont and surrounding areas. This is from multiple hazard reduction burns in the Lower Beechmont Conservation Area and near Hinze Dam.\r\n\r\nProtect yourself from the impacts of smoke.\r\n\r\nWhat you should do:\r\n\r\n- If the smoke is thick where you are, stay inside and close windows and doors.\r\n\r\n- If you need medication to help you breathe keep it close.\r\n\r\n- If you are worried about your health call your doctor or 13 HEALTH (13 432 584). If it is an emergency, call Triple Zero (000) now.\r\n\r\n- If you are affected by the smoke you may need to leave the area.\r\n\r\n- Do not fly drones around the fire as they affect firefighting.\r\n\r\nImpacts:\r\n\r\n- Smoke could make it hard for some people to breathe and can cause health issues.\r\n\r\n- Some roads may be closed or impacted by smoke. It could be hard to see. You may need to drive a different way.\r\n\r\nMore information:\r\n\r\n- For all fire warnings, visit the Qld Fire website.\r\n\r\n- Follow Queensland Fire Department on Facebook.\r\n\r\n- For road closures, visit the QLD Traffic website or call 13 19 40.\r\n\r\n- For local information visit your Council’s Local Disaster Dashboard.\r\n\r\n- If you need translation, call TIS National on 131 450.\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from the Queensland Fire Department.",
+				"Header" : "Thick smoke is affecting Clagiraba, Gilston, Advancetown, Lower Beechmont and surrounding areas. This is from multiple hazard reduction burns in the Lower Beechmont Conservation Area and near Hinze Dam.\r\n\r\nProtect yourself from the impacts of smoke.",
 				"Impacts" : "- Smoke could make it hard for some people to breathe and can cause health issues.\r\n\r\n- Some roads may be closed or impacted by smoke. It could be hard to see. You may need to drive a different way.",
 				"LeaveSafely" : null,
 				"FurtherInformation" : "- For all fire warnings, visit the Qld Fire website.\r\n\r\n- Follow Queensland Fire Department on Facebook.\r\n\r\n- For road closures, visit the QLD Traffic website or call 13 19 40.\r\n\r\n- For local information visit your Council’s Local Disaster Dashboard.\r\n\r\n- If you need translation, call TIS National on 131 450.\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from the Queensland Fire Department.",
 				"WarningLevelSort" : 8,
 				"ShouldDo" : "- If the smoke is thick where you are, stay inside and close windows and doors.\r\n\r\n- If you need medication to help you breathe keep it close.\r\n\r\n- If you are worried about your health call your doctor or 13 HEALTH (13 432 584). If it is an emergency, call Triple Zero (000) now.\r\n\r\n- If you are affected by the smoke you may need to leave the area.\r\n\r\n- Do not fly drones around the fire as they affect firefighting.",
-				"WarningArea" : "Elimbah, Donnybrook and surrounding areas",
-				"Latitude" : -27.006075440375987,
-				"Longitude" : 153.01811863978233,
+				"WarningArea" : "Clagiraba, Gilston, Advancetown, Lower Beechmont and surrounding areas",
+				"Latitude" : -28.023334083894472,
+				"Longitude" : 153.27254900278547,
 				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20260729020257.627000",
-				"ItemDateTimeLocal_ISO" : "2026-07-29T12:02:57+10:00",
-				"PublishDateLocal_ISO" : "2026-07-30T01:33:05+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-07-30T12:02:57.627+10:00",
+				"ItemDateTimeUTM" : "20260730000349.553000",
+				"ItemDateTimeLocal_ISO" : "2026-07-30T10:03:49+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-07-31T10:03:49.553+10:00",
 				"MultipleWarnings" : null,
 				"MessageSent" : null,
 				"SendEmailSubscription" : null,
@@ -394,35 +224,254 @@
 				"type" : "Polygon",
 				"coordinates" : [
 					[
-						[ 152.5214991585, -27.2267765329, 0 ],
-						[ 152.6003775612, -27.1979998462, 0 ],
-						[ 152.5677618996, -27.1459997898, 0 ],
-						[ 152.5071654335, -27.1740263249, 0 ],
-						[ 152.5214991585, -27.2267765329, 0 ]
+						[ 152.9635093413, -26.4022807093, 0 ],
+						[ 153.0816123686, -26.3853663018, 0 ],
+						[ 153.0764625273, -26.2471906609, 0 ],
+						[ 152.9288337431, -26.2521173447, 0 ],
+						[ 152.9635093413, -26.4022807093, 0 ]
 					]
 				]
 			},
 			"properties" : {
-				"OBJECTID" : 3100,
-				"UniqueID" : "WARN-182",
-				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Crossdale (near Lake Wivenhoe) - fire as at 1:43pm Wednesday, 29 July 2026",
+				"OBJECTID" : 3105,
+				"UniqueID" : "WARN-190",
+				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Cooroibah (Sunshine Coast) - fire as at 11:06am Thursday, 30 July 2026",
 				"WarningLevel" : "Advice",
 				"CallToAction" : "Avoid Smoke (Hazard Reduction Burn)",
-				"WarningText" : "Thick smoke is affecting Crossdale and surrounding areas. This is from Seqwater hazard reduction burning near Mckey Road.\r\n\r\nProtect yourself from the impacts of smoke.\r\n\r\nWhat you should do:\r\n\r\n- If the smoke is thick where you are, stay inside and close windows and doors.\r\n\r\n- If you need medication to help you breathe keep it close.\r\n\r\n- If you are worried about your health call your doctor or 13 HEALTH (13 432 584). If it is an emergency, call Triple Zero (000) now.\r\n\r\n- If you are affected by the smoke you may need to leave the area.\r\n\r\n- Do not fly drones around the fire as they affect firefighting.\r\n\r\nImpacts:\r\n\r\n- Smoke could make it hard for some people to breathe and can cause health issues.\r\n\r\n- Some roads may be closed or impacted by smoke. It could be hard to see. You may need to drive a different way.\r\n\r\nMore information:\r\n\r\n- For all fire warnings, visit the Qld Fire website.\r\n\r\n- Follow Queensland Fire Department on Facebook.\r\n\r\n- For road closures, visit the QLD Traffic website or call 13 19 40.\r\n\r\n- For local information visit your Council’s Local Disaster Dashboard.\r\n\r\n- If you need translation, call TIS National on 131 450.\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from the Queensland Fire Department.",
-				"Header" : "Thick smoke is affecting Crossdale and surrounding areas. This is from Seqwater hazard reduction burning near Mckey Road.\r\n\r\nProtect yourself from the impacts of smoke.",
+				"WarningText" : "Thick smoke is affecting Cooroibah, Boreen Point, Teewah, Noosa North Shore and surrounding areas. This is from Queensland Parks and Wildlife Service hazard reduction burning in the Great Sandy National Park.\r\n\r\nProtect yourself from the impacts of smoke.\r\n\r\nWhat you should do:\r\n\r\n- If the smoke is thick where you are, stay inside and close windows and doors.\r\n\r\n- If you need medication to help you breathe keep it close.\r\n\r\n- If you are worried about your health call your doctor or 13 HEALTH (13 432 584). If it is an emergency, call Triple Zero (000) now.\r\n\r\n- If you are affected by the smoke you may need to leave the area.\r\n\r\n- Do not fly drones around the fire as they affect firefighting.\r\n\r\nImpacts:\r\n\r\n- Smoke could make it hard for some people to breathe and can cause health issues.\r\n\r\n- Some roads may be closed or impacted by smoke. It could be hard to see. You may need to drive a different way.\r\n\r\nMore information:\r\n\r\n- For all fire warnings, visit the Qld Fire website.\r\n\r\n- Follow Queensland Fire Department on Facebook.\r\n\r\n- For road closures, visit the QLD Traffic website or call 13 19 40.\r\n\r\n- For local information visit your Council’s Local Disaster Dashboard.\r\n\r\n- If you need translation, call TIS National on 131 450.\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from the Queensland Fire Department.",
+				"Header" : "Thick smoke is affecting Cooroibah, Boreen Point, Teewah, Noosa North Shore and surrounding areas. This is from Queensland Parks and Wildlife Service hazard reduction burning in the Great Sandy National Park.\r\n\r\nProtect yourself from the impacts of smoke.",
 				"Impacts" : "- Smoke could make it hard for some people to breathe and can cause health issues.\r\n\r\n- Some roads may be closed or impacted by smoke. It could be hard to see. You may need to drive a different way.",
 				"LeaveSafely" : null,
 				"FurtherInformation" : "- For all fire warnings, visit the Qld Fire website.\r\n\r\n- Follow Queensland Fire Department on Facebook.\r\n\r\n- For road closures, visit the QLD Traffic website or call 13 19 40.\r\n\r\n- For local information visit your Council’s Local Disaster Dashboard.\r\n\r\n- If you need translation, call TIS National on 131 450.\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from the Queensland Fire Department.",
 				"WarningLevelSort" : 8,
 				"ShouldDo" : "- If the smoke is thick where you are, stay inside and close windows and doors.\r\n\r\n- If you need medication to help you breathe keep it close.\r\n\r\n- If you are worried about your health call your doctor or 13 HEALTH (13 432 584). If it is an emergency, call Triple Zero (000) now.\r\n\r\n- If you are affected by the smoke you may need to leave the area.\r\n\r\n- Do not fly drones around the fire as they affect firefighting.",
-				"WarningArea" : "Crossdale and surrounding areas",
-				"Latitude" : -27.186930135272462,
-				"Longitude" : 152.5502708968949,
+				"WarningArea" : "Cooroibah, Boreen Point, Teewah, Noosa North Shore and surrounding areas",
+				"Latitude" : -26.319336921779463,
+				"Longitude" : 153.01116572491793,
 				"GroupedType" : "FIRE VEGETATION",
-				"ItemDateTimeUTM" : "20260729034356.917000",
-				"ItemDateTimeLocal_ISO" : "2026-07-29T13:43:56+10:00",
-				"PublishDateLocal_ISO" : "2026-07-30T01:33:05+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-07-30T13:43:56.917+10:00",
+				"ItemDateTimeUTM" : "20260730010746.613000",
+				"ItemDateTimeLocal_ISO" : "2026-07-30T11:07:46+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-07-31T11:07:46.613+10:00",
+				"MultipleWarnings" : null,
+				"MessageSent" : null,
+				"SendEmailSubscription" : null,
+				"WarningType_Level" : "Advice Fire",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 153.4195498527, -27.7422131419, 0 ],
+						[ 153.4511094219, -27.7268081273, 0 ],
+						[ 153.4655912052, -27.6365290554, 0 ],
+						[ 153.3631113613, -27.5799082798, 0 ],
+						[ 153.3458096703, -27.586501457, 0 ],
+						[ 153.347230177, -27.6202218855, 0 ],
+						[ 153.3608577103, -27.6498771444, 0 ],
+						[ 153.3657731566, -27.709838991, 0 ],
+						[ 153.3925679132, -27.7093324216, 0 ],
+						[ 153.4023395601, -27.73134545, 0 ],
+						[ 153.4195498527, -27.7422131419, 0 ]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 3107,
+				"UniqueID" : "WARN-195",
+				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - North Stradbroke Island, Russell Island and Macleay Island - fire as at 1:07pm Thursday, 30 July 2026",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "Avoid Smoke (Hazard Reduction Burn)",
+				"WarningText" : "Thick smoke is affecting North Stradbroke Island, Russell Island, Macleay Island and surrounding areas. This is from Queensland Parks and Wildlife Service hazard reduction burning within the Naree Budjong Djara National Park, North Stradbroke Island.\r\n\r\nProtect yourself from the impacts of smoke.\r\n\r\nWhat you should do:\r\n\r\n- If the smoke is thick where you are, stay inside and close windows and doors.\r\n\r\n- If you need medication to help you breathe keep it close.\r\n\r\n- If you are worried about your health call your doctor or 13 HEALTH (13 432 584). If it is an emergency, call Triple Zero (000) now.\r\n\r\n- If you are affected by the smoke you may need to leave the area.\r\n\r\n- Do not fly drones around the fire as they affect firefighting.\r\n\r\nImpacts:\r\n\r\n- Smoke could make it hard for some people to breathe and can cause health issues.\r\n\r\n- Some roads may be closed or impacted by smoke. It could be hard to see. You may need to drive a different way.\r\n\r\nMore information:\r\n\r\n- For all fire warnings, visit the Qld Fire website.\r\n\r\n- Follow Queensland Fire Department on Facebook.\r\n\r\n- For road closures, visit the QLD Traffic website or call 13 19 40.\r\n\r\n- For local information visit your Council’s Local Disaster Dashboard.\r\n\r\n- If you need translation, call TIS National on 131 450.\r\n\r\n- For information about camp ground and park closures, visit the Park Alerts website.\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from the Queensland Fire Department.",
+				"Header" : "Thick smoke is affecting North Stradbroke Island, Russell Island, Macleay Island and surrounding areas. This is from Queensland Parks and Wildlife Service hazard reduction burning within the Naree Budjong Djara National Park, North Stradbroke Island.\r\n\r\nProtect yourself from the impacts of smoke.",
+				"Impacts" : "- Smoke could make it hard for some people to breathe and can cause health issues.\r\n\r\n- Some roads may be closed or impacted by smoke. It could be hard to see. You may need to drive a different way.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all fire warnings, visit the Qld Fire website.\r\n\r\n- Follow Queensland Fire Department on Facebook.\r\n\r\n- For road closures, visit the QLD Traffic website or call 13 19 40.\r\n\r\n- For local information visit your Council’s Local Disaster Dashboard.\r\n\r\n- If you need translation, call TIS National on 131 450.\r\n\r\n- For information about camp ground and park closures, visit the Park Alerts website.\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from the Queensland Fire Department.",
+				"WarningLevelSort" : 8,
+				"ShouldDo" : "- If the smoke is thick where you are, stay inside and close windows and doors.\r\n\r\n- If you need medication to help you breathe keep it close.\r\n\r\n- If you are worried about your health call your doctor or 13 HEALTH (13 432 584). If it is an emergency, call Triple Zero (000) now.\r\n\r\n- If you are affected by the smoke you may need to leave the area.\r\n\r\n- Do not fly drones around the fire as they affect firefighting.",
+				"WarningArea" : "North Stradbroke Island, Russell Island, Macleay Island and surrounding areas",
+				"Latitude" : -27.660379727889794,
+				"Longitude" : 153.40551870901723,
+				"GroupedType" : "FIRE VEGETATION",
+				"ItemDateTimeUTM" : "20260730030755.550000",
+				"ItemDateTimeLocal_ISO" : "2026-07-30T13:07:55+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-07-31T13:07:55.55+10:00",
+				"MultipleWarnings" : null,
+				"MessageSent" : null,
+				"SendEmailSubscription" : null,
+				"WarningType_Level" : "Advice Fire",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 153.4333288975, -27.1720749173, 0 ],
+						[ 153.4783423159, -27.0243512924, 0 ],
+						[ 153.4485876493, -27.0148359738, 0 ],
+						[ 153.3532202409, -27.0522129436, 0 ],
+						[ 153.3631384422, -27.1014635636, 0 ],
+						[ 153.3547461035, -27.137793247, 0 ],
+						[ 153.3646643257, -27.1646085154, 0 ],
+						[ 153.4333288975, -27.1720749173, 0 ]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 3109,
+				"UniqueID" : "WARN-199",
+				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Moreton Island (Mulgumpin) - fire as at 3:29pm Thursday, 30 July 2026",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "Avoid Smoke (Hazard Reduction Burn)",
+				"WarningText" : "Thick smoke is affecting Moreton Island. This is from Queensland Parks and Wildlife Service hazard reduction burning near Bulwer in Mulgumpin National Park.\r\n\r\nSmoke could be in the area for days. Protect yourself from the impacts of smoke.\r\n\r\nWhat you should do:\r\n\r\n- If the smoke is thick where you are, stay inside and close windows and doors.\r\n\r\n- If you need medication to help you breathe keep it close.\r\n\r\n- If you are worried about your health call your doctor or 13 HEALTH (13 432 584). If it is an emergency, call Triple Zero (000) now.\r\n\r\n- If you are affected by the smoke you may need to leave the area.\r\n\r\n- Do not fly drones around the fire as they affect firefighting.\r\n\r\nImpacts:\r\n\r\n- Smoke could make it hard for some people to breathe and can cause health issues.\r\n\r\n- Some roads may be closed or impacted by smoke. It could be hard to see. You may need to drive a different way.\r\n\r\nMore information:\r\n\r\n- For all fire warnings, visit the Qld Fire website.\r\n\r\n- Follow Queensland Fire Department on Facebook.\r\n\r\n- For road closures, visit the QLD Traffic website or call 13 19 40.\r\n\r\n- For live air quality data visit the Department of Environment and Science website.\r\n\r\n- For local information visit your Council’s Local Disaster Dashboard.\r\n\r\n- If you need translation, call TIS National on 131 450.\r\n\r\n- For information about camp ground and park closures, visit the Park Alerts website.\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from the Queensland Fire Department.",
+				"Header" : "Thick smoke is affecting Moreton Island. This is from Queensland Parks and Wildlife Service hazard reduction burning near Bulwer in Mulgumpin National Park.\r\n\r\nSmoke could be in the area for days. Protect yourself from the impacts of smoke.",
+				"Impacts" : "- Smoke could make it hard for some people to breathe and can cause health issues.\r\n\r\n- Some roads may be closed or impacted by smoke. It could be hard to see. You may need to drive a different way.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all fire warnings, visit the Qld Fire website.\r\n\r\n- Follow Queensland Fire Department on Facebook.\r\n\r\n- For road closures, visit the QLD Traffic website or call 13 19 40.\r\n\r\n- For live air quality data visit the Department of Environment and Science website.\r\n\r\n- For local information visit your Council’s Local Disaster Dashboard.\r\n\r\n- If you need translation, call TIS National on 131 450.\r\n\r\n- For information about camp ground and park closures, visit the Park Alerts website.\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from the Queensland Fire Department.",
+				"WarningLevelSort" : 8,
+				"ShouldDo" : "- If the smoke is thick where you are, stay inside and close windows and doors.\r\n\r\n- If you need medication to help you breathe keep it close.\r\n\r\n- If you are worried about your health call your doctor or 13 HEALTH (13 432 584). If it is an emergency, call Triple Zero (000) now.\r\n\r\n- If you are affected by the smoke you may need to leave the area.\r\n\r\n- Do not fly drones around the fire as they affect firefighting.",
+				"WarningArea" : "Moreton Island",
+				"Latitude" : -27.092854039278205,
+				"Longitude" : 153.41120033328232,
+				"GroupedType" : "FIRE VEGETATION",
+				"ItemDateTimeUTM" : "20260730053023.003000",
+				"ItemDateTimeLocal_ISO" : "2026-07-30T15:30:23+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-07-31T15:30:23.003+10:00",
+				"MultipleWarnings" : null,
+				"MessageSent" : null,
+				"SendEmailSubscription" : null,
+				"WarningType_Level" : "Advice Fire",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 150.8057540949, -27.4273862906, 0 ],
+						[ 150.8063033191, -27.2512331785, 0 ],
+						[ 150.5250533359, -27.2487914203, 0 ],
+						[ 150.5217574458, -27.42348566, 0 ],
+						[ 150.8057540949, -27.4273862906, 0 ]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 3110,
+				"UniqueID" : "WARN-198",
+				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Goranba, Weranga and Marmadua (near Tara) - fire as at 3:34pm Thursday, 30 July 2026",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "Avoid Smoke (Hazard Reduction Burn)",
+				"WarningText" : "Thick smoke is affecting Goranba, Weranga and Marmadua. This is from Queensland Parks and Wildlife Service hazard reduction burning in the Vickery State Forest.\r\n\r\nSmoke could be in the area for days. Protect yourself from the impacts of smoke.\r\n\r\nWhat you should do:\r\n\r\n- If the smoke is thick where you are, stay inside and close windows and doors.\r\n\r\n- If you need medication to help you breathe keep it close.\r\n\r\n- If you are worried about your health call your doctor or 13 HEALTH (13 432 584). If it is an emergency, call Triple Zero (000) now.\r\n\r\n- If you are affected by the smoke you may need to leave the area.\r\n\r\n- Do not fly drones around the fire as they affect firefighting.\r\n\r\nImpacts:\r\n\r\n- Smoke could make it hard for some people to breathe and can cause health issues.\r\n\r\n- Some roads may be closed or impacted by smoke. It could be hard to see. You may need to drive a different way.\r\n\r\nMore information:\r\n\r\n- For all fire warnings, visit the Qld Fire website.\r\n\r\n- Follow Queensland Fire Department on Facebook.\r\n\r\n- For road closures, visit the QLD Traffic website or call 13 19 40.\r\n\r\n- For live air quality data visit the Department of Environment and Science website.\r\n\r\n- For local information visit your Council’s Local Disaster Dashboard.\r\n\r\n- If you need translation, call TIS National on 131 450.\r\n\r\n- For information about camp ground and park closures, visit the Park Alerts website.\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from the Queensland Fire Department.",
+				"Header" : "Thick smoke is affecting Goranba, Weranga and Marmadua. This is from Queensland Parks and Wildlife Service hazard reduction burning in the Vickery State Forest.\r\n\r\nSmoke could be in the area for days. Protect yourself from the impacts of smoke.",
+				"Impacts" : "- Smoke could make it hard for some people to breathe and can cause health issues.\r\n\r\n- Some roads may be closed or impacted by smoke. It could be hard to see. You may need to drive a different way.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all fire warnings, visit the Qld Fire website.\r\n\r\n- Follow Queensland Fire Department on Facebook.\r\n\r\n- For road closures, visit the QLD Traffic website or call 13 19 40.\r\n\r\n- For live air quality data visit the Department of Environment and Science website.\r\n\r\n- For local information visit your Council’s Local Disaster Dashboard.\r\n\r\n- If you need translation, call TIS National on 131 450.\r\n\r\n- For information about camp ground and park closures, visit the Park Alerts website.\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from the Queensland Fire Department.",
+				"WarningLevelSort" : 8,
+				"ShouldDo" : "- If the smoke is thick where you are, stay inside and close windows and doors.\r\n\r\n- If you need medication to help you breathe keep it close.\r\n\r\n- If you are worried about your health call your doctor or 13 HEALTH (13 432 584). If it is an emergency, call Triple Zero (000) now.\r\n\r\n- If you are affected by the smoke you may need to leave the area.\r\n\r\n- Do not fly drones around the fire as they affect firefighting.",
+				"WarningArea" : "Goranba, Weranga and Marmadua",
+				"Latitude" : -27.33786916859123,
+				"Longitude" : 150.66490718627364,
+				"GroupedType" : "FIRE VEGETATION",
+				"ItemDateTimeUTM" : "20260730053812.383000",
+				"ItemDateTimeLocal_ISO" : "2026-07-30T15:38:12+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-07-31T15:38:12.383+10:00",
+				"MultipleWarnings" : null,
+				"MessageSent" : null,
+				"SendEmailSubscription" : null,
+				"WarningType_Level" : "Advice Fire",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 146.0223642883, -18.405602342, 0 ],
+						[ 146.1295506006, -18.3482163773, 0 ],
+						[ 146.0239092407, -18.2256891161, 0 ],
+						[ 145.9332720337, -18.2657946561, 0 ],
+						[ 146.0223642883, -18.405602342, 0 ]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 3111,
+				"UniqueID" : "WARN-200",
+				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Cardwell - fire as at 4:10pm Thursday, 30 July 2026",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "Avoid Smoke (Hazard Reduction Burn)",
+				"WarningText" : "Thick smoke is affecting Cardwell, Damper Creek and Ellerbeck. This is from Queensland Parks and Wildlife Service hazard reduction burning in the Girringun National Park, near the Bruce Highway and Stony Creek Road, Cardwell.\r\n\r\nSmoke could be in the area for days. Protect yourself from the impacts of smoke.\r\n\r\nWhat you should do:\r\n\r\n- If the smoke is thick where you are, stay inside and close windows and doors.\r\n\r\n- If you need medication to help you breathe keep it close.\r\n\r\n- If you are worried about your health call your doctor or 13 HEALTH (13 432 584). If it is an emergency, call Triple Zero (000) now.\r\n\r\n- If you are affected by the smoke you may need to leave the area.\r\n\r\n- Do not fly drones around the fire as they affect firefighting.\r\n\r\nImpacts:\r\n\r\n- Smoke could make it hard for some people to breathe and can cause health issues.\r\n\r\n- Some roads may be closed or impacted by smoke. It could be hard to see. You may need to drive a different way.\r\n\r\nMore information:\r\n\r\n- For all fire warnings, visit the Qld Fire website.\r\n\r\n- Follow Queensland Fire Department on Facebook.\r\n\r\n- For road closures, visit the QLD Traffic website or call 13 19 40.\r\n\r\n- For local information visit your Council’s Local Disaster Dashboard.\r\n\r\n- If you need translation, call TIS National on 131 450.\r\n\r\n- For information about camp ground and park closures, visit the Park Alerts website.\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from the Queensland Fire Department.",
+				"Header" : "Thick smoke is affecting Cardwell, Damper Creek and Ellerbeck. This is from Queensland Parks and Wildlife Service hazard reduction burning in the Girringun National Park, near the Bruce Highway and Stony Creek Road, Cardwell.\r\n\r\nSmoke could be in the area for days. Protect yourself from the impacts of smoke.",
+				"Impacts" : "- Smoke could make it hard for some people to breathe and can cause health issues.\r\n\r\n- Some roads may be closed or impacted by smoke. It could be hard to see. You may need to drive a different way.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all fire warnings, visit the Qld Fire website.\r\n\r\n- Follow Queensland Fire Department on Facebook.\r\n\r\n- For road closures, visit the QLD Traffic website or call 13 19 40.\r\n\r\n- For local information visit your Council’s Local Disaster Dashboard.\r\n\r\n- If you need translation, call TIS National on 131 450.\r\n\r\n- For information about camp ground and park closures, visit the Park Alerts website.\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from the Queensland Fire Department.",
+				"WarningLevelSort" : 8,
+				"ShouldDo" : "- If the smoke is thick where you are, stay inside and close windows and doors.\r\n\r\n- If you need medication to help you breathe keep it close.\r\n\r\n- If you are worried about your health call your doctor or 13 HEALTH (13 432 584). If it is an emergency, call Triple Zero (000) now.\r\n\r\n- If you are affected by the smoke you may need to leave the area.\r\n\r\n- Do not fly drones around the fire as they affect firefighting.",
+				"WarningArea" : "Cardwell, Damper Creek and Ellerbeck ",
+				"Latitude" : -18.31390937132984,
+				"Longitude" : 146.02861857988313,
+				"GroupedType" : "FIRE VEGETATION",
+				"ItemDateTimeUTM" : "20260730061148.083000",
+				"ItemDateTimeLocal_ISO" : "2026-07-30T16:11:48+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-07-31T16:11:48.083+10:00",
+				"MultipleWarnings" : null,
+				"MessageSent" : null,
+				"SendEmailSubscription" : null,
+				"WarningType_Level" : "Advice Fire",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Polygon",
+				"coordinates" : [
+					[
+						[ 152.902040852, -27.7235807257, 0 ],
+						[ 152.9561141857, -27.7164386052, 0 ],
+						[ 152.9339698681, -27.6465883502, 0 ],
+						[ 152.8868488201, -27.6519864254, 0 ],
+						[ 152.902040852, -27.7235807257, 0 ]
+					]
+				]
+			},
+			"properties" : {
+				"OBJECTID" : 3112,
+				"UniqueID" : "WARN-202",
+				"WarningTitle" : "AVOID SMOKE (HAZARD REDUCTION BURN) - Springfield Central (Ipswich) - fire as at 4:33pm Thursday, 30 July 2026",
+				"WarningLevel" : "Advice",
+				"CallToAction" : "Avoid Smoke (Hazard Reduction Burn)",
+				"WarningText" : "Thick smoke is affecting Springfield Central, Springfield Lakes, Greenbank and surrounding areas. This is from Ipswich City Council hazard reduction burning in the White Rock Spring Mountain Conservation Estate.\r\n\r\nProtect yourself from the impacts of smoke.\r\n\r\nWhat you should do:\r\n\r\n- If the smoke is thick where you are, stay inside and close windows and doors.\r\n\r\n- If you need medication to help you breathe keep it close.\r\n\r\n- If you are worried about your health call your doctor or 13 HEALTH (13 432 584). If it is an emergency, call Triple Zero (000) now.\r\n\r\n- If you are affected by the smoke you may need to leave the area.\r\n\r\n- Do not fly drones around the fire as they affect firefighting.\r\n\r\nImpacts:\r\n\r\n- Smoke could make it hard for some people to breathe and can cause health issues.\r\n\r\n- Some roads may be closed or impacted by smoke. It could be hard to see. You may need to drive a different way.\r\n\r\nMore information:\r\n\r\n- For all fire warnings, visit the Qld Fire website.\r\n\r\n- Follow Queensland Fire Department on Facebook.\r\n\r\n- For road closures, visit the QLD Traffic website or call 13 19 40.\r\n\r\n- For local information visit your Council’s Local Disaster Dashboard.\r\n\r\n- If you need translation, call TIS National on 131 450.\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from the Queensland Fire Department.",
+				"Header" : "Thick smoke is affecting Springfield Central, Springfield Lakes, Greenbank and surrounding areas. This is from Ipswich City Council hazard reduction burning in the White Rock Spring Mountain Conservation Estate.\r\n\r\nProtect yourself from the impacts of smoke.",
+				"Impacts" : "- Smoke could make it hard for some people to breathe and can cause health issues.\r\n\r\n- Some roads may be closed or impacted by smoke. It could be hard to see. You may need to drive a different way.",
+				"LeaveSafely" : null,
+				"FurtherInformation" : "- For all fire warnings, visit the Qld Fire website.\r\n\r\n- Follow Queensland Fire Department on Facebook.\r\n\r\n- For road closures, visit the QLD Traffic website or call 13 19 40.\r\n\r\n- For local information visit your Council’s Local Disaster Dashboard.\r\n\r\n- If you need translation, call TIS National on 131 450.\r\n\r\nUpdates will be issued if the situation changes.\r\n\r\nThis warning is from the Queensland Fire Department.",
+				"WarningLevelSort" : 8,
+				"ShouldDo" : "- If the smoke is thick where you are, stay inside and close windows and doors.\r\n\r\n- If you need medication to help you breathe keep it close.\r\n\r\n- If you are worried about your health call your doctor or 13 HEALTH (13 432 584). If it is an emergency, call Triple Zero (000) now.\r\n\r\n- If you are affected by the smoke you may need to leave the area.\r\n\r\n- Do not fly drones around the fire as they affect firefighting.",
+				"WarningArea" : "Springfield Central, Springfield Lakes, Greenbank and surrounding areas",
+				"Latitude" : -27.685490911666395,
+				"Longitude" : 152.9199131766878,
+				"GroupedType" : "FIRE VEGETATION",
+				"ItemDateTimeUTM" : "20260730063438.470000",
+				"ItemDateTimeLocal_ISO" : "2026-07-30T16:34:38+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-07-31T16:34:38.47+10:00",
 				"MultipleWarnings" : null,
 				"MessageSent" : null,
 				"SendEmailSubscription" : null,
@@ -458,7 +507,7 @@
 				"Locality" : "HERVEY RANGE",
 				"ItemDateTimeUTM" : "20260707163945.337",
 				"ItemDateTimeLocal_ISO" : "2026-07-08T02:39:45+10:00",
-				"PublishDateLocal_ISO" : "2026-07-30T01:33:05+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-07-09T02:39:45.337+10:00",
 				"EventType" : "Fire"
 			}
@@ -491,7 +540,7 @@
 				"Locality" : "MAREEBA",
 				"ItemDateTimeUTM" : "20260715122205",
 				"ItemDateTimeLocal_ISO" : "2026-07-15T22:22:05+10:00",
-				"PublishDateLocal_ISO" : "2026-07-30T01:33:05+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-07-16T22:22:05+10:00",
 				"EventType" : "Fire"
 			}
@@ -524,7 +573,7 @@
 				"Locality" : "LAKELAND",
 				"ItemDateTimeUTM" : "20260708194952",
 				"ItemDateTimeLocal_ISO" : "2026-07-09T05:49:52+10:00",
-				"PublishDateLocal_ISO" : "2026-07-30T01:33:05+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-07-10T05:49:52+10:00",
 				"EventType" : "Fire"
 			}
@@ -557,7 +606,7 @@
 				"Locality" : "MT BULBUN",
 				"ItemDateTimeUTM" : "20260721111255",
 				"ItemDateTimeLocal_ISO" : "2026-07-21T21:12:55+10:00",
-				"PublishDateLocal_ISO" : "2026-07-30T01:33:05+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-07-22T21:12:55+10:00",
 				"EventType" : "Fire"
 			}
@@ -590,7 +639,7 @@
 				"Locality" : "LAKEFIELD",
 				"ItemDateTimeUTM" : "20260722111819",
 				"ItemDateTimeLocal_ISO" : "2026-07-22T21:18:19+10:00",
-				"PublishDateLocal_ISO" : "2026-07-30T01:33:05+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-07-23T21:18:19+10:00",
 				"EventType" : "Fire"
 			}
@@ -623,7 +672,7 @@
 				"Locality" : "STARCKE",
 				"ItemDateTimeUTM" : "20260722112128",
 				"ItemDateTimeLocal_ISO" : "2026-07-22T21:21:28+10:00",
-				"PublishDateLocal_ISO" : "2026-07-30T01:33:05+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-07-23T21:21:28+10:00",
 				"EventType" : "Fire"
 			}
@@ -656,7 +705,7 @@
 				"Locality" : "COOKTOWN",
 				"ItemDateTimeUTM" : "20260722112307",
 				"ItemDateTimeLocal_ISO" : "2026-07-22T21:23:07+10:00",
-				"PublishDateLocal_ISO" : "2026-07-30T01:33:05+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-07-23T21:23:07+10:00",
 				"EventType" : "Fire"
 			}
@@ -689,140 +738,8 @@
 				"Locality" : "COEN",
 				"ItemDateTimeUTM" : "20260722150451",
 				"ItemDateTimeLocal_ISO" : "2026-07-23T01:04:51+10:00",
-				"PublishDateLocal_ISO" : "2026-07-30T01:33:05+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-07-24T01:04:51+10:00",
-				"EventType" : "Fire"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 143.01053, -12.66908 ]
-			},
-			"properties" : {
-				"OBJECTID" : 12200,
-				"UniqueID" : "QF7-26-093029",
-				"WarningTitle" : "Information - CAPE YORK PENINSULA",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "CAPE YORK PENINSULA",
-				"CurrentStatus" : "Going",
-				"Location" : "Unknown",
-				"Jurisdiction" : "7 Far Northern Region",
-				"Latitude" : -12.66908,
-				"Longitude" : 143.01053,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "CAPE YORK PENINSULA",
-				"ItemDateTimeUTM" : "20260723200347",
-				"ItemDateTimeLocal_ISO" : "2026-07-24T06:03:47+10:00",
-				"PublishDateLocal_ISO" : "2026-07-30T01:33:05+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-07-25T06:03:47+10:00",
-				"EventType" : "Fire"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 144.87204, -15.98618 ]
-			},
-			"properties" : {
-				"OBJECTID" : 12549,
-				"UniqueID" : "QF7-26-093651",
-				"WarningTitle" : "Information - BYERSTOWN RANGE",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "BYERSTOWN RANGE",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "Unknown",
-				"Jurisdiction" : "7 Far Northern Region",
-				"Latitude" : -15.98618,
-				"Longitude" : 144.87204,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "BYERSTOWN RANGE",
-				"ItemDateTimeUTM" : "20260724192609",
-				"ItemDateTimeLocal_ISO" : "2026-07-25T05:26:09+10:00",
-				"PublishDateLocal_ISO" : "2026-07-30T01:33:05+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-07-26T05:26:09+10:00",
-				"EventType" : "Fire"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 144.6736, -16.16762 ]
-			},
-			"properties" : {
-				"OBJECTID" : 12551,
-				"UniqueID" : "QF7-26-093654",
-				"WarningTitle" : "Information - MAITLAND DOWNS",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "MAITLAND DOWNS",
-				"CurrentStatus" : "Going",
-				"Location" : "Unknown",
-				"Jurisdiction" : "7 Far Northern Region",
-				"Latitude" : -16.16762,
-				"Longitude" : 144.6736,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "MAITLAND DOWNS",
-				"ItemDateTimeUTM" : "20260724193158",
-				"ItemDateTimeLocal_ISO" : "2026-07-25T05:31:58+10:00",
-				"PublishDateLocal_ISO" : "2026-07-30T01:33:05+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-07-26T05:31:58+10:00",
-				"EventType" : "Fire"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 152.564093, -25.68118 ]
-			},
-			"properties" : {
-				"OBJECTID" : 13148,
-				"UniqueID" : "QF4-26-094794",
-				"WarningTitle" : "Information - PIONEERS REST",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "PIONEERS REST",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "MUNGAR RD",
-				"Jurisdiction" : "4 North Coast Region",
-				"Latitude" : -25.68118,
-				"Longitude" : 152.564093,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "PIONEERS REST",
-				"ItemDateTimeUTM" : "20260726154936",
-				"ItemDateTimeLocal_ISO" : "2026-07-27T01:49:36+10:00",
-				"PublishDateLocal_ISO" : "2026-07-30T01:33:05+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-07-28T01:49:36+10:00",
 				"EventType" : "Fire"
 			}
 		},
@@ -854,41 +771,8 @@
 				"Locality" : "DOTSWOOD",
 				"ItemDateTimeUTM" : "20260726170418.41",
 				"ItemDateTimeLocal_ISO" : "2026-07-27T03:04:18+10:00",
-				"PublishDateLocal_ISO" : "2026-07-30T01:33:05+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-07-28T03:04:18.41+10:00",
-				"EventType" : "Fire"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 141.11436, -19.59011 ]
-			},
-			"properties" : {
-				"OBJECTID" : 13202,
-				"UniqueID" : "QF1-26-094851",
-				"WarningTitle" : "Information - TALDORA",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "TALDORA",
-				"CurrentStatus" : "Going",
-				"Location" : "Unknown",
-				"Jurisdiction" : "1 Northern Region",
-				"Latitude" : -19.59011,
-				"Longitude" : 141.11436,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "TALDORA",
-				"ItemDateTimeUTM" : "20260726173135",
-				"ItemDateTimeLocal_ISO" : "2026-07-27T03:31:35+10:00",
-				"PublishDateLocal_ISO" : "2026-07-30T01:33:05+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-07-28T03:31:35+10:00",
 				"EventType" : "Fire"
 			}
 		},
@@ -920,7 +804,7 @@
 				"Locality" : "COOKTOWN",
 				"ItemDateTimeUTM" : "20260727125152",
 				"ItemDateTimeLocal_ISO" : "2026-07-27T22:51:52+10:00",
-				"PublishDateLocal_ISO" : "2026-07-30T01:33:05+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-07-28T22:51:52+10:00",
 				"EventType" : "Fire"
 			}
@@ -953,7 +837,7 @@
 				"Locality" : "MOUNT NATHAN",
 				"ItemDateTimeUTM" : "20260726133213",
 				"ItemDateTimeLocal_ISO" : "2026-07-26T23:32:13+10:00",
-				"PublishDateLocal_ISO" : "2026-07-30T01:33:05+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-07-27T23:32:13+10:00",
 				"EventType" : "Fire"
 			}
@@ -986,7 +870,7 @@
 				"Locality" : "CARDWELL",
 				"ItemDateTimeUTM" : "20260727162728",
 				"ItemDateTimeLocal_ISO" : "2026-07-28T02:27:28+10:00",
-				"PublishDateLocal_ISO" : "2026-07-30T01:33:05+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-07-29T02:27:28+10:00",
 				"EventType" : "Fire"
 			}
@@ -1019,7 +903,7 @@
 				"Locality" : "KOAH",
 				"ItemDateTimeUTM" : "20260728112449",
 				"ItemDateTimeLocal_ISO" : "2026-07-28T21:24:49+10:00",
-				"PublishDateLocal_ISO" : "2026-07-30T01:33:05+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-07-29T21:24:49+10:00",
 				"EventType" : "Fire"
 			}
@@ -1052,7 +936,7 @@
 				"Locality" : "WOODGATE",
 				"ItemDateTimeUTM" : "20260728122421",
 				"ItemDateTimeLocal_ISO" : "2026-07-28T22:24:21+10:00",
-				"PublishDateLocal_ISO" : "2026-07-30T01:33:05+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-07-29T22:24:21+10:00",
 				"EventType" : "Fire"
 			}
@@ -1085,7 +969,7 @@
 				"Locality" : "MORETON ISLAND",
 				"ItemDateTimeUTM" : "20260728123602",
 				"ItemDateTimeLocal_ISO" : "2026-07-28T22:36:02+10:00",
-				"PublishDateLocal_ISO" : "2026-07-30T01:33:05+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-07-29T22:36:02+10:00",
 				"EventType" : "Fire"
 			}
@@ -1118,7 +1002,7 @@
 				"Locality" : "CEDAR CREEK",
 				"ItemDateTimeUTM" : "20260728131952",
 				"ItemDateTimeLocal_ISO" : "2026-07-28T23:19:52+10:00",
-				"PublishDateLocal_ISO" : "2026-07-30T01:33:05+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-07-29T23:19:52+10:00",
 				"EventType" : "Fire"
 			}
@@ -1151,74 +1035,8 @@
 				"Locality" : "SWANFELS",
 				"ItemDateTimeUTM" : "20260728134933.38",
 				"ItemDateTimeLocal_ISO" : "2026-07-28T23:49:33+10:00",
-				"PublishDateLocal_ISO" : "2026-07-30T01:33:05+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-07-29T23:49:33.38+10:00",
-				"EventType" : "Fire"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 153.313308, -24.958769 ]
-			},
-			"properties" : {
-				"OBJECTID" : 13706,
-				"UniqueID" : "QF4-26-095875",
-				"WarningTitle" : "Information - KGARI",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "KGARI",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "Ngkala Rd",
-				"Jurisdiction" : "4 North Coast Region",
-				"Latitude" : -24.958769,
-				"Longitude" : 153.313308,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "KGARI",
-				"ItemDateTimeUTM" : "20260728135045.077",
-				"ItemDateTimeLocal_ISO" : "2026-07-28T23:50:45+10:00",
-				"PublishDateLocal_ISO" : "2026-07-30T01:33:05+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-07-29T23:50:45.077+10:00",
-				"EventType" : "Fire"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 146.733683, -19.436692 ]
-			},
-			"properties" : {
-				"OBJECTID" : 13710,
-				"UniqueID" : "QF1-26-095882",
-				"WarningTitle" : "Information - PINNACLES",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "PINNACLES",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "Riverway Dr",
-				"Jurisdiction" : "1 Northern Region",
-				"Latitude" : -19.436692,
-				"Longitude" : 146.733683,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "PINNACLES",
-				"ItemDateTimeUTM" : "20260728140720",
-				"ItemDateTimeLocal_ISO" : "2026-07-29T00:07:20+10:00",
-				"PublishDateLocal_ISO" : "2026-07-30T01:33:05+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-07-30T00:07:20+10:00",
 				"EventType" : "Fire"
 			}
 		},
@@ -1250,7 +1068,7 @@
 				"Locality" : "KABAN",
 				"ItemDateTimeUTM" : "20260728161625",
 				"ItemDateTimeLocal_ISO" : "2026-07-29T02:16:25+10:00",
-				"PublishDateLocal_ISO" : "2026-07-30T01:33:05+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-07-30T02:16:25+10:00",
 				"EventType" : "Fire"
 			}
@@ -1283,41 +1101,8 @@
 				"Locality" : "GINDORAN",
 				"ItemDateTimeUTM" : "20260728173705.283",
 				"ItemDateTimeLocal_ISO" : "2026-07-29T03:37:05+10:00",
-				"PublishDateLocal_ISO" : "2026-07-30T01:33:05+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-07-30T03:37:05.283+10:00",
-				"EventType" : "Fire"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 150.593768, -24.372312 ]
-			},
-			"properties" : {
-				"OBJECTID" : 13791,
-				"UniqueID" : "QF2-26-096043",
-				"WarningTitle" : "Information - VALENTINE PLAINS",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "VALENTINE PLAINS",
-				"CurrentStatus" : "Contained",
-				"Location" : "Calvale Rd",
-				"Jurisdiction" : "2 Central Region",
-				"Latitude" : -24.372312,
-				"Longitude" : 150.593768,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 1,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "VALENTINE PLAINS",
-				"ItemDateTimeUTM" : "20260728181639",
-				"ItemDateTimeLocal_ISO" : "2026-07-29T04:16:39+10:00",
-				"PublishDateLocal_ISO" : "2026-07-30T01:33:05+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-07-30T04:16:39+10:00",
 				"EventType" : "Fire"
 			}
 		},
@@ -1349,107 +1134,8 @@
 				"Locality" : "DALWOGON",
 				"ItemDateTimeUTM" : "20260728184213",
 				"ItemDateTimeLocal_ISO" : "2026-07-29T04:42:13+10:00",
-				"PublishDateLocal_ISO" : "2026-07-30T01:33:05+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-07-30T04:42:13+10:00",
-				"EventType" : "Fire"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 146.733643, -19.333566 ]
-			},
-			"properties" : {
-				"OBJECTID" : 13848,
-				"UniqueID" : "QF1-26-091858",
-				"WarningTitle" : "Information - MOUNT STUART",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "MOUNT STUART",
-				"CurrentStatus" : "Going",
-				"Location" : "ANGUS SMITH DR",
-				"Jurisdiction" : "1 Northern Region",
-				"Latitude" : -19.333566,
-				"Longitude" : 146.733643,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "MOUNT STUART",
-				"ItemDateTimeUTM" : "20260721193734",
-				"ItemDateTimeLocal_ISO" : "2026-07-22T05:37:34+10:00",
-				"PublishDateLocal_ISO" : "2026-07-30T01:33:05+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-07-23T05:37:34+10:00",
-				"EventType" : "Fire"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 146.790815, -19.249603 ]
-			},
-			"properties" : {
-				"OBJECTID" : 13863,
-				"UniqueID" : "QF1-26-096182",
-				"WarningTitle" : "Information - BELGIAN GARDENS",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "BELGIAN GARDENS",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "Evans St",
-				"Jurisdiction" : "1 Northern Region",
-				"Latitude" : -19.249603,
-				"Longitude" : 146.790815,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "BELGIAN GARDENS",
-				"ItemDateTimeUTM" : "20260728213315",
-				"ItemDateTimeLocal_ISO" : "2026-07-29T07:33:15+10:00",
-				"PublishDateLocal_ISO" : "2026-07-30T01:33:05+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-07-30T07:33:15+10:00",
-				"EventType" : "Fire"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 152.921541, -26.3329 ]
-			},
-			"properties" : {
-				"OBJECTID" : 13875,
-				"UniqueID" : "QF4-26-096202",
-				"WarningTitle" : "Information - RINGTAIL CREEK",
-				"WarningLevel" : "Information",
-				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
-				"WarningLevelSort" : 100,
-				"WarningArea" : "RINGTAIL CREEK",
-				"CurrentStatus" : "Patrolled",
-				"Location" : "Louis Bazzo Dr",
-				"Jurisdiction" : "4 North Coast Region",
-				"Latitude" : -26.3329,
-				"Longitude" : 152.921541,
-				"VehiclesAssigned" : 0,
-				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 0,
-				"GroupedType" : "FIRE PERMITTED BURN",
-				"Locality" : "RINGTAIL CREEK",
-				"ItemDateTimeUTM" : "20260728215951",
-				"ItemDateTimeLocal_ISO" : "2026-07-29T07:59:51+10:00",
-				"PublishDateLocal_ISO" : "2026-07-30T01:33:05+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-07-30T07:59:51+10:00",
 				"EventType" : "Fire"
 			}
 		},
@@ -1481,7 +1167,7 @@
 				"Locality" : "CROSSDALE",
 				"ItemDateTimeUTM" : "20260726133115.52",
 				"ItemDateTimeLocal_ISO" : "2026-07-26T23:31:15+10:00",
-				"PublishDateLocal_ISO" : "2026-07-30T01:33:05+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-07-27T23:31:15.52+10:00",
 				"EventType" : "Fire"
 			}
@@ -1502,19 +1188,19 @@
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : 100,
 				"WarningArea" : "HORN",
-				"CurrentStatus" : "Going",
+				"CurrentStatus" : "Patrolled",
 				"Location" : "Unnamed Horn Rd",
 				"Jurisdiction" : "7 Far Northern Region",
 				"Latitude" : -10.621208,
 				"Longitude" : 142.311316,
 				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
-				"VehiclesOnScene" : 1,
+				"VehiclesOnScene" : 0,
 				"GroupedType" : "FIRE VEGETATION",
 				"Locality" : "HORN",
 				"ItemDateTimeUTM" : "20260729004329",
 				"ItemDateTimeLocal_ISO" : "2026-07-29T10:43:29+10:00",
-				"PublishDateLocal_ISO" : "2026-07-30T01:33:05+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
 				"ItemExpiryDateTimeLocal_ISO" : "2026-07-30T10:43:29+10:00",
 				"EventType" : "Fire"
 			}
@@ -1523,32 +1209,725 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 152.376469, -25.590541 ]
+				"coordinates" : [ 153.128756, -27.035274 ]
 			},
 			"properties" : {
-				"OBJECTID" : 13934,
-				"UniqueID" : "QF4-26-096310",
-				"WarningTitle" : "Information - ARAMARA",
+				"OBJECTID" : 14004,
+				"UniqueID" : "QF5N-26-096415",
+				"WarningTitle" : "Information - WHITE PATCH",
 				"WarningLevel" : "Information",
 				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
 				"WarningLevelSort" : 100,
-				"WarningArea" : "ARAMARA",
+				"WarningArea" : "WHITE PATCH",
 				"CurrentStatus" : "Going",
-				"Location" : "Maryborough Biggenden Rd & Hunters Hut Rd",
-				"Jurisdiction" : "4 North Coast Region",
-				"Latitude" : -25.590541,
-				"Longitude" : 152.376469,
+				"Location" : "White Patch Esp",
+				"Jurisdiction" : "5N Brisbane Region (North)",
+				"Latitude" : -27.035274,
+				"Longitude" : 153.128756,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 1,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "WHITE PATCH",
+				"ItemDateTimeUTM" : "20260729113625.003",
+				"ItemDateTimeLocal_ISO" : "2026-07-29T21:36:25+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-07-30T21:36:25.003+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 145.346814, -16.740145 ]
+			},
+			"properties" : {
+				"OBJECTID" : 14005,
+				"UniqueID" : "QF7-26-096439",
+				"WarningTitle" : "Information - SOUTHEDGE",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "SOUTHEDGE",
+				"CurrentStatus" : "Going",
+				"Location" : "Quaids Rd",
+				"Jurisdiction" : "7 Far Northern Region",
+				"Latitude" : -16.740145,
+				"Longitude" : 145.346814,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "SOUTHEDGE",
+				"ItemDateTimeUTM" : "20260729120151",
+				"ItemDateTimeLocal_ISO" : "2026-07-29T22:01:51+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-07-30T22:01:51+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 145.435454, -16.831047 ]
+			},
+			"properties" : {
+				"OBJECTID" : 14006,
+				"UniqueID" : "QF7-26-096440",
+				"WarningTitle" : "Information - BIBOOHRA",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "BIBOOHRA",
+				"CurrentStatus" : "Going",
+				"Location" : "Hodzic Rd",
+				"Jurisdiction" : "7 Far Northern Region",
+				"Latitude" : -16.831047,
+				"Longitude" : 145.435454,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "BIBOOHRA",
+				"ItemDateTimeUTM" : "20260729120953",
+				"ItemDateTimeLocal_ISO" : "2026-07-29T22:09:53+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-07-30T22:09:53+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 146.051714, -18.338007 ]
+			},
+			"properties" : {
+				"OBJECTID" : 14025,
+				"UniqueID" : "QF7-26-096477",
+				"WarningTitle" : "Information - DAMPER CREEK",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "DAMPER CREEK",
+				"CurrentStatus" : "Going",
+				"Location" : "Five Mile Creek Rd",
+				"Jurisdiction" : "7 Far Northern Region",
+				"Latitude" : -18.338007,
+				"Longitude" : 146.051714,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "DAMPER CREEK",
+				"ItemDateTimeUTM" : "20260729131933",
+				"ItemDateTimeLocal_ISO" : "2026-07-29T23:19:33+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-07-30T23:19:33+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 145.480866, -17.624795 ]
+			},
+			"properties" : {
+				"OBJECTID" : 14035,
+				"UniqueID" : "QF7-26-096495",
+				"WarningTitle" : "Information - RAVENSHOE",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "RAVENSHOE",
+				"CurrentStatus" : "Going",
+				"Location" : "WOOROORA RD",
+				"Jurisdiction" : "7 Far Northern Region",
+				"Latitude" : -17.624795,
+				"Longitude" : 145.480866,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "RAVENSHOE",
+				"ItemDateTimeUTM" : "20260729140337",
+				"ItemDateTimeLocal_ISO" : "2026-07-30T00:03:37+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-07-31T00:03:37+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 145.427203, -17.642726 ]
+			},
+			"properties" : {
+				"OBJECTID" : 14036,
+				"UniqueID" : "QF7-26-096501",
+				"WarningTitle" : "Information - MILLSTREAM",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "MILLSTREAM",
+				"CurrentStatus" : "Going",
+				"Location" : "KENNEDY HWY & MILLSTREAM PDE",
+				"Jurisdiction" : "7 Far Northern Region",
+				"Latitude" : -17.642726,
+				"Longitude" : 145.427203,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "MILLSTREAM",
+				"ItemDateTimeUTM" : "20260729140448",
+				"ItemDateTimeLocal_ISO" : "2026-07-30T00:04:48+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-07-31T00:04:48+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 145.692532, -17.177202 ]
+			},
+			"properties" : {
+				"OBJECTID" : 14040,
+				"UniqueID" : "QF7-26-096511",
+				"WarningTitle" : "Information - GADGARRA",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "GADGARRA",
+				"CurrentStatus" : "Going",
+				"Location" : "Gillies Range Rd",
+				"Jurisdiction" : "7 Far Northern Region",
+				"Latitude" : -17.177202,
+				"Longitude" : 145.692532,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "GADGARRA",
+				"ItemDateTimeUTM" : "20260729141719",
+				"ItemDateTimeLocal_ISO" : "2026-07-30T00:17:19+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-07-31T00:17:19+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 145.751486, -17.140807 ]
+			},
+			"properties" : {
+				"OBJECTID" : 14041,
+				"UniqueID" : "QF7-26-096512",
+				"WarningTitle" : "Information - GOLDSBOROUGH",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "GOLDSBOROUGH",
+				"CurrentStatus" : "Going",
+				"Location" : "Gillies Range Rd & Downing Rd",
+				"Jurisdiction" : "7 Far Northern Region",
+				"Latitude" : -17.140807,
+				"Longitude" : 145.751486,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "GOLDSBOROUGH",
+				"ItemDateTimeUTM" : "20260729142137",
+				"ItemDateTimeLocal_ISO" : "2026-07-30T00:21:37+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-07-31T00:21:37+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 153.239299, -28.016407 ]
+			},
+			"properties" : {
+				"OBJECTID" : 14045,
+				"UniqueID" : "QF6-26-096516",
+				"WarningTitle" : "Information - LOWER BEECHMONT",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "LOWER BEECHMONT",
+				"CurrentStatus" : "Going",
+				"Location" : "FREEMANS RD & HELLFIRE PASS",
+				"Jurisdiction" : "6 South Eastern Region",
+				"Latitude" : -28.016407,
+				"Longitude" : 153.239299,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 1,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "LOWER BEECHMONT",
+				"ItemDateTimeUTM" : "20260729142939.703",
+				"ItemDateTimeLocal_ISO" : "2026-07-30T00:29:39+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-07-31T00:29:39.703+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 153.441698, -27.657728 ]
+			},
+			"properties" : {
+				"OBJECTID" : 14061,
+				"UniqueID" : "QF5N-26-096548",
+				"WarningTitle" : "Information - NORTH STRADBROKE ISLAND",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "NORTH STRADBROKE ISLAND",
+				"CurrentStatus" : "Going",
+				"Location" : "Unnamed North Stradbroke Island Rd",
+				"Jurisdiction" : "5N Brisbane Region (North)",
+				"Latitude" : -27.657728,
+				"Longitude" : 153.441698,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 1,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "NORTH STRADBROKE ISLAND",
+				"ItemDateTimeUTM" : "20260729153204.33",
+				"ItemDateTimeLocal_ISO" : "2026-07-30T01:32:04+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-07-31T01:32:04.33+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 146.733683, -19.436692 ]
+			},
+			"properties" : {
+				"OBJECTID" : 14073,
+				"UniqueID" : "QF1-26-095882",
+				"WarningTitle" : "Information - PINNACLES",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "PINNACLES",
+				"CurrentStatus" : "Going",
+				"Location" : "Riverway Dr",
+				"Jurisdiction" : "1 Northern Region",
+				"Latitude" : -19.436692,
+				"Longitude" : 146.733683,
 				"VehiclesAssigned" : 0,
 				"VehiclesOnRoute" : 0,
 				"VehiclesOnScene" : 0,
 				"GroupedType" : "FIRE VEGETATION",
-				"Locality" : "ARAMARA",
-				"ItemDateTimeUTM" : "20260729020214",
-				"ItemDateTimeLocal_ISO" : "2026-07-29T12:02:14+10:00",
-				"PublishDateLocal_ISO" : "2026-07-30T01:33:05+10:00",
-				"ItemExpiryDateTimeLocal_ISO" : "2026-07-30T12:02:14+10:00",
+				"Locality" : "PINNACLES",
+				"ItemDateTimeUTM" : "20260728140720",
+				"ItemDateTimeLocal_ISO" : "2026-07-29T00:07:20+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-07-30T00:07:20+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 151.913612, -26.667787 ]
+			},
+			"properties" : {
+				"OBJECTID" : 14090,
+				"UniqueID" : "QF4-26-096604",
+				"WarningTitle" : "Information - KUNIOON",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "KUNIOON",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Kunioon Rd",
+				"Jurisdiction" : "4 North Coast Region",
+				"Latitude" : -26.667787,
+				"Longitude" : 151.913612,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "KUNIOON",
+				"ItemDateTimeUTM" : "20260729170907.037",
+				"ItemDateTimeLocal_ISO" : "2026-07-30T03:09:07+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-07-31T03:09:07.037+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 145.14574, -16.33943 ]
+			},
+			"properties" : {
+				"OBJECTID" : 14114,
+				"UniqueID" : "QF7-26-096655",
+				"WarningTitle" : "Information - ",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : null,
+				"CurrentStatus" : "Going",
+				"Location" : "Unknown",
+				"Jurisdiction" : "7 Far Northern Region",
+				"Latitude" : -16.33943,
+				"Longitude" : 145.14574,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : null,
+				"ItemDateTimeUTM" : "20260729182233",
+				"ItemDateTimeLocal_ISO" : "2026-07-30T04:22:33+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-07-31T04:22:33+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 145.289, -16.090817 ]
+			},
+			"properties" : {
+				"OBJECTID" : 14115,
+				"UniqueID" : "QF7-26-096656",
+				"WarningTitle" : "Information - BLOOMFIELD",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "BLOOMFIELD",
+				"CurrentStatus" : "Going",
+				"Location" : "Unnamed Bloomfield Rd",
+				"Jurisdiction" : "7 Far Northern Region",
+				"Latitude" : -16.090817,
+				"Longitude" : 145.289,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "BLOOMFIELD",
+				"ItemDateTimeUTM" : "20260729182330",
+				"ItemDateTimeLocal_ISO" : "2026-07-30T04:23:30+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-07-31T04:23:30+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 152.613753, -25.69908 ]
+			},
+			"properties" : {
+				"OBJECTID" : 14132,
+				"UniqueID" : "QF4-26-096431",
+				"WarningTitle" : "Information - TIARO",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "TIARO",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Wilsons Rd",
+				"Jurisdiction" : "4 North Coast Region",
+				"Latitude" : -25.69908,
+				"Longitude" : 152.613753,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "TIARO",
+				"ItemDateTimeUTM" : "20260729114729",
+				"ItemDateTimeLocal_ISO" : "2026-07-29T21:47:29+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-07-30T21:47:29+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 149.866142, -22.790643 ]
+			},
+			"properties" : {
+				"OBJECTID" : 14135,
+				"UniqueID" : "QF2-26-085676",
+				"WarningTitle" : "Information - MARLBOROUGH",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "MARLBOROUGH",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "HENESSEYS RD",
+				"Jurisdiction" : "2 Central Region",
+				"Latitude" : -22.790643,
+				"Longitude" : 149.866142,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "MARLBOROUGH",
+				"ItemDateTimeUTM" : "20260709152730",
+				"ItemDateTimeLocal_ISO" : "2026-07-10T01:27:30+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-07-11T01:27:30+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 142.386434, -10.893637 ]
+			},
+			"properties" : {
+				"OBJECTID" : 14141,
+				"UniqueID" : "QF7-26-096728",
+				"WarningTitle" : "Information - BAMAGA",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "BAMAGA",
+				"CurrentStatus" : "Going",
+				"Location" : "Sebasio St",
+				"Jurisdiction" : "7 Far Northern Region",
+				"Latitude" : -10.893637,
+				"Longitude" : 142.386434,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 1,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "BAMAGA",
+				"ItemDateTimeUTM" : "20260729194102",
+				"ItemDateTimeLocal_ISO" : "2026-07-30T05:41:02+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-07-31T05:41:02+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 148.49506, -20.289414 ]
+			},
+			"properties" : {
+				"OBJECTID" : 14155,
+				"UniqueID" : "QF2-26-096754",
+				"WarningTitle" : "Information - GREGORY RIVER",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "GREGORY RIVER",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Bruce Hwy",
+				"Jurisdiction" : "2 Central Region",
+				"Latitude" : -20.289414,
+				"Longitude" : 148.49506,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "GREGORY RIVER",
+				"ItemDateTimeUTM" : "20260729201925",
+				"ItemDateTimeLocal_ISO" : "2026-07-30T06:19:25+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-07-31T06:19:25+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 152.084926, -25.487903 ]
+			},
+			"properties" : {
+				"OBJECTID" : 14159,
+				"UniqueID" : "QF4-26-096760",
+				"WarningTitle" : "Information - WOOWOONGA",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "WOOWOONGA",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Mount Woowoonga Rd",
+				"Jurisdiction" : "4 North Coast Region",
+				"Latitude" : -25.487903,
+				"Longitude" : 152.084926,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "WOOWOONGA",
+				"ItemDateTimeUTM" : "20260729202651",
+				"ItemDateTimeLocal_ISO" : "2026-07-30T06:26:51+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-07-31T06:26:51+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 151.141143, -23.962411 ]
+			},
+			"properties" : {
+				"OBJECTID" : 14176,
+				"UniqueID" : "QF2-26-096795",
+				"WarningTitle" : "Information - RIVER RANCH",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "RIVER RANCH",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "Bruce Hwy",
+				"Jurisdiction" : "2 Central Region",
+				"Latitude" : -23.962411,
+				"Longitude" : 151.141143,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE PERMITTED BURN",
+				"Locality" : "RIVER RANCH",
+				"ItemDateTimeUTM" : "20260729211232.157",
+				"ItemDateTimeLocal_ISO" : "2026-07-30T07:12:32+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-07-31T07:12:32.157+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 152.590858, -25.824079 ]
+			},
+			"properties" : {
+				"OBJECTID" : 14201,
+				"UniqueID" : "QF4-26-096837",
+				"WarningTitle" : "Information - BAUPLE",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "BAUPLE",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "BRUCE HWY & CHAPMANS RD E",
+				"Jurisdiction" : "4 North Coast Region",
+				"Latitude" : -25.824079,
+				"Longitude" : 152.590858,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "BAUPLE",
+				"ItemDateTimeUTM" : "20260729220839",
+				"ItemDateTimeLocal_ISO" : "2026-07-30T08:08:39+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-07-31T08:08:39+10:00",
+				"EventType" : "Fire"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 153.338723, -28.14746 ]
+			},
+			"properties" : {
+				"OBJECTID" : 14242,
+				"UniqueID" : "QF6-26-096894",
+				"WarningTitle" : "Information - BONOGIN",
+				"WarningLevel" : "Information",
+				"CallToAction" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningText" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"Header" : "There is a vegetation fire at this location. Smoke may affect residents and motorists in the area. Residents should close their doors and windows and keep medication close by if suffering from a respiratory condition. Motorists should use caution and drive to conditions. If you believe your property is under threat, you should call Triple Zero (000) immediately.",
+				"WarningLevelSort" : 100,
+				"WarningArea" : "BONOGIN",
+				"CurrentStatus" : "Patrolled",
+				"Location" : "RIBERRY CT",
+				"Jurisdiction" : "6 South Eastern Region",
+				"Latitude" : -28.14746,
+				"Longitude" : 153.338723,
+				"VehiclesAssigned" : 0,
+				"VehiclesOnRoute" : 0,
+				"VehiclesOnScene" : 0,
+				"GroupedType" : "FIRE VEGETATION",
+				"Locality" : "BONOGIN",
+				"ItemDateTimeUTM" : "20260730004627",
+				"ItemDateTimeLocal_ISO" : "2026-07-30T10:46:27+10:00",
+				"PublishDateLocal_ISO" : "2026-07-31T01:33:06+10:00",
+				"ItemExpiryDateTimeLocal_ISO" : "2026-07-31T10:46:27+10:00",
 				"EventType" : "Fire"
 			}
 		}
